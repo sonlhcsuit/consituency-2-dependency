@@ -1,0 +1,245 @@
+Cơn lũ cuốn qua những phận người .
+Nc Nn Vv R Nq Nn Nn PU
+NSUBJ CLF ROOT ADJUNCT DET OBJ NN PUNCT
+3 1 0 3 6 3 6 3
+
+Vượt qua những con đường do lũ_lụt tàn_phá với những ổ_trâu , ổ_voi lầy_lội , có nơi phải nhờ đến xe_ủi , xe_xúc mở_đường phía trước và những ngầm đá vùng_cao gập_ghềnh , liên_tiếp trong hai ngày 22 và 23_-_10 đoàn công_tác xã_hội báo Tuổi_Trẻ đã mang những món quà sẻ_chia của bạn_đọc đến tận những vùng lũ Bình_Minh , Bình_Chương và Nam_Trà_My - những vùng_đất khó_nghèo của Quảng_Ngãi , Quảng_Nam ...
+Vv R Nq Nc Nn Cs Nn Vv Cs Nq Nn PU Nn Aa PU Ve Nn Vv Vv M Nn PU Nn Vv Nn Nn Cp Nq Nn Nn Nn Aa PU Aa Cs Num Nt Num Cp Nt Nn VN Nn Nn Nn R Vv Nq Nc Nn Nn Cs Nn Vv Aa Nq Nn Nn Nr PU Nr Cp Nr PU Nq Nn Aa Cs Nr PU Nr PU
+XCOMP ADJUNCT DET OBJ CLF MARK NSUBJ ADVCL PREP DET POBJ PUNCT CONJ AMOD PUNCT PARATAXIS OBJ XCOMP VMOD INTJ OBJ PUNCT CONJ VMOD OBJ NN CC DET CONJ NN NN AMOD PUNCT ADJP_ADVMOD PREP NUM POBJ NUM CC NN NSUBJ RCMOD OBJ NN NN ADJUNCT ROOT DET NN CLF OBJ PREP POBJ VMOD ACOMP DET OBJ NN NN PUNCT CONJ CC CONJ PUNCT DET PARATAXIS AMOD PREP POBJ PUNCT CONJ PUNCT
+47 1 4 1 4 8 8 4 4 11 9 11 11 11 4 4 16 17 18 19 19 21 21 19 24 25 4 29 4 29 29 29 47 47 34 37 35 40 40 37 47 41 42 41 44 47 0 51 51 49 47 51 52 47 54 57 55 57 57 59 59 61 61 59 66 59 66 66 68 69 69 47
+
+Đó là kết_quả của cuộc vật_lộn bền_bỉ gần 17 năm của Huỳnh_Đỗi .
+Pd Vc Nn Cs Ncs Vv Aa R Num Nu Cs Nr PU
+NSUBJ ROOT ATTR PREP NN CLF AMOD ADJUNCT NUM POBJ PREP POBJ PUNCT
+2 0 2 3 10 5 10 9 10 4 10 11 2
+
+Trên đường về những vùng_sâu huyện Bình_Sơn LBRK tỉnh Quảng_Ngãi RBRK , chúng_tôi lặng người trước sự xơ_xác , tiêu_điều còn hiện rõ trên từng cánh_đồng , nóc nhà .
+Cs Nn Vv Nq Nn Nun Nr LBRK Nun Nr RBRK PU Pp Vv Nn Cs Ncs Aa PU Aa R Vv Aa Cs Pp Nn PU Nn Nn PU
+PREP POBJ XCOMP DET NP_ADVMOD NN NN PUNCT PARATAXIS NN PUNCT PUNCT NSUBJ ROOT OBJ PREP POBJ AMOD PUNCT CONJ ADJUNCT RCMOD ACOMP PREP POBJ NN PUNCT CONJ NN PUNCT
+14 1 2 5 3 5 6 6 6 9 6 14 14 0 14 14 16 17 18 18 22 17 22 22 24 25 26 26 28 14
+
+Nhiều cánh_đồng nước vẫn còn ngậm trắng_xoá , nơi khác đã bị sa_bồi , thuỷ_phá với độ dày 2 - 3 m cát .
+Aa Nn Nn R R Vv Aa PU Nn Aa R Vv Vv PU Vv Cs Nn Aa Num PU Num Nu Nn PU
+AMOD DEP NSUBJ ADJUNCT ADJUNCT ROOT ACOMP PUNCT NSUBJ AMOD ADJUNCT CONJ VMOD PUNCT CONJ PREP POBJ AMOD NUM PUNCT CONJ NN NN PUNCT
+2 6 6 5 6 0 6 6 12 9 12 6 12 13 13 13 16 17 22 19 19 17 22 6
+
+Nguy_cơ là đất phải bỏ trắng không còn khả_năng canh_tác đã rõ .
+Nn Cs Nn Vv Vv Aa R Ve Nn Vv R Aa PU
+NSUBJ MARK NSUBJ CCOMP VMOD ACOMP ADJUNCT CONJ OBJ VMOD ADJUNCT ROOT PUNCT
+12 4 4 1 4 5 8 4 8 9 12 0 12
+
+Tất_tả dựng lại những nóc nhà xiêu_vẹo , trên gương_mặt mỗi người hằn sâu những âu_lo về cái ăn trước_mắt cũng như sự mưu_sinh lâu_dài sau mùa lũ .
+Aa Vv R Nq Nn Nn Aa PU Cs Nn Nq Nn Vv Aa Nq Nn Cs Ncs Vv Nn R Cp Ncs Vv Aa Cs Nn Nn PU
+ACOMP XCOMP ADJUNCT DET OBJ NN AMOD PUNCT PREP POBJ DET NN ROOT ACOMP DET OBJ PREP NN CLF POBJ ADJUNCT CC CONJ CLF AMOD PREP POBJ NN PUNCT
+2 13 2 5 2 5 5 13 13 9 12 10 0 13 16 13 16 20 18 17 22 20 20 23 23 23 26 27 13
+
+Tay_trắng vẫn hoàn trắng_tay .
+Nn R Vv Aa PU
+NSUBJ ADJUNCT ROOT ACOMP PUNCT
+3 3 0 3 3
+
+Bà Võ_Thị_Lĩnh LBRK thôn Tân_Phước , Bình_Minh RBRK thở_dài nói : " Căn nhà tranh tui ki_cóp nhiều năm trời mới dựng được , đêm 17 rạng ngày 18 nước lũ dâng cao hơn cả thước , rồi gió ập đến cuốn hết , cả mấy cái nồi , chum gạo cũng trôi tuột " .
+Nn Nr LBRK Nun Nr PU Nr RBRK Vv Vv PU PU Nc Nn Nn Pp Vv Aa Nu M Cp Vv R PU Nt Num VA Nt Num Nn Nn Vv Aa R Nw Nu PU Cp Nn Vv Vv Vv Ve PU Nw Nq Nc Nn PU Nn Nn R Vv Vv PU PU
+NSUBJ NN PUNCT PARATAXIS NN PUNCT PARATAXIS PUNCT ROOT VMOD PUNCT PUNCT NN CLF DEP NSUBJ CCOMP AMOD NP_ADVMOD INTJ CC CONJ ADJUNCT PUNCT NP_ADVMOD NUM RCMOD OBJ NUM NSUBJ NN CSUBJ ACOMP ADJUNCT DET OBJ PUNCT CC NSUBJ CONJ VMOD CCOMP VMOD PUNCT DET DET NSUBJ CLF PUNCT CONJ NN ADJUNCT CONJ VMOD PUNCT PUNCT
+9 1 1 1 4 4 4 1 0 9 42 42 15 13 42 17 15 19 17 19 17 17 22 42 42 25 25 27 28 32 30 42 32 36 36 33 32 32 40 32 40 10 42 42 47 47 53 47 47 47 50 53 42 53 42 9
+
+Ông Võ_Sỹ LBRK 82 tuổi RBRK , cũng người Tân_Phước , có căn nhà con_cháu giúp dựng nên cũng đã theo dòng lũ , nhớ lại : " Nước lên nhanh và xiết lắm , mọi người chỉ kịp đưa tui lên ghe chứ có lấy được gì đâu .
+Nn Nr LBRK Num Nn RBRK PU R Nn Nr PU Ve Nc Nn Nn Vv Vv Vv R R Vv Nn Nn PU Vv R PU PU Nn Vv Aa Cp Vv R PU Nw Nn R Aa Vv Pp Vv Nn Cp R Vv R Pp M PU
+NSUBJ NN PUNCT NUM PARATAXIS PUNCT PUNCT ADJUNCT NN NN PUNCT CONJ NSUBJ CLF NSUBJ CCOMP VMOD VMOD ADJUNCT ADJUNCT CCOMP OBJ NN PUNCT ROOT ADJUNCT PUNCT PUNCT NSUBJ CCOMP ACOMP CC CONJ ADJUNCT PUNCT DET NSUBJ ADJUNCT CONJ VMOD OBJ VMOD OBJ CC ADJUNCT CONJ ADJUNCT OBJ INTJ PUNCT
+25 1 1 5 1 1 1 9 1 9 9 9 21 13 16 13 16 17 20 21 12 21 22 1 0 25 30 30 30 25 30 31 31 33 30 37 39 39 30 39 40 40 42 39 46 39 46 46 46 25
+
+Bộ_đồ mặc trên người đây cũng là nhờ người_ta cho ...
+Nn Vv Cs Nn Pd R Vc Cs Pp Vv PU
+NSUBJ RCMOD PREP POBJ DET ADJUNCT ROOT MARK NSUBJ CCOMP PUNCT
+7 1 2 3 1 7 0 10 10 7 7
+
+Có gạo của bà_con phương xa , ấm bụng được vài tuần " .
+Ve Nn Cs Nn Nn Aa PU Aa Nn Vv Nq Nu PU PU
+CCOMP OBJ PREP POBJ NN AMOD PUNCT ROOT OBJ VMOD DET NP_ADVMOD PUNCT PUNCT
+8 1 2 3 4 5 8 0 8 8 12 10 8 8
+
+Toàn xã Bình_Minh có đến 1.100 ngôi nhà ngập sâu trong nước 1 - 3 m , rồi lúa , mía , mì , bắp cũng đến nghìn hecta bị mất .
+Nw Nun Nr Ve M Num Nc Nn Vv Aa Cs Nn Num PU Num Nu PU Cp Nn PU Nn PU Nn PU Nn R M Nq Nu Vv Ve PU
+DET NSUBJ NN ROOT INTJ OBJ NN CLF RCMOD ACOMP PREP POBJ NUM PUNCT CONJ OBJ PUNCT CC CONJ PUNCT CONJ PUNCT CONJ PUNCT CONJ ADJUNCT INTJ DET NN RCMOD VMOD PUNCT
+2 4 2 0 6 4 6 7 6 9 10 11 16 13 13 10 6 6 6 19 19 21 21 23 23 29 29 29 19 29 30 4
+
+Các kênh mương bị cuốn trôi , các hồ đập bị xói_lở , bồi_lấp rất nặng_nề ...
+Nq Nn Nn Vv Vv Vv PU Nq Nn Nn Vv Vv PU Vv R Aa PU
+DET NSUBJ CONJ ROOT VMOD VMOD PUNCT DET NSUBJ CONJ CONJ VMOD PUNCT CONJ ADJUNCT ACOMP PUNCT
+2 4 2 0 4 5 4 9 11 9 4 11 12 12 16 12 4
+
+Ông Võ_Chí_Công - chủ_tịch xã - nói : " Điều tôi lo_lắng là khu_vực Tân_Phước bị vỡ dòng , nước tràn vào khu dân_cư đe_doạ trên 900 hộ dân đang sinh_sống mà không biết di_dời ở đâu .
+Nn Nr PU Nn Nun PU Vv PU PU Nn Pp Vv Vc Nn Nr Vv Vv Nn PU Nn Vv D Nn Nn Vv R Num Nn Nn R Vv Cp R Vv Vv Cs Pp PU
+NSUBJ NN PUNCT PARATAXIS NN PUNCT ROOT PUNCT PUNCT NSUBJ NSUBJ CCOMP CCOMP NSUBJ NN CCOMP VMOD OBJ PUNCT NSUBJ CSUBJ VMOD OBJ NN CONJ ADJUNCT NUM OBJ NN ADJUNCT RCMOD CC ADJUNCT CONJ VMOD PREP POBJ PUNCT
+7 1 1 1 4 1 0 13 13 13 12 10 7 16 14 13 16 17 16 21 25 21 22 23 16 27 28 25 28 31 28 31 34 31 34 35 36 7
+
+Hơn_nữa trên 31 ha đất sản_xuất chính hiện bị cát lấp hết .
+Cp R Num Nu Nn Vv Aa Nt Vv Nn Vv M PU
+CC ADJUNCT NUM NSUBJ NN VMOD AMOD NP_ADVMOD ROOT NSUBJ CCOMP INTJ PUNCT
+9 3 4 9 4 5 5 9 0 11 9 11 9
+
+Bà_con có đất giờ cũng như không " .
+Nn Ve Nn Nt R Cs Aa PU PU
+NSUBJ RCMOD OBJ POBJ ADJUNCT ROOT PCOMP PCOMP PCOMP
+6 1 2 6 6 0 6 6 6
+
+Hơn 12 g trưa 22_-_10 , nhiều bà_con đã về đến hội_trường của xã Bình_Minh .
+R Num Nt Nt Nt PU Aa Nn R Vv Vv Nn Cs Nun Nr PU
+ADJUNCT NUM NP_ADVMOD NN NN PUNCT AMOD NSUBJ ADJUNCT ROOT VMOD OBJ PREP POBJ NN PUNCT
+3 3 10 3 4 10 8 10 10 0 10 11 12 13 14 10
+
+Phó chủ_tịch xã Bình_Minh Lê_Công_Cuộc nói : " Đa_phần 210 hộ dân nhận quà của bạn_đọc lần này , thật_sự họ chẳng còn cái gì để ăn cả " .
+Sv Nn Nun Nr Nr Vv PU PU Nq Num Nn Nn Vv Nn Cs Nn Nn Pd PU Aa Pp R Ve Nn Pp Cs Vv M PU PU
+SINO NN NSUBJ NN NN ROOT PUNCT PUNCT NUMBER NUM DEP NN RCMOD OBJ PREP POBJ NP_ADVMOD DET PUNCT ADJP_ADVMOD NSUBJ ADJUNCT CCOMP OBJ DET PREP PCOMP INTJ PUNCT PUNCT
+2 3 6 3 3 0 23 23 10 11 23 11 11 13 14 15 14 17 23 23 23 23 6 23 24 24 26 23 23 6
+
+Sáng 23_-_10 đoàn công_tác xã_hội của báo Tuổi_Trẻ đã đưa 210 suất quà của bạn_đọc báo Tuổi_Trẻ lên vùng_cao huyện Nam_Trà_My , trao tận_tay 210 hộ gia_đình bị thiệt_hại nặng do lũ quét và sạt_lở núi tại các xã Trà_Mai , Trà_Tập và Trà_Nam của huyện Nam_Trà_My LBRK Quảng_Nam RBRK .
+Nt Nt Nn VN Nn Cs Nn Nr R Vv Num Nn Nn Cs Nn Nn Nn Vv Nn Nun Nr PU Vv Aa Num Nn Nn Vv Aa Aa Cs Nn Vv Cp Vv Nn Cs Nq Nun Nr PU Nr Cp Nr Cs Nun Nr LBRK Nr RBRK PU
+NP_ADVMOD CONJ NSUBJ RCMOD OBJ PREP POBJ NN ADJUNCT ROOT NUM OBJ NN PREP POBJ NN NN VMOD OBJ NN NN PUNCT CONJ ADJP_ADVMOD NUM IOBJ NN RCMOD ACOMP ADJP_ADVMOD MARK NSUBJ CCOMP CC CONJ OBJ PREP DET POBJ NN PUNCT CONJ CC CONJ PREP POBJ NN PUNCT PARATAXIS PUNCT PUNCT
+10 1 10 3 4 3 6 7 10 0 12 10 12 12 14 15 16 10 18 19 20 10 10 23 26 23 26 26 28 29 33 33 29 33 33 35 26 39 37 39 40 40 42 42 39 45 46 46 46 46 10
+
+Trước đó , ngày 22_-_10 , đoàn đã đến hai xã bị lũ nặng_nề nhất của tỉnh Quảng_Ngãi là Bình_Minh và Bình_Chương LBRK huyện Bình_Sơn RBRK và trao 420 suất quà cho bà_con nghèo bị trôi nhà_cửa , mất_mát tài_sản ...
+Cs Pd PU Nt Nt PU Nn R Vv Num Nun Vv Nn Aa R Cs Nun Nr Vc Nr Cp Nr LBRK Nun Nr RBRK Cp Vv Num Nn Nn Cs Nn Aa Vv Vv Nn PU Vv Nn PU
+PREP POBJ PUNCT PARATAXIS NN PUNCT NSUBJ ADJUNCT ROOT NUM OBJ RCMOD OBJ AMOD ADJUNCT PREP POBJ NN RCMOD OBJ CC CONJ PUNCT PARATAXIS NN PUNCT CC CONJ NUM OBJ NN PREP POBJ AMOD RCMOD VMOD OBJ PUNCT CONJ OBJ PUNCT
+9 1 2 2 4 9 9 9 0 11 9 11 12 13 14 11 16 17 11 19 20 20 20 20 24 20 9 9 30 28 30 28 32 33 33 35 36 36 36 39 9
+
+Mỗi phần quà trị_giá 100.000 đồng gồm gạo , mì , đường ... , 15 g đoàn công_tác xã_hội của báo Tuổi_Trẻ đã về với bà_con xã Bình_Chương .
+Nq Nn Nn Vv Num Nu Vv Nn PU Nn PU Nn PU PU Num Nt Nn VN Nn Cs Nn Nn R Vv Cs Nn Nun Nr PU
+DET NSUBJ NN ROOT NUM OBJ CONJ OBJ PUNCT CONJ PUNCT CONJ PUNCT PUNCT NUM NP_ADVMOD NSUBJ RCMOD OBJ PREP POBJ NN ADJUNCT CONJ PREP POBJ NP_ADVMOD NN PUNCT
+2 4 2 0 6 4 4 7 8 8 10 10 8 4 16 24 24 17 18 17 20 21 24 4 24 25 26 27 4
+
+Đây là xã nằm dọc tuyến sông Trà_Bồng , đã bị chia_cắt từng thôn khi nước lũ tràn về .
+Pd Vc Nun Vv Aa Nn Nn Nr PU R Vv Vv Pp Nun Nt Nn Nn Vv D PU
+NSUBJ ROOT ATTR RCMOD ADJP_ADVMOD OBJ NN NN PUNCT ADJUNCT CONJ VMOD DET OBJ NP_ADVMOD NSUBJ NN CCOMP VMOD PUNCT
+2 0 2 3 4 5 6 7 4 11 4 11 14 12 12 18 16 15 18 2
+
+Trước sân uỷ_ban xã là những cụ già , bà lão trong tấm áo mỏng_manh , đầu trần ; những người nông_dân vẻ khắc_khổ hằn thêm lớp sau cơn lũ trên từng khuôn_mặt , những bàn_tay - đôi chân bị rộp lở vì ngâm trong nước lũ .
+Cs Nn Nn Nun Vc Nq Nc Aa PU Nc Nn Cs Nc Nn Aa PU Nn Aa PU Nq Nc Nn Nn Aa Vv Vv Nn Cs Nc Nn Cs Pp Nn PU Nq Nn PU Nq Nn Vv Vv Vv Cs Vv Cs Nn Nn PU
+PREP POBJ NN NN ROOT DET ATTR CLF PUNCT CONJ CLF PREP POBJ CLF AMOD PUNCT CONJ AMOD PUNCT DET CONJ CLF NSUBJ AMOD CCOMP VMOD OBJ PREP POBJ CLF PREP DET POBJ PUNCT DET NSUBJ PUNCT DET CONJ CONJ VMOD CONJ MARK ADVCL PREP POBJ NN PUNCT
+5 1 2 3 0 7 5 7 7 7 10 10 12 13 13 12 12 17 7 21 7 21 25 23 21 25 25 27 28 29 25 33 31 25 36 40 36 39 36 25 40 41 44 41 44 45 46 5
+
+Phó chủ_tịch xã Bình_Chương Phạm_Văn_Long tiếp chúng_tôi , nói : " Hạt gạo , gói mì lúc này quí_giá với bà_con lắm ! " .
+Sv Nn Nun Nr Nr Vv Pp PU Vv PU PU Nc Nn PU Nn Nn Nt Pd Aa Cs Nn R PU PU PU
+SINO NN NSUBJ NN NN ROOT OBJ PUNCT CONJ PUNCT PUNCT NSUBJ CLF PUNCT CONJ NN NP_ADVMOD DET CCOMP PREP POBJ ADJUNCT PUNCT PUNCT PUNCT
+2 3 6 3 3 0 6 6 6 19 19 19 12 12 12 15 19 17 9 19 20 19 19 19 6
+
+Chị Trịnh_Thị_Hạnh LBRK thôn An_Điềm 1 RBRK cho biết hai mẹ con chị đang ở tạm trong một ... chuồng heo được che_chắn lại .
+Nn Nr LBRK Nun Nr Nr RBRK Vv Vv Num Nn Nn Pp R Vv Aa Cs Num PU Nn Nn Vv Vv R PU
+NSUBJ NN PUNCT PARATAXIS NN NN PUNCT ROOT VMOD NUM NSUBJ CONJ DET ADJUNCT CCOMP ACOMP PREP NUM PUNCT POBJ NN RCMOD VMOD ADJUNCT PUNCT
+8 1 1 1 4 4 1 0 8 11 15 11 11 15 9 15 15 20 20 17 20 20 22 23 8
+
+Chị nói : " Có hơn nửa tạ thóc trữ lúc mưa lúc gió trên kèo nhà cũng bị trôi mất .
+Pp Vv PU PU Ve R Nq Nu Nn Vv Nt VN Nt Nn Cs Nn Nn R Vv Vv Ve PU
+NSUBJ ROOT PUNCT PUNCT CCOMP ADJUNCT NUM NSUBJ NN RCMOD NP_ADVMOD DEP CONJ NN PREP POBJ NN ADJUNCT CCOMP VMOD VMOD PUNCT
+2 0 5 5 2 7 8 19 8 8 10 11 11 13 10 15 16 19 5 19 20 2
+
+Chạy gạo từng bữa mấy hôm_nay cũng nhờ đổi mấy con gà , con vịt gửi tránh nước lũ " .
+Vv Nn Pp Nn Nq Nt R Cs Vv Nq Nc Nn PU Nc Nn Vv Vv Nn Nn PU PU
+ROOT OBJ DET OBJ DET NP_ADVMOD ADJUNCT MARK CCOMP DET OBJ CLF PUNCT CONJ CLF RCMOD VMOD OBJ NN PUNCT PUNCT
+0 1 4 1 6 1 9 9 1 11 9 11 11 11 14 11 16 17 18 1 1
+
+Xác_xơ đầu nguồn sông Tranh .
+Aa Cs Nn Nn Nr PU
+ROOT PREP POBJ NN NN PUNCT
+0 1 2 3 4 1
+
+Mặc_dù đã tìm nhiều cách để lên huyện Nam_Trà_My , nhưng phải gần tám ngày sau khi cơn lũ quét đầu mùa đi qua vùng thượng_nguồn sông Tranh , chúng_tôi mới có_thể vượt được đoạn đường 110 km để đến với bà_con vùng lũ quét bởi những trái núi đổ sập gây ách_tắc hoàn_toàn giao_thông , cả huyện Nam_Trà_My bị cô_lập hoàn_toàn như một ốc_đảo cách_biệt với thế_giới bên ngoài .
+Cp R Vv Aa Nn Cs Vv Nun Nr PU Cp Vv R Num Nu Cs Nt Nc Nn Vv Cs Nn Vv D Nn Nn Nn Nr PU Pp R Aa Vv R Nn Nn Num Nu Cs Vv Cs Nn Nn Nn Vv Cs Nq Nc Nn Vv Vv Vv Vv Aa Nn PU Nw Nun Nr Vv Vv Aa Cs Num Nn Vv Cs Nn Nn Nn PU
+CC ADJUNCT ROOT AMOD OBJ PREP PCOMP OBJ NN PUNCT CC VMOD ADJUNCT NUM OBJ PREP POBJ NSUBJ NN VMOD PREP POBJ CCOMP VMOD OBJ NN NN NN PUNCT NSUBJ ADJUNCT ACOMP CONJ ADJUNCT OBJ NN NUM NN PREP PCOMP PREP POBJ NN NN VMOD MARK DET NSUBJ CLF CSUBJ VMOD ADVCL VMOD ACOMP OBJ PUNCT DET NSUBJ NN CONJ VMOD ACOMP PREP NUM POBJ RCMOD PREP POBJ NN NN PUNCT
+3 3 0 5 3 5 6 7 8 3 3 33 14 15 12 15 16 23 18 19 18 21 17 23 24 25 25 27 33 33 33 33 3 33 33 35 38 36 33 39 40 41 42 43 44 52 48 50 48 52 50 33 52 53 53 33 58 60 58 33 60 61 61 65 63 65 66 67 68 69 3
+
+Cả đoạn đường dài khoảng 20 km cuối_cùng về huyện đã có trên 80 điểm sạt_lở , chúng_tôi phải mất gần bảy tiếng đồng_hồ vừa đẩy xe và nhờ xe kéo mới vượt qua được .
+Nw Nn Nn Aa R Num Nu Aa Vv Nun R Ve R Num Nn Vv PU Pp Vv Ve R Num Nu Nn R Vv Nn Cp Vv Nn Vv Cp Vv Vv R PU
+DET NSUBJ NN AMOD ADJUNCT NUM OBJ AMOD RCMOD OBJ ADJUNCT ROOT ADJUNCT NUM OBJ VMOD PUNCT NSUBJ CONJ VMOD ADJUNCT NUM OBJ NN ADJUNCT RCMOD OBJ CC CONJ OBJ RCMOD CC CONJ VMOD ADJUNCT PUNCT
+2 12 2 3 6 7 4 2 2 9 12 0 14 15 12 15 12 19 12 19 22 23 20 23 26 23 26 26 26 29 30 19 19 33 33 12
+
+Anh tài_xế tên Tuỳ bảo_nhỏ vào tai tôi rằng đây là chuyến đi sinh_tử mà cả đời tài_xế gần 20 năm chưa bao_giờ anh nếm_trải .
+Nc Nn Nn Nr Vv Cs Nn Pp Cs Pd Vc Nn Vv Aa Cs Nw Nn Nn R Num Nu R Pp Pp Vv PU
+NN CLF NSUBJ NN ROOT PREP POBJ NN MARK NSUBJ CCOMP ATTR VMOD AMOD MARK DET DEP CONJ ADJUNCT NUM NN ADJUNCT NP_ADVMOD NSUBJ CCOMP PUNCT
+3 1 5 3 0 5 6 7 11 11 5 11 12 12 25 17 25 17 20 21 17 23 25 25 12 5
+
+Đến trung_tâm Tắk_Pỏ , huyện Nam_Trà_My đúng 13 g , những suất hàng cứu_trợ khẩn_cấp được chuyển đến tận_tay bà_con đang chờ .
+Vv Nn Nr PU Nun Nr Aa Num Nt PU Nq Nn Nn Vv Aa Vv Vv Vv Aa Nn R Vv PU
+ROOT NP_ADVMOD NN PUNCT PARATAXIS NN ADJP_ADVMOD NUM OBJ PUNCT DET NSUBJ NN RCMOD ACOMP CONJ VMOD VMOD ACOMP OBJ ADJUNCT RCMOD PUNCT
+0 1 2 2 2 5 1 9 7 1 12 16 12 13 14 1 16 17 18 19 22 20 1
+
+Ông Hồ_Văn_Xuoi LBRK 60 tuổi RBRK ở làng Tà_Lung thôn 4 , xã Trà_Tập , một xã bị thiệt_hại nặng trong đợt lở núi và lũ quét vừa_qua bảo : " Hơn một tuần qua cả nhà mình cứ phải ăn bậy_bạ cái rau cái củ .
+Nn Nr LBRK Num Nn RBRK Cs Nun Nr Nun Nr PU Nun Nr PU Num Nun Vv Aa Aa Cs Nn Vv Nn Cp Nn Vv Nt Vv PU PU R Num Nu Aa Nw Nn Pp R Vv Vv Aa M Nn M Nn PU
+NSUBJ NN PUNCT NUM PARATAXIS PUNCT NP_ADVMOD NN NN PARATAXIS NN PUNCT PARATAXIS NN PUNCT NUM NSUBJ ADVCL ACOMP ADJP_ADVMOD PREP POBJ RCMOD OBJ CC CONJ RCMOD NN ROOT PUNCT PUNCT ADJUNCT NUM NP_ADVMOD AMOD DET NSUBJ NN ADJUNCT CCOMP VMOD ACOMP INTJ OBJ INTJ CONJ PUNCT
+29 1 1 5 1 1 1 7 8 8 10 10 10 13 13 17 18 13 18 19 19 21 22 23 23 23 26 22 0 40 40 33 34 40 34 37 40 37 40 29 40 41 44 41 46 44 29
+
+Sáng ni mình và 20 hộ trong làng phải vượt bộ gần năm tiếng đồng_hồ mới đến được Tắk_Pỏ ... " .
+Nt Pd Pp Cp Num Nn Cs Nu Vv Vv Nn R Num Nu Nn R Vv R Nr PU PU PU
+NP_ADVMOD DET NSUBJ CC NUM CONJ PREP POBJ CSUBJ VMOD OBJ ADJUNCT NUM NP_ADVMOD NN ADJUNCT ROOT ADJUNCT NP_ADVMOD PUNCT PUNCT PUNCT
+17 1 9 3 6 3 6 7 17 9 10 13 14 10 14 17 0 17 17 17 17 17
+
+Còn cụ ông Nguyễn_Rê - 73 tuổi , dân_tộc Xê_Đăng ở thôn 2 , xã Trà_Mai - thì không ngớt lời cảm_ơn " cán_bộ đã đến giúp_đỡ kịp_thời bà_con của làng ... " .
+Cp Nc Nn Nr PU Num Nn PU Nn Nr Cs Nun Nr PU Nun Nr PU Cp R Vv Nn Vv PU Nn R Vv Vv Aa Nn Cs Nun PU PU PU
+CC NSUBJ CLF NN PUNCT NUM NN PUNCT CONJ NN CONJ POBJ NN PUNCT PARATAXIS NN PUNCT CC ADJUNCT ROOT OBJ VMOD PUNCT NSUBJ ADJUNCT CCOMP VMOD ACOMP OBJ PREP POBJ PUNCT PUNCT PUNCT
+20 20 2 2 2 7 2 7 7 9 9 11 12 12 12 15 2 20 20 0 20 21 26 26 26 21 26 27 27 29 30 26 26 20
+
+Suốt trên tuyến đường chúng_tôi đi qua nơi thượng_nguồn sông Tranh , lũ quét tàn_phá nặng_nề , dọc bờ sông cây_cối nghiêng_ngả và chết đứng , những làng đồng_bào dân_tộc nằm nép mình bên vách núi xác_xơ sau cơn lũ đi qua .
+Aa Cs Nn Nn Pp Vv D Nn Nn Nn Nr PU Nn Vv Vv Aa PU Aa Nn Nn Nn Vv Cp Vv Vv PU Nq Nun Nn Nn Vv Vv Pp Nn Nn Nn Aa Cs Nc Nn Vv D PU
+ADJP_ADVMOD PREP POBJ NN NSUBJ CCOMP VMOD NP_ADVMOD NN NN NN PUNCT NSUBJ RCMOD ROOT ACOMP PUNCT ADJP_ADVMOD OBJ NN NSUBJ CONJ CC CONJ VMOD PUNCT DET NSUBJ NN NN RCMOD VMOD OBJ OBJ NN NN CONJ PREP POBJ CLF RCMOD VMOD PUNCT
+15 1 2 3 6 3 6 6 8 9 10 15 15 13 0 15 15 22 18 19 22 15 22 22 24 22 28 37 28 29 28 31 32 32 34 35 22 37 38 39 39 41 15
+
+Ông Đinh_Mướt , bí_thư Huyện uỷ Nam_Trà_My , cho biết : " Cái đáng lo của huyện hiện_nay vẫn là lũ quét và lở núi .
+Nn Nr PU Nn Nun Sv Nr PU Vv Vv PU PU Nn Vv Vv Cs Nun Nt R Vc Nn Vv Cp Vv Nn PU
+NSUBJ NN PUNCT PARATAXIS NN DEP NP_ADVMOD PUNCT ROOT VMOD PUNCT PUNCT NSUBJ RCMOD VMOD PREP POBJ NP_ADVMOD ADJUNCT CCOMP OBJ RCMOD CC CONJ OBJ PUNCT
+9 1 1 1 4 5 5 1 0 9 20 20 20 13 14 13 16 13 20 10 20 21 21 21 24 9
+
+Trong trận lũ vừa_qua , đêm nằm nghe núi lở mà xót_ruột , cứ mỗi trận lở núi là phát ra tiếng nổ lớn " .
+Cs Nn Nn Nt PU Nt Vv Vv Nn Vv Cp Vv PU R Nq Nn Vv Nn Vc Vv R Nn Vv Aa PU PU
+PREP POBJ NN NN PUNCT NP_ADVMOD ROOT VMOD OBJ RCMOD CC CONJ PUNCT ADJUNCT DET NSUBJ RCMOD OBJ CONJ VMOD ADJUNCT OBJ VMOD AMOD PUNCT PUNCT
+7 1 2 2 7 7 0 7 8 9 7 7 7 16 16 19 16 17 7 19 20 20 22 22 7 7
+
+Cũng trong buổi sáng có_mặt tại thôn 3 , xã Trà_Lập , chúng_tôi gặp nhiều người dân ở nóc Tu_Đinh .
+R Cs Nt Nt Aa Cs Nun Nr PU Nun Nr PU Pp Vv Aa Nc Nn Cs Nun Nr PU
+ADJUNCT PREP POBJ NN CCOMP PREP POBJ NN PUNCT PARATAXIS NN PUNCT NSUBJ ROOT AMOD OBJ CLF PREP POBJ NN PUNCT
+2 14 2 3 3 5 6 7 7 7 10 14 14 0 16 14 16 16 18 19 14
+
+Nhìn gương_mặt ai cũng phờ_phạc bởi hầu_như một tuần qua tất_cả người_lớn , trẻ_con đều thức trắng vì sợ núi lở .
+Vv Nn Pp R Aa Cs R Num Nu Aa Nw Nn PU Nn R Vv Aa Cs Vv Nn Vv PU
+XCOMP OBJ NSUBJ ADJUNCT ROOT MARK ADJUNCT NUM NP_ADVMOD AMOD DET NSUBJ PUNCT CONJ ADJUNCT ADVCL ACOMP MARK ADVCL NSUBJ CCOMP PUNCT
+5 1 5 5 0 16 8 9 16 9 12 16 12 12 16 5 16 19 16 21 19 5
+
+Già_làng Hồ_Văn_Hiền kể lại : " Cả một tuần trong mưa_lũ mình không ngủ được , phải lo cho bà_con cả nóc ...
+Nn Nr Vv R PU PU Nw Num Nu Cs Nn Pp R Vv R PU Vv Vv Cs Nn Nw Nun PU
+NSUBJ NN ROOT ADJUNCT PUNCT PUNCT DET NUM NP_ADVMOD PREP POBJ NSUBJ ADJUNCT CCOMP ADJUNCT PUNCT CONJ VMOD PREP POBJ DET NN PUNCT
+3 1 0 3 14 14 9 9 14 9 10 14 14 3 14 14 14 17 18 19 22 20 3
+
+Ở trên ni bà_con mình khổ lắm , cứ mỗi mùa mưa_lũ là lo phờ_phạc cả người .
+Cs Cs Pd Nn Pp Aa R PU R Nq Nn Nn Cp Vv Aa Nw Nn PU
+PREP DEP POBJ NSUBJ DET ROOT ADJUNCT PUNCT ADJUNCT DET NP_ADVMOD NN CC CONJ ACOMP DET OBJ PUNCT
+6 3 1 6 4 0 6 6 11 11 14 11 14 6 14 17 15 6
+
+Xuống ở dưới vùng thấp thì lo lũ quét , còn lên ở trên cao thì lo sạt núi .
+Vv Vv Cs Nn Aa Cp Vv Nn Vv PU Cp Vv Vv Nn Aa Cp Vv Vv Nn PU
+ROOT VMOD PREP POBJ AMOD CC CONJ OBJ RCMOD PUNCT CC CONJ VMOD NP_ADVMOD AMOD CC CONJ VMOD OBJ PUNCT
+0 1 2 3 4 1 1 7 8 1 1 1 12 13 14 12 12 17 18 1
+
+Cả nóc mình đã hơn chục lần dời nóc , nhưng không có chỗ nào ở lâu được .
+Nw Nun Pp R R Nq Nn Vv Nun PU Cp R Ve Nn Pd Vv Aa R PU
+DET NSUBJ NN ADJUNCT ADJUNCT NUM ROOT RCMOD OBJ PUNCT CC ADJUNCT CONJ OBJ DET XCOMP ADJP_ADVMOD ADJUNCT PUNCT
+2 7 2 7 6 7 0 7 8 7 7 13 7 13 14 14 16 16 7
+
+Mỗi lần dời nóc là khổ lắm nhưng cũng phải dời .
+Nq Nn Vv Nn Cp Aa R Cp R Vv Vv PU
+DET NP_ADVMOD XCOMP OBJ CC ROOT ADJUNCT CC ADJUNCT CONJ VMOD PUNCT
+2 6 2 3 6 0 6 6 10 6 10 6
+
+Mỗi năm cả nóc mình phải lo cái chuyện đi coi núi quanh làng sau mỗi trận lũ , có chỗ mô nứt núi là phải lo dời làng đi ... " .
+Nq Nt Nw Nun Pp Vv Vv M Nn Vv Vv Nn Nn Nun Cs Nq Nn Nn PU Ve Nn Pp Vv Nn Cp Vv Vv Vv Nun Vv PU PU PU
+DET NP_ADVMOD DET NSUBJ DET ROOT VMOD INTJ OBJ RCMOD VMOD OBJ NP_ADVMOD NN PREP DET POBJ NN PUNCT CONJ OBJ DET RCMOD OBJ CC CONJ VMOD VMOD OBJ VMOD PUNCT PUNCT PUNCT
+2 6 4 6 4 0 6 9 7 9 10 11 12 13 12 17 15 17 6 6 20 21 21 23 20 20 26 27 28 28 6 6 6
+
+Khi quay lại con đường " tử_thần " để trở_về , hình_ảnh những nóc làng các xã vùng_cao xác_xơ sau lũ quét vẫn cứ theo chúng_tôi .
+Nt Vv R Nc Nn PU Nn PU Cs Vv PU Nn Nq Nn Nun Nq Nun Nn Aa Cs Nn Vv R R Vv Pp PU
+NP_ADVMOD XCOMP ADJUNCT OBJ CLF PUNCT NN PUNCT PREP PCOMP PUNCT NSUBJ DET NN NN DET NN NN AMOD PREP POBJ RCMOD ADJUNCT ADJUNCT ROOT OBJ PUNCT
+25 1 2 2 4 4 4 4 2 9 25 25 14 12 14 17 14 17 14 19 20 21 24 25 0 25 25
+
+Không biết đến bao_giờ bà_con vùng_cao huyện Nam_Trà_My mới ổn_định được cuộc_sống sau thiệt_hại lớn của cơn lũ này và đối_phó làm_sao với những con lũ sắp đến ...
+R Vv Cs Pp Nn Nn Nun Nr R Vv R Nn Cs Nn Aa Cs Nc Nn Pd Cp Vv E Cs Nq Nc Nn R Vv PU
+ADJUNCT ROOT PREP POBJ NSUBJ NN NP_ADVMOD NN ADJUNCT CCOMP ADJUNCT OBJ PREP POBJ AMOD PREP POBJ CLF DET CC CONJ INTJ PREP DET POBJ CLF ADJUNCT RCMOD PUNCT
+2 0 10 3 10 5 5 7 10 2 10 10 10 13 14 14 16 17 17 10 10 21 21 25 23 25 28 25 2
+

@@ -1,0 +1,200 @@
+Mái nhà , hạt gạo giữa Trường_Sơn .
+Nn Nn PU Nc Nn Cs Nr PU
+ROOT NN PUNCT CONJ CLF PREP POBJ PUNCT
+0 1 1 1 4 4 6 1
+
+Khi trưởng thôn Agrí LBRK xã Axan , huyện Tây_Giang - vùng_đất heo_hút nơi biên_giới Việt - Lào cách thị_xã tỉnh_lỵ Tam_Kỳ ngót 300 km với gần 100 km xuyên Trường_Sơn RBRK cho chiếc tivi đặt ở gươl - nhà làng của người Kơtu - phát bài thể_dục buổi sớm , dân_làng đã có_mặt quanh sân gươl để tập theo đài .
+Nt Nn Nun Nr LBRK Nun Nr PU Nun Nr PU Nn Aa Nn Nn Nr PU Nr Vv Nun Nn Nr R Num Nu Cs R Num Nu Vv Nr RBRK Vv Nc Nn Vv Cs Nn PU Nn Nun Cs Nn Nr PU Vv Nn Nn Nt Nt PU Nn R Aa Nn Nn Nn Cs Vv Vv Nn PU
+NP_ADVMOD NSUBJ NN NN PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT PARATAXIS AMOD NP_ADVMOD NN NN PUNCT CONJ RCMOD OBJ NN NN ADJUNCT NUM OBJ PREP ADJUNCT NUM POBJ RCMOD OBJ PUNCT CCOMP OBJ CLF RCMOD PREP POBJ PUNCT PARATAXIS NN PREP POBJ NN PUNCT VMOD OBJ NN NP_ADVMOD NN PUNCT NSUBJ ADJUNCT ROOT NP_ADVMOD NN NN PREP PCOMP VMOD OBJ PUNCT
+54 33 2 3 2 2 6 6 6 9 6 6 12 13 14 15 16 16 12 19 20 20 24 25 19 25 28 29 26 29 30 2 1 33 34 34 36 37 38 38 40 40 42 43 33 33 46 47 47 49 54 54 54 0 54 55 56 54 58 59 60 54
+
+Già_làng Pơloong_Zơra , 68 tuổi , cười móm_mém nói : " trên cho dân mình cái văn_minh , văn_hoá , phải làm theo .
+Nn Nr PU Num Nn PU Vv Aa Vv PU PU Nn Vv Nn Pp M Nn PU Nn PU Vv Vv Vv PU
+NSUBJ NN PUNCT NUM PARATAXIS PUNCT ROOT ACOMP CONJ PUNCT PUNCT NSUBJ CCOMP IOBJ NN INTJ OBJ PUNCT CONJ PUNCT CONJ VMOD VMOD PUNCT
+7 1 1 5 1 1 0 7 7 13 13 13 9 13 14 17 13 17 17 13 13 21 22 7
+
+Cái đầu người Kơtu mình lúc mô cũng học theo cái tốt nhanh lắm ... " .
+Nc Nn Nn Nr Pp Nt Pp R Vv Vv Ncs Aa Aa R PU PU PU
+NN CLF NSUBJ NN NN NP_ADVMOD DET ADJUNCT ROOT VMOD OBJ CLF ACOMP ADJUNCT PUNCT PUNCT PUNCT
+3 1 9 3 3 9 6 9 0 9 10 11 9 13 9 9 9
+
+Trưởng thôn Agrí Tờngôn_Dâu cho rằng bà_con Kơtu ở bốn xã biên_giới Tây_Giang LBRK Axan , Tr’_hy , Gari , Ch’_um RBRK như thêm được con mắt khi được tỉnh LBRK Quảng_Nam RBRK và đồn biên_phòng 649 lắp cho mỗi thôn một tivi cùng hệ_thống âm_thanh , chảo tiếp sóng , máy phát điện hồi đầu năm 2004 ...
+Nn Nun Nr Nr Vv Cs Nn Nr Cs Num Nun Nn Nr LBRK Nr PU Nr PU Nr PU Nr RBRK Cs Vv R Nc Nn Nt Vv Nun LBRK Nr RBRK Cp Nn Vv Nr Vv Cs Nq Nun Num Nn Cp Nn Nn PU Nn Vv Nn PU Nn Vv Nn Nt Cs Nt Num PU
+NSUBJ NN NN NN ROOT MARK NSUBJ NN PREP NUM POBJ NN NP_ADVMOD PUNCT PARATAXIS PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT CCOMP PCOMP ADJUNCT OBJ CLF NP_ADVMOD XCOMP NSUBJ PUNCT PARATAXIS PUNCT CC CONJ VMOD NN CCOMP PREP DET POBJ NUM OBJ CC CONJ NN PUNCT CONJ RCMOD OBJ PUNCT CONJ RCMOD OBJ NP_ADVMOD PREP POBJ NUM PUNCT
+5 1 2 1 0 23 23 7 7 11 9 11 11 11 11 15 15 17 17 19 19 11 5 23 24 24 26 24 28 38 30 30 30 30 30 35 35 29 38 41 39 43 38 43 43 45 45 45 48 49 48 48 52 53 38 55 56 57 5
+
+Chuyện kể về những ngôi nhà .
+Nn Vv Cs Nq Nc Nn PU
+ROOT RCMOD PREP DET POBJ CLF PUNCT
+0 1 2 5 3 5 1
+
+Xong bài thể_dục , các thanh_thiếu_niên số về quét_dọn nhà riêng , số ở lại quét_dọn sân gươl và đường vào làng .
+VA Nn Nn PU Nq Nn Nn Vv Vv Nn Aa PU Nn Vv R Vv Nn Nn Cp Nn Vv Nun PU
+ROOT OBJ NN PUNCT DET DEP NSUBJ CCOMP VMOD OBJ AMOD PUNCT NSUBJ CCOMP ADJUNCT VMOD OBJ NN CC CONJ RCMOD OBJ PUNCT
+0 1 2 1 6 1 8 1 8 9 10 1 14 1 14 14 16 17 17 17 20 21 1
+
+Không ai nghĩ thôn làng người Kơtu nơi Trường_Sơn biên_địa nay lại gồm toàn những ngôi nhà đẹp , kiên_cố thế này .
+R Pp Vv Nun Nun Nn Nr Nn Nr Nn Nt R Vv Nw Nq Nc Nn Aa PU Aa Pp Pd PU
+ADJUNCT NSUBJ ROOT NSUBJ CONJ NN NN NP_ADVMOD NN NN NP_ADVMOD ADJUNCT CCOMP DET DET NN CLF AMOD PUNCT CONJ OBJ DET PUNCT
+2 3 0 13 4 4 6 4 8 8 13 13 3 21 21 21 16 21 18 18 13 21 3
+
+Tờngôn_Dâu đưa tôi về nhà để " khoe " ngôi nhà_rường anh mới dựng hồi tháng trước với khoản tiền công thợ_mộc hết 6 , 7 triệu .
+Nr Vv Pp Vv Nn Cs PU Vv PU Nc Nn Pp R Vv Nt Nt Nn Cs Nn Nn Nn Nn Ve Nr PU Num Nq PU
+NSUBJ ROOT IOBJ VMOD OBJ PREP PUNCT PCOMP PUNCT OBJ CLF NSUBJ ADJUNCT CCOMP NP_ADVMOD NN NN PREP POBJ NN NN NN RCMOD DEP PUNCT NUMBER QUANTMOD PUNCT
+2 0 2 2 4 4 8 6 8 8 10 14 14 10 14 15 16 14 18 19 20 20 20 23 24 27 24 2
+
+" Không học được cách làm_ăn mới , cách tính cái lợi cái hại , dân mình chừ vẫn còn chui vô chui ra nhà_sàn liêu_xiêu như cái chòi giữ rẫy thôi ... " , Tờngôn_Dâu nói .
+PU R Vv R Nn Vv Aa PU Nn Vv Ncs Aa Ncs Aa PU Nn Pp Nt R R Vv R Vv R Nn Aa Cs Nc Nn Vv Nn M PU PU PU Nr Vv PU
+PUNCT ADJUNCT CCOMP ADJUNCT OBJ VMOD AMOD PUNCT CONJ RCMOD OBJ CLF CONJ CLF PUNCT NSUBJ NN NP_ADVMOD ADJUNCT ADJUNCT CONJ ADJUNCT CONJ ADJUNCT OBJ AMOD PREP POBJ CLF RCMOD OBJ INTJ PUNCT PUNCT PUNCT NSUBJ ROOT PUNCT
+37 3 37 3 3 5 5 5 5 9 10 11 11 13 3 21 16 21 21 19 3 21 21 23 23 25 26 27 28 28 30 21 37 37 37 37 0 37
+
+Già_làng Pơloong_Zơra cũng " khoe " với tôi rằng ông đã chuẩn_bị đủ tiền để đầu năm 2005 dựng ba nhà_rường lợp tôn vì nhà ông hiện có đến ba hộ đang ở chung .
+Nn Nr R PU Vv PU Cs Pp Cs Pp R Vv Aa Nn Cs Cs Nt Num Vv Num Nn Vv Nn Cs Nn Pp Nt Ve M Num Nn R Vv Aa PU
+NSUBJ NN ADJUNCT PUNCT ROOT PUNCT PREP POBJ MARK NSUBJ ADJUNCT CCOMP ACOMP OBJ PREP PREP POBJ NUM PCOMP NUM OBJ RCMOD OBJ MARK NSUBJ NN NP_ADVMOD ADVCL QUANTMOD NUM OBJ ADJUNCT RCMOD ACOMP PUNCT
+5 1 5 5 0 5 5 7 12 12 12 5 12 13 14 19 16 17 15 21 19 21 22 28 28 25 28 12 30 31 28 33 31 33 5
+
+Nếu cứ như hồi trước , cái tay đã không giỏi làm nhưng cái miệng lại thích ăn ngon uống nhiều , dân mình dễ chi chừ có được cái nhà đẹp như ri ... " - già_làng Zơra vừa nói vừa chìa cho tôi xem bàn_tay đầy chai_sần của ông .
+Cp R Cs Nt Nn PU Nc Nn R R Aa Vv Cp Nc Nn R Vv Vv Aa Vv Aa PU Nn Pp Aa Pp Nt Ve M Nc Nn Aa Cs Pp PU PU PU Nn Nr Cp Vv Cp Vv Cs Pp Vv Nn Aa Aa Cs Pp PU
+CC ADJUNCT PREP POBJ NN PUNCT NSUBJ CLF ADJUNCT ADJUNCT CCOMP VMOD CC NSUBJ CLF ADJUNCT CONJ VMOD ACOMP CONJ ACOMP PUNCT NSUBJ NN ADJP_ADVMOD OBJ NP_ADVMOD CONJ INTJ OBJ CLF AMOD PREP POBJ PUNCT PUNCT PUNCT NSUBJ NN CC ROOT CC CONJ PREP POBJ VMOD OBJ AMOD ADJP_ADVMOD PREP POBJ PUNCT
+41 3 11 3 4 11 11 7 10 11 41 11 11 17 14 17 11 17 18 18 20 17 28 23 28 25 28 17 28 28 30 30 32 33 41 41 41 41 38 41 0 41 41 43 44 43 46 47 48 47 50 41
+
+Chủ_tịch UBND xã Axan Pơloong_Đinh - cũng là con dân Agrí - cho rằng " cuộc cách_mạng nhà ở " nơi bốn xã vùng biên Tây_Giang diễn ra cách đây chừng năm sáu năm , nhưng rầm_rộ nhất chỉ từ vài_ba năm lại đây nhờ có đội thợ_mộc tại chỗ , còn tốc_độ dựng nhà_rường thì được đẩy_mạnh khi con đường nối vùng biên_ải này với đại lộ Hồ_Chí_Minh được thông tuyến bước đầu hồi đầu năm 2004 .
+Nn X Nun Nr Nr PU R Vc Nn Nn Nr PU Vv Cs PU Nc Nn Nn Vv PU Nn Num Nun Nn Nn Nr Vv R Vv Pd R Num Num Nu PU Cp Aa R R Cs Nq Nu Vv Pd Cs Ve Nn Nn Cs Nn PU Cp Nn Vv Nn Cp Vv Vv Nt Nc Nn Vv Nn Nn Pd Cs Sv Nn Nr Vv Vv Nn Nn Nn Nt Cs Nt Num PU
+NSUBJ NN NN NN NN PUNCT ADJUNCT PARATAXIS OBJ CONJ NN PUNCT ROOT MARK PUNCT NN CLF NSUBJ VMOD PUNCT NP_ADVMOD NUM NN NN NN NN CCOMP ADJUNCT VMOD OBJ ADJUNCT NUM CONJ OBJ PUNCT CC CONJ ADJUNCT ADJUNCT PREP DET POBJ RCMOD OBJ PREP PCOMP OBJ NN PREP POBJ PUNCT CC NSUBJ RCMOD OBJ CC CONJ VMOD NP_ADVMOD NSUBJ CLF RCMOD OBJ NN DET PREP SINO POBJ NN CCOMP VMOD OBJ NP_ADVMOD NN NP_ADVMOD PREP POBJ NUM PUNCT
+13 1 2 3 1 1 8 1 8 9 9 1 0 27 18 18 16 27 18 18 18 23 21 23 24 24 13 27 27 29 32 34 32 29 27 27 27 37 40 37 42 40 42 43 37 45 46 47 47 49 27 27 57 53 54 57 27 57 58 70 60 60 62 63 63 62 68 66 68 59 70 71 71 73 71 75 76 77 13
+
+" Mới_đây nhà nào cũng chỉ với cây cột lớn bằng bắp_chân chôn dưới đất , sàn vách thì bằng tre nứa , trong nhà không giường , không tủ , người ngủ trên sàn , đầu quay vô cái bếp_lửa giữa nhà ... " - chủ_tịch Pơloong_Đinh nói và cho rằng chỉ chừng hai năm nữa số nhà_rường ở bốn xã vùng biên sẽ lên đến trên 95_% , trong đó số nhà lợp tôn ít_nhất cũng đến 90_% .
+PU Nt Nn Pd R R Cs Nc Nn Aa Vcp Nn Vv Cs Nn PU Nn Nn Cp Cs Nn Nn PU Cs Nn R Nn PU R Nn PU Nn Vv Cs Nn PU Nn Vv Cs Nc Nn Cs Nn PU PU PU Nn Nr Vv Cp Vv Cs R R Num Nu R Nn Nn Cs Num Nun Nn Nn R Vv M R Nq PU Cs Pd Nn Nn Vv Nn Aa R M Nq PU
+PUNCT NP_ADVMOD NSUBJ DET ADJUNCT ADJUNCT CCOMP POBJ CLF AMOD VMOD OBJ RCMOD PREP POBJ PUNCT NSUBJ CONJ CC CONJ POBJ CONJ PUNCT PREP POBJ ADJUNCT CONJ PUNCT ADJUNCT CONJ PUNCT NSUBJ CONJ PREP POBJ PUNCT NSUBJ CONJ PREP POBJ CLF PREP POBJ PUNCT PUNCT PUNCT NSUBJ NN ROOT CC CONJ MARK ADJUNCT ADJUNCT NUM NP_ADVMOD ADJUNCT NSUBJ NN PREP NUM POBJ NN NN ADJUNCT CCOMP QUANTMOD ADJUNCT DEP PUNCT PREP POBJ NSUBJ NN RCMOD OBJ PARATAXIS ADJUNCT QUANTMOD DEP PUNCT
+49 7 7 3 6 7 49 7 8 8 10 11 8 13 14 7 20 17 20 7 20 21 20 27 24 27 20 27 30 27 27 33 27 33 34 33 38 33 38 39 40 40 42 7 49 49 49 47 0 49 49 66 55 53 56 66 56 66 58 58 62 60 62 63 66 51 69 69 66 69 77 71 77 73 74 75 69 80 80 77 49
+
+Cả kho thóc và nhà giul - nhà được làm ngay ở rẫy , ruộng để ở trong thời_vụ sản_xuất cũng như để chăn_nuôi gia_súc , gia_cầm - cũng được dân_làng " rường hoá " .
+Nw Nn Nn Cp Nn FW PU Nn Vv Vv R Cs Nn PU Nn Vv Vv Cs Nn Vv R Cp Cs Vv Nn PU Nn PU R Vv Nn PU Vv Sv PU PU
+DET NSUBJ NN CC CONJ DEP PUNCT NSUBJ PARATAXIS VMOD ADJUNCT PREP POBJ PUNCT CONJ PCOMP VMOD PREP POBJ VMOD ADJUNCT PCOMP PREP PCOMP OBJ PUNCT CONJ PUNCT ADJUNCT ROOT NSUBJ PUNCT CCOMP SINO PUNCT PUNCT
+2 30 2 2 2 5 5 9 5 9 12 10 12 13 13 23 16 17 18 19 22 23 10 23 24 25 25 30 30 0 33 33 30 33 33 30
+
+Nhưng đáng nói nhất là làng đã hình_thành một đội thợ_mộc .
+Cp Vv Vv R Vc Nun R Vv Num Nn Nn PU
+CC VSUBJ VMOD ADJUNCT ROOT NSUBJ ADJUNCT CCOMP NUM OBJ NN PUNCT
+5 5 2 2 0 8 8 5 10 8 10 5
+
+Già_làng Bhling_Chrlâng ở thôn Arằng 3 - người đầu_tiên ở Axan học được nghề thợ_mộc - kể lại : " Thấy dân mình phải rước thợ miền xuôi lên làm nhà có nhiều cái khó quá , tiền công lại đắt .
+Nn Nr Cs Nun Nr An PU Nn An Cs Nr Vv R Nn Nn PU Vv R PU PU Vv Nn Pp Vv Vv Nn Nn Aa Vv Vv Nn Ve Aa Ncs Aa R PU Nn Vv R Aa PU
+NSUBJ NN PREP POBJ NN AMOD PUNCT PARATAXIS AMOD PREP POBJ RCMOD ADJUNCT OBJ NN PUNCT ROOT ADJUNCT PUNCT PUNCT XCOMP NSUBJ NN CSUBJ VMOD OBJ NN AMOD VMOD VMOD OBJ CCOMP ACOMP OBJ CLF ADJUNCT PUNCT NSUBJ VMOD ADJUNCT CONJ PUNCT
+17 1 1 3 4 5 1 1 8 8 10 8 12 12 14 1 0 17 21 21 17 24 22 32 24 25 26 26 25 29 30 21 32 33 34 33 32 41 38 41 32 17
+
+Mà làm một cái nhà_rường từ xẻ gỗ đến khi dựng lên tốn rất nhiều công thợ .
+Cp Vv Num Nc Nn Cs Vv Nn Cs Nt Vv R Vv R Aa Nn Nn PU
+CC VSUBJ NUM OBJ CLF PREP PCOMP OBJ CONJ POBJ XCOMP ADJUNCT ROOT ADJUNCT AMOD OBJ NN PUNCT
+13 13 4 2 4 4 6 7 6 9 10 11 0 15 16 13 16 13
+
+Bởi rứa mình bàn với đám trai_trẻ : hay_là dân mình phải học cho được cái nghề ni ?
+Cp Pp Pp Vv Cs Nn Aa PU Cp Nn Pp Vv Vv M R M Nn Pd PU
+CC ROOT NSUBJ CONJ PREP POBJ AMOD PUNCT CC NSUBJ NN CCOMP VMOD INTJ ADJUNCT INTJ OBJ DET PUNCT
+2 0 4 2 4 5 6 4 12 12 10 4 12 13 13 17 13 17 2
+
+Ai cũng ngại khó mà học được vì trước_nay mình chỉ quen cầm cái rựa , cái rìu thôi .
+Pp R Vv Aa M Vv R Cs Nn Pp R VA Vv Nc Nn PU Nc Nn M PU
+NSUBJ ADJUNCT ROOT ACOMP INTJ VMOD ADJUNCT MARK NP_ADVMOD NSUBJ ADJUNCT ADVCL VMOD OBJ CLF PUNCT CONJ CLF INTJ PUNCT
+3 3 0 3 4 4 6 12 12 12 12 3 12 13 14 14 14 17 13 3
+
+Nhưng mình khuyên anh_em đừng nản , với cái rựa cái dao mà dân mình chạm_khắc được trên cái gươl , cái nhà_mồ .
+Cp Pp Vv Nn R Vv PU Cs Nc Nn Nc Nn Cp Nn Pp Vv R Cs Nc Nn PU Nc Nn PU
+CC NSUBJ ROOT NSUBJ ADJUNCT CCOMP PUNCT PREP POBJ CLF CONJ CLF CC NSUBJ NN CONJ ADJUNCT PREP POBJ CLF PUNCT CONJ CLF PUNCT
+3 3 0 6 6 3 3 16 8 9 9 11 16 16 14 3 16 16 18 19 19 19 22 3
+
+Làm cái nhà như người xuôi mình cố học miết thì được thôi " .
+Vv Nc Nn Cs Nn Aa Pp Vv Vv R Cp R M PU PU
+VMOD OBJ CLF PREP POBJ AMOD NSUBJ ROOT VMOD ADJUNCT CC ADJUNCT INTJ PUNCT PUNCT
+8 1 2 1 4 5 8 0 8 9 9 9 9 8 8
+
+Và già_làng Bhling_Chrlâng đã bỏ hơn một năm miệt_mài theo học cái nghề của những người thợ miền xuôi .
+M Nn Nr R Vv R Num Nu Aa Vv Vv M Nn Cs Nq Nc Nn Nn Aa PU
+INTJ NSUBJ NN ADJUNCT ROOT ADJUNCT NUM NP_ADVMOD ACOMP RCMOD VMOD INTJ OBJ PREP DET NN CLF POBJ AMOD PUNCT
+5 5 2 5 0 7 8 5 10 8 10 13 11 13 18 18 16 14 18 5
+
+Đúng như lời chủ_tịch Đinh và già_làng Bhling_Chrlâng , qua những thôn làng ở các xã vùng biên này , giờ_đây tôi đã gặp khá nhiều những thợ_mộc địa_phương , trong đó có rất nhiều thợ trẻ như thợ_cả Jơrum_Xia , 22 tuổi , là bí_thư chi_đoàn thôn Voòng LBRK xã Tr’_hy RBRK , như Cơlâu_Nhới , mới 17 tuổi - con của trưởng thôn Cơlâu_Bhưới ...
+Aa Cs Nn Nn Nr Cp Nn Nr PU Vv Nq Nun Nun Cs Nq Nun Nn Nn Pd PU Pd Pp R Vv R Aa Nq Nn Nn PU Cs Pd Ve R Aa Nn Aa Cs Nn Nr PU Num Nn PU Vc Nn Nn Nun Nr LBRK Nun Nr RBRK PU Cs Nr PU R Num Nn PU Nn Cs Sv Nun Nr PU
+ADJP_ADVMOD PREP POBJ NN NN CC CONJ NN PUNCT XCOMP DET OBJ CONJ PREP DET POBJ NN NN DET PUNCT NP_ADVMOD NSUBJ ADJUNCT ROOT ADJUNCT AMOD DET OBJ NN PUNCT PREP POBJ PARATAXIS ADJUNCT AMOD OBJ AMOD PARATAXIS POBJ NN PUNCT NUM PARATAXIS PUNCT RCMOD OBJ NN NP_ADVMOD NN PUNCT PARATAXIS NN PUNCT PUNCT PARATAXIS POBJ PUNCT ADJUNCT NUM PARATAXIS PUNCT PARATAXIS PREP SINO POBJ NN PUNCT
+10 1 2 3 4 4 4 7 10 24 12 10 12 12 16 14 16 17 16 24 24 24 24 0 26 28 28 24 28 28 33 31 28 35 36 33 36 36 38 39 39 43 39 39 39 45 46 47 48 48 48 51 48 36 36 55 56 60 60 56 56 56 62 65 63 65 24
+
+Chính nhờ những người thợ địa_phương này mà nhà của dân_làng có khá nhiều kiểu : ngoài nhà_sàn còn có nhà_sàn có gác , nhà_trệt LBRK với nền đất hoặc lát ván hay lát gạch_men RBRK hay nhà_trệt có gác ...
+M Cs Nq Nc Nn Nn Pd Cp Nn Cs Nn Ve R Aa Nn PU Cs Nn R Ve Nn Ve Nn PU Nn LBRK Cs Nn Nn Cp Vv Nn Cp Vv Nn RBRK Cp Nn Ve Nn PU
+PCOMP PREP DET POBJ CLF NN DET CC NSUBJ PREP POBJ ROOT ADJUNCT AMOD OBJ PUNCT PREP POBJ ADJUNCT PARATAXIS OBJ RCMOD OBJ PUNCT CONJ PUNCT PARATAXIS POBJ NN CC CONJ OBJ CC CONJ OBJ PUNCT CC CONJ RCMOD OBJ PUNCT
+2 12 4 2 4 4 4 12 12 9 10 0 14 15 12 15 20 17 20 15 20 21 22 21 21 25 25 27 28 29 29 31 31 31 34 25 25 25 38 39 12
+
+Đi lên với " lúa nhà_nước " .
+Vv R Cs PU Nn Nn PU PU
+ROOT ADJUNCT PREP PUNCT POBJ NN PUNCT PUNCT
+0 1 1 5 3 5 5 1
+
+" Dân mình thoát đói_nghèo , khá lên , có cái nhà đẹp nhanh là nhờ làm cây lúa_nước đó " - già_làng Pơloong_Zơra nói .
+PU Nn Pp Vv Aa PU Aa R PU Ve Nc Nn Aa Aa Vc Cs Vv Nn Nn M PU PU Nn Nr Vv PU
+PUNCT NSUBJ NN CSUBJ ACOMP PUNCT CONJ ADJUNCT PUNCT CONJ OBJ CLF AMOD ACOMP CCOMP PREP PCOMP OBJ NN INTJ PUNCT PUNCT NSUBJ NN ROOT PUNCT
+25 4 2 15 4 4 4 7 7 7 10 11 11 10 25 15 16 17 18 17 25 25 25 23 0 25
+
+Lúa có nhiều loại , nhiều tên .
+Nn Ve Aa Nn PU Aa Nn PU
+NSUBJ ROOT AMOD OBJ PUNCT AMOD CONJ PUNCT
+2 0 4 2 4 7 4 2
+
+Nhưng dân_làng cứ gọi nó là " lúa nhà_nước " , " lúa biên_phòng " .
+Cp Nn R Vv Pp Cs PU Nn Nn PU PU PU Nn Vv PU PU
+CC NSUBJ ADJUNCT ROOT OBJ PREP PUNCT POBJ NN PUNCT PUNCT PUNCT CONJ VMOD PUNCT PUNCT
+4 4 4 0 4 4 8 6 8 8 8 13 8 13 13 4
+
+Đưa tôi ra thăm cánh đồng rộng gần 1 ha của nhà mình với trà lúa chín mẩy hạt đang được gặt dần đứng kề trà lúa tơ xanh mởn , già_làng Pơloong_Zơra nhắc lại : " Trước chỉ biết chăm_chăm vô cái rẫy , năm mô cũng thiếu thóc ăn 3 - 4 tháng , năm mất_mùa thiếu đến 5 - 6 tháng , sắn bắp cũng không có đủ , đói đến run chân mờ mắt " .
+Vv Pp Vv Vv Nn Nn Aa R Num Nu Cs Nn Pp Cs Nn Nn Aa Aa Nn R Vv Vv R Vv Vv Nn Nn Aa Aa Aa PU Nn Nr Vv R PU PU Nt R Vv Aa Vv Nc Nn PU Nt Pp R Aa Nn Vv Num PU Num Nu PU Nt Vv Aa M Num PU Num Nu PU Nn Nn R R Ve Aa PU Vv M Vv Nn Aa Nn PU PU
+ROOT OBJ VMOD VMOD OBJ NN AMOD ADJUNCT NUM OBJ PREP POBJ NN PREP NN POBJ AMOD ADJP_ADVMOD OBJ ADJUNCT RCMOD VMOD ADJUNCT XCOMP VMOD OBJ NN AMOD ADJP_ADVMOD ADJP_ADVMOD PUNCT NSUBJ NN CONJ ADJUNCT PUNCT PUNCT NP_ADVMOD ADJUNCT CCOMP ACOMP VMOD OBJ CLF PUNCT NP_ADVMOD DET ADJUNCT CONJ OBJ VMOD NUM PUNCT CONJ NP_ADVMOD PUNCT NP_ADVMOD VMOD CONJ QUANTMOD NUM PUNCT CONJ NP_ADVMOD PUNCT DEP CONJ ADJUNCT ADJUNCT CONJ ACOMP PUNCT CONJ INTJ CONJ OBJ CONJ OBJ PUNCT PUNCT
+0 1 1 3 4 5 5 9 10 7 5 11 12 5 16 14 16 17 18 21 16 21 22 34 24 25 26 26 28 29 34 34 32 1 34 40 40 40 40 34 40 41 42 43 40 49 46 49 40 49 50 55 52 52 49 49 59 57 49 61 64 61 61 59 59 70 66 69 70 59 70 70 70 73 74 75 75 77 40 1
+
+Trung_uý Nguyễn_Giầu - chuyên viên kỹ_thuật cho chương_trình 135 của đồn biên_phòng 649 - kể : " Chúng_tôi phải thuyết_phục mượn mỗi thôn 2 ha - số ruộng ít_ỏi mà mỗi thôn có được vốn là ruộng được khai vỡ thời chiến_tranh - để làm biểu_diễn ... " .
+Nn Nr PU Aa Sv Nn Cs Nn Nr Cs Nn Vv Nr PU Vv PU PU Pp Vv Vv Vv Nq Nun Num Nu PU Nn Nn Aa Cs Nq Nun Ve M R Vc Nn Vv Vv Vv Nt Nn PU Cs Vv Vv PU PU PU
+NSUBJ NN PUNCT PARATAXIS SINO NN PREP POBJ NN PREP POBJ VMOD NN PUNCT ROOT PUNCT PUNCT NSUBJ CCOMP VMOD VMOD DET IOBJ NUM OBJ PUNCT NSUBJ NN AMOD MARK DET NSUBJ CCOMP INTJ ADJUNCT PARATAXIS ATTR RCMOD VMOD CONJ NP_ADVMOD NN PUNCT PREP PCOMP VMOD PUNCT PUNCT PUNCT
+15 1 1 1 4 4 4 7 8 8 10 11 11 1 0 19 19 19 15 19 20 23 21 25 21 25 36 27 27 33 32 33 27 33 36 25 36 37 38 39 39 41 25 21 44 45 19 19 15
+
+Bhling_Cưng - một trong những hộ ở Agrí hằng năm có lượng thóc bán nhiều cho đồn biên_phòng 649 - kể tiếp về những ngày đầu bộ_đội làm lúa nước : " Hồi ấy , mới nghe nói làm lúa_nước dân lắc_đầu .
+Nr PU Num Cs Nq Nn Cs Nr R Nt Ve Nn Nn Vv Aa Cs Nn Vv Nr PU Vv Vv Cs Nq Nu Nn Nn Vv Nn Nn PU PU Nt Pd PU R Vv Vv Vv FW Nn Vv PU
+NSUBJ PUNCT PARATAXIS PREP DET POBJ PREP POBJ ADJUNCT NP_ADVMOD RCMOD OBJ NN RCMOD ACOMP PREP POBJ VMOD NN PUNCT ROOT VMOD PREP DET POBJ NN NSUBJ CCOMP OBJ NN PUNCT PUNCT NP_ADVMOD DET PUNCT ADJUNCT XCOMP VMOD VMOD OBJ NSUBJ CCOMP PUNCT
+21 1 1 3 6 4 6 7 10 11 6 11 12 12 14 14 16 17 17 1 0 21 21 25 23 25 28 25 28 29 42 42 42 33 42 37 42 37 38 39 42 21 21
+
+Làm lúa rẫy mỗi nhà đến hai ba chục ang giống rứa mà năm mô cũng thiếu ăn , huống là làm lúa nước mỗi nhà chỉ mươi , mười_lăm ang giống , sẽ đói to thôi .
+Vv Nn Nn Nq Nn M Num Num Nq Nn Nn M Cp Nt Pp R Aa Vv PU Cp M Vv Nn Nn Nq Nn R Nq PU Num Nn Nn PU R Vv Aa M PU
+XCOMP OBJ NN DET NSUBJ QUANTMOD NUM NUMBER QUANTMOD ROOT NN CONJ CC NP_ADVMOD DET ADJUNCT CONJ VMOD PUNCT CC CONJ XCOMP OBJ NN DET NSUBJ ADJUNCT NUM PUNCT NUMBER CONJ NN PUNCT ADJUNCT CONJ ACOMP INTJ PUNCT
+10 1 2 5 10 7 10 9 7 0 10 10 12 17 14 17 12 17 10 10 10 31 22 23 26 31 28 31 28 28 21 31 31 35 31 35 35 10
+
+Với_lại , biến cái đồi cái gò cao thành đồng_ruộng có dễ chi mô , cây lúa_nước lại khác giống với cây lúa_rẫy , làm cái chi ? " .
+Cp PU Vv Nc Nn Nc Nn Aa Vv Nn Ve Aa Pp Pp PU Nn Nn R Aa Nn Cs Nn Nn PU Vv Nn Pp PU PU PU
+CC PUNCT VSUBJ OBJ CLF CONJ CLF AMOD VMOD OBJ ROOT ACOMP OBJ DET PUNCT NSUBJ NN ADJUNCT CCOMP OBJ PREP POBJ NN PUNCT CCOMP OBJ DET PUNCT PUNCT PUNCT
+11 11 11 3 4 4 6 6 3 9 0 11 12 13 11 19 16 19 11 19 19 21 22 11 11 25 26 25 11 11
+
+Nhưng những cây lúa biểu_diễn của bộ_đội cứ lên xanh , rồi kết hạt vàng_ươm , tính ra mỗi hecta giống mới làm thí_điểm đạt đến 3,5 tấn_[]_vụ , năm lại làm được hai vụ , dân bắt_đầu tin_tưởng .
+Cp Nq Nn Nn Vv Cs Nn R Vv Aa PU Cp Vv Nn Aa PU Vv R Nq Nu Nn R Vv Vv Vv M Num Nu PU Nt R Vv R Num Nn PU Nn Vv Vv PU
+CC DET NSUBJ NN VMOD PREP POBJ ADJUNCT ROOT ACOMP PUNCT CC CONJ OBJ AMOD PUNCT VMOD ADJUNCT DET NSUBJ NN ADJUNCT RCMOD VMOD CCOMP QUANTMOD NUM OBJ PUNCT NP_ADVMOD ADJUNCT CONJ ADJUNCT NUM OBJ PUNCT NSUBJ CONJ VMOD PUNCT
+9 3 9 3 3 3 6 9 0 9 9 9 9 13 14 9 38 17 20 25 20 23 20 23 17 27 28 25 25 32 32 25 32 35 32 38 38 9 38 9
+
+Thế là năm sau dân cùng với các chiến_sĩ biên_phòng ra_sức khai vỡ những vùng gò đồi quanh làng , rồi đắp đập đào mương đưa nước vào cấy vụ lúa đầu hồi năm 2000 .
+Pp M Nt Nn Nn Cp Cp Nq Nn Vv Vv Vv Vv Nq Nn Nn Nn Nn Nun PU Cp Vv Nn Vv Nn Vv Nn Cs Vv Nn Nn An Nt Nt Num PU
+ROOT INTJ NP_ADVMOD NN NSUBJ CC CC DET CONJ VMOD CCOMP VMOD CONJ DET OBJ NN CONJ NP_ADVMOD NN PUNCT CC CONJ OBJ CONJ OBJ CONJ OBJ PREP PCOMP OBJ NN AMOD NP_ADVMOD NN NUM PUNCT
+0 1 11 3 11 5 6 9 5 9 1 11 12 15 12 15 16 15 18 11 11 11 22 22 24 24 26 26 28 29 30 30 30 33 34 1
+
+Rồi bộ_đội phát_động phong_trào , người mạnh giúp người yếu , nhà đông người giúp nhà ít người , dần_dần ai cũng có ruộng nước để làm .
+Cp Nn Vv Nn PU Nn Aa Vv Nn Aa PU Nn Aa Nn Vv Nn Aa Nn PU R Pp R Ve Nn Nn Cs Vv PU
+CC NSUBJ ROOT OBJ PUNCT NSUBJ AMOD CCOMP OBJ AMOD PUNCT NSUBJ AMOD OBJ CONJ OBJ AMOD OBJ PUNCT ADJUNCT NSUBJ ADJUNCT CONJ OBJ NN PREP PCOMP PUNCT
+3 3 0 3 8 8 6 4 8 9 8 15 12 13 8 15 16 17 3 23 23 23 3 23 24 24 26 3
+
+Và từ " chuyện " lạ đó , hơn ba năm nay những con_người sống giữa rừng cao núi thẳm vốn đối_mặt triền_miên với sự thiếu_đói hạt cơm này , giờ không chỉ có thóc ăn no_đủ mà còn dư bán cho đồn biên_phòng một lượng thóc lớn hằng năm .
+M Cs PU Nn PU Aa Pd PU R Num Nu Nt Nq Nn Vv Cs Nn Aa Nn Aa R Vv Aa Cs Ncs Vv Nn Nn Pd PU Nt R R Ve Nn Vv Aa Cp R Aa Vv Cs Nn Vv Num Nn Nn Aa R Nu PU
+INTJ PREP PUNCT POBJ PUNCT AMOD DET PUNCT ADJUNCT NUM DEP NN DET NSUBJ RCMOD PREP POBJ AMOD CONJ AMOD ADJUNCT RCMOD ACOMP PREP POBJ RCMOD OBJ NN DET PUNCT DEP ROOT ADJUNCT CONJ OBJ RCMOD ACOMP CC CONJ CONJ VMOD PREP POBJ VMOD NUM OBJ NN AMOD ADJUNCT NP_ADVMOD PUNCT
+32 32 4 2 4 4 4 32 10 11 32 11 14 32 14 15 16 17 17 19 22 14 22 22 24 25 26 27 14 32 32 0 32 32 34 35 36 34 34 39 40 41 42 43 46 41 46 46 50 41 32
+
+Dân Agrí mừng mà bộ_đội cũng mừng .
+Nn Nr Vv Cp Nn R Vv PU
+NSUBJ NN ROOT CC NSUBJ ADJUNCT CONJ PUNCT
+3 1 0 3 7 7 3 3
+
+" Thấy họ từ chỗ thiếu thóc ăn hằng năm nay lại có thừa thóc để bán , chúng_tôi mừng lắm ... " - trung_tá Nguyễn_Tấn_Lạc đã nói như vậy .
+PU Vv Pp Cs Nn Aa Nn Vv R Nu Nt R Ve Aa Nn Cs Vv PU Pp Vv R PU PU PU Nn Nr R Vv Cs Pp PU
+PUNCT XCOMP NSUBJ PREP POBJ AMOD OBJ VMOD ADJUNCT NP_ADVMOD NP_ADVMOD ADJUNCT CCOMP ACOMP OBJ PREP PCOMP PUNCT NSUBJ CCOMP ADJUNCT PUNCT PUNCT PUNCT NSUBJ NN ADJUNCT ROOT PREP POBJ PUNCT
+28 20 13 13 4 5 6 7 10 6 13 13 2 13 14 14 16 20 20 28 20 20 28 28 28 25 28 0 28 29 28
+

@@ -1,0 +1,290 @@
+Tràn_lan thương_binh giả , huân_chương giả .
+Aa Nn Aa PU Nn Aa PU
+ROOT OBJ AMOD PUNCT CONJ AMOD PUNCT
+0 1 2 2 2 5 1
+
+Ông Nguyễn_Đức_Quang - 80 tuổi , thương_binh LBRK TB RBRK chống Pháp , cán_bộ lão_thành cách_mạng ở xã Sơn_Trà , huyện Hương_Sơn LBRK Hà_Tĩnh RBRK - đã không chịu nổi cảnh " ngồi họp chung với những TB giả , nhất_là khi phải nghe những cha ấy lên bục phát_biểu " , nói : " Từ năm 1985 trở_về trước xã Sơn_Trà chỉ có sáu TB , thế mà đến nay bỗng_dưng xuất_hiện tới 70 TB .
+Nn Nr PU Num Nn PU Nn LBRK Nn RBRK Vv Nr PU Nn Aa Nn Cs Nun Nr PU Nun Nr LBRK Nr RBRK PU R R Vv R Nn PU Vv Vv Aa Cs Nq Nn Aa PU Cp Nt Vv Vv Nq Nn Pd Vv Nn Vv PU PU Vv PU PU Cs Nt Num Vv Nn Nun Nr R Ve Num Nn PU Cp Cp Cs Nt R Vv M Num Nn PU
+NSUBJ NN PUNCT NUM PARATAXIS PUNCT PARATAXIS PUNCT PARATAXIS PUNCT RCMOD OBJ PUNCT PARATAXIS AMOD NN PREP POBJ NN PUNCT PARATAXIS NN PUNCT PARATAXIS PUNCT PUNCT ADJUNCT ADJUNCT ROOT ADJUNCT OBJ PUNCT RCMOD VMOD ACOMP PREP DET POBJ AMOD PUNCT CC PARATAXIS XCOMP VMOD DET NSUBJ DET CCOMP OBJ VMOD PUNCT PUNCT CONJ PUNCT PUNCT PREP POBJ NUM RCMOD OBJ NSUBJ NN ADJUNCT CCOMP NUM OBJ PUNCT CC CC PREP POBJ ADJUNCT CONJ QUANTMOD NUM OBJ PUNCT
+29 1 1 5 1 1 1 7 7 7 7 11 1 1 14 14 14 17 18 18 18 21 21 21 21 1 28 29 0 29 29 31 31 33 34 34 38 36 38 29 29 29 42 43 46 48 46 44 48 48 42 29 29 64 64 64 56 57 57 59 64 61 64 53 66 64 64 64 64 73 70 73 64 75 76 73 29
+
+Đi đâu trong xóm xã cũng nghe dân bàn_tán chuyện TB giả " .
+Vv Pp Cs Nun Nun R Vv Nn Vv Nn Nn Aa PU PU
+ROOT OBJ PREP POBJ CONJ ADJUNCT CONJ NSUBJ CCOMP OBJ NN AMOD PUNCT PUNCT
+0 1 2 3 4 7 1 9 7 9 10 11 1 1
+
+Đua nhau làm giả .
+Vv Nn Vv Aa PU
+ROOT OBJ VMOD ACOMP PUNCT
+0 1 1 3 1
+
+Trưa 28_-_9_-_2004 , chúng_tôi gõ_cửa vị TB giả đầu_tiên của xã Sơn_Trà là ông Lê_Phụ .
+Nt Nt PU Pp Vv Nc Nn Aa An Cs Nun Nr Vc Nn Nr PU
+NP_ADVMOD NN PUNCT NSUBJ ROOT OBJ CLF AMOD AMOD PREP POBJ NN PARATAXIS OBJ NN PUNCT
+5 1 5 5 0 5 6 6 6 6 10 11 6 13 14 5
+
+Hình_như việc làm giả TB đã khiến tâm_tư ông không yên_ổn bấy_lâu nay nên khi nghe hỏi về chuyện TB , ông vội chối quanh một lúc rồi ấp_úng nói : " Tôi đi công_nhân Lâm_trường Hương_Sơn 18 năm .
+R Nn Vv Vv Nn R Vv Nn Pp R Aa Pd Nt Cp Nt Vv Vv Cs Nn Nn PU Pp Aa Vv Aa Num Nt Cp Vv Vv PU PU Pp Vv Nn Nn Nr Num Nu PU
+ADJUNCT NSUBJ RCMOD VMOD OBJ ADJUNCT ROOT NSUBJ NN ADJUNCT CCOMP NP_ADVMOD NN CC NP_ADVMOD XCOMP VMOD PREP POBJ NN PUNCT NSUBJ ACOMP CONJ ACOMP NUM NP_ADVMOD CC CONJ VMOD PUNCT PUNCT NSUBJ CCOMP OBJ NP_ADVMOD NN NUM NP_ADVMOD PUNCT
+7 7 2 3 4 7 0 11 8 11 7 11 12 7 24 15 16 17 18 19 24 24 24 7 24 27 24 24 24 29 34 34 34 30 34 35 36 39 34 7
+
+Sau bị nứa đâm vào đầu_gối nên năm 1998 xin về .
+Nn Vv Nn Vv Cs Nn Cp Nt Num Vv Vv PU
+ADJP_ADVMOD ROOT NSUBJ CCOMP PREP POBJ CC NP_ADVMOD NUM CONJ VMOD PUNCT
+2 0 4 2 4 5 2 10 8 2 10 2
+
+Lúc đó xã đang có phong_trào làm TB , lại được mấy tay " cò " đến săn hỏi suốt ngày nên tôi chi 3 triệu đồng để có cái thẻ " .
+Nt Pd Nun R Ve Nn Vv Nn PU R Vv Nq Nc PU Nn PU Vv Vv Vv Aa Nt Cp Pp Vv Num Nq Nu Cs Ve Nc Nn PU PU
+NP_ADVMOD DET NSUBJ ADJUNCT ROOT OBJ RCMOD OBJ PUNCT ADJUNCT CONJ DET NSUBJ PUNCT CLF PUNCT CCOMP VMOD VMOD ADJP_ADVMOD OBJ CC NSUBJ CONJ NUMBER NUM OBJ PREP PCOMP OBJ CLF PUNCT PUNCT
+5 1 5 5 0 5 6 7 5 11 5 13 17 13 13 13 11 17 18 19 20 11 24 11 26 27 24 24 28 29 30 5 5
+
+Ông Lê_Xuân_Quyền - nguyên chủ_tịch UBND xã , nay là phó chủ_tịch HĐND xã Sơn_Trà , đi bộ_đội năm 1977 thuộc sư_đoàn huấn_luyện 441 - Quân_khu 4 , không tham_gia chiến_đấu , không bị_thương , xuất_ngũ năm 1981 nhưng cũng có thẻ TB năm 1977 .
+Nn Nr PU Sv Nn X Nun PU Nt Vc Sv Nn X Nun Nr PU Vv Nn Nt Num Vv Nn Vv Nr PU Nn An PU R Vv Vv PU R Vv PU Vv Nt Num Cp R Ve Nn Nn Nt Num PU
+NSUBJ NN PUNCT SINO NN PARATAXIS NN PUNCT NP_ADVMOD PARATAXIS SINO NN ATTR NP_ADVMOD NN PUNCT ROOT OBJ NP_ADVMOD NUM CONJ OBJ VMOD NN PUNCT PARATAXIS AMOD PUNCT ADJUNCT CONJ VMOD PUNCT ADJUNCT CONJ PUNCT CONJ NP_ADVMOD NUM CC ADJUNCT CONJ OBJ NN NP_ADVMOD NUM PUNCT
+17 1 1 5 6 1 6 1 10 1 12 13 10 13 14 1 0 17 17 19 17 21 22 22 22 22 26 21 30 21 30 30 34 30 34 34 36 37 17 41 17 41 42 41 44 17
+
+Khi tôi hỏi ai là người làm_chứng cho anh , ông Quyền trả_lời : " Không nhớ ai xác_nhận .
+Nt Pp Vv Pp Vc Nn Vv Cs Pp PU Nn Nr Vv PU PU R Vv Pp Vv PU
+NP_ADVMOD NSUBJ CCOMP NSUBJ CCOMP ATTR RCMOD PREP POBJ PUNCT NSUBJ NN ROOT PUNCT PUNCT ADJUNCT XCOMP NSUBJ CCOMP PUNCT
+13 3 1 5 3 5 6 7 8 13 13 11 0 17 17 17 13 19 17 13
+
+Không biết họ ở đâu .
+R Vv Pp Vv Pp PU
+ADJUNCT ROOT NSUBJ CCOMP OBJ PUNCT
+2 0 4 2 4 2
+
+Không biết bị_thương ngày nào " !
+R Vv Vv Nt Pd PU PU
+ADJUNCT ROOT XCOMP NP_ADVMOD DET PUNCT PUNCT
+2 0 2 3 4 2 2
+
+Ông Quyền thú_thật thẻ TB có được là nhờ một người trong xã làm hộ .
+Nn Nr Vv Nn Nn Ve M Vc Cs Num Nn Cs Nun Vv Vv PU
+NSUBJ NN ROOT NSUBJ NN CSUBJ INTJ CCOMP MARK NUM NSUBJ PREP POBJ CCOMP VMOD PUNCT
+3 1 0 6 4 8 6 3 14 11 14 11 12 8 14 3
+
+Anh Lê_Trần_Hường - đảng_viên , đại_biểu HĐND xã Sơn_Trà - bức_xúc kể một chuyện thật như bịa : Ngày 25_-_7_-_1968 trong trận oanh_tạc của máy_bay Mỹ , một quả bom_bi nổ tại xóm Pheo làm chết 11 người , trong đó có ông Lê_Văn_Khuyên .
+Nn Nr PU Nn PU Nn X Nun Nr PU Aa Vv Num Nn Aa Cs Vv PU Nt Nt Cs Nn Vv Cs Nn Nr PU Num Nc Nn Vv Cs Nun Nr Vv Vv Num Nn PU Cs Pd Ve Nn Nr PU
+NSUBJ NN PUNCT PARATAXIS PUNCT PARATAXIS DEP NP_ADVMOD NN PUNCT ACOMP ROOT NUM OBJ AMOD PREP PCOMP PUNCT NP_ADVMOD NN PARATAXIS POBJ VMOD PREP POBJ NN PUNCT NUM NSUBJ CLF CSUBJ PREP POBJ NN PARATAXIS VMOD NUM OBJ PUNCT PREP POBJ PARATAXIS OBJ NN PUNCT
+12 1 1 1 1 1 6 6 8 1 12 0 14 12 14 15 16 14 35 19 19 21 22 22 24 25 35 29 31 29 35 31 32 33 14 35 38 36 38 42 40 38 42 43 12
+
+Không biết do đâu mà năm 1997 xã lại lập hồ_sơ giả cho rằng ông Khuyên đang chỉ_huy dân_quân lấp hố bom thì bị bom sát_hại .
+R Vv Cp Pp Cp Nt Num Nun R Vv Nn Aa Vv Cs Nn Nr R Vv Nn Vv Nn Nn Cp Vv Nn Vv PU
+ADJUNCT ROOT CC CCOMP CC NP_ADVMOD NUM NSUBJ ADJUNCT CONJ OBJ AMOD RCMOD MARK NSUBJ NN ADJUNCT CCOMP OBJ VMOD OBJ NN CC CONJ NSUBJ CCOMP PUNCT
+2 0 4 2 4 10 6 10 10 4 10 11 11 18 18 15 18 13 18 18 20 21 18 18 26 24 2
+
+Thế là ông Khuyên trở_thành liệt_sĩ .
+Pp M Nn Nr Vv Nn PU
+ROOT INTJ NSUBJ NN CCOMP OBJ PUNCT
+0 1 5 3 1 5 1
+
+Chuyện bị lộ từ năm 2000 : khi UBND xã Sơn_Trà làm lễ khánh_thành nhà bia liệt_sĩ , nhiều người dân ngỡ_ngàng khi thấy tên ông Khuyên khắc nét trên bảng_vàng danh_dự tại dòng số 93 giữa danh_sách các anh_hùng , liệt_sĩ LBRK ! RBRK .
+Nn Vv Vv Cs Nt Num PU Nt X Nun Nr Vv Nn Vv Nn Nn Nn PU Aa Nc Nn Aa Nt Vv Nn Nn Nr Vv Aa Cs Nn Nn Cs Nn Nn An Cs Nn Nq Nn PU Nn LBRK PU RBRK PU
+NSUBJ ROOT VMOD PREP POBJ NUM PUNCT NP_ADVMOD NSUBJ NP_ADVMOD NN CCOMP OBJ RCMOD OBJ NN NN PUNCT AMOD NSUBJ CLF CCOMP NP_ADVMOD RCMOD NSUBJ NN NN CCOMP ACOMP PREP POBJ NN PREP POBJ NN AMOD PREP POBJ DET NN PUNCT CONJ PUNCT PUNCT PUNCT PUNCT
+2 0 2 3 4 5 22 22 12 9 10 8 12 13 14 15 16 22 20 22 20 3 22 23 28 25 26 24 28 28 30 31 31 33 34 35 28 37 40 38 40 40 2 2 2 2
+
+Cũng tại Sơn_Trà , ông Văn_Đình_Tuyết , đương_chức bí_thư đảng_uỷ xã , có ba nấc tuổi khác nhau gồm 1950 , 1949 , 1944 .
+R Cs Nr PU Nn Nr PU Aa Nn Nn Nun PU Ve Num Nn Nn Aa Nn Vv Num PU Num PU Num PU
+ADJUNCT PREP POBJ PUNCT NSUBJ NN PUNCT PARATAXIS OBJ NN NN PUNCT ROOT NUM OBJ CONJ AMOD OBJ RCMOD NP_ADVMOD PUNCT CONJ PUNCT CONJ PUNCT
+2 13 2 13 13 5 5 5 8 9 10 5 0 15 13 15 15 17 15 19 20 20 22 22 13
+
+Ông Tuyết phải khai_man tuổi để đủ năm làm Huy_chương Kháng_chiến chống Mỹ cứu nước hạng ba .
+Nn Nr Vv Vv Nn Cs Aa Nt Vv Nn Vv Vv Nr Vv Nn Nn An PU
+NSUBJ NN ROOT VMOD OBJ PREP PCOMP OBJ PCOMP OBJ RCMOD VMOD OBJ CONJ OBJ NN AMOD PUNCT
+3 1 0 3 4 4 6 7 6 9 10 11 12 12 14 10 16 3
+
+Trưa 29_-_9 , chúng_tôi đi tìm ông H_. - một cán_bộ tâm_huyết của Sơn_Trà .
+Nt Nt PU Pp Vv Vv Nn Nr PU Num Nn Aa Cs Nr PU
+NP_ADVMOD RCMOD PUNCT NSUBJ ROOT VMOD OBJ NN PUNCT NUM PARATAXIS AMOD PREP POBJ PUNCT
+5 1 5 5 0 5 6 7 7 11 7 11 11 13 5
+
+Không giấu_giếm , ông H_. nói : " Muốn làm được huân_huy_chương LBRK HHC RBRK các đối_tượng phải khai tuổi lùi một giáp mới có đủ năm công_tác theo yêu_cầu của chỉ_thị 26 .
+R Vv PU Nn Nr Vv PU PU Vv Vv R Nn LBRK Nn RBRK Nq Nn Vv Vv Nn Vv Num Nn R Ve Aa Nt Vv Vv Nn Cs Nn An PU
+ADJUNCT XCOMP PUNCT NSUBJ NN ROOT PUNCT PUNCT XCOMP VMOD ADJUNCT OBJ PUNCT PARATAXIS PUNCT DET NSUBJ CCOMP VMOD OBJ VMOD NUM OBJ ADJUNCT CONJ ACOMP OBJ VMOD VMOD OBJ PREP POBJ AMOD PUNCT
+2 6 6 6 4 0 18 18 18 9 10 10 12 12 12 17 18 6 18 19 19 23 21 25 18 25 26 27 26 29 30 31 32 6
+
+Nhưng khi làm hồ_sơ cán_bộ thì chính họ lại khai tiến trở_lại một giáp để đảm_bảo nhu_cầu trẻ hoá cán_bộ " !
+Cp Nt Vv Nn Nn Cp M Pp R Vv Vv Vv Num Nt Cs Vv Nn Aa Sv Nn PU PU
+CC NP_ADVMOD XCOMP OBJ NN CC INTJ NSUBJ ADJUNCT ROOT VMOD VMOD NUM NP_ADVMOD PREP PCOMP OBJ RCMOD SINO OBJ PUNCT PUNCT
+10 10 2 3 4 10 8 10 10 0 10 11 14 11 11 15 16 17 18 18 10 10
+
+Ông H_. còn cho biết cùng với ông Tuyết , các ông Nguyễn_Đình_Ngân - phó chủ_tịch xã , Lê_Văn_Tân - phó bí_thư kiêm chủ_tịch HĐND xã , Nguyễn_Nam_Đường - xã_đội phó đều có hai , ba nấc tuổi khác nhau để chạy HHC .
+Nn Nr R Vv Vv Aa Cs Nn Nr PU Nq Nn Nr PU Sv Nn Nun PU Nr PU Sv Nn Vv Nn X Nun PU Nr PU Nn Sv R Ve Num PU Num Nn Nn Aa Nn Cs Vv Nn PU
+NSUBJ NN ADJUNCT ROOT VMOD ADJP_ADVMOD PREP POBJ NN PUNCT DET NSUBJ NN PUNCT SINO NN PARATAXIS PUNCT CONJ PUNCT SINO PARATAXIS RCMOD OBJ NN NN PUNCT CONJ PUNCT PARATAXIS SINO ADJUNCT CCOMP NUM PUNCT CONJ OBJ CONJ AMOD OBJ PREP PCOMP OBJ PUNCT
+4 1 4 0 4 33 6 7 8 33 12 33 12 13 16 17 13 13 13 19 22 19 22 23 24 25 19 19 28 28 30 33 5 37 34 34 33 37 37 39 37 41 42 4
+
+Trẻ nhất trong số người chạy HHC giả là ông Nguyễn_Đình_Thân - xã_đội trưởng , sinh năm 1956 , đi bộ_đội năm 1978 nhưng cũng có cả Huân_chương và Huy_chương Kháng_chiến chống Mỹ hạng nhì .
+Aa R Cs Nn Nn Vv Nn Aa Vc Nn Nr PU Nn Sv PU Vv Nt Num PU Vv Nn Nt Num Cp R Ve Nw Nn Cp Nn Vv Vv Nr Nn An PU
+ASUBJ ADJUNCT PREP POBJ CONJ RCMOD OBJ AMOD ROOT ATTR NN PUNCT PARATAXIS SINO PUNCT PARATAXIS NP_ADVMOD NUM PUNCT CONJ OBJ NP_ADVMOD NUM CC ADJUNCT CONJ DET OBJ CC CONJ RCMOD VMOD OBJ NN AMOD PUNCT
+9 1 1 3 4 4 6 7 0 9 10 10 10 13 10 10 16 17 16 16 20 20 22 16 26 16 28 26 28 28 28 31 32 28 34 9
+
+Em ruột của ông Thân là Nguyễn_Hữu_Chỉnh LBRK nguyên phó chủ_tịch xã RBRK sinh 1958 , đi bộ_đội năm 1978 nhưng trong nhà vẫn treo một Huy_chương chống Mỹ hạng ba ...
+Nn Aa Cs Nn Nr Vc Nr LBRK Sv Sv Nn Nun RBRK Vv Num PU Vv Nn Nt Num Cs Cs Nn R Vv Num Nn Vv Nr Nn An PU
+NSUBJ AMOD PREP POBJ NN ROOT ATTR PUNCT NN SINO SINO PARATAXIS PUNCT PARATAXIS DEP PUNCT PARATAXIS OBJ NP_ADVMOD NUM MARK PREP POBJ ADJUNCT XCOMP NUM OBJ RCMOD OBJ NN AMOD PUNCT
+6 1 1 3 4 0 6 7 12 11 9 7 7 7 14 7 7 17 17 19 6 25 22 25 6 27 25 27 28 27 30 6
+
+Chiều 29_-_9 tại văn_phòng đảng_uỷ xã , tôi trực_tiếp gặp ông Tuyết , ông Tân hỏi kỹ nguyên_nhân " ba nấc tuổi " của một loạt cán_bộ xã nhưng cả hai đều cam_đoan đó chỉ là tin_đồn nhảm .
+Nt Nt Cs Nn Nn Nun PU Pp Aa Vv Nn Nr PU Nn Nr Vv Aa Nn PU Num Nn Nn PU Cs Num Nn Nn Nun Cs Nw Num R Vv Pd R Vc Nn Aa PU
+NP_ADVMOD NN PREP POBJ NN NN PUNCT NSUBJ ACOMP ROOT OBJ NN PUNCT CONJ NN VMOD ACOMP OBJ PUNCT NUM NN CONJ PUNCT PREP NUM POBJ NN NN MARK DET NSUBJ ADJUNCT CCOMP NSUBJ ADJUNCT CCOMP ATTR AMOD PUNCT
+10 1 10 3 4 4 10 10 10 0 10 11 11 11 14 10 16 16 21 21 18 21 21 21 26 24 26 27 10 31 33 33 10 36 36 33 36 37 10
+
+Nhưng tại văn_phòng uỷ_ban xã , ông Thân đã không ngần_ngại thú_nhận : " Tôi sai và ân_hận vì việc mình đi chạy khen_thưởng .
+Cp Cs Nn Nn Nun PU Nn Nr R R Vv Vv PU PU Pp Aa Cp Vv Cs Nn Nn Vv Vv Vv PU
+CC PREP POBJ NN NN PUNCT NSUBJ NN ADJUNCT ADJUNCT ROOT VMOD PUNCT PUNCT NSUBJ CCOMP CC CONJ PREP POBJ NSUBJ CCOMP VMOD VMOD PUNCT
+11 11 2 3 3 11 11 7 10 11 0 11 16 16 16 12 16 16 18 19 22 20 22 23 11
+
+Mới_đây phòng thi_đua khen_thưởng huyện đã về thu bảy HHC giả trong đó có ông Tuyết , ông Tân , ông Đường , ông Ngân ... " .
+Nt Nn Vv Vv Nun R Vv Vv Num Nn Aa Cs Pd Ve Nn Nr PU Nn Nr PU Nr Nr PU Nn Nr PU PU PU
+NP_ADVMOD NSUBJ RCMOD CONJ NN ADJUNCT ROOT VMOD NUM OBJ AMOD PREP POBJ CCOMP OBJ NN PUNCT CONJ NN PUNCT CONJ NN PUNCT CONJ NN PUNCT PUNCT PUNCT
+7 7 2 3 2 7 0 7 10 8 10 14 12 10 14 15 15 15 18 18 18 21 21 21 24 15 7 7
+
+Riêng trường_hợp liệt_sĩ giả , ông Nguyễn_Văn_Hoá - chủ_tịch xã - giải_thích : " Nguyên_tắc khi Chủ_tịch nước ra quyết_định thu_hồi bằng Tổ_quốc ghi công đối_với trường_hợp liệt_sĩ giả thì cơ_sở mới được xoá tên người đó , nhưng do sức_ép của dư_luận nên chúng_tôi đã tạm_thời xoá tên ông Lê_Văn_Khuyên trong bảng_vàng danh_dự trước đài liệt_sĩ của xã " .
+M Nn Nn Aa PU Nn Nr PU Nn Nun PU Vv PU PU Nn Nt Nn Nn Vv Nn Vv Nn Nn Vv Nn Cs Nn Nn Aa Cp Nn R Vv Vv Nn Nn Pd PU Cp Cs Nn Cs Nn Cp Pp R Aa Vv Nn Nn Nr Cs Nn Nn Cs Nn Nn Cs Nun PU PU
+INTJ OBJ NN AMOD PUNCT NSUBJ NN PUNCT PARATAXIS NN PUNCT ROOT PUNCT PUNCT NSUBJ NP_ADVMOD NSUBJ NN CCOMP OBJ RCMOD OBJ NN RCMOD OBJ PREP POBJ NN AMOD CC NSUBJ ADJUNCT DEP VMOD OBJ NN DET PUNCT CC PREP POBJ PREP POBJ CC NSUBJ ADJUNCT ACOMP CONJ OBJ NN NN PREP POBJ NN PREP POBJ NN PREP POBJ PUNCT PUNCT
+2 12 2 3 12 12 6 6 6 9 6 0 33 33 33 33 19 17 16 19 20 21 22 23 24 21 26 27 28 33 33 33 12 33 34 35 36 33 33 48 40 41 42 48 48 48 48 33 48 49 50 49 52 53 53 55 56 56 58 33 12
+
+Rời đài liệt_sĩ xã Sơn_Trà , tôi về xã Đức_Hoà , huyện Đức_Thọ .
+Vv Nn Nn Nun Nr PU Pp Vv Nun Nr PU Nun Nr PU
+XCOMP NP_ADVMOD NN NN NN PUNCT NSUBJ ROOT NP_ADVMOD NN PUNCT PARATAXIS NN PUNCT
+8 1 2 2 4 8 8 0 8 9 9 9 12 8
+
+Tại xã này năm 2003 nạn cán_bộ xã đua nhau làm TB , HHC giả từng rộ lên nhức_nhối .
+Cs Nun Pd Nt Num Nn Nn Nun Vv Nn Vv Nn PU Nn Aa R Vv R Aa PU
+PREP POBJ DET NP_ADVMOD NUM NSUBJ NSUBJ NN CCOMP OBJ VMOD OBJ PUNCT CONJ AMOD ADJUNCT ROOT ADJUNCT ACOMP PUNCT
+17 1 2 17 4 17 9 7 6 9 9 11 12 12 12 17 0 17 17 17
+
+Huyện tổ_chức thanh_tra nhiều lần , thu_hồi HHC và xử_lý kỷ_luật , đình_chỉ công_tác toàn_bộ cán_bộ chủ_chốt xã gồm 13 vị .
+Nun Vv Vv Aa Nn PU Vv Nn Cp Vv Vv PU Vv Nn Nw Nn Aa Nun Vv Num Nn PU
+NSUBJ ROOT VMOD AMOD OBJ PUNCT CONJ OBJ CC CONJ VMOD PUNCT CONJ OBJ DET IOBJ AMOD NN RCMOD NUM OBJ PUNCT
+2 0 2 5 3 2 2 7 7 7 10 10 10 13 16 13 16 16 16 21 19 2
+
+31_% , 61_% , 81_% : cỡ nào cũng có .
+Nq PU Nq PU Nq PU Nn Pd R Ve PU
+PARATAXIS PUNCT CONJ PUNCT CONJ PUNCT NSUBJ DET ADJUNCT ROOT PUNCT
+10 1 1 3 3 10 10 7 10 0 10
+
+Tôi theo ông Chính trong vai người đi làm TB giả đến xã Xuân_Giang , thị_trấn huyện Nghi_Xuân gặp " trùm cò " Đ.T.K .
+Pp Vv Nn Nr Cs Nn Nn Vv Vv Nn Aa Vv Nun Nr PU Nun Nun Nr Vv PU Nn Nn PU Nr PU
+NSUBJ VMOD OBJ NN PREP POBJ NSUBJ CCOMP VMOD OBJ AMOD ROOT NP_ADVMOD NN PUNCT PARATAXIS NN NN VMOD PUNCT OBJ NN PUNCT NN PUNCT
+12 12 2 3 12 5 8 6 8 9 10 0 12 13 13 13 16 17 12 21 19 21 21 21 12
+
+Ông Chính nói : " Tôi là TB đã có tỉ_lệ_phần_trăm rồi nên hai năm được phép giám_định lại một lần ... " .
+Nn Nr Vv PU PU Pp Vc Nn R Ve Nn R Cp Num Nu Vv Nn Vv R Num Nn PU PU PU
+NSUBJ NN ROOT PUNCT PUNCT NSUBJ CCOMP ATTR ADJUNCT RCMOD OBJ ADJUNCT CC NUM NP_ADVMOD CONJ OBJ RCMOD ADJUNCT NUM NP_ADVMOD PUNCT PUNCT PUNCT
+3 1 0 7 7 7 3 7 10 8 10 10 7 15 16 7 16 17 18 21 18 7 7 3
+
+Mới nghe đến đó tức_thì cò K_. hướng_dẫn nên đặt_cọc ngay để nâng tỉ_lệ_phần_trăm lên .
+R Vv Cs Pd R Nn Nr Vv Vv Vv R Cs Vv Nn R PU
+ADJUNCT XCOMP PREP POBJ ADJUNCT NSUBJ NN ROOT XCOMP VMOD ADJUNCT PREP PCOMP OBJ ADJUNCT PUNCT
+2 8 2 3 8 8 6 0 8 9 10 10 12 13 13 8
+
+" Bác trả 1,5 triệu đồng , tôi sẽ nâng 31_% của bác lên 61_% ngay_lập_tức " .
+PU Pp Vv Num Nq Nu PU Pp R Vv Nq Cs Pp Cs Nq R PU PU
+PUNCT NSUBJ ROOT NUMBER NUM OBJ PUNCT NSUBJ ADJUNCT CONJ OBJ PREP POBJ PREP POBJ ADJUNCT PUNCT PUNCT
+3 3 0 5 6 3 3 10 10 3 10 11 12 10 14 10 3 3
+
+Với bài_tính 31_% mỗi tháng được hưởng 192.000 đồng , 61_% thì được gấp đôi , " vậy trong một năm bác sẽ khấu_hao số tiền bỏ ra , còn lại một đời hưởng lộc " , ông Chính đang lưỡng_lự thì K_. yêu_cầu cởi hết quần_áo dài của ông ra để K_. xem thử các vết_thương .
+Cs Nn Nq Nq Nu Vv Vv Num Nu PU Nq Cp Vv Vv Nq PU PU Pp Cs Num Nu Pp R Vv Nn Nn Vv R PU Ve R Num Nn Vv Nn PU PU Nn Nr R Vv Cp Nr Vv Vv R Nn Aa Cs Pp R Cs Nr Vv Vv Nq Nn PU
+PREP POBJ NP_ADVMOD DET NP_ADVMOD CCOMP VMOD NUM OBJ PUNCT NP_ADVMOD CC CONJ VMOD DEP PUNCT PUNCT ROOT PREP NUM POBJ NSUBJ ADJUNCT CONJ OBJ NN RCMOD ADJUNCT PUNCT CONJ ADJUNCT NUM OBJ RCMOD OBJ PUNCT PUNCT NSUBJ NN ADJUNCT CONJ CC NSUBJ CONJ VMOD ADJUNCT OBJ AMOD PREP POBJ ADJUNCT PREP NSUBJ PCOMP VMOD DET OBJ PUNCT
+18 1 6 5 6 2 6 9 7 6 13 13 6 13 14 18 18 0 24 21 19 24 24 18 24 25 25 27 24 24 30 33 30 33 34 18 18 41 38 41 18 41 44 41 44 45 45 47 47 49 45 45 54 52 54 57 54 18
+
+Bàn_tay y đặt lên lưng ông Chính dò_tìm .
+Nn Nn Vv Cs Nn Nn Nr Vv PU
+NSUBJ NN ROOT PREP POBJ NN NN VMOD PUNCT
+3 1 0 3 4 5 6 3 3
+
+Bỗng K_. nói : " Đây rồi , chỉ cần một vết sẹo này là làm được TB ! " .
+R Nr Vv PU PU Pd M PU R Vv Num Nn Nn Pd Vc Vv R Nn PU PU PU
+ADJUNCT NSUBJ ROOT PUNCT PUNCT DEP INTJ PUNCT ADJUNCT VSUBJ NUM OBJ NN DET CCOMP VMOD ADJUNCT OBJ PUNCT PUNCT PUNCT
+3 3 0 15 15 15 6 15 10 15 12 10 12 12 3 15 16 16 15 15 3
+
+Nhưng khi các ngón tay K_. dò tiếp và bắt_gặp trên đầu ông Chính một vết sẹo to phía trong có một miểng đạn nhô ra , y bỗng reo lên : " Đây mới thật là vết_thương vàng .
+Cp Nt Nq Nn Nn Nr Vv Vv Cp Vv Cs Nn Nn Nr Num Nn Nn Aa Nn Nn Ve Num Nn Nn Vv R PU Nn R Vv R PU PU Pd R R Vc Nn Nn PU
+CC NP_ADVMOD DET NSUBJ NN NN CCOMP VMOD CC CONJ PREP POBJ NN NN NUM OBJ NN AMOD NN NN RCMOD NUM OBJ NN RCMOD ADJUNCT PUNCT NSUBJ ADJUNCT ROOT ADJUNCT PUNCT PUNCT NSUBJ ADJUNCT ADJUNCT CCOMP ATTR NN PUNCT
+30 30 4 7 4 4 2 7 7 7 10 11 12 13 16 10 16 16 16 19 19 23 21 23 23 25 30 30 30 0 30 37 37 37 36 37 30 37 38 30
+
+Nếu vào khám bác chỉ cần giả_vờ điên_điên khùng_khùng một lúc thì họ sẽ kết_luận bác bị tâm_thần phân_liệt , tôi sẽ nâng lên 81_% LBRK diện TB được Nhà_nước chăm nuôi RBRK ngay " .
+Cp Vv Vv Pp R Vv Vv Aa Aa Num Nt Cp Pp R Vv Nn Vv Nn Vv PU Pp R Vv R Nq LBRK Nn Nn Vv Nn Vv Vv RBRK M PU PU
+CC XCOMP VMOD NSUBJ ADJUNCT ROOT VMOD OBJ CONJ NUM NP_ADVMOD CC NSUBJ ADJUNCT CONJ NSUBJ CCOMP OBJ VMOD PUNCT NSUBJ ADJUNCT CONJ ADJUNCT OBJ PUNCT PARATAXIS NSUBJ CCOMP NSUBJ CCOMP VMOD PUNCT INTJ PUNCT PUNCT
+6 6 2 6 6 0 6 7 8 11 7 6 15 15 6 17 15 17 18 15 23 23 15 23 23 25 25 29 27 31 29 31 25 23 6 6
+
+Ở Nghi_Xuân có ba " trùm cò " nhưng nổi_bật là cò K_. , thứ đến là cò D_. ở xóm Lam_Thuỷ , xã Xuân_Giang và cò T_. ở xã Tiên_Điền .
+Cs Nr Ve Num PU Nn Nn PU Cp Aa Vc Nn Nr PU Nn Vv Vc Nn Nr Cs Nun Nr PU Nun Nr Cp Nn Nr Cs Nun Nr PU
+PREP POBJ ROOT NUM PUNCT OBJ NN PUNCT CC ASUBJ CONJ ATTR NN PUNCT NSUBJ VMOD CONJ ATTR NN PREP POBJ NN PUNCT PARATAXIS NN CC CONJ NN PREP POBJ NN PUNCT
+3 1 0 6 6 3 6 6 3 11 3 11 12 11 17 15 11 17 18 18 20 21 21 21 24 18 18 27 27 29 30 3
+
+Cò K_. nguyên là đảng_viên , sau khi bị khai_trừ khỏi Đảng y đi làm thợ_nề rồi gia_nhập đường_dây làm TB giả .
+Nn Nr R Vc Nn PU Cs Nt Vv Vv Vv Nn Nn Vv Vv Nn Cp Vv Nn Vv Nn Aa PU
+NSUBJ NN ADJUNCT ROOT ATTR PUNCT PREP POBJ XCOMP VMOD VMOD OBJ NSUBJ CONJ VMOD OBJ CC CONJ OBJ RCMOD OBJ AMOD PUNCT
+4 1 4 0 4 4 14 7 8 9 10 11 14 4 14 15 14 14 18 19 20 21 4
+
+Ba năm nay y " làm_ăn " phất lên thấy rõ .
+Num Nu Nt Nn PU Vv PU Vv R Vv Aa PU
+NUM NP_ADVMOD NN NSUBJ PUNCT ROOT PUNCT VMOD ADJUNCT VMOD ACOMP PUNCT
+2 6 2 6 6 0 6 6 8 8 10 6
+
+Gốc của các cò đều là TB thật .
+Nn Cs Nq Nn R Vc Nn Aa PU
+NSUBJ PREP DET POBJ ADJUNCT ROOT ATTR AMOD PUNCT
+6 1 4 2 6 0 6 7 6
+
+Sau vài lần giám_định nắm được qui_luật ăn_tiền của một_số cán_bộ mất phẩm_chất , các cò bèn thiết_lập đường_dây làm giả TB với bài quảng_cáo : " Muốn giảm thuế nông_nghiệp LBRK trước đây TB nhẹ được giảm 30 - 50_% , TB nặng được giảm 100_% RBRK ; muốn con được giảm học_phí , tiền xây_dựng trường , thêm điểm ưu_tiên vào ĐH ... thì không có cách gì ngon_ăn bằng làm TB giả " .
+Cs Nq Nn Vv Vv R Nn Vv Cs Nq Nn Ve Nn PU Nq Nn R Vv Nn Vv Vv Nn Cs Nn Vv PU PU Vv Vv Nn Nn LBRK Cs Pd Nn Aa Vv Vv Num PU Nq PU Nn Aa Vv Vv Nq RBRK PU Vv Pp Vv Vv Nn PU Nn Vv Nn PU Vv Nn Aa Cs Nn PU Cp R Ve Nn Pp Aa Vcp Vv Nn Aa PU PU
+PREP DET POBJ VMOD XCOMP ADJUNCT OBJ VMOD PREP DET POBJ RCMOD OBJ PUNCT DET NSUBJ ADJUNCT ROOT OBJ RCMOD VMOD OBJ PREP POBJ RCMOD PUNCT PUNCT VSUBJ VMOD OBJ NN PUNCT PREP POBJ NSUBJ AMOD PARATAXIS VMOD OBJ PUNCT DET PUNCT NSUBJ AMOD CONJ VMOD OBJ PUNCT PUNCT CONJ NSUBJ CCOMP VMOD OBJ PUNCT CONJ RCMOD OBJ PUNCT CONJ OBJ AMOD PREP POBJ PUNCT CC ADJUNCT CCOMP OBJ DET AMOD VMOD VMOD OBJ AMOD PUNCT PUNCT
+18 3 1 3 18 5 5 7 7 11 9 11 12 18 16 18 18 0 18 19 20 21 19 23 24 68 68 68 28 29 30 30 37 33 37 35 30 37 38 39 39 37 45 43 37 45 46 30 28 28 52 50 52 53 54 54 56 57 53 53 60 61 61 63 28 68 68 25 68 69 69 71 72 73 74 68 18
+
+Ông Chính cho biết năm 2000 giá làm mỗi suất TB giả khoảng 3,5 triệu đồng , nhưng đến tháng 9_-_2004 đã tăng vọt lên 11 triệu đồng_[]_suất .
+Nn Nr Vv Vv Nt Num Nn Vv Nq Nn Nn Aa R Num Nq Nu PU Cp Cs Nt Nt R Vv Vv M Num Nq Nu PU
+NSUBJ NN ROOT VMOD NP_ADVMOD NUM NSUBJ RCMOD DET OBJ NN AMOD ADJUNCT NUMBER NUM CCOMP PUNCT CC PREP POBJ NN ADJUNCT CONJ VMOD QUANTMOD NUMBER NUM OBJ PUNCT
+3 1 0 3 16 5 16 7 10 8 10 11 15 15 16 4 16 16 23 19 20 23 16 23 27 27 28 23 3
+
+Nếu đồng_ý , khi vào khám các cò dặn tuỳ nơi cho phần_trăm nặng nhẹ mà chi tiền , ví_như khám tai_mũi_họng thì chi ít hơn khám phần xương .
+Cp Vv PU Nt Vv Vv Nq Nn Vv Vv Nn Vv Nu Aa Aa Cp Vv Nn PU Cp Vv Nn Cp Vv Aa Vcp Vv Nn Nn PU
+CC ROOT PUNCT NP_ADVMOD XCOMP VMOD DET NSUBJ CONJ VMOD OBJ RCMOD OBJ AMOD CONJ CC CCOMP OBJ PUNCT CC VSUBJ OBJ CC CONJ ACOMP VMOD VMOD OBJ NN PUNCT
+2 0 2 9 4 5 8 9 2 17 10 11 12 13 14 17 9 17 17 17 24 21 24 17 24 25 26 27 28 2
+
+Để có một tấm thẻ TB giả có khi các cò phải lặn_lội vào đơn_vị cũ tận trong các tỉnh miền Nam để mua hai loại giấy .
+Cs Ve Num Nc Nn Nn Aa Ve Nt Nq Nn Vv Vv Cs Nn Aa Aa Cs Nq Nun Nn Nn Cs Vv Num Nn Nn PU
+PREP PCOMP NUM OBJ CLF NN AMOD ROOT NP_ADVMOD DET NSUBJ CCOMP VMOD VMOD NP_ADVMOD AMOD AMOD PREP DET POBJ NN NN PREP PCOMP NUM OBJ NN PUNCT
+8 1 4 2 4 4 4 0 8 11 12 9 12 13 14 15 15 17 20 18 20 21 14 23 26 24 26 8
+
+Một là giấy chứng_thương , hai là giấy quyết_định phục_viên .
+Num Vc Nn Vv PU Num Vc Nn Vv Vv PU
+NSUBJ ROOT ATTR VMOD PUNCT NSUBJ CONJ ATTR RCMOD VMOD PUNCT
+2 0 2 3 2 7 2 7 8 9 2
+
+Vì thế mà ở huyện Nghi_Xuân có người từng là lính hải_quân bỗng chuyển thành TB bộ_binh ...
+Cp Pp Cp Cs Nun Nr Ve Nn R Vc Nn Nn R Vv Vv Nn Nn PU
+CC ROOT CC PREP POBJ NN CONJ NSUBJ ADJUNCT CCOMP ATTR NN ADJUNCT CONJ VMOD OBJ NN PUNCT
+2 0 2 7 4 5 2 10 10 7 10 11 14 10 14 15 16 2
+
+Chiều 30_-_9_-_2004 tại Phòng LĐ_-_TB_&_XH huyện Nghi_Xuân , ông Lê_Nguyên_Cường , phó phòng , bức_xúc nói : " Bây_giờ cò_mồi về làm công_khai dưới xã vì họ có đường_dây tinh_vi với nhiều vỏ bọc khác nhau .
+Nt Nt Cs Nn X Nun Nr PU Nn Nr PU Sv Nn PU Aa Vv PU PU Pd Nn Vv Vv Aa Cs Nun Cs Pp Ve Nn Aa Cs Aa Nn Vv Aa Nn PU
+NP_ADVMOD NN PREP POBJ DEP NP_ADVMOD NN PUNCT NSUBJ NN PUNCT SINO PARATAXIS PUNCT ACOMP ROOT PUNCT PUNCT NP_ADVMOD NSUBJ CCOMP VMOD ACOMP PREP POBJ MARK NSUBJ ADVCL OBJ AMOD PREP AMOD POBJ VMOD AMOD OBJ PUNCT
+16 1 16 3 4 4 6 16 16 9 9 13 9 9 16 0 21 21 21 21 16 21 22 23 24 28 28 23 28 29 29 33 31 33 33 35 16
+
+Còn người dân thì ồ_ạt đi làm TB giả .
+Cp Nc Nn Cp Aa Vv Vv Nn Aa PU
+CC NSUBJ CLF CC ACOMP ROOT VMOD OBJ AMOD PUNCT
+6 6 2 6 6 0 6 7 8 6
+
+Tôi đã báo công_an rồi nhưng cò vẫn ngang_nhiên hoạt_động , TB giả vẫn có thẻ " .
+Pp R Vv Nn R Cp Nn R Aa Vv PU Nn Aa R Ve Nn PU PU
+NSUBJ ADJUNCT ROOT OBJ ADJUNCT CC NSUBJ ADJUNCT ACOMP CONJ PUNCT NSUBJ AMOD ADJUNCT CONJ OBJ PUNCT PUNCT
+3 3 0 3 3 3 10 10 10 3 10 15 12 15 10 15 3 3
+
+Theo ông Cường , huyện Nghi_Xuân vừa để lọt 142 trường_hợp dân_công hoả_tuyến làm TB giả vì họ lách qua cả hội_đồng xác_nhận người có công của xã , huyện và nhờ người khác ký , thế là xong .
+Vv Nn Nr PU Nun Nr R Vv Vv Num Nn Nn Nn Vv Nn Aa Cs Pp Vv Cs Nw Nn Vv Nn Ve Nn Cs Nun PU Nun Cp Vv Nn Aa Vv PU Pp Vc VA PU
+VMOD OBJ NN PUNCT NSUBJ NN ADJUNCT ROOT VMOD NUM OBJ NN NN RCMOD OBJ AMOD MARK NSUBJ ADVCL PREP DET POBJ RCMOD OBJ RCMOD OBJ PREP POBJ PUNCT CONJ CC CONJ OBJ AMOD VMOD PUNCT NSUBJ CONJ VMOD PUNCT
+8 1 2 8 8 5 8 0 8 11 9 11 12 11 14 15 19 19 9 19 22 20 22 23 24 25 22 27 28 28 19 19 32 33 32 19 38 19 38 8
+
+Cũng theo ông Cường , thông_tư 27 LBRK ngày 3_-_11_-_1999 RBRK của Bộ LĐ_-_TB_&_XH cho_phép không_chỉ TNXP mà tất_cả đối_tượng , chỉ cần có xác_nhận bị_thương của hai người và bản khai bị_thương là có_thể làm được TB nên các đối_tượng LBRK có người không đi bộ_đội , TNXP RBRK ồ_ạt đi làm TB .
+R Vv Nn Nr PU Nn An LBRK Nt Nt RBRK Cs Nn X Vv Cp X Cp Nw Nn PU R Vv Ve Nn Vv Cs Num Nn Cp Nc Vv Vv Vc Aa Vv R Nn Cp Nq Nn LBRK Ve Nn R Vv Nn PU X RBRK Aa Vv Vv Nn PU
+ADJUNCT ROOT OBJ NN PUNCT NSUBJ AMOD PUNCT PARATAXIS NN PUNCT PREP POBJ DEP CCOMP CC OBJ CC DET CONJ PUNCT ADJUNCT VSUBJ VMOD OBJ VMOD PREP NUM POBJ CC CONJ CLF VMOD PARATAXIS ACOMP VMOD ADJUNCT OBJ CC DET NSUBJ PUNCT PARATAXIS NSUBJ ADJUNCT CCOMP OBJ PUNCT DEP PUNCT ACOMP CCOMP VMOD OBJ PUNCT
+2 0 2 3 2 15 6 6 6 9 6 6 12 13 2 17 15 17 20 17 15 23 34 23 24 25 25 29 27 25 25 31 31 15 36 34 36 36 2 41 52 41 41 46 46 43 46 47 47 41 52 2 52 53 2
+
+Đây là lý_do trong 30 năm LBRK 1965 - 1995 RBRK cả huyện Nghi_Xuân chỉ có 900 TB , nhưng trong vòng chín năm LBRK 1995 - 2004 RBRK số TB của Nghi_Xuân tăng lên đến đáng ngờ - 1.459 TB các loại .
+Pd Vc Nn Cs Num Nu LBRK Num PU Num RBRK Nw Nun Nr R Ve Num Nn PU Cp Cs Nn Num Nu LBRK Num PU Num RBRK Nn Nn Cs Nr Vv R M Vv Vv PU Num Nn Nq Nn PU
+NSUBJ ROOT ATTR PREP NUM POBJ PUNCT PARATAXIS PUNCT CONJ PUNCT DET NSUBJ NN ADJUNCT CCOMP NUM OBJ PUNCT CC PREP PCOMP NUM POBJ PUNCT PARATAXIS PUNCT CONJ PUNCT NSUBJ NN PREP POBJ CONJ ADJUNCT INTJ VMOD VMOD PUNCT NUM PARATAXIS DET NN PUNCT
+2 0 2 16 6 4 6 6 8 8 6 13 16 13 16 3 18 16 16 16 34 21 24 21 24 24 26 26 24 34 30 30 32 16 34 37 34 37 34 41 34 43 41 2
+

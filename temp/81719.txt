@@ -1,0 +1,295 @@
+Theo chân đội quy_tập mộ liệt_sĩ LBRK kì 1 RBRK : Đêm Thượng_Lào cuối mùa khô .
+Vv Nn Nn Vv Nn Nn LBRK Nn An RBRK PU Nt Nr Cs Nn Aa PU
+ROOT OBJ NN RCMOD OBJ NN PUNCT PARATAXIS AMOD PUNCT PUNCT OBJ NN PREP POBJ AMOD PUNCT
+0 1 2 3 4 5 1 1 8 1 1 1 12 12 14 15 1
+
+Trong cuộc chiến_đấu vì nghĩa_vụ quốc_tế với nước bạn Lào có 36_._000 quân_tình_nguyện VN mãi_mãi nằm lại trên những cánh rừng bạt_ngàn trên đất bạn .
+Cs Ncs Vv Cs Nn Aa Cs Nn Nn Nr Ve Num Nn Nr R Vv R Cs Nq Nn Nn Aa Cs Nn Pp PU
+PREP POBJ CLF PREP POBJ AMOD PREP POBJ NN NN ROOT NUM NSUBJ NN ADJUNCT CCOMP ADJUNCT PREP DET POBJ NN AMOD PREP POBJ DET PUNCT
+11 1 2 2 4 5 5 7 8 8 0 13 16 13 16 11 16 16 20 18 20 20 20 23 24 11
+
+Tìm_kiếm hài_cốt liệt_sĩ , hơn 20 năm qua , những người lính hậu sinh đã vượt rừng đến những vùng hiểm_trở nhất ...
+Vv Nn Nn PU R Num Nu Aa PU Nq Nc Nn Sv Vv R Vv Nn Vv Nq Nn Aa R PU
+XCOMP OBJ NN PUNCT ADJUNCT NUM NP_ADVMOD AMOD PUNCT DET NSUBJ CLF SINO RCMOD ADJUNCT ROOT OBJ VMOD DET NP_ADVMOD AMOD ADJUNCT PUNCT
+16 1 2 16 6 7 16 7 16 11 16 11 14 11 16 0 16 16 20 18 20 21 16
+
+Phóng_viên Vũ_Toàn của báo Tuổi_Trẻ đã có những ngày_đêm cùng những người lính trẻ băng rừng lội suối trên đất Lào để tường_trình một phần hành_trình thầm_lặng trong thời bình nhưng không kém phần gian_khó để tìm_kiếm một phần thân_thể , hình_hài những người lính đã nằm_xuống ...
+Nn Nr Cs Nn Nn R Ve Nq Nu Aa Nq Nc Nn Aa Vv Nn Vv Nn Cs Nn Nr Cs Vv Num Nn Nn Aa Cs Nt Nn Cp R Aa Nn Aa Cs Vv Num Nn Nn PU Nn Nq Nc Nn R Vv PU
+NSUBJ NN PREP POBJ NN ADJUNCT ROOT DET OBJ CCOMP DET OBJ CLF AMOD VMOD OBJ CONJ OBJ PREP POBJ NN PREP PCOMP NUM OBJ NN AMOD PREP POBJ NN CC ADJUNCT CONJ OBJ AMOD PREP PCOMP NUM OBJ NN PUNCT CONJ DET NN CLF ADJUNCT RCMOD PUNCT
+7 1 1 3 4 7 0 9 7 9 12 10 12 12 10 15 15 17 18 19 20 17 22 25 23 25 26 27 28 29 27 33 27 33 34 26 36 39 37 39 40 40 44 40 44 47 44 7
+
+Những chấm đỏ trên tấm bản_đồ chiến_dịch .
+Nq Nn Aa Cs Nc Nn Nn PU
+DET ROOT AMOD PREP POBJ CLF NN PUNCT
+2 0 2 2 4 5 5 2
+
+Tôi đến được hậu cứ của đoàn quy_tập hài_cốt quân_tình_nguyện của Bộ chỉ_huy quân_sự tỉnh Nghệ_An đóng tại bìa rừng vùng ven thị_xã Phôn_Sa_Vẳn , tỉnh Xiêng_Khuảng LBRK miền Thượng_Lào RBRK thì trời đã khuya .
+Pp Vv M Sv Nn Cs Nn Vv Nn Nn Cs Nn Vv Nn Nun Nr Vv Cs Nn Nn Nn Nn Nun Nr PU Nun Nr LBRK Nn Nr RBRK Cp Nn R Aa PU
+NSUBJ ROOT INTJ SINO NP_ADVMOD PREP POBJ RCMOD OBJ NN PREP POBJ RCMOD OBJ NP_ADVMOD NN RCMOD PREP POBJ NN NN NN NN NN PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT CC NSUBJ ADJUNCT CONJ PUNCT
+2 0 2 5 2 5 6 7 8 9 7 11 12 13 12 15 12 17 18 19 19 21 21 23 23 23 26 26 26 29 26 2 35 35 2 2
+
+Trong dãy nhà mái tôn thấp bé , những người lính quy_tập nằm úp_thìa bên nhau theo đội_hình hàng dọc trên từng dãy phản gỗ .
+Cs Nn Nn Nn Nn Aa Aa PU Nq Nc Nn Vv Vv Vv Nn Nn Vv Nn Nn Aa Cs Pp Nn Nn Nn PU
+PREP POBJ NN NN NN AMOD CONJ PUNCT DET NSUBJ CLF VMOD ROOT VMOD OBJ NN VMOD OBJ NN AMOD PREP DET POBJ NN NN PUNCT
+13 1 2 2 4 2 6 13 10 13 10 10 0 13 13 15 13 17 18 19 13 23 21 23 24 13
+
+Phía ngoài sân thấp_thoáng bóng hai chiến_sĩ quàng súng đứng gác đêm .
+Nn Cs Nn Vv Nn Num Nn Vv Nn Vv Vv Nt PU
+NP_ADVMOD PREP POBJ ROOT OBJ NUM NN RCMOD OBJ RCMOD VMOD OBJ PUNCT
+4 1 2 0 4 7 5 7 8 7 10 11 4
+
+Thượng_tá Hồ_Trọng_Bình , đoàn trưởng đoàn quy_tập , dẫn tôi vào phòng chỉ_huy .
+Nn Nr PU Nn Sv Nn Vv PU Vv Pp Cs Nn Vv PU
+NSUBJ NN PUNCT NN SINO PARATAXIS VMOD PUNCT ROOT OBJ PREP POBJ VMOD PUNCT
+9 1 1 6 4 1 6 1 0 9 9 11 12 9
+
+Dù đêm đã khuya nhưng anh vẫn nhiệt_tình mang tấm bản_đồ mà các anh gọi là " bản_đồ chiến_dịch đi tìm mộ liệt_sĩ " ra cho tôi xem .
+Cp Nt R Aa Cp Pp R Aa Vv Nc Nn Cs Nq Pp Vv Cs PU Nn Nn Vv Vv Nn Nn PU R Vv Pp Vv PU
+CC NSUBJ ADJUNCT ROOT CC NSUBJ ADJUNCT ACOMP CONJ OBJ CLF MARK DET NSUBJ CCOMP PREP PCOMP POBJ NN RCMOD VMOD OBJ NN PCOMP ADJUNCT VMOD IOBJ VMOD PUNCT
+4 4 4 0 4 9 9 9 4 9 10 15 14 15 10 15 16 16 18 19 20 21 22 16 9 9 26 26 4
+
+Tấm bản_đồ có nhiều vết gấp_khúc , chi_chít những chấm đỏ dọc_ngang bình_độ ở nhiều cao_độ khác nhau .
+Nc Nn Ve Aa Nn Aa PU Aa Nq Nn Aa Nn Nn Cs Aa Nn Aa Nn PU
+NSUBJ CLF ROOT AMOD OBJ AMOD PUNCT CONJ DET OBJ AMOD NN NN PREP AMOD POBJ AMOD OBJ PUNCT
+3 1 0 5 3 5 3 3 10 8 10 10 12 12 16 14 16 17 3
+
+Tôi nhẩm đọc các địa_danh đã nghe từ thời chiến_tranh : Mường_Pẹt , Phu_Phả_Xay , bản Na , Mường_Mộc , Bom_Loọng , Loong_Chẹng ...
+Pp Vv Vv Nq Nn R Vv Cs Nt Nn PU Nr PU Nr PU Nun Nr PU Nr PU Nr PU Nr PU
+NSUBJ ROOT VMOD DET OBJ ADJUNCT XCOMP PREP POBJ NN PUNCT PARATAXIS PUNCT CONJ PUNCT CONJ NN PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT
+2 0 2 5 3 7 5 7 8 9 5 5 12 12 14 14 16 16 16 19 19 21 21 2
+
+Dừng mắt lại khu_vực Loong_Chẹng nơi hiện lên dày_đặc những chấm đỏ , tôi hỏi thượng_tá Bình : Loong_Chẹng vốn là thủ_phủ của " châu_phạ " LBRK vua trời RBRK Vàng_Pao ?
+Vv Nn R Nn Nr Nn Vv R Aa Nq Nn Aa PU Pp Vv Nn Nr PU Nr R Vc Nn Cs PU Nn PU LBRK Nn Nn RBRK Nr PU
+XCOMP OBJ ADJUNCT OBJ NN PARATAXIS RCMOD ADJUNCT ACOMP DET OBJ AMOD PUNCT NSUBJ ROOT OBJ NN PUNCT NSUBJ ADJUNCT CCOMP ATTR PREP PUNCT POBJ PUNCT PUNCT PARATAXIS NN PUNCT NN PUNCT
+15 1 1 1 4 4 6 7 7 11 9 11 15 15 0 15 16 21 21 21 15 21 22 25 23 25 25 25 28 25 25 15
+
+Đúng !
+Aa PU
+ROOT PUNCT
+0 1
+
+Sau 1975 Vàng_Pao đã chạy , nhưng tàn_quân phỉ vẫn còn hàng ngàn tay súng nằm rải_rác quanh vùng ...
+Cs Num Nr R Vv PU Cp Nn Nn R Ve R Nq Nc Nn Vv Aa Nn Nn PU
+PREP POBJ NSUBJ ADJUNCT ROOT PUNCT CC NSUBJ NN ADJUNCT CONJ ADJUNCT NUM OBJ CLF RCMOD ACOMP OBJ NN PUNCT
+5 1 5 5 0 5 5 11 8 11 5 13 14 11 14 14 16 17 18 5
+
+Anh cho tôi vào Loong_Chẹng được không ?
+Pp Vv Pp Vv Nr M R PU
+NSUBJ ROOT IOBJ VMOD OBJ INTJ ADJUNCT PUNCT
+2 0 2 2 4 4 4 2
+
+Thượng_tá Bình nhìn tôi thật lâu rồi buông lửng : " Căng đấy " !
+Nn Nr Vv Pp R Aa Cp Vv Aa PU PU Aa M PU PU
+NSUBJ NN ROOT OBJ ADJUNCT ADJP_ADVMOD CC CONJ ACOMP PUNCT PUNCT CCOMP INTJ PUNCT PUNCT
+3 1 0 3 6 3 3 3 8 12 12 8 12 12 3
+
+Đây là khu_vực báo_động số_một của Lào đấy .
+Pd Vc Nn Vv Nn Cs Nr M PU
+NSUBJ ROOT ATTR RCMOD OBJ PREP POBJ INTJ PUNCT
+2 0 2 3 4 3 6 3 2
+
+Đường vào Loong_Chẹng phải vòng qua rừng Huội_Mọ hiểm_trở , đi qua đặc_khu Xây_Xẩm_Bun , rồi đi thêm 500 km nữa mới tới .
+Nn Vv Nr Vv Vv Cs Nn Nr Aa PU Vv Cs Nn Nr PU Cp Vv Vv Num Nu R R Vv PU
+NSUBJ RCMOD OBJ ROOT VMOD PREP POBJ NN AMOD PUNCT CONJ PREP POBJ NN PUNCT CC CONJ VMOD NUM OBJ ADJUNCT ADJUNCT VMOD PUNCT
+4 1 2 0 4 5 6 7 7 5 5 11 12 13 11 11 11 17 20 17 17 23 17 4
+
+Ôtô ngốn mất một ngày .
+Nn Vv Ve Num Nu PU
+NP_ADVMOD ROOT VMOD NUM OBJ PUNCT
+2 0 2 5 3 2
+
+Đi bộ phải ba ngày .
+Vv Nn Vv Num Nu PU
+VMOD OBJ ROOT NUM OBJ PUNCT
+3 1 0 5 3 3
+
+Nhưng nguy_hiểm nhất là gặp phỉ " .
+Cp Aa R Vc Vv Nn PU PU
+CC ASUBJ ADJUNCT ROOT VMOD OBJ PUNCT PUNCT
+4 4 2 0 4 5 4 4
+
+Quay lại chiếc bàn gỗ mộc , thượng_tá Bình cho biết : " Mùa khô năm nay riêng mũi Loong_Chẹng quy_tập được 97 mộ .
+Vv R Nc Nn Nn Aa PU Nn Nr Vv Vv PU PU Nn Aa Nt Nt M Nn Nr Vv R Num Nn PU
+XCOMP ADJUNCT NN CLF OBJ AMOD PUNCT NSUBJ NN ROOT VMOD PUNCT PUNCT NP_ADVMOD AMOD NN NN INTJ NP_ADVMOD NN XCOMP ADJUNCT NUM OBJ PUNCT
+10 1 5 3 1 5 10 10 8 0 10 21 21 21 14 14 16 19 21 19 11 21 24 21 10
+
+Sáu mũi khác đều tìm được 50 mộ trở_lên .
+Num Nn Aa R Vv R Num Nn Vv PU
+NUM NP_ADVMOD AMOD ADJUNCT ROOT ADJUNCT NUM OBJ VMOD PUNCT
+2 5 2 5 0 5 8 5 8 5
+
+Cuối tháng năm , rừng Lào chuyển mùa mưa , tôi rút một_số mũi ra , còn một_số mũi tiếp_tục cắm chốt làm công_tác dân_vận cho mùa quy_tập tiếp_theo bắt_đầu từ tháng 11_-_2005 " .
+Nn Nt Num PU Nn Nr Vv Nn Nn PU Pp Vv Nq Nn R PU Ve Nq Nn Vv Vv Nn Vv Nn Vv Cs Nn Vv Vv Vv Cs Nt Nt PU PU
+NP_ADVMOD NN NUM PUNCT NSUBJ NN ROOT OBJ NN PUNCT NSUBJ CONJ DET OBJ ADJUNCT PUNCT CONJ DET OBJ XCOMP VMOD OBJ CONJ OBJ VMOD PREP POBJ VMOD VMOD RCMOD PREP POBJ NN PUNCT PUNCT
+7 1 2 7 7 5 0 7 8 7 12 7 14 12 12 12 12 19 17 19 20 21 20 23 24 24 26 27 27 27 30 31 32 7 7
+
+Tiếng gà gáy sang canh của bản Phôn_Sa_Vẳn đã cất lên phía sau hậu_cứ .
+Nn Nn Vv Vv Nn Cs Nun Nr R Vv R Nn Nn Nn PU
+NSUBJ NN RCMOD VMOD OBJ PREP POBJ NN ADJUNCT ROOT ADJUNCT OBJ NN NN PUNCT
+10 1 1 3 4 1 6 7 10 0 10 10 12 12 10
+
+Thượng_tá Bình thắp thêm một ngọn nến nhỏ đủ hai người ngồi trò_chuyện tiếp .
+Nn Nr Vv Vv Num Nc Nn Aa Aa Num Nn Vv Vv Vv PU
+NSUBJ NN ROOT VMOD NUM OBJ CLF AMOD AMOD NUM NSUBJ CCOMP VMOD VMOD PUNCT
+3 1 0 3 6 3 6 6 6 11 12 9 12 13 3
+
+Biết tôi là phóng_viên lặn_lội sang rừng Lào quyết vào bằng_được những vùng rừng hiểm_trở để viết về những người lính quy_tập , thượng_tá Bình tỏ ra xúc_động lắm , ông bảo : " nếu không vì cái tâm , vì tấm lòng với những người đã ngã xuống thì không_thể làm lính quy_tập được " .
+Vv Pp Vc Nn Vv Vv Nn Nr Vv Vv M Nq Nn Nn Aa Cs Vv Cs Nq Nc Nn Vv PU Nn Nr Vv R Vv R PU Pp Vv PU PU Cp R Cs M Nn PU Cs Nc Nn Cs Nq Nn R Vv R Cp R Vv Nn Vv M PU PU
+ROOT NSUBJ CCOMP ATTR CONJ VMOD NP_ADVMOD NN VMOD VMOD INTJ DET OBJ NN AMOD PREP PCOMP PREP DET POBJ CLF VMOD PUNCT NSUBJ NN CONJ ADJUNCT VMOD ADJUNCT PUNCT NSUBJ CONJ PUNCT PUNCT CC ADJUNCT CCOMP INTJ POBJ PUNCT CONJ POBJ CLF PREP DET POBJ ADJUNCT RCMOD ADJUNCT CC ADJUNCT CONJ OBJ VMOD INTJ PUNCT PUNCT
+0 3 1 3 3 5 6 7 6 9 10 13 10 13 13 10 16 17 20 18 20 20 1 26 24 1 26 26 28 26 32 26 32 32 37 37 32 39 37 37 37 41 42 42 46 44 48 46 48 37 52 37 52 53 52 37 1
+
+Tiêu_chuẩn số_một của lính quy_tập là ai cũng phải ý_thức được : lớp đàn_anh đã hy_sinh , còn mình là người lính hậu sinh phải đi tìm bằng_được và đưa họ về với quê nhà , mấy_mươi năm rồi còn gì !
+Nn Nn Cs Nn Vv Vc Pp R Vv Vv R PU Nn Nn R Vv PU Cp Pp Vc Nc Nn Sv Vv Vv Vv Vv M Cp Vv Pp Vv Cs Nn Nn PU Nq Nu M Ve Pp PU
+NSUBJ NN PREP POBJ VMOD ROOT NSUBJ ADJUNCT CCOMP VMOD ADJUNCT PUNCT NSUBJ NN ADJUNCT CCOMP PUNCT CC NSUBJ RCMOD ATTR CLF SINO RCMOD CONJ VMOD VMOD INTJ CC CONJ OBJ VMOD PREP POBJ NN PUNCT DET DEP INTJ RCMOD OBJ PUNCT
+6 1 1 3 4 0 9 9 6 9 10 16 16 13 16 10 16 16 25 19 20 21 24 21 16 25 26 27 25 25 30 30 32 33 34 16 38 16 38 38 40 6
+
+" Ngôi nhà " của các anh .
+PU Nc Nn PU Cs Nq Pp PU
+ROOT DEP CLF PUNCT PREP DET POBJ PUNCT
+0 1 2 1 1 7 5 1
+
+Đưa tôi sang ngôi nhà nhỏ nằm bên cạnh phòng chỉ_huy , căn nhà lúc nào cũng thoang_thoảng mùi hương nhè_nhẹ , khung_cảnh tịch_liêu , thượng_tá Bình nói khẽ : " Nhà của các anh đấy ! " và ông thắp nén nhang lên bàn_thờ .
+Vv Pp Cs Nc Nn Aa Vv Nn Nn Nn Vv PU Nc Nn Nt Pd R Vv Nn Nn Aa PU Nn Aa PU Nn Nr Vv Aa PU PU Nn Cs Nq Pp M PU PU Cp Pp Vv Nn Nn Cs Nn PU
+XCOMP OBJ PREP POBJ CLF AMOD RCMOD OBJ NN NN VMOD PUNCT NSUBJ CLF DEP DET ADJUNCT PARATAXIS OBJ NN AMOD PUNCT NSUBJ CONJ PUNCT NSUBJ NN ROOT ACOMP PUNCT PUNCT CCOMP PREP DET POBJ INTJ PUNCT PUNCT CC NSUBJ CONJ OBJ NN PREP POBJ PUNCT
+28 1 1 3 4 4 4 7 8 8 10 4 18 13 18 15 18 4 18 19 19 18 24 18 28 28 26 0 28 32 32 28 32 35 33 32 32 32 28 41 28 41 42 41 44 28
+
+Trên bàn_thờ không có một tấm ảnh , không một dòng tên_tuổi , quê_quán nào .
+Cs Nn R Ve Num Nc Nn PU R Num Nn Nn PU Nn M PU
+PREP POBJ ADJUNCT ROOT NUM OBJ CLF PUNCT CONJ NUM OBJ NN PUNCT CONJ INTJ PUNCT
+4 1 4 0 6 4 6 4 4 11 9 11 12 12 9 4
+
+Chỉ có hai lá cờ Tổ_quốc Việt - Lào phủ song_song trên hòm gỗ hình_chữ_nhật cao 2 m .
+R Ve Num Nc Nn Nn Nr PU Nr Vv Aa Cs Nn Nn Nn Aa Num Nu PU
+ADJUNCT ROOT NUM NN CLF NN NSUBJ PUNCT CONJ CCOMP ACOMP PREP POBJ NN NN AMOD NUM OBJ PUNCT
+2 0 7 7 4 7 10 7 7 2 10 10 12 13 13 13 18 16 2
+
+Trong hòm là hàng trăm bộ hài_cốt liệt_sĩ vô_danh đã được gói buộc cẩn_thận bằng những tấm vải trắng_tinh .
+Cs Nn Vc R Nq Nc Nn Nn Aa R Vv Vv Vv Aa Cs Nq Nc Nn Aa PU
+PREP POBJ ROOT ADJUNCT NUM NN CLF ATTR AMOD ADJUNCT RCMOD VMOD CONJ ACOMP PREP DET POBJ CLF AMOD PUNCT
+3 1 0 5 8 8 6 3 8 11 8 11 12 12 12 17 15 17 17 3
+
+Đang đưa cao nén nhang lên đầu tôi nghe thượng_tá Bình khấn thầm : Hôm_nay có nhà_báo từ bên nhà sang và cùng chúng_tôi đi cất_bốc mộ cho các anh .
+R Vv Aa Nn Nn Cs Nn Pp Vv Nn Nr Vv Aa PU Nt Ve Nn Cs Nn Nn Vv Cp Aa Pp Vv Vv Nn Cs Nq Pp PU
+ADJUNCT XCOMP ACOMP OBJ NN PREP POBJ NSUBJ ROOT OBJ NN VMOD ACOMP PUNCT NP_ADVMOD CCOMP OBJ PREP POBJ NN RCMOD CC AMOD OBJ VMOD VMOD OBJ PREP DET POBJ PUNCT
+2 9 2 2 4 2 6 9 0 9 10 9 12 16 16 12 16 21 18 19 17 17 17 23 23 25 26 26 30 28 9
+
+Các anh sống_khôn_,_chết_thiêng xin phù_hộ cho chuyến đi này được bình_an và mang thêm nhiều đồng_đội trở_về ...
+Nq Pp ID Vv Vv Cs Nn Vv Pd Vv Aa Cp Vv Vv Aa Nn Vv PU
+NSUBJ DET ROOT CONJ XCOMP PREP POBJ VMOD DET RCMOD ACOMP CC RCMOD VMOD AMOD OBJ VMOD PUNCT
+3 1 0 3 4 5 6 7 7 7 10 7 7 13 16 13 13 3
+
+Tôi nghe anh khấn mà ứa nước_mắt .
+Pp Vv Pp Vv Cp Vv Nn PU
+NSUBJ ROOT NSUBJ CCOMP CC CONJ OBJ PUNCT
+2 0 4 2 2 2 6 2
+
+Đối_với những người lính tham_gia quy_tập giữa rừng , nơi linh_thiêng và tôn_nghiêm nhất là " nhà liệt_sĩ " này đây , việc dọn bàn_thờ , dâng hoa_quả , thắp hương đều_đặn mỗi ngày hai buổi , sáng tinh_mơ và trước khi đi ngủ .
+Cs Nq Nc Nn Vv Vv Cs Nn PU Nn Aa Cp Aa R Vc PU Nn Nn PU Pd M PU Ncs Vv Nn PU Vv Nn PU Vv Nn Aa Nq Nu Num Nu PU Nt Aa Cp Cs Nt Vv Vv PU
+PREP DET POBJ CLF RCMOD VMOD PREP POBJ PUNCT NSUBJ AMOD CC CONJ ADJUNCT ROOT PUNCT ATTR NN PUNCT DET INTJ PUNCT NSUBJ RCMOD OBJ PUNCT CONJ OBJ PUNCT CONJ OBJ CONJ DET NSUBJ NUM PARATAXIS PUNCT NN AMOD CC CONJ POBJ XCOMP VMOD PUNCT
+15 3 1 3 3 5 6 7 15 15 10 11 11 11 0 17 15 17 17 17 17 15 32 23 24 24 24 27 27 27 30 15 34 36 36 32 36 36 38 38 38 41 42 43 15
+
+Ai bị kỷ_luật cũng vào " nhà liệt_sĩ " thắp hương , xin_lỗi , hứa sửa_chữa .
+Pp Vv Vv R Vv PU Nn Nn PU Vv Nn PU Vv PU Vv Vv PU
+NSUBJ RCMOD VMOD ADJUNCT ROOT PUNCT OBJ NN PUNCT VMOD OBJ PUNCT CONJ PUNCT CONJ VMOD PUNCT
+5 1 2 5 0 7 5 7 7 5 10 10 10 13 13 15 5
+
+" Vì thế sự hiện_diện của những vong_linh liệt_sĩ đối_với anh_em là rất quan_trọng , nhiều khi tôi không nói , cán_bộ chiến_sĩ trong đội chỉ cần bước chân vào ngôi nhà này là đã thay tôi làm công_tác tư_tưởng mỗi ngày , những người lính với nhau , cho_dù người thác , kẻ sống nhưng họ vẫn tôn_trọng nhau lắm " - thượng_tá Bình nói .
+PU Cp Pp Ncs Ve Cs Nq Nn Nn Cs Nn Vc R Aa PU Aa Nt Pp R Vv PU Nn Nn Cs Nn R Vv Vv Nn Cs Nc Nn Pd Cp R Vv Pp Vv Nn Nn Nq Nu PU Nq Nc Nn Cs Nn PU Cp Nn Vv PU Nn Vv Cp Pp R Vv Nn R PU PU Nn Nr Vv PU
+PUNCT CC CCOMP NSUBJ VMOD PREP DET POBJ NN PREP POBJ CONJ ADJUNCT ACOMP PUNCT AMOD NP_ADVMOD NSUBJ ADJUNCT CONJ PUNCT NSUBJ CONJ PREP POBJ ADJUNCT CONJ VMOD OBJ PREP POBJ CLF DET CC ADJUNCT CONJ OBJ VMOD OBJ NN DET NP_ADVMOD PUNCT DET DEP CLF PREP POBJ PUNCT CC NSUBJ CONJ PUNCT NSUBJ CONJ CC NSUBJ ADJUNCT CONJ OBJ ADJUNCT PUNCT PUNCT NSUBJ NN ROOT PUNCT
+66 3 66 12 4 4 8 6 8 4 10 3 14 12 3 17 20 20 20 3 20 27 22 22 24 27 20 27 28 28 30 31 31 27 36 27 36 36 38 39 42 39 27 45 52 45 45 47 52 52 52 27 52 55 52 52 59 59 52 59 59 66 66 66 64 0 66
+
+Tôi thật_sự bất_ngờ khi được anh_em trong đội quy_tập cho biết : trong 12_._000 ngôi mộ đã được bộ_đội VN và Lào tìm ra trên địa_bàn Xiêng_Khuảng từ khi có chương_trình quy_tập mộ liệt_sĩ đến nay , có hài_cốt các anh đã hi_sinh cách đây 50 năm , những ngôi mộ hay hố chôn được xem là " mới nhất " cũng đã nằm giữa rừng 30 năm và công_việc thầm_lặng của những người lính quy_tập đã diễn_ra 21 năm rồi .
+Pp Aa Aa Nt Vv Nn Cs Nn Vv Vv Vv PU Cs Num Nc Nn R Vv Nn Nr Cp Nr Vv R Cs Nn Nr Cs Nt Ve Nn Vv Nn Nn Cs Nt PU Ve Nn Nq Pp R Vv Vv Pd Num Nu PU Nq Nc Nn Cp Nn Vv Vv Vv Cs PU Aa R PU R R Vv Cs Nn Num Nu Cp Nn Aa Cs Nq Nc Nn Vv R Vv Num Nu M PU
+NSUBJ ROOT ADJP_ADVMOD NP_ADVMOD XCOMP NSUBJ PREP POBJ VMOD VMOD VMOD PUNCT PREP NUM POBJ CLF ADJUNCT RCMOD NSUBJ NN CC CONJ CCOMP ADJUNCT PREP POBJ NN PREP POBJ RCMOD OBJ RCMOD OBJ NN CONJ POBJ PUNCT CCOMP OBJ DET NN ADJUNCT RCMOD VMOD OBJ NUM OBJ PUNCT DET NSUBJ CLF CC CONJ VMOD CSUBJ VMOD PREP PUNCT PCOMP ADJUNCT PUNCT ADJUNCT ADJUNCT CONJ PREP POBJ NUM NP_ADVMOD CC NSUBJ AMOD PREP DET POBJ CLF VMOD ADJUNCT CONJ NUM NP_ADVMOD INTJ PUNCT
+2 0 2 3 4 10 6 7 8 5 10 38 38 15 13 15 18 15 23 19 20 20 18 23 23 25 26 23 28 29 30 31 32 33 28 35 38 11 38 41 39 43 41 43 44 47 44 38 50 55 50 50 50 53 64 55 56 59 57 59 59 63 64 38 64 65 68 64 38 78 70 70 74 72 74 74 78 38 80 78 78 2
+
+21 năm cho 12_._000 vong_linh được tề_tựu cùng đồng đội , đồng chí và có đến 10_._000 bộ hài_cốt được các chiến_sĩ trẻ hôm_nay băng rừng , vượt suối đưa về quê nhà .
+Num Nu Cs Num Nn Vv Vv Aa Sv Nn PU Sv Nn Cp Ve M Num Nc Nn Vv Nq Nn Aa Nt Vv Nn PU Vv Nn Vv Cs Nn Nn PU
+NUM NP_ADVMOD PREP NUM NSUBJ PCOMP VMOD ACOMP SINO OBJ PUNCT SINO CONJ CC ROOT QUANTMOD NUM NSUBJ CLF CCOMP DET NSUBJ AMOD NP_ADVMOD CCOMP OBJ PUNCT CONJ OBJ VMOD PREP POBJ NN PUNCT
+2 15 2 5 6 3 6 7 10 8 10 13 10 15 0 17 18 20 18 15 22 25 22 22 20 25 25 25 28 28 30 31 32 15
+
+Một khoảng thời_gian đủ để người lính tình_nguyện Hồ_Trọng_Bình , 28 tuổi , mang quân_hàm thiếu_uý rời chiến_trường Campuchia về quê nhà thuộc Quân_khu 4 và đầu_quân vào đội quy_tập ngay từ năm 1984 , đến nay ông đã ở ngưỡng tuổi 50 !
+Num Nn Nn Aa Cs Nc Nn Vv Nr PU Num Nn PU Vv Nn Nn Vv Nn Nr Vv Nn Nn Vv Nn An Cp Vv Cs Nn Vv M Cs Nt Num PU Cs Nt Pp R Cs Nn Nn An PU
+NUM NSUBJ NN ROOT PREP NN CLF VMOD NN PUNCT NUM NSUBJ PUNCT PARATAXIS OBJ NN PCOMP NP_ADVMOD NN CONJ OBJ NN RCMOD OBJ AMOD CC CONJ PREP POBJ VMOD PCOMP PREP POBJ NUM PUNCT PREP POBJ NSUBJ ADJUNCT CONJ POBJ NN AMOD PUNCT
+2 4 2 0 4 12 6 12 12 12 12 17 12 12 14 15 5 17 18 17 20 21 21 23 24 20 20 27 28 29 32 27 32 33 4 40 36 40 40 4 40 41 42 4
+
+Ông vẫn trầm_lặng như bao người lính Cụ Hồ với bao ngày bao đêm sống giữa rừng_già , sống trên những đỉnh núi cao chót_vót trên đất Lào chỉ để mỏi_mong tìm được một vết_tích của cuộc chiến , một nắm xương của bậc cha_anh , hoặc thậm_chí chỉ là một kỷ_vật được chôn theo người nằm xuống mà đã có lúc tưởng_chừng như phải đánh_đổi bằng chính sinh_mạng của mình .
+Pp R Aa Cs Nq Nc Nn Nn Nr Cs Nq Nu Nq Nu Vv Cs Nn PU Vv Cs Nq Nn Nn Aa Aa Cs Nn Nr R Cs Vv Vv R Num Nn Cs Ncs Vv PU Num Nn Nn Cs Nc Nn PU Cp R R Vc Num Nn Vv Vv Vv Nn Vv R Cp R Ve Nt Vv Cs Vv Vv Cs M Nn Cs Pp PU
+NSUBJ ADJUNCT ROOT PREP DET NN CLF POBJ NN PREP DET POBJ DET CONJ CCOMP PREP POBJ PUNCT CONJ PREP DET POBJ NN AMOD ADJP_ADVMOD PREP POBJ NN ADJUNCT PREP PCOMP VMOD ADJUNCT NUM OBJ PREP POBJ CLF PUNCT NUM CONJ NN PREP POBJ CLF PUNCT CC ADJUNCT ADJUNCT CONJ NUM ATTR RCMOD VMOD VMOD OBJ RCMOD ADJUNCT CC ADJUNCT CONJ NP_ADVMOD XCOMP PREP PCOMP VMOD PREP INTJ POBJ PREP POBJ PUNCT
+3 3 0 3 8 8 6 4 8 8 12 10 14 12 14 15 16 15 15 19 22 20 22 22 24 22 26 27 30 19 30 31 32 35 32 35 36 37 35 41 35 41 41 43 44 41 41 49 50 41 52 50 52 53 54 55 56 57 3 61 3 61 62 63 64 65 66 69 67 69 70 3
+
+Chúng_tôi đã thề với nhau rằng không bỏ_sót bất_cứ một người lính nào nằm lại chiến_trường - đó là mệnh_lệnh ! " .
+Pp R Vv Cs Nn Cs R Vv R Num Nc Nn M Vv R Nn PU Pd Vc Nn PU PU PU
+NSUBJ ADJUNCT ROOT PREP POBJ MARK ADJUNCT CCOMP ADJUNCT NUM OBJ CLF INTJ RCMOD ADJUNCT OBJ PUNCT NSUBJ PARATAXIS ATTR PUNCT PUNCT PUNCT
+3 3 0 3 4 8 8 3 11 11 8 11 11 11 14 14 8 19 8 19 3 3 3
+
+Từ khi thành_lập các đoàn quy_tập mộ liệt_sĩ LBRK 1984 RBRK , riêng tại Xiêng_Khuảng đoàn quy_tập Nghệ_An đã tìm_kiếm , phát_hiện 12_._000 mộ liệt_sĩ và đã tổ_chức mang về nước được 10_._000 bộ hài_cốt ...
+Cs Nt Vv Nq Nn Vv Nn Nn LBRK Num RBRK PU M Cs Nr Nn Vv Nr R Vv PU Vv Nr Nn Nn Cp R Vv Vv Cs Nn R Num Nc Nn PU
+PREP POBJ XCOMP DET OBJ RCMOD OBJ NN PUNCT PARATAXIS PUNCT PUNCT PCOMP PREP POBJ NSUBJ VMOD NP_ADVMOD ADJUNCT ROOT PUNCT CONJ NN OBJ NN CC ADJUNCT CONJ VMOD PREP POBJ ADJUNCT NUM OBJ CLF PUNCT
+20 1 2 5 3 5 6 7 2 2 2 20 14 20 14 20 16 16 20 0 20 20 24 20 24 20 28 20 28 29 30 29 34 29 34 20
+
+Nhiều người lính trẻ trong đội quy_tập đã kể cho tôi nghe câu_chuyện về đội quy_tập vừa luồn rừng tìm hài_cốt , vừa tham_gia tiễu_phỉ giúp bạn , nên có lúc bọn phỉ Vàng_Pao đã công_khai treo giá 20_._000 USD nếu ai bắt sống hoặc thủ_tiêu được đoàn trưởng Hồ_Trọng_Bình .
+Aa Nc Nn Aa Cs Nn Vv R Vv Cs Pp Vv Nn Cs Nn Vv Cp Vv Nn Vv Nn PU Cp Vv Vv Vv Pp PU Cp Ve Nt Nn Nn Nr R Aa Vv Nn Num Nu Cp Pp Vv Vv Cp Vv R Nn Sv Nr PU
+AMOD NSUBJ CLF AMOD PREP POBJ VMOD ADJUNCT ROOT PREP POBJ VMOD OBJ MARK NSUBJ VMOD CC CCOMP OBJ VMOD OBJ PUNCT CC CONJ VMOD VMOD OBJ PUNCT CC CONJ OBJ NSUBJ CONJ NP_ADVMOD ADJUNCT ACOMP CCOMP OBJ NUM NN CC NSUBJ CONJ VMOD CC CONJ ADJUNCT OBJ SINO NN PUNCT
+2 9 2 2 2 5 6 9 0 9 10 9 12 18 18 15 18 13 18 18 20 18 18 18 24 25 26 18 18 18 30 37 32 32 37 37 31 37 40 38 37 43 37 43 43 43 46 46 48 48 9
+
+Nghe tin này bà Bun_May - nguyên tỉnh trưởng tỉnh Xiêng_Khuảng nay là thứ_trưởng Bộ Giáo_dục nước CHDCND Lào - NV - lo_lắng điện hỏi và đề_nghị sẽ cho công_an , quân_đội Lào theo đoàn bảo_vệ , nhưng Hồ_Trọng_Bình chỉ cười từ_chối và nói lời cảm_ơn .
+Vv Nn Pd Nn Nr PU Sv Nn Sv Nun Nr Nt Vc Nn Nn Nn Nn Nn Nr PU Nr PU Vv Vv Vv Cp Vv R Vv Nn PU Nn Nr Vv Nn Vv PU Cp Nr R Vv Vv Cp Vv Nn Vv PU
+XCOMP OBJ DET NSUBJ NN PUNCT NN SINO SINO NN NN NP_ADVMOD CONJ ATTR NN NN NN NN NN PUNCT PARATAXIS PUNCT ROOT VMOD VMOD CC CONJ ADJUNCT VMOD OBJ PUNCT CONJ NN VMOD OBJ VMOD PUNCT CC NSUBJ ADJUNCT CONJ VMOD CC CONJ OBJ VMOD PUNCT
+23 1 2 23 4 4 10 7 8 4 10 13 10 13 14 15 15 17 17 17 17 4 0 23 24 23 23 29 27 29 30 30 30 29 34 34 23 23 41 41 23 41 41 41 44 45 23
+
+Nhắc lại chuyện cũ , thượng_tá Bình cười_cười .
+Vv R Nn Aa PU Nn Nr Vv PU
+XCOMP ADJUNCT OBJ AMOD PUNCT NSUBJ NN ROOT PUNCT
+8 1 1 3 8 8 6 0 8
+
+Đã hơn nửa_đêm về sáng , tôi thì như muốn rũ xuống , còn ông vẫn tỉnh_táo , cương_nghị : " Bọn chúng nói thế chứ có dám làm gì đâu .
+R R Nt Cs Nt PU Pp Cp Cs Vv Vv R PU Cp Pp R Aa PU Aa PU PU Nn Pp Vv Pp Cp R Vv Vv Pp M PU
+ADJUNCT ADJUNCT NP_ADVMOD PREP POBJ PUNCT NSUBJ CC ROOT PCOMP VMOD ADJUNCT PUNCT CC NSUBJ ADJUNCT CONJ PUNCT CONJ PUNCT PUNCT NSUBJ DET CCOMP OBJ CC ADJUNCT CONJ VMOD OBJ INTJ PUNCT
+3 3 9 3 4 9 9 9 0 9 10 11 9 9 17 17 9 17 17 24 24 24 22 17 24 24 28 24 28 29 28 9
+
+Có lần giúp bạn mà chúng_tôi phải trà_trộn vào bản phỉ ngồi chạm chén uống rượu với chúng .
+Ve Nn Vv Pp Cp Pp Vv Vv Cs Nun Nn Vv Vv Nn Vv Nn Cs Pp PU
+ROOT OBJ CCOMP OBJ CC NSUBJ CONJ VMOD PREP POBJ NN VMOD VMOD OBJ VMOD OBJ PREP POBJ PUNCT
+0 1 2 3 3 7 3 7 8 9 10 8 12 13 13 15 15 17 1
+
+Hỏi chuyện tìm_hiểu mới hiểu bọn phỉ chỉ nghe tên tôi thôi chứ chúng chưa biết mặt cái lão Bình này vuông hay dẹt .
+Vv Nn Vv R Vv Nn Nn R Vv Nn Pp M Cp Pp R Vv Nn M Nn Nr Pd Aa Cp Aa PU
+XCOMP OBJ CONJ ADJUNCT ROOT NSUBJ NN ADJUNCT CCOMP OBJ NN INTJ CC NSUBJ ADJUNCT CONJ NSUBJ INTJ NN NN DET CCOMP CC CONJ PUNCT
+5 1 1 5 0 9 6 9 5 9 10 9 9 16 16 9 22 19 17 19 19 16 22 22 5
+
+Bọn nó thường kháo nhau " lão Bình thoắt ở bản này thoắt hiện vùng rừng khác như một bóng_ma , khó bắt sống lắm " !
+Nn Pp R Vv Nn PU Nn Nr Aa Vv Nun Pd Aa Vv Nn Nn Aa Cs Num Nn PU Aa Vv Vv R PU PU
+NSUBJ DET ADJUNCT ROOT OBJ PUNCT NSUBJ NN ACOMP CCOMP NP_ADVMOD DET ACOMP CONJ NP_ADVMOD NN AMOD PREP NUM POBJ PUNCT CONJ VMOD VMOD ADJUNCT PUNCT PUNCT
+4 1 4 0 4 10 10 7 10 4 10 11 14 10 14 15 15 14 20 18 10 10 22 23 22 10 4
+
+Ông giục tôi đi ngủ , " ngày_mai công_việc dài lắm , cố ngủ một_chút mà lấy sức " ...
+Pp Vv Pp Vv Vv PU PU Nt Nn Aa R PU Vv Vv Nq M Vv Nn PU PU
+NSUBJ ROOT OBJ VMOD VMOD PUNCT PUNCT NP_ADVMOD NSUBJ CCOMP ADJUNCT PUNCT CONJ VMOD NP_ADVMOD INTJ VMOD OBJ PUNCT PUNCT
+2 0 2 2 4 10 10 10 10 2 10 10 10 13 14 14 14 17 10 2
+
+Ông xem tôi như một người lính .
+Pp Vv Pp Cs Num Nc Nn PU
+NSUBJ ROOT OBJ PREP NUM POBJ CLF PUNCT
+2 0 2 2 6 4 6 2
+
+Đêm rừng Lào đang chuyển mùa mưa .
+Nt Nn Nr R Vv Nn Vv PU
+NSUBJ NN NN ADJUNCT ROOT OBJ VMOD PUNCT
+5 1 2 5 0 5 6 5
+
+Từng hồi sấm dữ_dội làm rung_chuyển bầu_trời .
+R Nt Nn Aa Vv Vv Nn PU
+ADJUNCT NSUBJ NN AMOD ROOT VMOD OBJ PUNCT
+2 5 2 2 0 5 6 5
+
+Tôi nằm yên trong hậu_cứ rồi mà vẫn không sao chợp được đôi mắt đã nặng_trĩu .
+Pp Vv Aa Cs Nn R Cp R R M Vv R Nq Nn R Aa PU
+NSUBJ ROOT ACOMP PREP POBJ ADJUNCT CC ADJUNCT ADJUNCT INTJ CONJ ADJUNCT DET OBJ ADJUNCT AMOD PUNCT
+2 0 2 2 4 2 2 9 11 11 2 11 14 11 16 14 2
+
+Ngay sáng_mai tôi sẽ được cùng các anh luồn rừng , vượt núi để tìm những hình_hài người lính vẫn còn nằm lại sau hàng mấy mươi năm trên đất khách ...
+R Nt Pp R Vv Aa Nq Pp Vv Nn PU Vv Nn Cs Vv Nq Nn Nc Nn R R Vv R Cs R Nq Nq Nu Cs Nn Nn PU
+ADJUNCT NP_ADVMOD NSUBJ ADJUNCT ROOT ACOMP DET OBJ VMOD OBJ PUNCT CONJ OBJ PREP PCOMP DET OBJ NN CLF ADJUNCT ADJUNCT RCMOD ADJUNCT PREP ADJUNCT NUM CONJ POBJ PREP POBJ NN PUNCT
+2 5 5 5 0 5 8 6 6 9 9 9 12 12 14 17 15 17 18 21 22 18 22 22 26 28 26 24 22 29 30 5
+

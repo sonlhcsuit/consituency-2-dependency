@@ -1,0 +1,280 @@
+Ruốc cá trên hồ Thác_Bà .
+Vv Nn Cs Nn Nr PU
+ROOT OBJ PREP POBJ NN PUNCT
+0 1 2 3 4 1
+
+Chợ " Cây 19 " LBRK xã Cẩm_Ân , huyện Yên_Bình , tỉnh Yên_Bái RBRK bên quốc_lộ 70 đi Lào_Cai có hai người đàn_bà sáng nào cũng đạp xe vào " bán_đảo " Mông_Sơn rồi tiếp_tục chèo đò vượt hồ Thác_Bà sang chợ cá Cẩm_Nhân để " săn " những con cá ướp đá .
+Nn PU Nn An PU LBRK Nun Nr PU Nun Nr PU Nun Nr RBRK Nn Nn Nr Vv Nr Ve Num Nc Nn Nt Pd R Vv Nn Vv PU Nn PU Nr Cp Vv Vv Nn Vv Nn Nr Vv Nn Nn Nr Cs PU Vv PU Nq Nc Nn Vv Nn PU
+NSUBJ PUNCT NN AMOD PUNCT PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT NP_ADVMOD NN NN RCMOD OBJ ROOT NUM NSUBJ CLF NP_ADVMOD DET ADJUNCT CCOMP OBJ VMOD PUNCT OBJ PUNCT NN CC CONJ VMOD OBJ VMOD OBJ NN VMOD OBJ NN NN PREP PUNCT PCOMP PUNCT DET OBJ CLF RCMOD OBJ PUNCT
+21 3 1 3 3 1 1 7 7 7 10 10 10 13 1 1 16 17 17 19 0 23 28 23 28 25 28 21 28 28 32 30 32 32 28 28 36 37 37 39 40 39 42 43 43 42 48 46 48 51 48 51 51 53 21
+
+Nhờ họ , tôi tình_cờ biết ngư_dân vùng hồ rộng 23.400 ha này có cách đánh_cá rất " độc " : dùng củ , hạt , lá cây rừng độc ... để tàn_sát cá quí_hiếm .
+Cs Pp PU Pp Aa Vv Nn Nn Nn Aa Num Nu Pd Ve Nn Vv R PU Aa PU PU Vv Nn PU Nn PU Nn Nn Nn Aa PU Cs Vv Nn Aa PU
+PREP POBJ PUNCT NSUBJ ACOMP ROOT NSUBJ NP_ADVMOD NN AMOD NUM OBJ DET CCOMP OBJ VMOD ADJUNCT PUNCT AMOD PUNCT PUNCT PARATAXIS OBJ PUNCT CONJ PUNCT CONJ NN NN AMOD PUNCT PREP PCOMP OBJ AMOD PUNCT
+6 1 6 6 6 0 14 7 8 9 12 10 9 6 14 15 19 19 15 19 19 19 22 23 23 25 25 23 28 28 23 22 32 33 34 6
+
+101 kiểu " hạ_độc " .
+Num Nn PU Vv PU PU
+NUM ROOT PUNCT RCMOD PUNCT PUNCT
+2 0 4 2 4 2
+
+Sau hơn tuần lang_thang sóng nước tôi gặp ông Nguyễn_Văn_Hạnh , 64 tuổi , thôn Đồng_Danh , xã Đại_Minh LBRK hạ huyện Yên_Bình RBRK .
+Cs R Nu Vv Nn Nn Pp Vv Nn Nr PU Num Nn PU Nun Nr PU Nun Nr LBRK Aa Nun Nr RBRK PU
+PREP ADJUNCT POBJ XCOMP OBJ CONJ NSUBJ ROOT OBJ NN PUNCT NUM PARATAXIS PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT PARATAXIS OBJ NN PUNCT PUNCT
+8 3 1 3 4 5 8 0 8 9 9 13 9 9 9 15 15 15 18 18 18 21 22 18 8
+
+Mới nghe tôi bộc_bạch chuyện dùng quả cây bắt cá , ông khoe : Cả làng tôi biết dùng bài thuốc ấy .
+R Vv Pp Vv Nn Vv Nn Nn Vv Nn PU Pp Vv PU Nw Nun Pp Vv Vv Nn Nn Pd PU
+ADJUNCT XCOMP NSUBJ CCOMP OBJ XCOMP OBJ NN VMOD OBJ PUNCT NSUBJ ROOT PUNCT DET NSUBJ NN CCOMP VMOD OBJ NN DET PUNCT
+2 13 4 2 4 5 6 7 6 9 13 13 0 18 16 18 16 13 18 19 20 20 13
+
+Đó là quả thàn_mát " .
+Pd Vc Nn Nn PU PU
+NSUBJ ROOT ATTR NN PUNCT PUNCT
+2 0 2 3 2 2
+
+Rồi ông đưa tôi qua nhà anh Dũng cuối thôn để biết quả , cây thàn_mát ra_sao .
+Cp Pp Vv Pp Vv Nn Nn Nr Cs Nun Cs Vv Nn PU Nn Nn Pp PU
+CC NSUBJ ROOT OBJ VMOD NP_ADVMOD NN NN PREP POBJ PREP PCOMP OBJ PUNCT CONJ NN OBJ PUNCT
+3 3 0 3 3 5 6 7 7 9 5 11 12 13 13 13 12 3
+
+Đang mùa quả chín , anh Dũng tiếc_nuối : " Em vừa đập xuống được ba sọt , vừa bóc hột xong có người đến mua sạch " .
+R Nn Nn VA PU Nn Nr Vv PU PU Pp R Vv D R Num Nn PU R Vv Nn Aa Ve Nn Vv Vv Aa PU PU
+ADJUNCT NP_ADVMOD NN DEP PUNCT NSUBJ NN ROOT PUNCT PUNCT NSUBJ ADJUNCT CCOMP VMOD ADJUNCT NUM OBJ PUNCT ADJUNCT CONJ OBJ ACOMP CONJ NSUBJ CCOMP VMOD ACOMP PUNCT PUNCT
+2 8 2 3 8 8 6 0 13 13 13 13 8 13 13 17 13 13 20 13 20 20 13 25 23 25 26 13 8
+
+Rồi anh chỉ góc sân bãi vỏ khô thâm như bồ_kết chính là vỏ quả thàn_mát đã bóc .
+Cp Pp Vv Nn Nn Nn Nn Aa Aa Cs Nn M Vc Nn Nn Nn R Vv PU
+CC NSUBJ ROOT NP_ADVMOD NN NSUBJ NN AMOD AMOD PREP POBJ INTJ CONJ NN ATTR NN ADJUNCT RCMOD PUNCT
+3 3 0 3 4 13 6 7 7 9 10 13 3 15 13 15 18 15 3
+
+Rất may đứa con gái còn giữ được vài quả tươi mang ra khoe .
+R Aa Nc Nn Nn R Vv R Nq Nn Aa Vv R Vv PU
+ADJUNCT ROOT NSUBJ CLF NN ADJUNCT CCOMP ADJUNCT DET OBJ AMOD VMOD ADJUNCT VMOD PUNCT
+2 0 7 3 3 7 2 7 10 7 10 7 12 12 2
+
+Thứ quả này màu xanh nâu hình_dạng hệt thanh đao .
+Nn Nn Pd Nn Aa Aa Nn Aa Nc Nn PU
+NSUBJ NN DET ROOT AMOD CONJ CONJ AMOD OBJ CLF PUNCT
+4 1 1 0 4 5 4 7 8 9 4
+
+Khi tách ra mỗi quả chỉ có một hạt to tròn như nút áo_bông , giữa có hình thâm bán_nguyệt .
+Nt Vv R Nq Nn R Ve Num Nn Aa Aa Cs Nn Nn PU Nn Ve Nn Aa Nn PU
+NP_ADVMOD XCOMP ADJUNCT DET NSUBJ ADJUNCT ROOT NUM OBJ AMOD CONJ PREP POBJ NN PUNCT NP_ADVMOD CONJ OBJ AMOD NN PUNCT
+7 1 2 5 7 7 0 9 7 9 10 10 12 13 7 17 7 17 18 18 7
+
+Chủ nhà nói : " Khi tách quả thấy hình bán_nguyệt càng to hột càng già mới càng dễ ... sát cá " .
+Nn Nn Vv PU PU Nt Vv Nn Vv Nn Nn Cp Aa Nn Cp Aa R Cp Aa PU Vv Nn PU PU
+NSUBJ NN ROOT PUNCT PUNCT NP_ADVMOD XCOMP OBJ XCOMP NSUBJ NN CC ADVCL NSUBJ CC CONJ ADJUNCT CC CCOMP PUNCT VMOD OBJ PUNCT PUNCT
+3 1 0 9 9 9 6 7 3 13 10 13 19 16 16 13 18 19 9 19 19 21 9 3
+
+Anh Dũng nói : Vùng này cây nào cũng bị vặt trụi quả bán cho người ruốc cá .
+Nn Nr Vv PU Nn Pd Nn Pd R Vv Vv Aa Nn Vv Cs Nn Vv Nn PU
+NSUBJ NN ROOT PUNCT NP_ADVMOD DET NSUBJ DET ADJUNCT CCOMP VMOD ADJP_ADVMOD OBJ VMOD PREP POBJ RCMOD OBJ PUNCT
+3 1 0 10 10 5 10 7 10 3 10 11 11 11 14 15 16 17 3
+
+Giá không rẻ , 25.000 đồng kg tươi , còn khô 40.000 đồng " .
+Nn R Aa PU Num Nu Nu Aa PU Cp Aa Num Nu PU PU
+NSUBJ ADJUNCT ROOT PUNCT NUM QUANTMOD OBJ AMOD PUNCT CC ASUBJ NUM CONJ PUNCT PUNCT
+3 3 0 3 7 5 3 7 7 7 13 13 7 3 3
+
+Làng Minh_Danh LBRK xã Hán_Đà RBRK , cách Đồng_Danh một quả đồi , có 90% ngư_dân .
+Nun Nr LBRK Nun Nr RBRK PU Vv Nr Num Nc Nn PU Ve Nq Nn PU
+NSUBJ NN PUNCT PARATAXIS NN PUNCT PUNCT PARATAXIS OBJ NUM OBJ CLF PUNCT ROOT DET OBJ PUNCT
+14 1 1 1 4 1 1 1 8 11 8 11 1 0 16 14 14
+
+Trong số đó một nửa sống bằng nghề đánh tôm đêm ở hồ Thác_Bà , nửa còn_lại làm nghề ruốc cá , tức_là đánh_cá bằng ... độc_dược .
+Cs Nn Pd Num Nq Vv Cs Nn Vv Nn Nt Cs Nn Nr PU Nq Ve Vv Nn Vv Nn PU Vv Vv Cs PU Nn PU
+PREP POBJ DET NUM NSUBJ ROOT PREP POBJ RCMOD OBJ NP_ADVMOD PREP POBJ NN PUNCT NSUBJ VMOD CONJ OBJ RCMOD OBJ PUNCT PARATAXIS VMOD PREP PCOMP POBJ PUNCT
+6 1 2 5 6 0 6 7 8 9 9 9 12 13 6 18 16 6 18 19 20 20 20 23 24 25 25 6
+
+Chiều 9_-_11 , tôi đến nhà anh Thủ gặp anh ướt lướt_thướt ở suối về , trên tay rổ tre đầy cá , tôm , lươn , rắn ...
+Nt Nt PU Pp Vv Nn Nn Nr Vv Pp Aa Aa Cs Nn Vv PU Cs Nn Nn Nn Aa Nn PU Nn PU Nn PU Nn PU
+NP_ADVMOD NN PUNCT NSUBJ ROOT OBJ NN NN VMOD OBJ AMOD ADJP_ADVMOD PREP POBJ RCMOD PUNCT PREP POBJ NSUBJ NN PARATAXIS OBJ PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT
+5 1 5 5 0 5 6 7 5 9 10 11 15 13 10 10 21 17 21 19 10 21 22 22 24 24 26 26 5
+
+Anh giãi_bày : " Tôi vừa kiếm được ít hột thàn_mát trên rừng , đem ra con suối gần nhà ruốc cá nhưng chỗ ấy ruốc quá nhiều lần nên không còn được cá to như trước nữa " .
+Pp Vv PU PU Pp R Vv R Aa Nc Nn Cs Nn PU Vv Vv Nc Nn Aa Nn Vv Nn Cp Nn Pd Vv R Aa Nn Cp R R Vv Nn Aa Cs Nn R PU PU
+NSUBJ ROOT PUNCT PUNCT NSUBJ ADJUNCT CCOMP ADJUNCT AMOD OBJ NN PREP POBJ PUNCT CONJ VMOD OBJ CLF AMOD OBJ VMOD OBJ CC NSUBJ DET CONJ ADJUNCT AMOD OBJ CC ADJUNCT ADJUNCT CONJ OBJ AMOD PREP POBJ ADJUNCT PUNCT PUNCT
+2 0 7 7 7 7 2 7 10 7 10 10 12 7 7 15 16 17 17 19 16 21 7 26 24 7 28 29 26 26 33 31 26 33 34 34 36 33 7 2
+
+Thấy tôi ngạc_nhiên với rổ tre đủ loại con , anh giải_thích : " Ruốc cá là vậy , không đánh thì thôi , đã đánh thì chết không sót con gì " .
+Vv Pp Vv Cs Nn Nn Aa Nn Nn PU Pp Vv PU PU Vv Nn Vc Pp PU R Vv Cp M PU R Vv Cp Vv R Vv Nn Pp PU PU
+XCOMP NSUBJ CCOMP PREP POBJ NN AMOD OBJ NN PUNCT NSUBJ ROOT PUNCT PUNCT VSUBJ OBJ CCOMP ATTR PUNCT ADJUNCT CONJ CC CONJ PUNCT ADJUNCT CONJ CC CONJ ADJUNCT VMOD OBJ DET PUNCT PUNCT
+12 3 1 3 4 5 5 7 8 12 12 0 17 17 17 15 12 17 17 21 17 21 21 21 26 21 26 26 30 28 30 31 17 12
+
+Người Tày , Dao , xã Mông_Sơn , Xuân_Long , Cẩm_Nhân , Cẩm_Ân ... thượng hồ Thác_Bà , cách Hán_Đà 80 km đường hồ , lại có thêm bài thuốc đánh_cá còn kinh_khủng hơn hạt thàn_mát là quả cây hoắt .
+Nn Nr PU Nr PU Nun Nr PU Nr PU Nr PU Nr PU Aa Nn Nr PU Nn Nr Num Nu Nn Nn PU R Ve Vv Nc Nn Vv R Aa Vcp Nn Nn Vc Nn Nn Nn PU
+NSUBJ NN PUNCT CONJ PUNCT NP_ADVMOD NN PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT PARATAXIS OBJ NN PUNCT PARATAXIS OBJ NUM OBJ NN NN PUNCT ADJUNCT ROOT VMOD NSUBJ CLF VMOD ADJUNCT AMOD VMOD OBJ NN CCOMP ATTR NN NN PUNCT
+27 1 2 2 1 1 6 7 7 9 9 11 11 7 7 15 16 7 7 19 22 19 22 23 1 27 0 27 37 29 29 33 29 33 34 35 27 37 38 39 27
+
+Ông Trần_Văn_Sinh , dân di_cư lòng hồ năm 1964 , thôn Quyết_Thắng , xã Mông_Sơn , cho tôi hay quả hoắt to và giống quả đậu_mèo nhưng phải chèo thuyền hai tiếng đồng_hồ mới ra đến " tiểu đảo " nơi hoắt mọc .
+Nn Nr PU Nn Vv Nn Nn Nt Num PU Nun Nr PU Nun Nr PU Vv Pp Vv Nn Nn Aa Cp Vv Nn Nn Cp Vv Vv Nn Num Nu Nn R Vv D PU Sv Nn PU Nn Nn Vv PU
+NSUBJ NN PUNCT PARATAXIS RCMOD OBJ NN NP_ADVMOD NUM PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT ROOT IOBJ VMOD NSUBJ NN CCOMP CC CONJ OBJ NN CC CONJ VMOD OBJ NUM NP_ADVMOD NN ADJUNCT VMOD VMOD PUNCT SINO NN PUNCT OBJ NSUBJ CCOMP PUNCT
+17 1 1 1 4 5 6 5 8 1 1 11 11 11 14 1 0 17 17 22 20 19 22 22 24 25 22 22 28 29 32 29 32 35 29 35 41 39 41 41 36 43 41 17
+
+Cây nào chín_tới là ngư_dân ra hái trụi .
+Nn Pd Vv Cp Nn Vv Vv Aa PU
+NSUBJ DET ROOT CC NSUBJ CONJ VMOD ADJP_ADVMOD PUNCT
+3 1 0 3 6 3 6 7 3
+
+Mấy năm gần đây cây hoắt vắng dần , dân lòng hồ lại " phát_kiến " bài độc_dược trị cá mới : dùng lá cây dỏng ...
+Nq Nu Aa Pd Nn Nn Aa R PU Nn Nn Nn R PU Nn PU Nc Nn Vv Nn Aa PU Vv Nn Nn Nn PU
+DET NP_ADVMOD AMOD OBJ NSUBJ NN ROOT ADJUNCT PUNCT NSUBJ NN NN ADJUNCT PUNCT CONJ PUNCT NN CLF RCMOD OBJ AMOD PUNCT PARATAXIS OBJ NN NN PUNCT
+2 7 2 3 7 5 0 7 7 15 10 11 15 15 7 15 15 17 17 19 17 17 17 23 24 25 7
+
+Suốt thời trẻ ông Sinh kiếm cá bằng cách này nhờ tình_cờ học_lỏm của người Tày , xã Xuân_Long .
+Aa Nt Aa Nn Nr Vv Nn Cs Nn Pd Cs Aa Vv Cs Nn Nr PU Nun Nr PU
+ADJP_ADVMOD OBJ AMOD NSUBJ NN ROOT OBJ PREP POBJ DET PREP ACOMP PCOMP PREP POBJ NN PUNCT PARATAXIS NN PUNCT
+6 1 2 6 4 0 6 6 8 9 6 13 11 13 14 15 15 15 18 6
+
+Hồi đó cá nhiều nhưng chưa có thị_trường , chợ_búa nên thi_thoảng mới ra con lạch đầu thôn làm mẻ cải_thiện bữa ăn .
+Nt Pd Nn Aa Cp R Ve Nn PU Nn Cp R R Vv Nc Nn Cs Nun Vv Nn Vv Nn Vv PU
+NP_ADVMOD DET NSUBJ ROOT CC ADJUNCT CONJ OBJ PUNCT CONJ CC ADJUNCT ADJUNCT CONJ NN CLF OBJ NN VMOD OBJ RCMOD OBJ VMOD PUNCT
+4 1 4 0 4 7 4 7 8 8 4 14 12 4 17 15 14 17 14 19 20 21 22 4
+
+Còn nay không chỉ cả làng mà cả vùng dọc chu_vi hồ Thác_Bà dài hàng trăm cây_số đều sử_dụng lá cây rừng để hạ_độc cá .
+Cp Nt R R Nw Nun Cp Nw Nn Aa Nn Nn Nr Aa R Nq Nu R Vv Nn Nn Nn Cs Vv Nn PU
+CC NP_ADVMOD ADJUNCT ADJUNCT DET NSUBJ CC DET CONJ AMOD OBJ NN NN AMOD ADJUNCT NUM OBJ ADJUNCT ROOT OBJ NN NN PREP PCOMP OBJ PUNCT
+19 19 6 3 6 19 6 9 6 9 10 11 12 9 16 17 14 19 0 19 20 21 19 23 24 19
+
+Gần đây tôi còn phát_hiện dân xã Minh_Tiến , An_Phú LBRK hạ huyện Lục_Yên , thượng_nguồn sông Chảy RBRK cũng thi nhau săn cá bằng loại lá người Tày gọi là cây thâm .
+Aa Pd Pp R Vv Nn Nun Nr PU Nr LBRK Aa Nun Nr PU Nn Nn Nr RBRK R Vv Nn Vv Nn Cs Nn Nn Nn Nr Vv Cs Nn Nn PU
+ADJP_ADVMOD OBJ NSUBJ ADJUNCT ROOT NSUBJ NP_ADVMOD NN PUNCT CONJ PUNCT PARATAXIS OBJ NN PUNCT PARATAXIS NN NN PUNCT ADJUNCT CCOMP OBJ VMOD OBJ PREP POBJ NN NSUBJ NN CCOMP PREP POBJ NN PUNCT
+5 1 5 5 0 21 6 7 8 8 7 7 12 13 13 13 16 17 7 21 5 21 21 23 23 25 26 30 28 26 30 31 32 5
+
+Nếu lá_ngón gây độc với người , thả xuống nước mất tác_dụng thì lá thâm lại gây ngộ_độc cho cá .
+Cp Nn Vv Aa Cs Nn PU Vv D Nn Ve Nn Cp Nn Nn R Vv Vv Cs Nn PU
+CC NSUBJ ROOT ACOMP PREP POBJ PUNCT CONJ VMOD OBJ CONJ OBJ CC NSUBJ NN ADJUNCT CONJ VMOD PREP POBJ PUNCT
+3 3 0 3 4 5 3 3 8 9 8 11 3 17 14 17 3 17 18 19 3
+
+Dân không cần chế_biến hay pha sắc , cứ vò nát rồi thả xuống đầu con nước là cả dòng suối cá tôm ... tuyệt_chủng .
+Nn R Vv Vv Cp Vv Vv PU R Vv Aa Cp Vv D Cs Nc Nn Vc Nw Nn Nn Nn Nn PU Vv PU
+NSUBJ ADJUNCT ROOT VMOD CC CONJ CONJ PUNCT ADJUNCT CSUBJ ADJP_ADVMOD CC CONJ VMOD PREP POBJ CLF CONJ DET NP_ADVMOD NN NSUBJ CONJ PUNCT CCOMP PUNCT
+3 3 0 3 4 4 6 3 10 18 10 10 10 13 14 15 16 3 20 25 20 25 22 25 18 3
+
+Đêm đó anh Thủ hút thuốc_lào kể tôi nghe cách ruốc cá rất đơn_giản : hạt thàn_mát được bóc_tách xong phơi thật khô LBRK mới hiệu_nghiệm RBRK đanh cứng như tiền cổ , dùng chày sắt giã mới nát .
+Nt Pd Nn Nr Vv Nn Vv Pp Vv Nn Vv Nn R Aa PU Nn Nn Vv Vv Aa Vv R Aa LBRK R Aa RBRK Aa Aa Cs Nn Aa PU Vv Nn Nn Vv R Aa PU
+NP_ADVMOD DET NSUBJ NN ROOT OBJ CONJ IOBJ VMOD OBJ RCMOD OBJ ADJUNCT AMOD PUNCT NSUBJ NN CCOMP VMOD ACOMP CONJ ADJUNCT ADJP_ADVMOD PUNCT ADJUNCT PARATAXIS PUNCT ADJP_ADVMOD ADJP_ADVMOD PREP POBJ AMOD PUNCT CONJ OBJ NN VMOD ADJUNCT ACOMP PUNCT
+5 1 5 3 0 5 5 7 7 9 10 11 14 10 18 18 16 10 18 19 18 23 21 23 26 23 23 23 28 29 30 31 21 21 34 35 34 39 37 5
+
+Sau đó đem lên thượng_nguồn suối , eo , lạch ... đổ ra hồ Thác_Bà xát vò .
+Cs Pd Vv Vv Nn Nn PU Nn PU Nn PU Vv R Nn Nr Vv Vv PU
+PREP POBJ ROOT VMOD OBJ NN PUNCT CONJ PUNCT CONJ PUNCT VMOD ADJUNCT OBJ NN VMOD CONJ PUNCT
+3 1 0 3 4 5 6 6 8 8 6 3 12 12 14 12 16 3
+
+Trên mặt nước nổi lớp bọt trắng_xoá như xà_phòng , càng vò kỹ càng nhiều bọt .
+Cs Nn Nn Vv Nn Nn Aa Cs Nn PU Cp Vv Nn Cp Aa Nn PU
+PREP POBJ NN ROOT OBJ NN AMOD PREP POBJ PUNCT CC CONJ ADJP_ADVMOD CC CONJ OBJ PUNCT
+4 1 2 0 4 5 5 7 8 4 12 4 12 15 12 15 4
+
+Bọt theo con_nước trôi xuôi hạ_nguồn , đến đâu cá , tôm , cua , ếch ... chết nổi lên đến đó .
+Nn Vv Nn Vv Aa Nn PU Vv Pp Nn PU Nn PU Nn PU Nn PU Vv Vv R Vv Pd PU
+NSUBJ ROOT OBJ VMOD ADJP_ADVMOD OBJ PUNCT CONJ OBJ NSUBJ PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT RCMOD VMOD ADJUNCT CONJ OBJ PUNCT
+2 0 2 2 4 5 2 2 8 21 10 10 12 12 14 14 10 10 18 19 8 21 2
+
+Sau 15 - 20 phút , chủ_nhân phải có_mặt nơi hạ_nguồn LBRK cách 1 - 2 km RBRK để cầm vợt vớt những con cá chết .
+Cs Num PU Num Nu PU Nn Vv Aa Nn Nn LBRK Vv Num PU Num Nu RBRK Cs Vv Nn Vv Nq Nc Nn VA PU
+PREP NUM PUNCT CONJ POBJ PUNCT NSUBJ ROOT ACOMP NP_ADVMOD NN PUNCT PARATAXIS NUM PUNCT CONJ OBJ PUNCT PREP PCOMP OBJ VMOD DET OBJ CLF RCMOD PUNCT
+8 5 2 2 1 8 8 0 8 9 10 10 10 17 14 14 13 10 9 19 20 20 24 22 24 24 8
+
+Cũng tuỳ mức đánh nặng , nhẹ mà cá to chết tại_chỗ hay say lừ_đừ , chết muộn trên đường đến chợ .
+R Vv Nn Vv Aa PU Aa Cp Nn Aa Vv Aa Cp Vv Aa PU Vv Aa Cs Nn Vv Nn PU
+ADJUNCT VMOD OBJ RCMOD ACOMP PUNCT CONJ CC NSUBJ AMOD ROOT ADJP_ADVMOD CC CONJ ADJP_ADVMOD PUNCT CONJ ADJP_ADVMOD PREP POBJ XCOMP OBJ PUNCT
+2 11 2 3 4 5 5 11 11 9 0 11 11 11 14 14 14 17 17 19 20 21 11
+
+Anh Thủ nói đánh nhẹ cá to không chết , chỉ say nên phải vò thật nhiều thuốc mới vét sạch cá to trong suối .
+Nn Nr Vv Vv Aa Nn Aa R Vv PU R Vv Cp Vv Vv R Aa Nn R Vv Aa Nn Aa Cs Nn PU
+NSUBJ NN ROOT ADVCL ADJP_ADVMOD NSUBJ AMOD ADJUNCT CCOMP PUNCT ADJUNCT CONJ CC CSUBJ VMOD ADJUNCT ACOMP OBJ ADJUNCT CONJ ADJP_ADVMOD OBJ AMOD PREP POBJ PUNCT
+3 1 0 9 4 9 6 9 3 9 12 9 9 20 14 17 15 17 20 9 20 20 22 22 24 3
+
+Không ngờ khi tôi phàn_nàn chuyện tàn_sát cá bằng cây rừng với mấy cán_bộ huyện Yên_Bình lại được họ tiết_lộ thêm hai bài sát cá khác : dùng hạt cây củ_đậu và tàu cọ trộn phân gà .
+R Vv Nt Pp Vv Nn Vv Nn Cs Nn Nn Cs Nq Nn Nun Nr R Vv Pp Vv Vv Num Nn Vv Nn Aa PU Vv Nn Nn Nn Cp Nc Nn Vv Nn Nn PU
+ADJUNCT ROOT NP_ADVMOD NSUBJ CCOMP OBJ XCOMP OBJ PREP POBJ NN PREP DET POBJ NP_ADVMOD NN ADJUNCT XCOMP NSUBJ CCOMP VMOD NUM OBJ RCMOD OBJ AMOD PUNCT PARATAXIS OBJ NN NN CC CONJ CLF VMOD OBJ NN PUNCT
+2 0 18 5 3 5 6 7 7 9 10 5 14 12 14 15 18 2 20 18 20 23 20 23 24 23 23 23 28 29 30 29 29 33 28 35 36 2
+
+Vị này thề : " Tôi chỉ cần hai tàu lá cọ , một_ít phân gà thì bắt cả ao cá nhẹ như không " .
+Nn Pd Vv PU PU Pp R Vv Num Nc Nn Nn PU Nq Nn Nn Cp Vv Nw Nn Nn Aa Cs Aa PU PU
+NSUBJ DET ROOT PUNCT PUNCT NSUBJ ADJUNCT CCOMP NUM OBJ CLF CLF PUNCT DET CONJ NN CC CSUBJ DET OBJ NN CONJ PREP PCOMP PUNCT PUNCT
+3 1 0 8 8 8 8 3 10 8 10 10 10 15 10 15 8 22 20 18 20 8 22 23 8 3
+
+Còn hạt cây củ_đậu ai cũng biết độc ngang lá_ngón , lại dễ kiếm nên hiện dân lòng hồ đang dùng tàn_sát cá trên diện rộng .
+Cp Nn Nn Nn Pp R Vv Aa Aa Nn PU R Aa Vv Cp Nt Nn Nn Nn R Vv Vv Nn Cs Nn Aa PU
+CC DEP NN NN NSUBJ ADJUNCT ROOT CCOMP ADJP_ADVMOD OBJ PUNCT ADJUNCT ACOMP CONJ CC NP_ADVMOD NSUBJ NN NN ADJUNCT CONJ VMOD OBJ PREP POBJ AMOD PUNCT
+7 7 2 3 7 7 0 7 8 9 8 14 14 8 7 21 21 17 18 21 7 21 22 22 24 25 7
+
+Lòng hồ ngấm thuốc_độc !
+Nn Nn Vv Nn PU
+NSUBJ NN ROOT OBJ PUNCT
+3 1 0 3 3
+
+Cẩm_Nhân LBRK phía đông hồ RBRK cách Mông_Sơn LBRK tây hồ RBRK bốn tiếng chạy thuyền máy , hiện có 270 hộ sống nhờ nguồn lợi cá tôm .
+Nr LBRK Nn Nn Nn RBRK Nn Nr LBRK Nn Nn RBRK Num Nu Vv Nn Nn PU Nt Ve Num Nn Vv Cs Nn Nn Nn Nn PU
+NP_ADVMOD PUNCT PARATAXIS NN NN PUNCT RCMOD OBJ PUNCT PARATAXIS NN PUNCT NUM OBJ RCMOD NP_ADVMOD NN PUNCT NP_ADVMOD ROOT NUM NSUBJ CCOMP PREP POBJ NN NN CONJ PUNCT
+20 1 1 3 3 1 1 7 8 8 10 8 14 7 14 15 16 20 20 0 22 23 20 23 24 25 25 27 20
+
+Chàng trai tên Niên , 28 tuổi , xóm Khe_Soi , cho tôi biết cách đánh_cá chủ_yếu ở đây là ruốc .
+Nc Nn Nn Nr PU Num Nn PU Nun Nr PU Vv Pp Vv Nn Vv Aa Cs Pd Vc Vv PU
+NN CLF NSUBJ NN PUNCT NUM PARATAXIS PUNCT PARATAXIS NN PUNCT ROOT IOBJ VMOD NSUBJ CCOMP AMOD PREP POBJ CCOMP VMOD PUNCT
+3 1 12 3 3 7 3 3 3 9 3 0 12 12 20 15 15 15 18 14 20 12
+
+Dọc hồ Thác_Bà có bao_nhiêu con suối , lạch , eo đổ ra là có bấy_nhiêu chủ ruốc cá thi nhau dùng độc_dược mưu_sinh .
+Aa Nn Nr Ve Pp Nc Nn PU Nn PU Nn Vv R Vc Ve Pp Nn Vv Nn Vv Nn Vv Nn Vv PU
+ADJP_ADVMOD OBJ NN CSUBJ DET OBJ NN PUNCT CONJ PUNCT CONJ RCMOD ADJUNCT ROOT CCOMP DET NSUBJ RCMOD OBJ CCOMP OBJ VMOD OBJ VMOD PUNCT
+4 1 2 14 6 4 6 7 7 9 9 6 12 0 14 17 20 17 18 15 20 20 22 22 14
+
+Sau mỗi trận mưa nước hồ dâng , từ loại cá to quí như chiên , lăng , ngão đến trắm , chép , mè , chày ... đều đua nhau ngược .
+Cs Nq Nn VN Nn Nn Vv PU Cs Nn Nn Aa Aa Cs Nn PU Nn PU Nn Cs Nn PU Nn PU Nn PU Nn PU R Vv Nn Vv PU
+PREP DET POBJ DEP NSUBJ NN CCOMP PUNCT MARK NSUBJ NN AMOD CONJ PREP POBJ PUNCT CONJ PUNCT CONJ MARK NN PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT ADJUNCT ROOT OBJ VMOD PUNCT
+7 3 1 3 7 5 30 30 10 30 10 10 12 10 14 15 15 17 17 10 10 21 21 23 23 25 25 10 30 0 30 30 30
+
+Cách đánh_cá bằng cây rừng cũng chỉ áp_dụng nơi suối , lạch LBRK tức dòng nước chảy RBRK chứ không đánh nơi mặt hồ vì làm vậy phải thả cả tấn lá củ quả cá mới chết .
+Nn Vv Cs Nn Nn R R Vv Nn Nn PU Nn LBRK Cp Nn Nn Vv RBRK Cp R Vv Nn Nn Nn Cs Vv Pp Vv Vv Nw Nu Nn Nn Nn Nn R Vv PU
+NSUBJ XCOMP PREP POBJ NN ADJUNCT ADJUNCT ROOT NP_ADVMOD NN PUNCT CONJ PUNCT CC PARATAXIS NN RCMOD PUNCT CC ADJUNCT CONJ NP_ADVMOD NN NN MARK ADVCL OBJ CONJ VMOD DET OBJ NN CONJ CONJ NSUBJ ADJUNCT ADVCL PUNCT
+8 1 2 3 4 7 8 0 8 9 10 10 9 9 9 15 15 9 8 21 8 21 22 23 37 37 26 26 28 31 29 31 32 33 37 37 21 8
+
+Mấy người trong xóm Niên có chiêu đánh thuốc : chỉ thả lượng hạt thàn_mát vừa đủ phía thượng_nguồn khi hạ_nguồn đã căng ngang dải đăng LBRK lưới RBRK .
+Nq Nn Cs Nun Nr Ve Nn Vv Nn PU R Vv Nn Nn Nn R Aa Nn Nn Nt Nn R Vv Aa Nc Vv LBRK Nn RBRK PU
+DET NSUBJ PREP POBJ NN ROOT OBJ RCMOD OBJ PUNCT ADJUNCT PARATAXIS OBJ NN NN ADJUNCT AMOD NP_ADVMOD NN NP_ADVMOD NSUBJ ADJUNCT CCOMP ADJP_ADVMOD NN CLF PUNCT OBJ PUNCT PUNCT
+2 6 2 3 4 0 6 7 8 7 12 7 12 13 14 17 13 12 18 12 23 23 20 23 28 25 28 23 28 6
+
+Niên còn khoe tháng trước anh gặp con suối ... cho thu cả tấn cá .
+Nr R Vv Nt Nn Pp Vv Nc Nn PU Vv Vv Nw Nu Nn PU
+NSUBJ ADJUNCT ROOT NP_ADVMOD NN NSUBJ CCOMP OBJ CLF PUNCT RCMOD VMOD DET OBJ NN PUNCT
+3 3 0 7 4 7 3 7 8 8 8 11 14 12 14 3
+
+Cá hồ Thác_Bà to , quí hơn nhiều nơi khác .
+Nn Nn Nr Aa PU Aa Vcp Aa Nn Aa PU
+NSUBJ NP_ADVMOD NN ROOT PUNCT CONJ VMOD AMOD OBJ AMOD PUNCT
+4 1 2 0 4 4 4 9 7 9 4
+
+Trắm_cỏ nặng tới 3 - 4 kg , còn chiên , lăng 20 - 30 kg_[]_con .
+Nn Aa M Num PU Num Nu PU Cp Nn PU Nn Num PU Num Nu PU
+NSUBJ ROOT QUANTMOD NUM PUNCT NUMBER OBJ PUNCT CC NSUBJ PUNCT CONJ NUM PUNCT CONJ CONJ PUNCT
+2 0 4 7 4 4 2 2 2 16 10 10 16 13 13 2 2
+
+Dù săn bằng lưới , bằng độc_dược đều mang ra chợ cá Cẩm_Nhân để đóng thùng xốp đá lạnh , đưa theo xe_khách về tận Hà_Đông , Hà_Nội bán .
+Cp Vv Cs Nn PU Cs Nn R Vv R Nn Nn Nr Cs Vv Nn Nn Nn Aa PU Vv Vv Nn Vv Aa Nr PU Nr Vv PU
+CC ROOT PREP POBJ PUNCT CONJ POBJ ADJUNCT CONJ ADJUNCT OBJ NN NN PREP PCOMP OBJ NN NN AMOD PUNCT CONJ VMOD OBJ VMOD ADJP_ADVMOD OBJ PUNCT CONJ CONJ PUNCT
+2 0 2 3 3 3 6 9 2 9 9 11 11 9 14 15 16 16 18 15 15 21 22 21 24 25 26 26 21 2
+
+Những cách săn cá bằng lá củ quả cây rừng trên đều có từ xưa do người Dao , Tày bản_địa tìm ra vì hồi đó chưa có phương_tiện đánh_bắt hiện_đại .
+Nq Nn Vv Nn Nn Nn Nn Nn Nn Nn Nn R Ve Cs Aa Cp Nn Nr PU Nr Nn Vv R Cs Nt Pd R Ve Nn Vv Aa PU
+DET NSUBJ XCOMP OBJ PREP POBJ CONJ CONJ NN NN DEP ADJUNCT ROOT PREP PCOMP CC NSUBJ NN PUNCT CONJ NN CONJ ADJUNCT MARK NP_ADVMOD DET ADJUNCT ADVCL OBJ VMOD AMOD PUNCT
+2 13 2 3 3 5 6 7 6 9 3 13 0 13 14 13 22 17 18 18 17 13 22 28 28 25 28 22 28 29 29 13
+
+Vậy mà nay người Kinh học_lỏm được , áp_dụng tràn_lan ; nhà nào cũng mơ ... làm_giàu nhờ cá , tăng sức săn_bắt bằng độc_dược đến_nỗi cây độc cũng không kịp ra lá , quả ...
+Pp Cp Nt Nn Nr Vv R PU Vv Aa PU Nn Pd R Vv PU Vv Cs Nn PU Vv Nn Vv Cs Nn M Nn Aa R R Aa Vv Nn PU Nn PU
+ROOT CC NP_ADVMOD NSUBJ NN CONJ ADJUNCT PUNCT CONJ ADJP_ADVMOD PUNCT NSUBJ DET ADJUNCT CONJ PUNCT VMOD PREP POBJ PUNCT CONJ OBJ RCMOD PREP POBJ INTJ NSUBJ AMOD ADJUNCT ADJUNCT PARATAXIS VMOD OBJ PUNCT CONJ PUNCT
+0 1 6 6 4 1 6 6 6 9 6 15 12 15 6 15 15 17 18 15 15 21 22 23 24 31 31 27 30 31 21 31 32 33 33 1
+
+Đến thời_điểm này chưa có nhà nghiên_cứu nào tìm_hiểu vì sao những thứ lá , hạt cây trên gây ngộ_độc cho cá và theo cơ_chế nào , người ăn cá có bị gì ? ...
+Cs Nt Pd R Ve Ncs Vv Pd Vv Cp Pp Nq Nn Nn PU Nn Nn Nn Vv Vv Cs Nn Nn Vv Nn Pd PU Nn Vv Nn Ve Vv Pp PU PU
+PREP POBJ DET ADJUNCT ROOT NSUBJ CLF DET CCOMP CC DEP DET NSUBJ NN PUNCT CONJ NN NN CCOMP VMOD PREP POBJ OBJ VMOD OBJ DET PUNCT NSUBJ RCMOD OBJ CONJ VMOD OBJ PUNCT PUNCT
+5 1 2 5 0 9 6 6 5 19 19 13 19 13 14 14 14 13 9 19 20 21 20 20 24 25 19 31 28 29 19 31 32 19 5
+
+Chỉ biết khi dùng những độc_dược này thì cả trứng cá ... cũng bị " luộc " , mức tàn_sát gấp trăm lần chài_lưới , rất lâu sau mới tái_sinh và đang trực_tiếp huỷ_hoại nguồn lợi thuỷ_sản hồ Thác_Bà .
+R Vv Nt Vv Nq Nn Pd Cp Nw Nn Nn PU R Vv PU Vv PU PU Nn Vv Vv Nq Nn Nn PU R Aa Nn R Vv Cp R Aa Vv Nn Nn Nn Nn Nr PU
+ADJUNCT ROOT NP_ADVMOD XCOMP DET OBJ DET CC DET NSUBJ NN PUNCT ADJUNCT ADVCL PUNCT VMOD PUNCT PUNCT NSUBJ VMOD CONJ DET OBJ OBJ PUNCT ADJUNCT ADJP_ADVMOD OBJ ADJUNCT CCOMP CC ADJUNCT ACOMP CONJ OBJ NN NN NP_ADVMOD NN PUNCT
+2 0 14 3 6 4 6 14 10 14 10 14 14 30 16 14 16 14 21 19 14 23 21 21 30 27 30 27 30 2 30 34 34 30 34 35 35 35 38 2
+

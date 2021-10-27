@@ -1,0 +1,425 @@
+Kỷ_niệm 59 năm Cách_mạng Tháng Tám và Quốc_khánh 2_-_9 .
+Vv Num Nu Nn Nt Num Cp Nn Nt PU
+ROOT NUM OBJ NN NP_ADVMOD NUM CC CONJ PARATAXIS PUNCT
+0 3 1 3 4 5 4 4 8 1
+
+Kỳ_quan giữa lòng đất thép .
+Nn Cs Nn Nn Nn PU
+ROOT PREP POBJ NN NN PUNCT
+0 1 2 3 4 1
+
+Có một công_trình kỳ_diệu của nhân_dân TP. HCM : địa_đạo Củ_Chi .
+Ve Num Nn Aa Cs Nn Nun Nr PU Nn Nr PU
+ROOT NUM OBJ AMOD PREP POBJ NP_ADVMOD NN PUNCT PARATAXIS NN PUNCT
+0 3 1 3 3 5 6 7 3 3 10 1
+
+Đó là hệ_thống đường hầm ngầm trên 200 km trong lòng đất ; vừa là căn_cứ_địa , vừa là nơi trú_ẩn , vừa là công_sự chiến_đấu ...
+Pd Vc Nn Nn Nn Aa R Num Nu Cs Nn Nn PU Cp Vc Nn PU Cp Vc Nn Vv PU Cp Vc Nn Vv PU
+NSUBJ ROOT ATTR NN NN AMOD ADJUNCT NUM NN PREP POBJ NN PUNCT CC CONJ ATTR PUNCT CC CONJ ATTR VMOD PUNCT CC CONJ ATTR VMOD PUNCT
+2 0 2 3 4 4 8 9 4 4 10 11 2 2 2 15 15 15 15 19 20 19 19 19 24 25 2
+
+Điều lạ_thường là địa_đạo nằm giữa lòng địch , bị phong_toả bởi bốn bề đồn_bót và nằm sát_nách thủ_đô của bộ_máy chiến_tranh Mỹ - Nguỵ .
+Ncs Aa Vc Nn Vv Cs Nn Nn PU Vv Vv Cs Num Nn Nn Cp Vv Aa Nn Cs Nn Nn Nr PU Nn PU
+NSUBJ CLF ROOT NSUBJ CCOMP PREP POBJ NN PUNCT CONJ VMOD PREP NUM POBJ NN CC CONJ ACOMP OBJ PREP POBJ NN NN PUNCT NN PUNCT
+3 1 0 5 3 5 6 7 5 5 10 10 14 12 14 10 10 17 18 19 20 21 25 25 22 3
+
+Và trên 10.000 chàng trai , cô gái Củ_Chi đã đổ máu_xương để thành hào thành luỹ .
+Cp R Num Nc Nn PU Nc Nn Nr R Vv Nn Cs Vv Nn Vv Nn PU
+CC ADJUNCT NSUBJ NN CLF PUNCT NN CLF CONJ ADJUNCT ROOT OBJ PREP PCOMP OBJ CONJ OBJ PUNCT
+11 3 11 3 4 3 9 7 3 11 0 11 11 13 14 14 16 11
+
+Những con_người bình_dị chân_đất ấy đã làm cách nào tạo nên một kỳ_quan như thế ? ...
+Nq Nn Aa Nn Pd R Vv Nn Pd Vv Vv Num Nn Cs Pp PU PU
+DET NSUBJ AMOD NN DET ADJUNCT ROOT OBJ DET RCMOD VMOD NUM OBJ PREP POBJ PUNCT PUNCT
+2 7 2 2 2 7 0 7 8 8 10 13 11 13 14 7 7
+
+Nhuận_Đức những năm chống Mỹ với hệ_thống địa_đạo chừng trên 11 km , một bộ_phận hợp_thành của hệ_thống địa_đạo huyền_thoại trên 200 km Củ_Chi , là tử_địa của hàng chục ngàn Mỹ - nguỵ .
+Nr Nq Nu Vv Nr Cs Nn Nn R R Num Nu PU Num Nn Vv Cs Nn Nn Aa R Num Nu Nr PU Vc Nn Cs R Nq Nq Nr PU Nn PU
+NSUBJ DET NP_ADVMOD RCMOD OBJ PREP POBJ NN ADJUNCT ADJUNCT NUM NN PUNCT NUM PARATAXIS VMOD PREP POBJ NN AMOD ADJUNCT NUM NN NN PUNCT ROOT ATTR PREP ADJUNCT NUM CONJ NN PUNCT POBJ PUNCT
+26 3 1 3 4 4 6 7 10 11 12 7 7 15 7 15 15 17 18 19 22 23 19 19 7 0 26 27 30 34 30 34 34 28 26
+
+Ông Tư_Cậm , nguyên chính_trị viên xã_đội Nhuận_Đức những năm đánh Mỹ , nói chắc : " Ngày nào tụi Mỹ càn vô Nhuận_Đức thì thế_nào bên kia trái_đất cũng có những bà mẹ , bà vợ khóc con khóc chồng " .
+Nn Nr PU Sv Nn Sv Nn Nr Nq Nu Vv Nr PU Vv Aa PU PU Nt Pd Nn Nr Vv Cs Nr Cp Pp Nn Pd Nn R Ve Nq Nc Nn PU Nc Nn Vv Nn Vv Nn PU PU
+NSUBJ NN PUNCT NN SINO SINO PARATAXIS NN DET CONJ RCMOD OBJ PUNCT ROOT ACOMP PUNCT PUNCT NP_ADVMOD DET NSUBJ NN CCOMP PREP POBJ CC DEP NSUBJ DET NN ADJUNCT CCOMP DET NSUBJ CLF PUNCT CONJ CLF CCOMP OBJ CONJ OBJ PUNCT PUNCT
+14 1 1 7 4 5 1 7 10 7 10 11 1 0 14 31 31 31 18 22 20 18 22 23 31 31 31 27 27 31 14 33 38 33 33 33 36 31 38 38 40 31 14
+
+Đào hầm suốt ... 15 năm .
+Vv Nn Aa PU Num Nu PU
+ROOT OBJ ADJP_ADVMOD PUNCT NUM OBJ PUNCT
+0 1 1 3 6 3 1
+
+Nhuận_Đức ngày_xưa không xanh_tươi như bây_giờ mà trắng_xác_trắng_xơ , lại lọt_thỏm giữa bốn bề đồn_bót : bót An_Nhơn_Tây , bót Trung_Hoà , bót Phú_Hoà_Đông , bót cầu Bến_Mương , huyện_lỵ Củ_Chi và sau này là căn_cứ Đồng_Dù của sư_đoàn dù 25 Mỹ " Tia chớp nhiệt_đới " .
+Nr Nt R Aa Cs Pd Cp Aa PU R Vv Cs Num Nn Nn PU Nn Nr PU Nn Nr PU Nn Nr PU Nn Nn Nr PU Nun Nr Cp Cs Pd Vc Nn Nr Cs Nn Nn Nr Nr PU Nn Nn Nn PU PU
+NSUBJ NP_ADVMOD ADJUNCT ROOT PREP POBJ CC CONJ PUNCT ADJUNCT CONJ PREP NUM POBJ NN PUNCT PARATAXIS NN PUNCT CONJ NN PUNCT CONJ NN PUNCT CONJ NN NN PUNCT PARATAXIS NN CC PREP POBJ CONJ ATTR NN PREP POBJ NN NN NN PUNCT NN NN NN PCOMP PUNCT
+4 1 4 0 4 5 4 4 4 11 4 11 14 12 14 15 15 17 17 17 20 20 20 23 23 23 26 27 26 26 30 14 35 33 14 35 36 36 38 39 39 39 39 39 44 44 38 4
+
+Do vậy khi đi càn , dù xuất_phát từ bất_cứ hướng nào , địch cũng phải càn qua Nhuận_Đức .
+Cp Pp Nt Vv Vv PU Cp Vv Cs R Nn Pd PU Nn R Vv Vv Cs Nr PU
+CC ROOT NP_ADVMOD XCOMP VMOD PUNCT CC CONJ PREP ADJUNCT POBJ DET PUNCT NSUBJ ADJUNCT CONJ VMOD PREP POBJ PUNCT
+2 0 8 3 4 8 8 2 8 11 9 11 8 16 16 8 16 17 18 2
+
+Cũng chính ở trong thế " cái túi " như vậy nên lực_lượng cách_mạng Nhuận_Đức chỉ còn một cách bám_trụ tại chỗ chứ không thoát ra đường nào được .
+R M Cs Cs Nn PU Nc Nn PU Cs Pp Cp Nn Aa Nr R Ve Num Nn Vv Cs Nn Cp R Vv R Nn Pd R PU
+ADJUNCT PCOMP PREP PREP POBJ PUNCT NN CLF PUNCT PREP POBJ CC NSUBJ AMOD NN ADJUNCT ROOT NUM OBJ RCMOD PREP POBJ CC ADJUNCT CONJ ADJUNCT NP_ADVMOD DET ADJUNCT PUNCT
+3 3 17 3 4 7 5 7 7 5 10 17 17 13 13 17 0 19 17 19 20 21 17 25 17 25 25 27 25 17
+
+Năm 1960 , sau phong_trào đồng khởi , địch càng tăng_cường ruồng_bố , tình_hình cách_mạng càng thêm cam_go .
+Nt Num PU Cs Nn Sv Vv PU Nn Cp Vv Vv PU Nn Nn Cp Vv Aa PU
+NP_ADVMOD NUM PUNCT PARATAXIS POBJ VMOD SINO PUNCT NSUBJ CC ROOT VMOD PUNCT NSUBJ NN CC CONJ ACOMP PUNCT
+11 1 1 1 4 5 6 1 11 11 0 11 11 17 14 17 11 17 11
+
+Nhiều đồng bào , đồng chí hi_sinh .
+Aa Sv Nn PU Sv Nn Vv PU
+AMOD SINO NSUBJ PUNCT SINO CONJ ROOT PUNCT
+3 3 7 3 6 3 0 7
+
+Lực_lượng cách_mạng ngày_càng mất_mát ...
+Nn Nn R Vv PU
+NSUBJ NN ADJUNCT ROOT PUNCT
+4 1 4 0 4
+
+Trước tình_hình đó , đảng_uỷ xã Nhuận_Đức đã quyết_định phải đào địa_đạo , lấy đó làm hệ_thống trú_ẩn và phòng_thủ phản_công , phòng_thủ tiến_công .
+Cs Nn Pd PU Nn Nu Nr R Vv Vv Vv Nn PU Vv Pd Vv Nn Vv Cp Vv Vv PU Vv Vv PU
+PREP POBJ DET PUNCT NSUBJ NN NN ADJUNCT ROOT VMOD VMOD OBJ PUNCT CONJ OBJ VMOD OBJ RCMOD CC CONJ VMOD PUNCT CONJ VMOD PUNCT
+9 1 2 9 9 5 6 9 0 9 10 11 9 9 14 14 16 17 18 18 20 20 20 23 9
+
+Lúc này ở Nhuận_Đức còn một đoạn địa_đạo dài trên 500 m từ thời kháng_chiến chống Pháp còn_lại , được khôi_phục và nối rộng ra .
+Nt Pd Cs Nr Ve Num Nn Nn Aa R Num Nu Cs Nt Nn Vv Nr Ve PU Vv Vv Cp Vv Aa R PU
+NP_ADVMOD DET PREP POBJ ROOT NUM OBJ NN AMOD ADJUNCT NUM OBJ PREP POBJ NN RCMOD OBJ VMOD PUNCT RCMOD VMOD CC CONJ ACOMP ADJUNCT PUNCT
+5 1 5 3 0 7 5 7 7 11 12 9 7 13 14 15 16 7 7 7 20 21 21 23 23 5
+
+Bắt_đầu từ năm 1961 , xã Nhuận_Đức phát_động phong_trào đào địa_đạo .
+Vv Cs Nt Num PU Nun Nr Vv Nn Vv Nn PU
+VMOD PREP POBJ NUM PUNCT NSUBJ NN ROOT OBJ RCMOD OBJ PUNCT
+8 1 2 3 8 8 6 0 8 9 10 8
+
+Già trẻ gái trai , nam phụ lão ấu , tất_cả không phân_biệt thành_phần đều rùng_rùng lao vào trận mới .
+Nn Nn Nn Nn PU Nn Nn Nn Nn PU Pp R Vv Nn R Aa Vv Cs Nn Aa PU
+OBJ CONJ CONJ CONJ PUNCT CONJ CONJ CONJ CONJ PUNCT NSUBJ ADJUNCT RCMOD OBJ ADJUNCT ACOMP ROOT PREP POBJ AMOD PUNCT
+17 1 2 3 1 1 6 7 8 17 17 13 11 13 17 17 0 17 18 19 17
+
+Trai_tráng từng tổ 3 - 4 người làm một , thay phiên nhau người trước đào đất , người sau cào đất ra sau , xúc vào ki tre , người trên mặt đất kéo lên .
+Nn Pp Nn Num PU Num Nn Vv Num PU Vv Nn Nn Nn Nn Vv Nn PU Nn Nn Vv Nn Cs Nn PU Vv Cs Nn Nn PU Nn Cs Nn Nn Vv R PU
+NSUBJ DET NN NUM PUNCT CONJ NN RCMOD OBJ PUNCT ROOT OBJ NN NSUBJ NN CONJ OBJ PUNCT NSUBJ NN CONJ OBJ PREP POBJ PUNCT CONJ PREP POBJ NN PUNCT NSUBJ PREP POBJ NN CONJ ADJUNCT PUNCT
+11 3 1 7 4 4 3 7 8 11 0 11 12 16 14 11 16 16 21 19 16 21 21 23 21 21 26 27 28 21 35 31 32 33 21 35 11
+
+Khắp các ụ cây , khắp các bìa rừng từng nhóm người lố_nhố .
+Aa Nq Nn Nn PU Aa Nq Nn Nn Pp Nn Nn Aa PU
+ADJP_ADVMOD DET OBJ NN PUNCT CONJ DET OBJ NN DET NSUBJ NN ROOT PUNCT
+13 3 1 3 1 1 8 6 8 11 13 11 0 13
+
+Người trước mệt , người sau thay .
+Nn Nn Aa PU Nn Nn Vv PU
+NSUBJ NN ADVCL PUNCT NSUBJ NN ROOT PUNCT
+3 1 7 7 7 5 0 7
+
+Người trước ngã , người sau tiến .
+Nn Nn Vv PU Nn Nn Vv PU
+NSUBJ NN ADVCL PUNCT NSUBJ NN ROOT PUNCT
+3 1 7 7 7 5 0 7
+
+Người già đan ki , trẻ_con múc nước , đàn_ông đào , phụ_nữ nấu cơm nấu khoai ...
+Nn Aa Vv Nn PU Nn Vv Nn PU Nn Vv PU Nn Vv Nn Vv Nn PU
+NSUBJ AMOD ROOT OBJ PUNCT NSUBJ CONJ OBJ PUNCT NSUBJ CONJ PUNCT NSUBJ CONJ OBJ CONJ OBJ PUNCT
+3 1 0 3 3 7 3 7 7 11 7 11 14 11 14 14 16 3
+
+Các ấp , các làng hừng_hực khí_thế cách_mạng .
+Nq Nun PU Nq Nun Aa Nn Nn PU
+DET NSUBJ PUNCT DET CONJ ROOT OBJ NN PUNCT
+2 6 2 5 2 0 6 7 6
+
+Công_việc anh_hùng đó không chỉ diễn ra một tháng , một năm .
+Nn Aa Pd R R Vv R Num Nu PU Num Nu PU
+NSUBJ AMOD DET ADJUNCT ADJUNCT ROOT ADJUNCT NUM NP_ADVMOD PUNCT NUM CONJ PUNCT
+6 1 1 6 4 0 6 9 6 9 12 9 6
+
+Kỳ_diệu thay , nó được duy_trì liên_tục , liên_tục suốt 15 năm , bất_kể nắng_mưa , bất_kể mưa bom bão đạn , cho tới ngày cờ_đỏ_sao_vàng tung bay trên nóc dinh Độc_Lập .
+Aa E PU Pp Vv Vv Aa PU Aa Aa Num Nu PU R Nn PU R Nn Nn Nn Nn PU M Cs Nt Nn Vv Vv Cs Nn Nn Nr PU
+ADJP_ADVMOD INTJ PUNCT NSUBJ ROOT VMOD ADJP_ADVMOD PUNCT PARATAXIS ADJP_ADVMOD NUM OBJ PUNCT ADJUNCT PARATAXIS PUNCT ADJUNCT PARATAXIS NN CONJ NN PUNCT INTJ PREP POBJ NSUBJ CCOMP CONJ PREP POBJ NN NN PUNCT
+5 1 5 5 0 5 6 7 7 9 12 10 12 15 12 12 18 12 18 18 20 12 9 9 24 27 25 27 27 29 30 31 5
+
+Chính trong những ngày đào hầm đánh giặc đó , nhiều chàng trai cô gái đã hiểu nhau , thương_yêu nhau , lấy nhau để cả nhà cùng đào hầm đánh giặc .
+M Cs Nq Nu Vv Nn Vv Nn Pd PU Aa Nc Nn Nc Nn R Vv Nn PU Vv Nn PU Vv Nn Cs Nw Nn Aa Vv Nn Vv Nn PU
+PCOMP PREP DET POBJ XCOMP OBJ CONJ OBJ DET PUNCT AMOD NSUBJ CLF CONJ CLF ADJUNCT ROOT OBJ PUNCT CONJ OBJ PUNCT CONJ OBJ PREP DET NSUBJ PCOMP VMOD OBJ CONJ OBJ PUNCT
+2 17 4 2 4 5 5 7 4 17 12 17 12 12 14 17 0 17 17 17 20 20 20 23 23 27 28 25 28 29 29 31 17
+
+Như vợ_chồng Chín_Ảnh - Chín_Lan , lúc đó ông là bí_thư xã_đoàn , 18 tuổi , bà là uỷ_viên ban chấp_hành , 17 tuổi ; hay như các cặp Hai_Nên - Hai_Dìn ; Gình - Sung ; Tét - Sa ; Quợt - Ghe ...
+Cp Nn Nr PU Nr PU Nt Pd Pp Vc Nn Nn PU Num Nn PU Pp Vc Nn Nn Vv PU Num Nn PU Cp Cp Nq Nq Nr PU Nr PU Nr PU Nr PU Nr PU Nr PU Nr PU Nr PU
+CC ROOT NN PUNCT CONJ PUNCT NP_ADVMOD DET NSUBJ PARATAXIS ATTR NN PUNCT NUM CONJ PUNCT NSUBJ CONJ ATTR NN VMOD PUNCT NUM CONJ PUNCT CC CC DET CONJ NN PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT
+2 0 2 3 3 2 10 7 10 2 10 11 10 15 10 10 18 10 18 19 20 18 24 18 2 2 26 29 2 29 30 30 30 30 34 34 34 34 38 38 38 38 42 42 2
+
+Những đôi uyên_ương ngày_xưa giờ này người còn người mất .
+Nq Nq Nn Nt Nt Pd Nn Ve Nn Vv PU
+DET DET DEP NN NP_ADVMOD DET NSUBJ ROOT NSUBJ CONJ PUNCT
+3 3 8 3 8 5 8 0 10 8 8
+
+Có người vinh_danh liệt_sĩ anh_hùng ...
+Ve Nn Vv Nn Aa PU
+ROOT OBJ RCMOD OBJ AMOD PUNCT
+0 1 2 3 4 1
+
+Lứa trai_tráng ngày đó 16 tuổi như ông Út_Kang , 17 tuổi như ông Tư_Cậm , 18 tuổi như ông Chín_Ảnh ... giờ đã trên 60 .
+Nn Nn Nt Pd Num Nn Cs Nn Nr PU Num Nn Cs Nn Nr PU Num Nn Cs Nn Nr PU Nt R R Num PU
+NSUBJ NN NN DET NUM NN PREP POBJ NN PUNCT NUM CONJ PREP POBJ NN PUNCT NUM CONJ PREP POBJ NN PUNCT QUANTMOD ADJUNCT ADJUNCT ROOT PUNCT
+26 1 1 3 6 1 6 7 8 6 12 6 12 13 14 12 18 12 18 19 20 6 26 25 26 0 26
+
+Đó là những chàng trai đầu_tiên cắm nhát cuốc vào lòng đất đào địa_đạo thời chống Mỹ .
+Pd Vc Nq Nc Nn An Vv Nn Nn Cs Nn Nn Vv Nn Nt Vv Nr PU
+NSUBJ ROOT DET NN CLF AMOD RCMOD OBJ NN PREP POBJ NN VMOD OBJ ATTR RCMOD OBJ PUNCT
+2 0 15 15 4 15 15 7 8 7 10 11 7 13 2 15 16 2
+
+Vật_dụng đào là một lưỡi cuốc cùn , dân địa_phương gọi là cuốc ngao , cán ngắn chừng 3 - 4 tấc .
+Nn Vv Vc Num Nn Nn Aa PU Nn Nn Vv Cs Nn Nn PU Nn Aa R Num PU Num Nu PU
+NSUBJ VMOD ROOT NUM ATTR NN AMOD PUNCT NSUBJ NN CONJ PREP POBJ NN PUNCT NSUBJ CONJ NUM QUANTMOD PUNCT CONJ OBJ PUNCT
+3 1 0 5 3 5 5 3 11 9 3 11 12 13 11 17 11 22 18 19 19 17 3
+
+Bắt_đầu là đào miệng_thí , trổ từ trên mặt đất thẳng xuống như đào giếng .
+Vv Vc Vv Nn PU Vv Cs Cs Nn Nn Aa D Cs Vv Nn PU
+VSUBJ ROOT VMOD OBJ PUNCT CONJ PREP PREP POBJ NN ACOMP VMOD PREP PCOMP OBJ PUNCT
+2 0 2 3 3 3 6 7 8 9 6 6 6 13 14 2
+
+Nhưng miệng thì rất hẹp , đường_kính chừng 6 tấc .
+Cp Nn Cp R Aa PU Nn R Num Nu PU
+CC NSUBJ CC ADJUNCT ROOT PUNCT NSUBJ ADJUNCT NUM CONJ PUNCT
+5 5 5 5 0 5 10 9 10 5 5
+
+Đào sâu xuống chừng 4 - 5 m thì miệng_thí trổ ngang .
+Vv Aa D R Num PU Num Nu Cp Nn Vv Aa PU
+ROOT ACOMP VMOD ADJUNCT NUM PUNCT CONJ OBJ CC NSUBJ CONJ ACOMP PUNCT
+0 1 1 5 8 5 5 1 1 11 1 11 1
+
+Lúc này cuốc ngao mới phát_huy tác_dụng : người đào phải làm_việc trong tư_thế ngồi , mò_mẫm đào từng nhát cuốc giữa lòng đất tối_đen_như_mực .
+Nt Pd Nn Nn R Vv Nn PU Nn Vv Vv Vv Cs Nn Vv PU Vv Vv Pp Nn Nn Cs Nn Nn ID PU
+NP_ADVMOD DET NSUBJ NN ADJUNCT ROOT OBJ PUNCT NSUBJ VMOD PARATAXIS VMOD PREP POBJ RCMOD PUNCT CONJ VMOD DET OBJ NN PREP POBJ NN DEP PUNCT
+6 1 6 3 6 0 6 7 11 9 7 11 12 13 14 15 15 17 20 18 20 18 22 23 23 6
+
+Một phần vì đào từng đoạn ngắn , nhưng quan_trọng hơn là đào hẹp và sâu dưới lòng đất , thiếu dưỡng_khí nên một đường hầm thường chỉ có hai người làm_việc .
+Num Nn Cp Vv Pp Nn Aa PU Cp Aa R Vc Vv Aa Cp Aa Cs Nn Nn PU Aa Nn Cp Num Nn Nn R R Ve Num Nn Vv PU
+NUM NP_ADVMOD CC ROOT DET OBJ AMOD PUNCT CC ASUBJ ADJUNCT CONJ CCOMP ACOMP CC CONJ PREP POBJ NN PUNCT CONJ OBJ CC NUM NSUBJ NN ADJUNCT ADJUNCT CONJ NUM NSUBJ CCOMP PUNCT
+2 4 4 0 6 4 6 4 4 12 10 4 12 13 14 14 14 17 18 13 13 21 4 25 29 25 28 29 4 31 32 29 4
+
+Hai người khác - có_khi chỉ một - ở bên ngoài cửa hầm kéo đất lên .
+Num Nn Aa PU R R Num PU Cs Nn Nn Nn Nn Vv Nn D PU
+NUM NSUBJ AMOD PUNCT ADJUNCT ADJUNCT PARATAXIS PUNCT PREP POBJ NN NN NN ROOT OBJ VMOD PUNCT
+2 14 2 2 6 7 2 2 2 9 10 10 12 0 14 14 14
+
+Quy_cách chuẩn được phổ_biến của địa_đạo là chiều rộng khoảng 9 tấc , chiều cao khoảng 1,1 m .
+Nn Aa Vv Vv Cs Nn Vc Nn Aa R Num Nu PU Nn Aa R Num Nu PU
+NSUBJ AMOD RCMOD VMOD PREP POBJ ROOT NSUBJ AMOD ADJUNCT NUM CCOMP PUNCT NSUBJ AMOD ADJUNCT NUM CONJ PUNCT
+7 1 1 3 1 5 0 12 8 11 12 7 12 18 14 17 18 12 7
+
+Với kích_thước này , người du_kích quen_thuộc và thông_thạo lòng đất có_thể khéo_léo di_chuyển nhanh_nhẹn bằng tư_thế lom_khom , nhưng đối_với người lạ thì điều đó cực_kỳ khó_khăn .
+Cs Nn Pd PU Nc Nn Aa Cp Vv Nn Nn Aa Aa Vv Aa Cs Nn Aa PU Cp Cs Nn Aa Cp Nn Pd R Aa PU
+PREP POBJ DET PUNCT NSUBJ CLF AMOD CC CONJ OBJ NN ACOMP ACOMP ROOT ACOMP PREP POBJ AMOD PUNCT CC PREP POBJ AMOD CC NSUBJ DET ADJUNCT CONJ PUNCT
+14 1 2 14 14 5 5 7 7 9 10 14 14 0 14 14 16 17 14 14 28 21 22 28 28 25 28 14 14
+
+Đặc_biệt là bằng kinh_nghiệm dân_gian , những người đào địa_đạo đều linh_cảm được mạch nước_ngầm ở đâu_đó nên thường xác_định đường địa_đạo luôn cách mặt nước_ngầm khoảng 1,8 - 2 m .
+Aa Vc Cs Nn Nn PU Nq Nn Vv Nn R Vv R Nn Nn Cs Pd Cp R Vv Nn Nn R Vv Nn Nn R Num PU Num Nu PU
+ASUBJ ROOT PREP POBJ NN PUNCT DET NSUBJ RCMOD OBJ ADJUNCT CCOMP ADJUNCT OBJ NN PREP POBJ CC ADJUNCT CONJ NSUBJ NN ADJUNCT CCOMP OBJ NN ADJUNCT NUM PUNCT CONJ OBJ PUNCT
+2 0 12 3 4 12 8 12 8 9 12 2 12 12 14 14 16 12 20 12 24 21 24 20 24 25 28 31 28 28 24 2
+
+Mỗi miệng_thí cách nhau 10 m .
+Nq Nn Vv Nn Num Nu PU
+DET NSUBJ ROOT OBJ NUM IOBJ PUNCT
+2 3 0 3 6 3 3
+
+Như vậy mỗi tổ đào mỗi bên 5 m .
+Cs Pp Nq Nn Vv Nq Nn Num Nu PU
+PREP POBJ DET NSUBJ ROOT DET OBJ NUM OBJ PUNCT
+5 1 4 5 0 7 5 9 5 5
+
+" Khi nào " phụp " với nhau LBRK hai đoạn địa_đạo thông nhau RBRK thì miệng thí được lấp lại .
+PU Nt Pd PU Vv PU Cs Nn LBRK Num Nn Nn Vv Nn RBRK Cp Nn Vv Vv Vv R PU
+PUNCT NP_ADVMOD DET PUNCT CCOMP PUNCT PREP POBJ PUNCT NUM NSUBJ NN CCOMP OBJ PUNCT CC NSUBJ VMOD ROOT VMOD ADJUNCT PUNCT
+19 19 2 5 2 5 5 7 5 11 13 11 5 13 5 19 19 17 0 19 20 19
+
+Cứ thế các đoạn địa_đạo được nối rộng ra , mỗi ngày một chút .
+R Pp Nq Nn Nn Vv Vv Aa R PU Nq Nu Num Nq PU
+ADJUNCT OBJ DET NSUBJ NN ROOT VMOD ACOMP ADJUNCT PUNCT DET NP_ADVMOD NUM OBJ PUNCT
+2 6 4 6 4 0 6 7 8 8 12 8 14 8 6
+
+" Xương_sống " , " nút chai " và lỗ thông hơi kỳ_diệu .
+PU Nn PU PU PU Nn Nn PU Cp Nn Vv Nn Aa PU
+PUNCT ROOT PUNCT PUNCT PUNCT CONJ NN PUNCT CC CONJ RCMOD OBJ AMOD PUNCT
+2 0 2 2 6 2 6 6 6 6 10 11 10 2
+
+Lòng địa_đạo không thẳng mà ngoằn_ngoèo uốn_khúc , ngoắt qua ngoắt lại .
+Nn Nn R Aa Cp Aa Vv PU Vv R Vv R PU
+NSUBJ NN ADJUNCT ROOT CC CONJ VMOD PUNCT CONJ ADJUNCT CONJ ADJUNCT PUNCT
+4 1 4 0 4 4 6 7 7 9 9 11 4
+
+Ông Út_Kang giải_thích : là để tránh trái LBRK lựu_đạn RBRK của địch .
+Nn Nr Vv PU Vc Cs Vv Nn LBRK Nn RBRK Cs Nn PU
+NSUBJ NN ROOT PUNCT XCOMP PREP PCOMP OBJ PUNCT PARATAXIS PUNCT PREP POBJ PUNCT
+3 1 0 5 3 5 6 7 8 8 8 8 12 3
+
+Lắm khi địch dò ra miệng địa_đạo , lò_dò đuổi theo và tung trái nổ nhưng miểng lựu_đạn chẳng ăn_thua gì với những ngóc_ngách trong lòng đất .
+R Nt Nn Vv R Nn Nn PU Vv Vv Vv Cp Vv Nn Vv Cp Nn Nn R Vv M Cs Nq Nn Cs Nn Nn PU
+ADJUNCT NP_ADVMOD NSUBJ ROOT ADJUNCT OBJ NN PUNCT CONJ VMOD VMOD CC CONJ OBJ VMOD CC NSUBJ NN ADJUNCT CONJ INTJ PREP DET POBJ PREP POBJ NN PUNCT
+2 4 4 0 4 4 6 4 4 9 10 9 9 13 14 4 20 17 20 4 20 20 24 22 24 25 26 4
+
+Dọc theo trục chính của đường " xương_sống " địa_đạo , từng tổ du_kích sẽ đào thêm những đường xương cá rẽ ra hai bên chằng_chịt hơn nữa .
+Aa Vv Nn Aa Cs Nn PU Nn PU Nn PU Pp Nn Nn R Vv Vv Nq Nn Nn Nn Vv R Num Nn Aa R R PU
+ADJP_ADVMOD VMOD OBJ AMOD PREP POBJ PUNCT NN PUNCT NN PUNCT DET NSUBJ NN ADJUNCT ROOT VMOD DET OBJ NN NN RCMOD ADJUNCT NUM OBJ AMOD ADJUNCT ADJUNCT PUNCT
+16 1 2 3 3 5 6 6 6 6 16 13 16 13 16 0 16 19 16 19 20 19 22 25 22 19 26 27 16
+
+Các đường xương cá này thường là các điểm trú_ẩn , hoặc ổ chiến_đấu cá_nhân mà mỗi chiến_sĩ du_kích quân bảo_quản cho riêng mình , người khác đi vào có_thể bị lạc .
+Nq Nn Nn Nn Pd R Vc Nq Nn Vv PU Cp Nn Vv Aa Cs Nq Nn Nn Nn Vv Cs M Pp PU Nn Aa Vv D Aa Vv Vv PU
+DET NSUBJ NN NN DET ADJUNCT ROOT DET ATTR VMOD PUNCT CC CONJ VMOD AMOD MARK DET NSUBJ NN NN CCOMP PREP INTJ POBJ PUNCT NSUBJ AMOD CCOMP VMOD ACOMP CONJ VMOD PUNCT
+2 7 2 3 2 7 0 9 7 9 9 9 9 13 13 21 18 21 18 19 13 21 24 22 21 28 26 31 28 31 21 31 7
+
+Thậm_chí , do điều_kiện hoạt_động bảo_mật nên những người du_kích đồng chí với nhau , dù trong trường_hợp khẩn_cấp nào cũng rất ít khi cho đồng đội ẩn_náu trong đường xương cá của mình .
+R PU Cs Nn Vv Vv Cp Nq Nc Vv Sv Nn Cs Nn PU Cp Cs Nn Aa Pd R R Aa Nt Vv Sv Nn Vv Cs Nn Nn Nn Cs Pp PU
+ADJUNCT PUNCT PREP POBJ RCMOD VMOD CC DET NN CLF SINO NSUBJ PREP POBJ PUNCT CC PREP POBJ AMOD DET ADJUNCT ADJUNCT ROOT OBJ XCOMP SINO IOBJ VMOD PREP POBJ NN NN PREP POBJ PUNCT
+23 23 23 3 4 5 23 12 12 9 12 23 12 13 23 23 23 17 18 18 22 23 0 23 24 27 25 25 28 29 30 31 30 33 23
+
+Có lần một người bạn chiến_đấu trên đường đi công_tác về gặp địch càn , ông Út_Kang kéo đại xuống đường địa_đạo của mình nhưng vẫn buộc đồng chí đó tuân_thủ nguyên_tắc : " Cho tui " bịt mù " LBRK bịt mắt RBRK anh lại ... " .
+Ve Nn Num Nc Nn Vv Cs Nn Vv Vv Vv Vv Nn Vv PU Nn Nr Vv R D Nn Nn Cs Pp Cp R Vv Sv Nn Pd Vv Nn PU PU Vv Pp PU Vv Aa PU LBRK Vv Nn RBRK Pp R PU PU PU
+ROOT OBJ NUM NN CLF NSUBJ PREP POBJ RCMOD VMOD RCMOD CCOMP NSUBJ CCOMP PUNCT NSUBJ NN CCOMP ADJUNCT VMOD OBJ NN PREP POBJ CC ADJUNCT CONJ SINO OBJ DET VMOD OBJ PUNCT PUNCT XCOMP IOBJ PUNCT VMOD ACOMP PUNCT PUNCT VMOD OBJ PUNCT OBJ ADJUNCT PUNCT PUNCT PUNCT
+0 1 6 6 4 12 11 7 8 9 6 2 14 12 1 18 16 1 18 18 20 21 21 23 18 27 18 29 27 29 27 31 35 35 27 35 38 35 38 38 38 38 42 38 38 38 35 35 1
+
+Cuối ngày khi địch rút , ông đưa bạn lên mặt đất , tháo khăn bịt mắt .
+Cs Nt Nt Nn Vv PU Pp Vv Pp Cs Nn Nn PU Vv Nn Vv Nn PU
+PREP POBJ PARATAXIS NSUBJ CCOMP PUNCT NSUBJ ROOT OBJ PREP POBJ NN PUNCT CONJ OBJ RCMOD OBJ PUNCT
+8 1 1 5 3 8 8 0 8 8 10 11 8 8 14 15 16 8
+
+Các đường xương cá này có khi được bố_trí chằng_chịt gần nhau , nhiều vách đất chỉ cách chừng 2 - 3 tấc .
+Nq Nn Nn Nn Pd Ve Nt Vv Vv Aa Aa Nn PU Aa Nn Nn R Vv R Num PU Num Nu PU
+DET DEP NN NN DET ROOT OBJ XCOMP VMOD ACOMP ACOMP OBJ PUNCT AMOD NSUBJ NN ADJUNCT CONJ ADJUNCT NUM PUNCT CONJ OBJ PUNCT
+2 6 2 3 2 0 6 7 8 9 9 11 6 15 18 15 18 6 20 23 20 20 18 6
+
+Chính nhờ thế nên khi bị lộ hoặc bị tấn_công , du_kích chỉ cần co chân đạp vách để lần sang đường khác .
+M Cs Pp Cp Nt Vv Vv Cp Vv Vv PU Nn R Vv Vv Nn Vv Nn Cs Vv Cs Nn Aa PU
+PCOMP PREP POBJ CC NP_ADVMOD XCOMP VMOD CC CONJ VMOD PUNCT NSUBJ ADJUNCT ROOT VMOD OBJ VMOD OBJ PREP PCOMP PREP POBJ AMOD PUNCT
+2 14 2 14 14 5 6 6 6 9 14 14 14 0 14 15 15 17 17 19 20 21 22 14
+
+Gọi là đúng quy_cách chiều ngang , bề cao nhưng ở rất nhiều đoạn sự bố_trí về kích_thước của địa_đạo hết_sức lắt_léo và thông_minh .
+Vv Cs Aa Nn Nt Aa PU Nn Aa Cp Cs R Aa Nn Ncs Vv Cs Nn Cs Nn R Aa Cp Aa PU
+VMOD PREP PCOMP OBJ NN AMOD PUNCT NN AMOD CC PREP ADJUNCT AMOD POBJ NSUBJ CLF PREP POBJ PREP POBJ ADJUNCT ROOT CC CONJ PUNCT
+22 1 2 3 4 5 4 4 8 22 22 13 14 11 22 15 15 17 18 19 22 0 22 22 22
+
+Ở nhiều đoạn , địa_đạo ở ngoài to , sâu vào trong nhỏ lại như toi nơm cá .
+Cs Aa Nn PU Nn Cs Nn Aa PU Aa Cs Nn Aa R Cs Nn Vv Nn PU
+PREP AMOD POBJ PUNCT NSUBJ PREP POBJ ROOT PUNCT ADJP_ADVMOD PREP POBJ CONJ ADJUNCT PREP POBJ RCMOD OBJ PUNCT
+8 3 1 8 8 8 6 0 8 13 10 11 8 13 13 15 16 17 8
+
+Ở những đoạn này bên trên được bố_trí những khúc gỗ tròn ép sát vách đất , đầu có cột dây thừng , vót thuôn đầu to đầu nhỏ theo chiều tương_ứng của địa_đạo như cái nút chai .
+Cs Nq Nn Pd Nn Nn Vv Vv Nq Nn Nn Aa Vv Aa Nn Nn PU Nn R Vv Nn Nn PU Vv Aa Nn Aa Nn Aa Vv Nn Vv Cs Nn Cs Nc Nn Nn PU
+PREP DET POBJ DET NSUBJ NN ROOT VMOD DET OBJ NN AMOD RCMOD ACOMP OBJ NN PUNCT CONJ ADJUNCT RCMOD OBJ NN PUNCT CONJ ACOMP OBJ AMOD CONJ AMOD VMOD OBJ VMOD PREP POBJ PREP POBJ NN NN PUNCT
+7 3 1 3 7 5 0 7 10 8 10 10 10 13 14 15 13 13 20 18 20 21 18 18 24 24 26 26 28 24 30 31 31 33 24 35 36 37 7
+
+Khi địch phát_hiện và dò theo đường hầm đuổi theo , tung lựu_đạn hoặc bơm khí độc vào lòng hang thì người du_kích chỉ cần giật " nút chai " , đóng địa_đạo lại .
+Nt Nn Vv Cp Vv Vv Nn Nn Vv Vv PU Vv Nn Cp Vv Nn Aa Cs Nn Nn Cp Nc Nn R Vv Vv PU Nn Nn PU PU Vv Nn R PU
+NP_ADVMOD NSUBJ CCOMP CC CONJ VMOD OBJ NN VMOD VMOD PUNCT CONJ OBJ CC CONJ OBJ AMOD PREP POBJ NN CC NSUBJ CLF ADJUNCT ROOT VMOD PUNCT OBJ NN PUNCT PUNCT CONJ OBJ ADJUNCT PUNCT
+25 3 1 3 3 5 6 7 5 9 9 9 12 12 12 15 16 15 18 19 25 25 22 25 0 25 28 26 28 28 25 25 32 32 25
+
+Sức_ép của trái nổ nếu càng mạnh thì càng ép " nút chai " kín hơn , không cho khí độc len vào địa_đạo .
+Nn Cs Nn Vv Cp Cp Aa Cp Cp Vv PU Nn Nn PU Aa R PU R Vv Nn Aa Vv Cs Nn PU
+NSUBJ PREP POBJ VMOD ROOT CC CONJ CC CC CONJ PUNCT OBJ NN PUNCT ACOMP ADJUNCT PUNCT ADJUNCT CONJ OBJ AMOD VMOD PREP POBJ PUNCT
+5 1 2 3 0 5 5 7 7 7 12 10 12 12 10 15 10 19 10 19 20 19 22 23 5
+
+Cũng nhờ cái " nút chai " thông_minh đó mà năm 1963 , khi địch đi càn bắt được một nông_dân , tra_tấn người này dã_man và cột dây vào lưng buộc dẫn đường xuống địa_đạo .
+R Cs Nc PU Nn Nn PU Aa Pd Cp Nt Num PU Nt Nn Vv Vv Vv R Num Nn PU Vv Nn Pd Aa Cp Vv Nn Cs Nn Vv Vv Nn Vv Nn PU
+ADJUNCT PREP POBJ PUNCT CLF NN PUNCT AMOD DET CC ROOT NUM PUNCT PARATAXIS NSUBJ CCOMP VMOD CONJ ADJUNCT NUM OBJ PUNCT CONJ OBJ DET ACOMP CC CONJ OBJ PREP POBJ CONJ VMOD OBJ VMOD OBJ PUNCT
+2 11 2 5 3 5 5 3 3 11 0 11 11 11 16 14 16 16 18 21 18 18 18 23 24 23 23 23 28 28 30 28 32 33 33 35 11
+
+Du_kích địa_đạo phát_hiện và chờ khi người nông_dân vừa qua là giật " nút chai " , cắt dây cứu người .
+Nn Nn Vv Cp Vv Nt Nc Nn R Vv Cp Vv PU Nn Nn PU PU Vv Nn Vv Nn PU
+NSUBJ NN ROOT CC CONJ NP_ADVMOD NSUBJ CLF ADJUNCT CCOMP CC CONJ PUNCT OBJ NN PUNCT PUNCT CONJ OBJ CONJ OBJ PUNCT
+3 1 0 3 3 5 10 7 10 6 3 3 14 12 14 14 12 12 18 18 20 3
+
+Trong chiến_dịch mang tên Cedar_Fall LBRK bóc vỏ trái_đất RBRK mở_màn từ 8_-_1_-_1967 , địch dùng " đội quân chuột_cống " gồm 600 tên lính công_binh được tuyển_chọn từ những tên nhỏ_thó , huấn_luyện cách đánh_phá địa_đạo .
+Cs Nn Vv Nn Nr LBRK Vv Nn Nn RBRK Vv Cs Nt PU Nn Vv PU Nn Nn Nn PU Vv Num Nc Nn Nn Vv Vv Cs Nq Nn Aa PU Vv Nn Vv Nn PU
+PREP POBJ RCMOD OBJ NN PUNCT PARATAXIS OBJ NN PUNCT RCMOD PREP POBJ PUNCT NSUBJ ROOT PUNCT OBJ NN NN PUNCT RCMOD NUM OBJ CLF NN RCMOD VMOD PREP DET POBJ AMOD PUNCT CONJ OBJ RCMOD OBJ PUNCT
+16 1 2 3 4 4 4 7 8 4 2 11 12 16 16 0 18 16 18 18 18 18 24 22 24 24 24 27 28 31 29 31 28 28 34 35 36 16
+
+Bọn " chuột_cống " phiên thành mỗi tổ 2 - 4 tên , trang_bị mặt_nạ phòng độc , tiểu_liên cực nhanh , lủng_lẳng lựu_đạn , thuốn sắt , dao_găm , máy thổi lùa chất_độc ... luồn sâu xuống đất .
+Nn PU Nn PU Vv Vv Nq Nn Num PU Num Nn PU Vv Nn Vv Aa PU Nn R Aa PU Aa Nn PU Nn Nn PU Nn PU Nn Vv Vv Nn PU Vv Aa D Nn PU
+NSUBJ PUNCT NN PUNCT ROOT VMOD DET OBJ NUM PUNCT CONJ NN PUNCT CONJ OBJ RCMOD ACOMP PUNCT CONJ ADJUNCT AMOD PUNCT CONJ OBJ PUNCT CONJ NN PUNCT CONJ PUNCT CONJ NN CONJ OBJ PUNCT CONJ ACOMP VMOD OBJ PUNCT
+5 1 1 1 0 5 8 6 12 9 9 8 5 5 14 15 16 15 15 21 19 14 14 23 24 24 26 26 26 29 29 31 32 32 24 23 36 36 38 5
+
+Thế nhưng gặp phải những " nút chai " thông_minh , chúng chỉ phá_huỷ được vài đoạn địa_đạo không đáng_kể , lại bị thiệt_hại nặng_nề .
+Pp Cp Vv R Nq PU Nn Nn PU Aa PU Pp R Vv R Nq Nn Nn R Aa PU R Vv Aa Aa PU
+ROOT CC XCOMP ADJUNCT DET PUNCT OBJ NN PUNCT AMOD PUNCT NSUBJ ADJUNCT CONJ ADJUNCT DET OBJ NN ADJUNCT AMOD PUNCT ADJUNCT CONJ ACOMP ADJP_ADVMOD PUNCT
+0 1 14 3 7 7 3 7 7 7 14 14 14 1 14 17 14 17 20 17 14 23 14 23 24 1
+
+" Đội quân chuột_cống " bất_lực và thất_bại .
+PU Nn Nn Nn PU Aa Cp Vv PU
+PUNCT NSUBJ NN NN PUNCT ROOT CC CONJ PUNCT
+2 6 2 2 2 0 6 6 6
+
+Không ai tính_toán được là cần bao_nhiêu lỗ thông hơi cho hệ_thống địa_đạo nhưng khả_năng kỳ_diệu của những người du_kích Củ_Chi bấy_giờ đã làm được điều ấy .
+R Pp Vv R Cs Vv Pp Nn Vv Nn Cs Nn Nn Cp Nn Aa Cs Nq Nc Nn Nr Pd R Vv R Nn Pd PU
+ADJUNCT NSUBJ ROOT ADJUNCT MARK XCOMP DET OBJ RCMOD OBJ PREP POBJ NN CC NSUBJ AMOD PREP DET NN CLF POBJ NP_ADVMOD ADJUNCT CONJ ADJUNCT OBJ DET PUNCT
+2 3 0 3 6 3 8 6 8 9 6 11 12 3 24 15 15 21 21 19 17 21 24 3 24 24 26 3
+
+Ít thì sẽ thiếu dưỡng_khí ; nhiều thì dễ tạo cơ_hội cho địch phát_hiện , nhất_là chúng dùng lực_lượng quân khuyển - loại becgiê lai chó_sói Đức - để đánh_hơi phát_hiện .
+Aa Cp R Aa Nn PU Aa Cp Aa Vv Nn Cs Nn Vv PU Cp Pp Vv Nn Nn Nn PU Nn Nn Vv Nn Nr PU Cs Vv Vv PU
+ROOT CC ADJUNCT CONJ OBJ PUNCT CONJ CC CONJ VMOD OBJ MARK NSUBJ CCOMP PUNCT CC NSUBJ PARATAXIS OBJ NN NN PUNCT PARATAXIS NN RCMOD OBJ NN PUNCT PREP PCOMP VMOD PUNCT
+0 1 4 1 4 1 1 7 7 9 10 14 14 11 9 18 18 9 18 19 20 20 20 23 23 25 26 18 18 29 30 1
+
+Lỗ thông hơi hình cái phễu , miệng như cái chén ăn cơm úp lại , được xoi thẳng lên trên bằng một khe nhỏ .
+Nn Vv Nn Nn Nc Nn PU Nn Cs Nc Nn Vv Nn Vv R PU Vv Vv Aa Cs Nn Cs Num Nn Aa PU
+NSUBJ RCMOD OBJ ROOT NN CLF PUNCT CONJ PREP POBJ NN RCMOD OBJ RCMOD ADJUNCT PUNCT CONJ VMOD ADJP_ADVMOD PREP POBJ PREP NUM POBJ AMOD PUNCT
+4 1 2 0 4 5 4 4 8 9 10 11 12 10 14 8 8 17 18 18 20 18 24 22 24 4
+
+Miệng lỗ được nguỵ_trang rất khéo_léo : có_thể trổ ra một bụi tre , bụi tầm_vông , một gốc cây hoặc một ụ gò mối .
+Nn Nn Vv Vv R Aa PU Aa Vv R Num Nn Nn PU Nn Nn PU Num Nn Nn Cp Num Nn Nn Nn PU
+NSUBJ NN ROOT VMOD ADJUNCT ACOMP PUNCT ACOMP PARATAXIS ADJUNCT NUM OBJ NN PUNCT CONJ NN PUNCT NUM CONJ NN CC NUM CONJ CONJ NN PUNCT
+3 1 0 3 6 4 6 9 6 9 12 9 12 12 12 15 15 19 15 19 19 23 19 23 23 3
+
+Tuy_nhiên tất_cả kiểu nguỵ_trang đó chỉ che được mắt người chứ không giấu được mũi chó .
+Cp Nw Nn Vv Pd R Vv R Nn Nn Cp R Vv R Nn Nn PU
+CC DET NSUBJ VMOD DET ADJUNCT ROOT ADJUNCT OBJ NN CC ADJUNCT CONJ ADJUNCT OBJ NN PUNCT
+7 3 7 3 3 7 0 7 7 9 7 13 7 13 13 15 7
+
+Nhiều tổn_thất đã xảy_ra .
+Aa Nn R Vv PU
+AMOD NSUBJ ADJUNCT ROOT PUNCT
+2 4 4 0 4
+
+Bằng kinh_nghiệm dân_gian , du_kích giã nhuyễn ớt , hạt_tiêu thành bột rắc bên trên để chó không đánh_hơi được .
+Cs Nn Aa PU Nn Vv Aa Nn PU Nn Vv Nn Vv Nn Nn Cs Nn R Vv R PU
+PREP POBJ AMOD PUNCT NSUBJ ROOT ACOMP OBJ PUNCT CONJ VMOD OBJ VMOD OBJ NN PREP NSUBJ ADJUNCT PCOMP ADJUNCT PUNCT
+6 1 2 6 6 0 6 6 8 8 6 11 6 13 14 13 19 19 16 19 6
+
+Nhưng khổ_nỗi tụi lính Mỹ ranh_ma cũng thừa sức phát_hiện lỗ thông hơi khi thấy bọn quân khuyển ... sặc_sụa .
+Cp ID Nn Nn Nr Aa R Vv Nn Vv Nn Vv Nn Nt Vv Nn Nn Nn PU Vv PU
+CC INTJ NSUBJ NN NN AMOD ADJUNCT ROOT OBJ RCMOD OBJ RCMOD OBJ NP_ADVMOD XCOMP NSUBJ NN NN PUNCT CCOMP PUNCT
+8 8 8 3 4 3 8 0 8 9 10 11 12 10 14 20 16 17 20 15 8
+
+Cuối_cùng du_kích phải nhờ người vào nội_thành mua các loại dầu tắm , xà_bông của lính Mỹ về bôi ở bên trên .
+Aa Nn Vv Vv Nn Vv Nn Vv Nq Nn Nn Vv PU Nn Cs Nn Nr Vv Vv Cs Nn Nn PU
+ADJP_ADVMOD NSUBJ ROOT VMOD OBJ VMOD NP_ADVMOD VMOD DET OBJ NN RCMOD PUNCT CONJ PREP POBJ NN VMOD VMOD PREP POBJ NN PUNCT
+3 3 0 3 4 4 6 6 10 8 10 11 11 11 10 15 16 8 18 19 20 21 3
+
+Bọn chó Mỹ nghe mùi " anh_em " thì chỉ biết thè lưỡi nhe răng ngơ_ngác .
+Nn Nn Nr Vv Nn PU Nn PU Cp R Vv Vv Nn Vv Nn Aa PU
+NSUBJ NN NN ROOT OBJ PUNCT NN PUNCT CC ADJUNCT CONJ VMOD OBJ CONJ OBJ CONJ PUNCT
+4 1 2 0 4 7 5 7 4 11 4 11 12 12 14 14 4
+
+Hệ_thống địa_đạo dưới lòng đất còn được kết_nối với hệ_thống chiến_hào chằng_chịt trên mặt đất .
+Nn Nn Cs Nn Nn R Vv Vv Cs Nn Nn Aa Cs Nn Nn PU
+NSUBJ NN PREP POBJ NN ADJUNCT ROOT VMOD PREP POBJ NN AMOD PREP POBJ NN PUNCT
+7 1 1 3 4 7 0 7 8 9 10 10 10 13 14 7
+
+Dọc tuyến hàng trăm kilômet chiến_hào , ở bất_cứ đâu cũng có_thể gặp những ụ chiến_đấu .
+Aa Nn R Nq Nu Nn PU Cs R Pp R Aa Vv Nq Nn Vv PU
+ADJP_ADVMOD OBJ ADJUNCT NUM NN NN PUNCT PREP ADJUNCT POBJ ADJUNCT ACOMP ROOT DET OBJ VMOD PUNCT
+13 1 4 5 2 5 13 13 10 8 12 13 0 15 13 15 13
+
+Giữa các ụ chiến_đấu thường là một miệng địa_đạo .
+Cs Nq Nn Vv R Vc Num Nn Nn PU
+PREP DET POBJ VMOD ADJUNCT ROOT NUM ATTR NN PUNCT
+6 3 1 3 6 0 8 6 8 6
+
+Từ lòng địa_đạo , du_kích xuất_hiện , len theo chiến_hào , dựa vào các ụ chiến_đấu tấn_công địch .
+Cs Nn Nn PU Nn Vv PU Vv Vv Nn PU Vv Cs Nq Nn Vv Vv Nn PU
+PREP POBJ NN PUNCT NSUBJ ROOT PUNCT CONJ VMOD OBJ PUNCT CONJ PREP DET POBJ VMOD VMOD OBJ PUNCT
+6 1 2 6 6 0 6 6 8 9 8 8 12 15 13 15 12 17 6
+
+Khi địch phát_hiện phản_công , lại theo đường hào rút vào lòng đất ...
+Nt Nn Vv Vv PU R Vv Nn Nn Vv Cs Nn Nn PU
+NP_ADVMOD NSUBJ CSUBJ CCOMP PUNCT ADJUNCT ROOT OBJ NN VMOD PREP POBJ NN PUNCT
+7 3 4 1 7 7 0 7 8 7 10 11 12 7
+

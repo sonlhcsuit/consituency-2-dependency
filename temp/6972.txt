@@ -1,0 +1,230 @@
+Bão mặn !
+Nn Aa PU
+ROOT AMOD PUNCT
+0 1 1
+
+Hàng trăm lỗ khoan như những cánh_tay dài_ngoằng thọc_sâu xuống lòng đất .
+R Nq Nn Aa Cs Nq Nn Aa Vv D Nn Nn PU
+ADJUNCT NUM ROOT AMOD DEP DET DEP AMOD RCMOD VMOD OBJ NN PUNCT
+2 3 0 3 3 7 5 7 7 9 10 11 3
+
+Ruộng_đồng , những cánh rừng phòng_hộ ven biển bị phá nát ...
+Nn PU Nq Nn Nn Vv Vv Nn Vv Vv Aa PU
+NSUBJ PUNCT DET CONJ NN VMOD NP_ADVMOD NN ROOT VMOD ADJP_ADVMOD PUNCT
+9 1 4 1 4 5 5 7 0 9 10 9
+
+Vừa bước tới đầu làng tôi đã " nghe " mùi tanh_tưởi đến lợm_giọng bởi thứ nước tù đen_ngòm khắp nơi .
+R Vv Cs Nn Nun Pp R PU Vv PU Nn Aa M Aa Cs Nn Nn Aa Aa Aa Nn PU
+ADJUNCT XCOMP PREP POBJ NN NSUBJ ADJUNCT PUNCT ROOT PUNCT OBJ AMOD INTJ ADJP_ADVMOD PREP POBJ NN AMOD AMOD AMOD OBJ PUNCT
+2 9 2 3 4 9 9 9 0 9 9 11 14 12 12 15 16 17 17 17 20 9
+
+Những cánh đồng lúa phì_nhiêu trước đây giờ đã biến thành ... bến đò !
+Nq Nn Nn Nn Aa Cs Pd Nt R Vv Vv PU Nn Nn PU
+DET NSUBJ NN NN AMOD PREP POBJ NP_ADVMOD ADJUNCT ROOT VMOD PUNCT OBJ NN PUNCT
+2 10 2 3 2 5 6 10 10 0 10 11 11 13 10
+
+Phận người .
+Nn Nn PU
+ROOT NN PUNCT
+0 1 1
+
+Hàng trăm nông_dân đành ngậm_ngùi rửa tay gác cuốc lên giàn bếp vì không còn ruộng để canh_tác ; nguồn nước_ngọt cũng bị cơn bão mặn ập vào xoá_sổ ...
+R Nq Nn Vv Vv Vv Nn Vv Nn Cs Nn Nn Cs R Ve Nn Cs Vv PU Nn Nn R Vv Nc Nn Aa Vv D Vv PU
+ADJUNCT NUM NSUBJ ROOT VMOD VMOD OBJ VMOD OBJ PREP POBJ NN MARK ADJUNCT ADVCL OBJ PREP PCOMP PUNCT NSUBJ NN ADJUNCT CONJ NSUBJ CLF AMOD CCOMP VMOD VMOD PUNCT
+2 3 4 0 4 5 6 6 8 8 10 11 15 15 8 15 16 17 15 23 20 23 15 27 24 24 23 27 27 4
+
+Từ một vùng thuần nông làm ra lương_thực giờ người nông_dân ở Hồ_Tôm , thị_trấn La_Gi LBRK Hàm_Tân , Bình_Thuận RBRK phải đong gạo chợ , mua từng lít nước uống ...
+Cs Num Nn Aa Nn Vv R Nn Nt Nc Nn Cs Nr PU Nun Nr LBRK Nr PU Nr RBRK Vv Vv Nn Nn PU Vv Pp Nu Nn Vv PU
+PREP NUM POBJ AMOD OBJ RCMOD ADJUNCT OBJ NP_ADVMOD NSUBJ CLF PREP POBJ PUNCT PARATAXIS NN PUNCT PARATAXIS PUNCT PARATAXIS PUNCT ROOT VMOD OBJ NN PUNCT CONJ DET OBJ NN VMOD PUNCT
+22 3 1 3 4 3 6 6 22 22 10 10 12 13 13 15 15 15 18 18 15 0 22 23 24 23 23 29 27 29 30 22
+
+Sáu Kế khoả xô nước chuyền sang tay tôi một bụm đề_nghị nếm thử .
+Nr Nr Vv Nn Nn Vv Vv Nn Pp Num Nn Vv Vv Vv PU
+NSUBJ CONJ ROOT OBJ NN VMOD VMOD OBJ NN NUM OBJ VMOD VMOD VMOD PUNCT
+3 1 0 3 4 3 6 7 8 11 6 6 12 13 3
+
+Mùi_vị tanh mặn điếng lưỡi làm tôi nổi cả gai_ốc .
+Nn Aa Aa Aa Nn Vv Pp Vv Nw Nn PU
+NSUBJ AMOD CONJ ADJP_ADVMOD OBJ ROOT OBJ VMOD DET OBJ PUNCT
+6 1 2 2 4 0 6 6 10 8 6
+
+Người chủ nhà thở_dài : " Gần một năm nay mỗi ngày trước khi đi học thằng con tôi phải đi mua nước về để nấu_ăn ... " .
+Nn Nn Nn Vv PU PU R Num Nu Nt Nq Nu Cs Nt Vv Vv Nc Nn Pp Vv Vv Vv Nn Vv Cs Vv PU PU PU
+NSUBJ NN NN ROOT PUNCT PUNCT ADJUNCT QUANTMOD NP_ADVMOD QUANTMOD DET NP_ADVMOD PREP POBJ XCOMP VMOD NN CLF NSUBJ CCOMP VMOD VMOD OBJ VMOD PREP PCOMP PUNCT PUNCT PUNCT
+4 1 2 0 20 20 9 9 20 9 12 20 20 13 14 15 19 17 20 4 20 21 22 22 22 25 20 20 4
+
+Gió xô phần_phật như muốn thổi bay mấy cái áo học_trò đã ngả màu cháo_lòng đang phơi trước nhà của con trai Sáu_Kế .
+Nn Vv Aa Cs Vv Vv Vv Nq Nc Nn Nn R Vv Nn Aa R Vv Cs Nn Cs Nn Nn Nr PU
+NSUBJ ROOT ADJP_ADVMOD PREP PCOMP VMOD VMOD DET OBJ CLF NN ADJUNCT RCMOD OBJ AMOD ADJUNCT RCMOD PREP POBJ PREP NN NN POBJ PUNCT
+2 0 2 2 4 5 6 9 6 9 9 13 9 13 14 17 9 17 18 9 23 21 20 2
+
+Quả_thật dù có Omo hay Tide cũng bó_tay chứ chẳng_thể biến những cái áo này " trắng sạch như mới " được bởi nguồn nước đã ô_nhiễm từ khi cơn bão mặn ập xuống làng này ...
+R Cp M Nr Cp Nr R Vv Cp R Vv Nq Nc Nn Pd PU Aa Aa Cs Aa PU R Cs Nn Nn R Vv Cs Nt Nc Nn Aa Vv D Nun Pd PU
+ADJUNCT CC INTJ NSUBJ CC CONJ ADJUNCT ROOT CC ADJUNCT CONJ DET OBJ CLF DET PUNCT ACOMP CONJ PREP PCOMP PUNCT ADJUNCT MARK NSUBJ NN ADJUNCT ADVCL PREP POBJ NSUBJ CLF AMOD CCOMP VMOD NP_ADVMOD DET PUNCT
+8 8 4 8 4 4 8 0 8 11 8 13 11 13 13 17 11 17 17 19 17 11 27 27 24 27 11 27 28 33 30 30 29 33 33 35 8
+
+Nhà có gần mẫu ruộng đều bị ngập nước_mặn , Sáu Kế đã khóc khi dắt con trâu cày đem bán lấy tiền cho vợ chạy_chợ .
+Nn Ve R Nu Nn R Vv Vv Nn PU Nr Nr R Vv Nt Vv Nc Nn Vv Vv Vv Vv Nn Cs Nn Vv PU
+NSUBJ ROOT ADJUNCT NSUBJ NN ADJUNCT CCOMP VMOD OBJ PUNCT NN NSUBJ ADJUNCT CONJ NP_ADVMOD XCOMP OBJ CLF VMOD VMOD VMOD VMOD OBJ PREP NSUBJ PCOMP PUNCT
+2 0 4 7 4 7 2 7 8 2 12 14 14 2 14 15 16 17 17 16 20 21 22 23 26 24 2
+
+Còn Sáu Kế thì xách áo lò_dò đến cảng La_Gi xin làm chân bốc_vác .
+Cp Nr Nr Cp Vv Nn Vv Vv Nn Nr Vv Vv Nn Vv PU
+CC NSUBJ CONJ CC ROOT OBJ VMOD VMOD NP_ADVMOD NN VMOD VMOD OBJ VMOD PUNCT
+5 5 2 5 0 5 5 7 8 9 8 11 12 13 5
+
+Thằng Học , con trai Sáu_Kế giờ đã bơi_lội giỏi nhờ xung_quanh nhà toàn là nước .
+Nn Nr PU Nc Nn Nr Nt R Vv Aa Cs Nn Nn R Vc Nn PU
+NSUBJ NN PUNCT NN CLF PARATAXIS NP_ADVMOD ADJUNCT ROOT ACOMP MARK NSUBJ NN ADJUNCT ADVCL ATTR PUNCT
+9 1 1 6 4 1 9 9 0 9 15 15 12 15 9 15 9
+
+Với tấm lưới rách mỗi chiều nó đóng_góp cho bữa ăn gia_đình vài con cá_đối nước_lợ .
+Cs Nc Nn Aa Nq Nt Pp Vv Cs Nn Vv Nn Nq Nc Nn Nn PU
+PREP POBJ CLF AMOD DET NP_ADVMOD NSUBJ ROOT PREP POBJ VMOD NN DET NN CLF OBJ PUNCT
+8 1 2 2 6 8 8 0 8 9 10 10 16 16 14 8 8
+
+Hơn phân_nửa dân_số thôn Hồ_Tôm sống_dở_chết_dở từng ngày để chống_chọi với tai_hoạ lạnh_lùng ập đến .
+R Nq Nn Nun Nr ID Pp Nu Cs Vv Cs Nn Aa Vv D PU
+ADJUNCT NUM NSUBJ NP_ADVMOD NN ROOT DET NP_ADVMOD PREP PCOMP PREP POBJ ACOMP RCMOD VMOD PUNCT
+2 3 6 3 4 0 8 6 6 9 10 11 14 12 14 6
+
+Vợ_chồng bà Nguyễn_Thị_Hiệp có bảy sào lúa đang làm đòng , cơn bão mặn ập vào nuốt_chửng .
+Nn Nn Nr Ve Num Nu Nn R Vv Nn PU Nc Nn Aa Vv D Vv PU
+NSUBJ NN NN ROOT NUM NSUBJ NN ADJUNCT CCOMP OBJ PUNCT NSUBJ CLF CLF CONJ VMOD VMOD PUNCT
+4 1 2 0 6 9 6 9 4 9 4 15 12 12 4 15 15 4
+
+Hơn một sào mãng_cầu trong vườn và bầy gà của bà cũng bị dịch chết sạch không còn một mống .
+R Num Nu Nn Cs Nn Cp Nn Nn Cs Pp R Vv Vv Vv R R Ve Num Nn PU
+ADJUNCT NUM NSUBJ NN PREP POBJ PREP NN NN PREP POBJ ADJUNCT CSUBJ VMOD ROOT ADJUNCT ADJUNCT VMOD NUM OBJ PUNCT
+2 3 13 3 3 5 3 3 8 8 10 13 15 13 0 15 18 15 20 18 15
+
+Bà Hiệp rầu_rĩ kể : " Trước đây vợ_chồng tôi đã dặn nhau tự làm tự ăn , bây_giờ gặp cảnh như vầy ... " .
+Nn Nr Aa Vv PU PU Cs Pd Nn Pp R Vv Nn Pp Vv Pp Vv PU Pd Vv Nn Cs Pp PU PU PU
+NSUBJ NN ACOMP ROOT PUNCT PUNCT NP_ADVMOD NN NSUBJ DET ADJUNCT CCOMP OBJ OBJ VMOD OBJ CONJ PUNCT NP_ADVMOD CONJ OBJ PREP POBJ PUNCT PUNCT PUNCT
+4 1 4 0 12 12 12 7 12 9 12 4 12 15 12 17 15 12 20 12 20 21 22 12 12 4
+
+Năm 1998 , UBND thị_trấn La_Gi lập dự_án nuôi tôm bán công_nghiệp trên diện_tích 29 ha với vốn đầu_tư hơn 3 tỉ đồng .
+Nt Num PU X Nun Nr Vv Nn Vv Nn Sv Nn Cs Nn Num Nu Cs Nn Vv R Num Nq Nu PU
+NP_ADVMOD NUM PUNCT NSUBJ NN NN ROOT OBJ RCMOD OBJ SINO OBJ PREP POBJ NUM NN PREP POBJ VMOD ADJUNCT NUMBER NUM NN PUNCT
+7 1 7 7 4 5 0 7 8 9 12 9 9 13 16 14 8 17 18 22 22 23 18 7
+
+Đăng_ký tham_gia khá đông nhưng cuối_cùng các hộ dân đều rút do số tiền đầu_tư to quá và dự_án bất thành .
+Vv Vv R Aa Cp Aa Nq Nn Nn R Vv Cs Nn Nn Vv Aa R Cp Nn Sv Vv PU
+ROOT VMOD ADJUNCT ACOMP CC ADJP_ADVMOD DET NSUBJ NN ADJUNCT CONJ MARK NSUBJ NN VMOD ADVCL ADJUNCT CC NSUBJ SINO CONJ PUNCT
+0 1 4 1 1 11 8 11 8 11 1 16 16 13 14 11 16 11 21 21 11 1
+
+Đến năm 2000 - 2001 khi con tôm_sú giúp nhiều nông_dân thành tỉ_phú , những cuộc " đổ quân " vào dự_án của Nhà_nước chiếm đất và phá rừng ngập_mặn để nuôi tôm lan nhanh như bão .
+Vv Nt Num PU Num Nt Nc Nn Vv Aa Nn Vv Nn PU Nq Ncs PU Vv Nn PU Vv Nn Cs Nn Vv Nn Cp Vv Nn Aa Cs Vv Nn Vv Aa Cs Nn PU
+VMOD OBJ NN PUNCT CONJ PARATAXIS NSUBJ CLF CCOMP AMOD NSUBJ CCOMP OBJ PUNCT DET NSUBJ PUNCT RCMOD OBJ PUNCT VMOD OBJ PREP POBJ VMOD OBJ CC CONJ OBJ AMOD PREP PCOMP OBJ ROOT ADJP_ADVMOD PREP POBJ PUNCT
+34 1 2 3 3 2 9 7 6 11 12 9 12 34 16 34 16 16 18 18 18 21 22 23 18 25 25 25 28 29 28 31 32 0 34 35 36 34
+
+Từ một vùng quê yên_bình , nơi đây bỗng_chốc trở_thành một công_trường ngổn_ngang ; những chiếc máy_ủi , máy đào đất đỏ_đèn gầm_rú thâu_đêm_suốt_sáng thi nhau đào , ủi làm hồ nuôi tôm cho kịp tiến_độ .
+Vv Num Nn Nn Aa PU Nn Pd R Vv Num Nn Aa PU Nq Nc Nn PU Nn Vv Nn Vv Vv ID Vv Nn Vv PU Vv Vv Nn Vv Nn Cs Aa Nn PU
+VMOD NUM OBJ NN AMOD PUNCT NSUBJ DET ADJUNCT ROOT NUM OBJ AMOD PUNCT DET NSUBJ NN PUNCT CONJ RCMOD OBJ CONJ VMOD NP_ADVMOD CONJ OBJ VMOD PUNCT CONJ VMOD OBJ RCMOD OBJ PREP PCOMP OBJ PUNCT
+10 3 1 3 3 10 10 7 10 0 12 10 12 10 16 22 16 17 17 19 20 10 22 23 22 25 25 27 27 27 30 31 32 30 34 35 10
+
+Thay_vì đầu_tư , lắp_đặt hệ_thống đưa nước từ biển vào họ lại thuê những giàn khoan chọc sâu xuống lòng đất 30 , 40 m tìm nguồn nước_mặn .
+Cp Vv PU Vv Nn Vv Nn Cs Nn Vv Pp R Vv Nq Nn Vv Vv Aa Vv Nn Nn Num PU Num Nu Vv Nn Nn PU
+CC ROOT PUNCT CONJ OBJ RCMOD OBJ PREP POBJ RCMOD NSUBJ ADJUNCT CONJ DET OBJ VMOD RCMOD ACOMP VMOD OBJ NN NUM PUNCT CONJ OBJ VMOD OBJ NN PUNCT
+2 0 2 2 2 5 6 10 8 7 13 13 2 15 13 15 15 17 17 19 20 25 22 22 17 17 26 27 2
+
+Hậu_quả là phá nát toàn_bộ mạch ngầm nước_ngọt nơi đây .
+Nn Vc Vv Aa Nw Nn Nn Nn Nn Pd PU
+NSUBJ ROOT VMOD ACOMP DET OBJ NN NN NP_ADVMOD DET PUNCT
+2 0 2 3 6 3 6 6 6 9 2
+
+Trong khi đó , toàn_bộ hệ_thống thoát nước tự_nhiên bị bờ đập ngăn_chặn , nước không thoát ra được biển đành quay ngược lại xâm_nhập khu dân_cư ...
+Cs Nt Pd PU Nw Nn Vv Nn Aa Vv Nn Vv Vv PU Nn R Vv Vv R Nn Vv Vv Aa R Vv Nn Nn PU
+PREP POBJ DET PUNCT DET NSUBJ RCMOD OBJ AMOD ROOT NSUBJ VMOD CCOMP PUNCT NSUBJ ADJUNCT CSUBJ VMOD ADJUNCT OBJ CONJ VMOD ACOMP ADJUNCT VMOD OBJ NN PUNCT
+10 1 2 10 6 10 6 7 8 0 13 11 10 10 17 17 21 17 17 17 10 21 22 22 22 25 26 10
+
+Khổ nhất phải kể đến gia_đình anh Song , ngoài bốn sào ruộng bị nước_mặn xoá_sổ , căn nhà cao_ráo ngày_trước chỉ cách lộ chục mét giờ muốn ra vào phải ... chèo xuồng !
+Aa R Vv Vv Cs Nn Nn Nr PU Cs Num Nu Nn Vv Nn Vv PU Nc Nn Aa Nt R Vv Nn Nq Nu Nt Vv Vv Vv Vv PU Vv Nn PU
+ASUBJ ADJUNCT ROOT VMOD PREP POBJ NN NN PUNCT PREP NUM POBJ NN RCMOD NSUBJ CCOMP PUNCT NN CLF AMOD DEP ADJUNCT RCMOD OBJ DET OBJ NP_ADVMOD PARATAXIS VMOD CONJ CONJ PUNCT VMOD OBJ PUNCT
+3 1 0 3 4 5 6 7 3 28 12 10 12 12 16 14 28 21 18 21 28 23 21 23 26 23 28 3 28 29 28 31 31 33 3
+
+Hôm nào nước cũng ngập tới lấp_xấp nền nhà .
+Nt Pd Nn R Vv Cs Aa Nn Nn PU
+NP_ADVMOD DET NSUBJ ADJUNCT ROOT PREP PCOMP OBJ NN PUNCT
+5 1 5 5 0 5 6 7 8 5
+
+Song xắn tay_áo để lộ nước_da màu đồng_hun , khoe : " Bà_xã với hai đứa con tôi cũng đổi màu_da như vầy vì phải tắm cái thứ nước chết_tiệt đó , nó rít_rịt bám chặt vào da và nhớp_nháp ghê lắm ... " .
+Nr Vv Nn Vv Vv Nn Nn Nn PU Vv PU PU Nn Cp Num Nc Nn Pp R Vv Nn Cs Pp Cs Vv Vv M Nn Nn Vv Pd PU Pp Aa Vv Aa Cs Nn Cp Aa Aa R PU PU PU
+NSUBJ ROOT OBJ VMOD VMOD OBJ NN NN PUNCT CONJ PUNCT PUNCT NSUBJ CC NUM NN CLF CONJ ADJUNCT CCOMP OBJ PREP POBJ MARK ADVCL VMOD INTJ OBJ NN RCMOD DET PUNCT NSUBJ ACOMP PARATAXIS ADJP_ADVMOD PREP POBJ CC CONJ ADJP_ADVMOD ADJUNCT PUNCT PUNCT PUNCT
+2 0 2 2 4 5 6 7 2 2 20 20 20 13 18 18 16 13 20 10 20 20 22 25 20 25 28 26 28 28 28 26 35 35 26 35 35 37 35 35 40 41 20 20 2
+
+Vợ_chồng Song thất_nghiệp vì ruộng nhiễm mặn , của_nả khiêm_tốn trong nhà lần_lượt " lội nước " ra_đi ...
+Nn Nr Vv Cs Nn Vv Aa PU Nn Aa Cs Nn R PU Vv Nn PU Vv PU
+NSUBJ NN ROOT MARK NSUBJ ADVCL ACOMP PUNCT NSUBJ AMOD PREP POBJ ADJUNCT PUNCT CONJ OBJ PUNCT VMOD PUNCT
+3 1 0 6 6 3 6 6 15 9 9 11 15 15 6 15 15 15 3
+
+Suy_nghĩ lung lắm , rốt_cuộc hai vợ_chồng đành xuống_nước xin làm_thuê cho một chủ hồ tôm - những " thủ_phạm " góp_phần gây ra cơn bão mặn làm điêu_đứng nhiều người .
+Vv Aa R PU R Num Nn Vv Vv Vv Vv Cs Num Nn Nn Nn PU Nq PU Nn PU Vv Vv R Nc Nn Aa Vv Aa Aa Nn PU
+XCOMP ACOMP ADJUNCT PUNCT ADJUNCT NUM NSUBJ ROOT VMOD VMOD VMOD PREP NUM POBJ NN NN PUNCT DET PUNCT NSUBJ PUNCT PARATAXIS VMOD ADJUNCT OBJ CLF AMOD RCMOD ACOMP AMOD OBJ PUNCT
+8 1 2 8 8 7 8 0 8 9 10 11 14 12 14 15 14 20 20 22 20 14 22 23 23 25 25 25 28 31 29 8
+
+Ở xóm giữa có đến gần 20 nóc nhà nằm trong tình_cảnh tương_tự .
+Cs Nun Nn Ve M R Num Nn Nn Vv Cs Nn Aa PU
+PREP POBJ NN ROOT QUANTMOD ADJUNCT NUM NSUBJ NN CCOMP PREP POBJ AMOD PUNCT
+4 1 2 0 7 7 8 10 8 4 10 11 12 4
+
+Ông Bảy , người sống ở khu_vực này , thấy chúng_tôi chụp ảnh , chép_miệng tiếc_rẻ : " Hồi đó tại đây là cánh đồng lúa phì_nhiêu , giờ cơn bão mặn đã biến thành một ... bến đò ! " .
+Nn Nr PU Nn Vv Cs Nn Pd PU Vv Pp Vv Nn PU Vv Vv PU PU Nt Pd Cs Pd Vc Nn Nn Nn Aa PU Nt Nc Nn Aa R Vv Vv Num PU Nn Nn PU PU PU
+NSUBJ NN PUNCT NSUBJ PARATAXIS PREP POBJ DET PUNCT ROOT NSUBJ CCOMP OBJ PUNCT CONJ VMOD PUNCT PUNCT NP_ADVMOD DET PREP POBJ CCOMP ATTR NN NN AMOD PUNCT NP_ADVMOD NSUBJ CLF AMOD ADJUNCT CONJ VMOD NUM PUNCT OBJ NN PUNCT PUNCT PUNCT
+10 1 1 5 1 5 6 7 1 0 12 10 12 10 10 15 23 23 23 19 23 21 16 23 24 25 24 23 34 34 30 30 34 23 34 38 38 35 38 23 23 10
+
+Từ phong_trào thành ... bão lớn !
+Vv Nn Vv PU Nn Aa PU
+ROOT OBJ VMOD PUNCT OBJ AMOD PUNCT
+0 1 1 3 3 5 1
+
+Ông Võ_Đức_Hơn , chủ_tịch UBND thị_trấn La_Gi , thừa_nhận : chính_quyền địa_phương đã lập biên_bản xử_phạt 61 trường_hợp vi_phạm gần nửa tỉ đồng , tuy_nhiên chỉ có ... hai hộ nộp phạt được 10 triệu , còn đất hoàn_toàn không thu_hồi được !
+Nn Nr PU Nn X Nun Nr PU Vv PU Nn Nn R Vv Nn Vv Num Nn Vv R Nq Nq Nu PU Cp R Ve PU Num Nn Vv Vv Vv Num Nq PU Cp Nn Aa R Vv R PU
+NSUBJ NN PUNCT PARATAXIS NN NN NN PUNCT ROOT PUNCT NSUBJ NN ADJUNCT CCOMP OBJ RCMOD NUM OBJ VMOD ADJUNCT NUM CONJ OBJ PUNCT CC ADJUNCT CONJ PUNCT NUM NSUBJ CCOMP VMOD VMOD NUMBER OBJ PUNCT CC DEP CONJ ADJUNCT VMOD ADJUNCT PUNCT
+9 1 1 1 4 5 6 1 0 14 14 11 14 9 14 15 18 16 18 21 23 21 16 14 14 27 14 27 30 31 27 31 31 35 33 27 27 39 27 41 39 41 9
+
+Ngay như vụ xâm_hại 4.000 m2 rừng phòng_hộ ven biển của ông Đỗ_Thế_Hùng cũng chỉ buộc lấp ao rồi dừng lại ...
+M Cs Ncs Vv Num Nu Nn Vv Vv Nn Cs Nn Nr R R Vv Vv Nn Cp Vv R PU
+INTJ PREP POBJ RCMOD NUM OBJ NN VMOD RCMOD OBJ PREP POBJ NN ADJUNCT ADJUNCT ROOT VMOD OBJ CC CONJ ADJUNCT PUNCT
+16 16 2 3 6 4 6 7 7 9 3 11 12 15 16 0 16 17 16 16 20 16
+
+Người_ta lại tiếp_tục lấn_chiếm đất , lén_lút đào ao rồi mua_bán sang_nhượng dù biết rất rõ nguồn_gốc đất của Nhà_nước ...
+Pp R Vv Vv Nn PU Aa Vv Nn Cp Vv Vv Cp Vv R Aa Nn Nn Cs Nn PU
+NSUBJ ADJUNCT ROOT VMOD OBJ PUNCT ACOMP CONJ OBJ CC CONJ CONJ CC CONJ ADJUNCT ACOMP OBJ NN PREP POBJ PUNCT
+3 3 0 3 4 4 8 4 8 8 8 11 3 3 16 14 14 17 18 19 3
+
+Hơn 60 ha diện_tích hồ tôm lấn_chiếm trái_phép ở đây đang hiện_hữu sừng_sững như một pháo_đài chắn nước , triệt_tiêu toàn_bộ quy_luật tự_nhiên " ngăn sông không cho đổ về biển lớn ! " .
+R Num Nu Nn Nn Nn Vv Aa Cs Pd R Ve Aa Cs Num Nn Vv Nn PU Vv Nw Nn Aa PU Vv Nn R Vv Vv D Nn Aa PU PU PU
+ADJUNCT NUM NSUBJ NN NN NN RCMOD ACOMP PREP POBJ ADJUNCT ROOT ACOMP PREP NUM POBJ RCMOD OBJ PUNCT PARATAXIS DET OBJ AMOD PUNCT CONJ OBJ ADJUNCT VMOD VMOD VMOD OBJ AMOD PUNCT PUNCT PUNCT
+2 3 12 3 4 5 5 7 7 9 12 0 12 13 16 14 16 17 16 16 22 20 22 25 20 25 28 25 28 29 30 31 12 12 12
+
+Từ những lá đơn kêu cứu tới_tấp của nông_dân , sau khi thị_sát nhận thấy tầm nghiêm_trọng của " pháo_đài hồ tôm " , Ban chỉ_huy phòng_chống lụt bão tỉnh Bình_Thuận đã có công_văn khẩn đề_nghị UBND huyện Hàm_Tân xử_lý dứt_điểm nạn lấn_chiếm đất trái_phép , khơi thông dòng_chảy và phá bỏ các hồ tôm để giải_phóng ngay tuyến kênh thoát nước ...
+Cs Nq Nc Nn Vv Vv Aa Cs Nn PU Cs Nt Vv Vv Vv Nn Aa Cs PU Nn Nn Nn PU PU Nn Vv Vv Nn Nn Nun Nr R Ve Nn Aa Vv X Nun Nr Vv Vv Nn Vv Nn Aa PU Vv Vv Nn Cp Vv Vv Nq Nn Nn Cs Vv R Nn Nn Vv Nn PU
+PREP DET POBJ CLF RCMOD VMOD ACOMP PREP POBJ PUNCT PREP POBJ XCOMP VMOD VMOD OBJ AMOD PREP PUNCT POBJ NN NN PUNCT PUNCT NSUBJ RCMOD VMOD OBJ CONJ NN NN ADJUNCT ROOT OBJ AMOD RCMOD NSUBJ NN NN CCOMP VMOD OBJ RCMOD OBJ ACOMP PUNCT CONJ CONJ OBJ CC CONJ CONJ DET OBJ NN PREP PCOMP ADJUNCT OBJ NN RCMOD OBJ PUNCT
+33 3 1 3 3 5 5 3 8 33 33 11 12 13 14 15 16 16 20 18 20 21 20 33 33 25 26 27 28 25 30 33 0 33 34 34 40 37 38 36 40 40 42 43 43 40 40 47 47 47 47 51 54 51 54 51 56 57 57 59 60 61 33
+
+Quả_thật nếu những cơn lũ quét bất_thần ập về như trước đây Hàm_Tân từng gánh_chịu , thì không biết 31.000 dân ở La_Gi và vài ngàn dân nữa ở những vùng phụ_cận ... sẽ ra sao ? !
+R Cp Nq Nc Nn Vv Aa Vv D Cs Cs Pd Nr R Vv PU Cp R Vv Num Nn Cs Nr Cp Nq Nq Nn R Cs Nn Nn Aa PU R Vv Pp PU PU
+ADJUNCT CC DET NSUBJ NN VMOD ACOMP ADVCL VMOD PREP PREP POBJ NSUBJ ADJUNCT PCOMP PUNCT CC ADJUNCT ROOT NUM NSUBJ PREP POBJ CC NUMBER NUM CONJ ADJUNCT PREP POBJ CONJ AMOD PUNCT ADJUNCT CCOMP OBJ PUNCT PUNCT
+19 19 4 8 4 5 8 19 8 8 15 11 15 15 10 19 19 19 0 21 35 21 22 21 26 27 21 27 27 29 30 30 35 35 19 35 19 19
+
+Ông Chín " râu " , một lão nông có tài sạ lúa giỏi nhất nhì thôn Hồ_Tôm , tâm_sự : " Cha_ông nói : muốn giàu nuôi cá , muốn khá nuôi heo còn muốn nghèo nuôi vịt , thiệt đúng là không sai ! " .
+Nn Nr PU Nn PU PU Num Sv Nn Ve Nn Vv Nn Aa An An Nun Nr PU Vv PU PU Nn Vv PU Vv Aa Vv Nn PU Vv Aa Vv Nn Cp Vv Aa Vv Nn PU R Aa M R Aa PU PU PU
+NSUBJ NN PUNCT NN PUNCT PUNCT NUM SINO PARATAXIS RCMOD OBJ RCMOD OBJ ACOMP ADJP_ADVMOD CONJ NP_ADVMOD NN PUNCT ROOT PUNCT PUNCT NSUBJ CCOMP PUNCT VSUBJ ACOMP CSUBJ OBJ PUNCT VSUBJ ACOMP CONJ OBJ CC VSUBJ ACOMP CONJ OBJ PUNCT ADJUNCT CCOMP INTJ ADJUNCT ADJP_ADVMOD PUNCT PUNCT PUNCT
+20 1 1 1 1 1 9 9 1 9 10 11 12 12 14 15 15 17 1 0 24 24 24 20 42 28 26 42 28 28 33 31 28 33 33 38 36 33 38 42 42 24 42 45 42 24 24 20
+
+Nước_mặn ngập hết cả mẫu ruộng nên không còn cơ_hội trổ_tài sạ lúa , ông Chín gom tiền mua hơn một trăm con vịt sáng chiều chăn thả để khỏi rời xa đồng_ruộng .
+Nn Vv Ve Nw Nu Nn Cp R Ve Nn Vv Vv Nn PU Nn Nr Vv Nn Vv R Num Nq Nc Nn Nt Nt Vv Vv Cs Vv Vv Aa Nn PU
+NSUBJ ROOT VMOD DET OBJ NN CC ADJUNCT CONJ OBJ RCMOD VMOD OBJ PUNCT NSUBJ NN CONJ OBJ VMOD ADJUNCT NUMBER NUM OBJ CLF NP_ADVMOD CONJ CONJ VMOD PREP PCOMP VMOD ACOMP OBJ PUNCT
+2 0 2 5 3 5 2 9 2 9 10 11 12 9 17 15 9 17 17 22 22 23 19 23 27 25 17 27 27 29 30 31 31 2
+
+Nhưng nước_mặn cũng đã lạnh_lùng quật vào cái nghề mưu_sinh bất đắc_dĩ của ông : bầy vịt chỉ còn đúng một ... " tiểu_đội " !
+Cp Nn R R Aa Vv Cs M Nn Vv Sv Aa Cs Pp PU Nn Nn R Ve Aa Num PU PU Nn PU PU
+CC NSUBJ ADJUNCT ADJUNCT ACOMP ROOT PREP INTJ POBJ VMOD DEP AMOD PREP POBJ PUNCT NSUBJ NN ADJUNCT PARATAXIS ACOMP NUM PUNCT PUNCT OBJ PUNCT PUNCT
+6 6 6 3 6 0 6 9 7 9 12 9 9 13 6 19 16 19 6 19 24 24 24 20 24 6
+
+Rời khỏi thôn Hồ_Tôm , chia_tay những nông_dân đang oằn lưng vì cơn bão mặn , ai cũng thấy hình_ảnh nghịch_lý : nước ngập đầy đồng nhưng lúa không sống được và từng đoàn người đều có nước_da màu đồng_hun rồng_rắn đi xa đến mấy cây_số để mua nước về ...
+Vv Vv Nun Nr PU Vv Nq Nn R Vv Nn Cs Nc Nn Aa PU Pp R Vv Nn Nn PU Nn Vv Aa Nn Cp Nn R Vv R Cp Pp Nn Nn R Ve Nn Nn Nn Vv Vv Aa M Nq Nu Cs Vv Nn Vv PU
+ROOT VMOD NP_ADVMOD NN PUNCT CONJ DET OBJ ADJUNCT RCMOD OBJ MARK ADVCL CLF AMOD PUNCT NSUBJ ADJUNCT CONJ OBJ NN PUNCT NSUBJ CCOMP ADJP_ADVMOD OBJ CC NSUBJ ADJUNCT CONJ ADJUNCT CC DET NSUBJ NN ADJUNCT RCMOD OBJ NN NN CONJ VMOD ACOMP QUANTMOD NUM OBJ PREP PCOMP OBJ VMOD PUNCT
+0 1 1 3 1 1 8 6 10 8 10 13 10 13 13 1 19 19 1 19 20 24 24 20 24 25 24 30 30 24 30 24 34 41 34 37 34 37 38 39 24 41 42 45 46 42 42 47 48 48 1
+

@@ -1,0 +1,320 @@
+Những người " làm_thuê số 1 " ở Việt_Nam .
+Nq Nn PU Vv Nn An PU Cs Nr PU
+DET ROOT PUNCT RCMOD OBJ AMOD PUNCT PREP POBJ PUNCT
+2 0 2 2 4 5 2 2 8 2
+
+Hành_trang để ra biển lớn .
+Nn Cs Vv Nn Aa PU
+ROOT PREP PCOMP OBJ AMOD PUNCT
+0 1 2 3 4 1
+
+Có một giai_thoại đồng_quê : " Cậu bé nhìn dòng suối trước nhà và hỏi cha : Suối chảy về đâu , thưa cha ?
+Ve Num Nn Nn PU PU Nc Nn Vv Nn Nn Cs Nn Cp Vv Nn PU Nn Vv Cs Pp PU E Pp PU
+ROOT NUM OBJ NN PUNCT PUNCT NSUBJ CLF CCOMP OBJ NN PREP POBJ CC CONJ OBJ PUNCT NSUBJ CCOMP PREP POBJ PUNCT INTJ VOCATIVE PUNCT
+0 3 1 3 9 9 9 7 3 9 10 10 12 9 9 15 19 19 15 19 20 19 24 19 1
+
+Chảy ra sông con ạ .
+Vv Cs Nn Pp M PU
+ROOT PREP POBJ VOCATIVE INTJ PUNCT
+0 1 2 1 4 1
+
+Con lại hỏi : Ra sông rồi chảy đi đâu nữa ?
+Pp R Vv PU Vv Nn Cp Vv Cs Pp R PU
+NSUBJ ADJUNCT ROOT PUNCT CCOMP OBJ CC CONJ PREP POBJ ADJUNCT PUNCT
+3 3 0 5 3 5 5 5 8 9 8 3
+
+Rồi đổ ra biển con ạ .
+Cp Vv Cs Nn Pp M PU
+CC ROOT PREP POBJ VOCATIVE INTJ PUNCT
+2 0 2 3 2 5 2
+
+Thế hết biển rồi tới đâu vậy cha ?
+M R Nn Cp Vv Pp M Pp PU
+INTJ ADJUNCT NP_ADVMOD CC ROOT NP_ADVMOD INTJ VOCATIVE PUNCT
+5 3 5 5 0 5 6 5 5
+
+Hết biển rồi hoà vào đại_dương mênh_mông ... " .
+R Nn R Vv Cs Nn Aa PU PU PU
+ADJUNCT NP_ADVMOD ADJUNCT ROOT PREP POBJ AMOD PUNCT PUNCT PUNCT
+2 4 2 0 4 5 6 4 4 4
+
+Hành_trang của những người trẻ hôm_nay luôn bắt_đầu từ những dòng suối nhỏ , vượt bao ghềnh_thác để vươn ra biển lớn ...
+Nn Cs Nq Nn Aa Nt R Vv Cs Nq Nn Nn Aa PU Vv Nq Nn Cs Vv Cs Nn Aa PU
+NSUBJ PREP DET POBJ AMOD NP_ADVMOD ADJUNCT ROOT PREP DET POBJ NN AMOD PUNCT RCMOD DET OBJ PREP PCOMP PREP POBJ AMOD PUNCT
+8 1 4 2 4 4 8 0 8 11 9 11 11 11 11 17 15 15 18 19 20 21 8
+
+Bài_toán khó của nguồn nhân_lực .
+Nn Aa Cs Nn Nn PU
+ROOT AMOD PREP POBJ NN PUNCT
+0 1 1 3 4 1
+
+Có một thời trên các phương_tiện thông_tin đại_chúng VN liên_tục xuất_hiện những lời giới_thiệu đầy tự_hào về những " copywriter " LBRK người viết lời quảng_cáo RBRK của các công_ty , tập_đoàn nước_ngoài : công_việc hứng_thú , thu_nhập cả ngàn đô chỉ từ một ý_tưởng ...
+Ve Num Nt Cs Nq Nn Nn Aa Nr Aa Vv Nq Nn Vv Aa Aa Cs Nq PU FW PU LBRK Nn Vv Nn Vv RBRK Cs Nq Nn PU Nn Nn PU Nn Aa PU Nn M Nq Nn R Cs Num Nn PU
+ROOT NUM OBJ PREP DET POBJ NN AMOD NN ACOMP CCOMP DET OBJ VMOD AMOD ADJP_ADVMOD PREP DET PUNCT POBJ PUNCT PUNCT PARATAXIS RCMOD OBJ VMOD PUNCT PREP DET POBJ PUNCT CONJ NN PUNCT NSUBJ CCOMP PUNCT NSUBJ QUANTMOD NUM CONJ ADJUNCT PREP NUM POBJ PUNCT
+0 3 1 11 6 4 6 6 6 11 3 13 11 13 13 15 13 20 20 17 20 20 20 23 24 25 20 20 30 28 30 30 30 36 36 13 36 41 40 41 36 43 41 45 43 1
+
+Tưởng_chừng như đơn_giản , vậy_mà khi trao_đổi với các doanh_nghiệp này về " chỗ đứng " của người VN trong nền công_nghiệp quảng_cáo thì : vai_trò của copywriter người Việt chỉ dừng lại ở mức " dịch lời quảng_cáo " .
+Vv Cs Aa PU Cp Nt Vv Cs Nq Nn Pd Cs PU Nn Vv PU Cs Nn Nr Cs Nc Nn Vv Cp PU Nn Cs FW Nn Nr R Vv R Cs Nn PU Vv Nn Vv PU PU
+ROOT PREP PCOMP PUNCT CC NP_ADVMOD XCOMP PREP DET POBJ DET PREP PUNCT POBJ VMOD PUNCT PREP POBJ NN PREP POBJ NN VMOD CC PUNCT NSUBJ PREP POBJ NN NN ADJUNCT CONJ ADJUNCT PREP POBJ PUNCT RCMOD OBJ VMOD PUNCT PUNCT
+0 1 2 1 1 32 6 7 10 8 10 7 14 12 14 14 14 17 18 14 20 21 22 32 32 32 26 27 28 29 32 1 32 32 34 35 35 37 38 35 1
+
+Nếu chủ_động hơn , họ cũng chỉ đi đến 80% ý_tưởng ban_đầu của mình bởi quyền quyết_định một sản_phẩm quảng_cáo cuối_cùng thuộc về các " creative_director " LBRK giám_đốc sáng_tạo RBRK .
+Cp Aa R PU Pp R R Vv Cs Nq Nn Nn Cs Pp Cs Nn Vv Num Nn Vv Aa Vv Cs Nq PU FW PU LBRK Nn Vv RBRK PU
+CC ROOT ADJUNCT PUNCT NSUBJ ADJUNCT ADJUNCT CONJ PREP DET POBJ NN PREP POBJ MARK NSUBJ RCMOD NUM OBJ VMOD AMOD ADVCL PREP DET PUNCT POBJ PUNCT PUNCT PARATAXIS VMOD PUNCT PUNCT
+2 0 2 2 8 7 8 2 8 11 9 11 11 13 22 22 16 19 17 19 16 8 22 26 26 23 26 26 26 29 26 2
+
+Mà những người nắm quyền quyết_định một slogan của các sản_phẩm vẫn là " độc_quyền " của người nước_ngoài .
+Cp Nq Nn Vv Nn Vv Num FW Cs Nq Nn R Vc PU Nn PU Cs Nn Nn PU
+CC DET NSUBJ RCMOD OBJ RCMOD NUM OBJ PREP DET POBJ ADJUNCT ROOT PUNCT ATTR PUNCT PREP POBJ NN PUNCT
+13 3 13 3 4 5 8 6 8 11 9 13 0 15 13 15 15 17 18 13
+
+Đã có lúc nhiều công_ty , tập_đoàn nước_ngoài nói thẳng với những công_ty môi_giới nguồn nhân_lực cao_cấp VN rằng : với một vị_trí công_tác , tôi có_thể trả 10_._000 USD cho một nhân_sự đến từ nước_ngoài , nhưng chỉ 1_._000 USD cho người VN !
+R Ve Nt Aa Nn PU Nn Nn Vv Aa Cs Nq Nn Nn Nn Nn Aa Nr Cs PU Cs Num Nn Nn PU Pp Aa Vv Num Nu Cs Num Nn Vv Cs Nn PU Cp R Num Nu Cs Nn Nr PU
+ADJUNCT ROOT OBJ AMOD NSUBJ PUNCT CONJ NN CCOMP ACOMP PREP DET POBJ NN NN NN AMOD NN MARK PUNCT PREP NUM POBJ NN PUNCT NSUBJ ACOMP CCOMP NUM OBJ PREP NUM POBJ RCMOD PREP POBJ PUNCT CC ADJUNCT NUM CONJ PREP POBJ NN PUNCT
+2 0 2 5 9 5 5 5 3 9 9 13 11 13 13 15 15 13 28 28 28 23 21 23 28 28 28 9 30 28 28 33 31 33 34 35 28 28 40 41 28 41 42 43 2
+
+Tại sao ?
+Cp Pp PU
+ROOT DEP PUNCT
+0 1 1
+
+Đơn_giản , bởi các anh không được đào_tạo trong một môi_trường chuyên_nghiệp , một đẳng_cấp quốc_tế !
+Aa PU Cp Nq Pp R Vv Vv Cs Num Nn Aa PU Num Nn Aa PU
+ADJP_ADVMOD PUNCT CC DET NSUBJ ADJUNCT ROOT VMOD PREP NUM POBJ AMOD PUNCT NUM CONJ AMOD PUNCT
+7 7 7 5 7 7 0 7 8 11 9 11 11 15 11 15 7
+
+Một thực_tế đáng buồn !
+Num Nn Vv Aa PU
+NUM NSUBJ ROOT ACOMP PUNCT
+2 3 0 3 3
+
+Nhưng ai sẽ là người giải bài_toán khó này ?
+Cp Pp R Vc Nn Vv Nn Aa Pd PU
+CC NSUBJ ADJUNCT ROOT ATTR RCMOD OBJ AMOD DET PUNCT
+4 4 4 0 4 5 6 7 7 4
+
+Jonah_Levey là giám_đốc điều_hành và cũng là người sáng_lập VietnamWorks_._com - một dịch_vụ giới_thiệu việc_làm qua Internet hàng_đầu của VN , và cũng là giám_đốc điều_hành của Navigos_Group - nơi cung_cấp các dịch_vụ tư_vấn và đào_tạo nguồn nhân_lực .
+Nr Vc Nn Vv Cp R Vc Nn Vv Nr PU Num Nn Vv Nn Cs Nn Nn Cs Nr PU Cp R Vc Nn Vv Cs Nr PU Nn Vv Nq Nn Vv Cp Vv Nn Nn PU
+NSUBJ ROOT ATTR VMOD CC ADJUNCT CONJ ATTR RCMOD OBJ PUNCT NUM PARATAXIS RCMOD OBJ PREP POBJ NN PREP POBJ PUNCT CC ADJUNCT CONJ ATTR VMOD PREP POBJ PUNCT PARATAXIS RCMOD DET OBJ RCMOD CC CONJ OBJ NN PUNCT
+2 0 2 3 2 7 2 7 8 9 10 13 10 13 14 14 16 13 18 19 7 7 24 7 24 25 25 27 28 28 30 33 31 33 34 34 34 37 2
+
+Theo ông : " Thị_trường nguồn nhân_lực cao_cấp của VN tuy nhỏ nhưng nhu_cầu tìm_kiếm một nhà quản_lý giỏi thật_sự là rất lớn và hầu_hết các công_ty , tập_đoàn quốc_tế đang làm_ăn tại VN đều đang rất " khát " nguồn nhân_lực này .
+Vv Pp PU PU Nn Nn Nn Aa Cs Nr Cp Aa Cp Nn Vv Num Ncs Vv Aa Aa Vc R Aa Cp Nq Nq Nn PU Nn Nn R Vv Cs Nr R R R PU Vv PU Nn Nn Pd PU
+ROOT OBJ PUNCT PUNCT NSUBJ NN NN AMOD PREP POBJ CC ADVCL CC NSUBJ VMOD NUM NN CLF AMOD ACOMP CCOMP ADJUNCT ACOMP CC DET DET NSUBJ PUNCT CONJ NN ADJUNCT RCMOD PREP POBJ ADJUNCT ADJUNCT ADJUNCT PUNCT CCOMP PUNCT OBJ NN DET PUNCT
+0 1 1 1 12 5 6 6 6 9 12 1 1 21 14 17 14 17 17 21 1 23 21 1 27 27 39 27 27 27 32 27 32 33 37 37 39 39 1 39 39 41 41 1
+
+Tuy_vậy , khi phải tuyển các vị_trí quan_trọng cho các công_ty , chúng_tôi luôn đòi_hỏi kỹ_năng giao_tiếp và tính chuyên_nghiệp cao " .
+Cp PU Nt Vv Vv Nq Nn Aa Cs Nq Nn PU Pp R Vv Nn Vv Cp Nn Aa Aa PU PU
+CC PUNCT NP_ADVMOD XCOMP VMOD DET OBJ AMOD PREP DET POBJ PUNCT NSUBJ ADJUNCT ROOT OBJ VMOD CC CONJ AMOD AMOD PUNCT PUNCT
+15 15 15 3 4 7 5 7 5 11 9 15 15 15 0 15 16 16 16 19 19 15 15
+
+Ông Trần_Quốc_Dũng - giám_đốc Trung_tâm dịch_vụ việc_làm cho người nước_ngoài Fosco , nơi quản_lý trên 6_._000 nhân_viên của hơn 100 công_ty , cơ_quan nước_ngoài tại TP_. HCM - cũng đưa ra một " chuẩn " về lao_động cao_cấp làm_việc trong môi_trường quốc_tế : trình_độ chuyên_môn , trình_độ ngoại_ngữ và khả_năng hoà_nhập môi_trường quốc_tế .
+Nn Nr PU Nn Nn Nn Nn Cs Nn Nn Nr PU Nn Vv R Num Nn Cs R Num Nn PU Nn Nn Cs Nun Nr PU R Vv R Num PU Nn PU Cs Nn Aa Vv Cs Nn Aa PU Nn Nn PU Nn Nn Cp Nn Vv Nn Aa PU
+NSUBJ NN PUNCT PARATAXIS NN NN NN PREP POBJ NN NN PUNCT PARATAXIS RCMOD ADJUNCT NUM OBJ PREP ADJUNCT NUM POBJ PUNCT CONJ NN PREP POBJ NN PUNCT ADJUNCT ROOT ADJUNCT NUM PUNCT OBJ PUNCT PREP POBJ AMOD RCMOD PREP POBJ AMOD PUNCT PARATAXIS NN PUNCT CONJ NN CC CONJ RCMOD OBJ AMOD PUNCT
+30 1 1 1 4 5 6 7 8 9 5 5 5 13 16 17 14 17 20 21 18 21 21 21 21 25 26 1 30 0 30 34 34 30 34 34 36 37 37 39 40 41 34 34 44 44 44 47 47 47 50 51 52 30
+
+Trong đó nhân_lực VN luôn yếu và thiếu " chuẩn " thứ ba .
+Cs Pd Nn Nr R Aa Cp Aa PU Nn PU Nn An PU
+PREP POBJ NSUBJ NN ADJUNCT ROOT CC CONJ PUNCT OBJ PUNCT NP_ADVMOD AMOD PUNCT
+6 1 6 3 6 0 6 6 10 6 10 10 12 6
+
+Không khác hơn , giám_đốc một công_ty chuyên cung_ứng lao_động cao_cấp cho các tập_đoàn quốc_tế , các công_ty đa quốc_gia ở TP_. HCM đưa ra nhận_xét : một trong những điểm yếu của nguồn nhân_lực VN vẫn là thiếu các kỹ_năng thích_ứng môi_trường và xử_lý tình_huống đạt chuẩn quốc_tế .
+R Aa R PU Nn Num Nn Aa Vv Nn Aa Cs Nq Nn Aa PU Nq Nn Sv Nn Cs Nun Nr Vv R Nn PU Num Cs Nq Nn Aa Cs Nn Nn Nr R Vc Aa Nq Nn Vv Nn Cp Vv Nn Vv Nn Aa PU
+ADJUNCT ADJP_ADVMOD ADJUNCT PUNCT NSUBJ NUM NN ACOMP RCMOD OBJ AMOD PREP DET POBJ AMOD PUNCT DET CONJ SINO NN PREP POBJ NN ROOT ADJUNCT OBJ PUNCT NSUBJ PREP DET POBJ AMOD PREP POBJ NN NN ADJUNCT CCOMP ACOMP DET OBJ RCMOD OBJ CC CONJ OBJ RCMOD OBJ AMOD PUNCT
+2 24 2 24 24 7 5 9 7 9 10 9 14 12 14 14 18 14 20 18 14 21 22 0 24 24 38 38 28 31 29 31 31 33 34 34 38 26 38 41 39 41 42 42 42 45 41 47 48 24
+
+" Chính người trong cuộc " Trịnh_Thanh_Lâm , giám_đốc marketing của Microsoft , cũng nhớ lại : " Hồi xưa , khi bước_chân vào guồng_máy làm_việc mang tính quốc_tế mới thấy mình còn thiếu nhiều kỹ_năng để giải_quyết những công_việc cụ_thể .
+PU M Nn Cs Nn PU Nn PU Nn FW Cs Nr PU R Vv R PU PU Nt Nt PU Nt Vv Cs Nn Vv Vv Nn Aa R Vv Pp R Aa Aa Nn Cs Vv Nq Nn Aa PU
+PUNCT INTJ NSUBJ PREP POBJ PUNCT PARATAXIS PUNCT PARATAXIS DEP PREP POBJ PUNCT ADJUNCT ROOT ADJUNCT PUNCT PUNCT NP_ADVMOD NN PUNCT NP_ADVMOD XCOMP PREP POBJ VMOD RCMOD OBJ AMOD ADJUNCT XCOMP NSUBJ ADJUNCT CCOMP AMOD OBJ PREP PCOMP DET OBJ AMOD PUNCT
+3 3 15 3 4 3 3 7 7 9 9 11 3 15 0 15 31 31 31 19 31 31 22 23 24 25 25 27 28 31 15 34 34 31 36 34 36 37 40 38 40 15
+
+Lúc đó , cứ khao_khát có một nơi nào đó huấn_luyện , dạy mình cách thích_ứng môi_trường mới , kỹ_năng làm_việc , kỹ_năng giải_quyết một vấn_đề khó_khăn trong quan_hệ nhân_sự , kỹ_năng vạch kế_hoạch làm_việc dài_hạn ...
+Nt Pd PU R Vv Ve Num Nn Pd Pd Vv PU Vv Nn Nn Vv Nn Aa PU Nn Vv PU Nn Vv Num Nn Aa Cs Nn Nn PU Nn Vv Nn Vv Aa PU
+NP_ADVMOD DET PUNCT ADJUNCT ROOT VMOD NUM OBJ DET DET RCMOD PUNCT CONJ IOBJ OBJ RCMOD OBJ AMOD PUNCT CONJ VMOD PUNCT CONJ RCMOD NUM OBJ AMOD PREP POBJ NN PUNCT CONJ RCMOD OBJ VMOD AMOD PUNCT
+5 1 5 5 0 5 8 6 8 8 8 11 11 11 11 15 16 17 17 17 20 20 20 23 26 24 26 26 28 29 23 23 32 33 34 34 5
+
+Sau này , tôi biết ở nước_ngoài các chương_trình đào_tạo đều bắt_buộc phải có các vấn_đề này " .
+Cs Pd PU Pp Vv Cs Nn Nq Nn Vv R Vv Vv Ve Nq Nn Pd PU PU
+PREP POBJ PUNCT NSUBJ ROOT PREP POBJ DET NSUBJ VMOD ADJUNCT CCOMP VMOD VMOD DET OBJ DET PUNCT PUNCT
+5 1 5 5 0 12 6 9 12 9 12 5 12 13 16 14 16 5 5
+
+Những con đường ra biển ...
+Nq Nc Nn Cs Nn PU
+DET ROOT CLF PREP POBJ PUNCT
+2 0 2 2 4 2
+
+Nhà xã_hội học Nguyễn_Thị_Oanh , một người từng làm_việc với nhiều tổ_chức quốc_tế , chia_sẻ : " Người Việt có tính thụ_động .
+Nc Nn Sv Nr PU Num Nn R Vv Cs Aa Nn Aa PU Vv PU PU Nn Nr Ve Nn Aa PU
+NN CLF SINO NN PUNCT NUM NSUBJ ADJUNCT RCMOD PREP AMOD POBJ AMOD PUNCT ROOT PUNCT PUNCT NSUBJ NN CCOMP OBJ AMOD PUNCT
+7 1 2 7 7 7 15 9 7 9 12 10 12 7 0 20 20 20 18 15 20 21 15
+
+Hầu_hết chúng_ta chưa quen , chính_xác là không dám khám_phá những cái mới , cái khác_lạ .
+Nq Pp R Vv PU Aa Vc R Vv Vv Nq Ncs Aa PU Ncs Aa PU
+NSUBJ DET ADJUNCT ROOT PUNCT ASUBJ CONJ ADJUNCT VMOD VMOD DET OBJ CLF PUNCT NN CLF PUNCT
+4 1 4 0 4 7 4 9 7 9 12 10 12 12 12 15 4
+
+Phải dám làm những điều khác_lạ một_chút mới dễ thành_công .
+Vv Vv Vv Nq Nn Aa Nq R Aa Aa PU
+VSUBJ VMOD VMOD DET OBJ AMOD OBJ ADJUNCT ROOT ADJP_ADVMOD PUNCT
+9 1 2 5 3 5 6 9 0 9 9
+
+Tôi đã xem loạt bài " Những người làm_thuê số 1 ở Việt_Nam " , những người trong loạt bài này đều có một điểm chung : dám chấp_nhận những suy_nghĩ mới .
+Pp R Vv Nn Nn PU Nq Nn Vv Nn An Cs Nr PU PU Nq Nn Cs Nn Nn Pd R Ve Num Nn Aa PU Vv Vv Nq Nn Aa PU
+NSUBJ ADJUNCT ROOT OBJ NN PUNCT DET NN RCMOD OBJ AMOD PREP POBJ PUNCT PUNCT DET NSUBJ PREP POBJ NN DET ADJUNCT CONJ NUM OBJ AMOD PUNCT PARATAXIS VMOD DET OBJ AMOD PUNCT
+3 3 0 3 4 4 8 4 8 9 10 8 12 4 3 17 23 17 18 19 19 23 3 25 23 25 25 25 28 31 29 31 3
+
+Chỉ như thế mới đạt được những ước_mơ , hoài_bão lớn .
+R Cs Pp R Vv R Nq Nn PU Nn Aa PU
+ADJUNCT NP_ADVMOD NN ADJUNCT ROOT ADJUNCT DET OBJ PUNCT CONJ AMOD PUNCT
+2 5 2 5 0 5 8 5 8 8 8 5
+
+Tôi biết đó chưa phải là tất_cả , tôi tin còn rất nhiều người giỏi , người tài đâu_đó ở những vùng_miền khác nhau mà các bạn chưa tìm ra " .
+Pp Vv Pd R Aa Vc Pp PU Pp Vv Ve R Aa Nn Aa PU Nn Aa Pd Cs Nq Nn Aa Nn Cs Nq Pp R Vv R PU PU
+NSUBJ ROOT NSUBJ ADJUNCT ADJP_ADVMOD CCOMP ATTR PUNCT NSUBJ CONJ VMOD ADJUNCT AMOD OBJ AMOD PUNCT CONJ AMOD NP_ADVMOD PREP DET POBJ AMOD OBJ MARK DET NSUBJ ADJUNCT CCOMP ADJUNCT PUNCT PUNCT
+2 0 6 5 6 2 6 2 10 2 10 13 14 11 14 14 14 17 17 19 22 20 22 23 29 27 29 29 17 29 2 2
+
+Tiến_sĩ Nguyễn_Thắng là giám_đốc marketing khu_vực Đông_Dương của Nokia .
+Nn Nr Vc Nn FW Nn Nr Cs Nr PU
+NSUBJ NN ROOT ATTR DEP NP_ADVMOD NN PREP POBJ PUNCT
+3 1 0 3 4 4 6 4 8 3
+
+Anh bôn_ba xứ người hơn 10 năm , từng đứng lên bục cao nhất của giải_thưởng kinh_tế - thương_mại toàn Tiệp_Khắc , nay đã trở_về .
+Pp Vv Nn Nn R Num Nu PU Pp Vv Cs Nn Aa R Cs Nn Nn PU Nn Nw Nr PU Nt R Aa PU
+NSUBJ ROOT NP_ADVMOD NN ADJUNCT NUM NP_ADVMOD PUNCT DEP CONJ PREP POBJ AMOD ADJUNCT PREP POBJ NN PUNCT CONJ DET NN PUNCT NP_ADVMOD ADJUNCT CONJ PUNCT
+2 0 2 3 6 7 2 2 10 2 10 11 12 13 12 15 16 17 17 21 16 2 25 25 2 2
+
+Không_chỉ để làm_việc , mà điều tâm_huyết hơn là anh muốn mang những giá_trị mình học được , tìm_thấy được gửi lại cho một thế_hệ kế_tiếp thông_qua những khoá đào_tạo thạc_sĩ do anh hướng_dẫn .
+Cp Cs Vv PU Cp Ncs Aa R Vc Pp Vv Vv Nq Nn Pp Vv R PU Vv Vv Vv R Cs Num Nn Vv Vv Nq Nn Vv Nn Cs Pp Vv PU
+CC PREP PCOMP PUNCT CC NSUBJ AMOD ADJUNCT ROOT NSUBJ CCOMP VMOD DET OBJ NSUBJ CCOMP ADJUNCT PUNCT CONJ VMOD VMOD ADJUNCT PREP NUM POBJ VMOD VMOD DET OBJ RCMOD OBJ MARK NSUBJ CCOMP PUNCT
+9 9 2 9 9 9 6 7 0 11 9 11 14 12 16 14 16 16 16 19 12 21 21 25 23 25 21 29 27 29 30 34 34 29 9
+
+Hay một trường_hợp khác , anh Đỗ_Đình_Minh , giám_đốc kinh_doanh toàn_quốc của Tập_đoàn Cargill tại VN , trăn_trở : " Người Việt mình giỏi lắm , chưa bao_giờ để thua ai cả .
+Cp Num Nn Aa PU Nn Nr PU Nn Vv Nn Cs Nr Nr Cs Nr PU Vv PU PU Nn Nr Pp Aa R PU R Pp Vv Vv Pp M PU
+CC NUM ROOT AMOD PUNCT NSUBJ NN PUNCT PARATAXIS VMOD NN PREP POBJ NN PREP POBJ PUNCT PARATAXIS PUNCT PUNCT NSUBJ NN NN CCOMP ADJUNCT PUNCT ADJUNCT OBJ CONJ VMOD OBJ INTJ PUNCT
+3 3 0 3 3 18 6 6 6 9 9 9 12 13 9 15 6 3 24 24 24 21 21 18 24 24 28 29 24 29 30 29 3
+
+Nhưng mình thiếu một_số yếu_tố mang tính quyết_định để có những tập_đoàn đẳng_cấp thế_giới .
+Cp Pp Aa Nq Nn Vv Nn Vv Cs Ve Nq Nn Nn Nn PU
+CC NSUBJ ROOT DET OBJ RCMOD OBJ VMOD PREP PCOMP DET OBJ NN NN PUNCT
+3 3 0 5 3 5 6 7 5 9 12 10 12 13 3
+
+Và điều đó thì chúng_ta cần phải học .
+M Nn Pd Cp Pp Vv Vv Vv PU
+INTJ OBJ DET CC NSUBJ ROOT VMOD VMOD PUNCT
+6 6 2 6 6 0 6 7 6
+
+Chúng_tôi đi làm_thuê thật nhưng chưa bao_giờ thấy mình hèn , mà chỉ thấy mình chưa đủ mạnh để có_thể lèo_lái một con thuyền lớn " .
+Pp Vv Vv M Cp R Pp Vv Pp Vv PU Cp R Vv Pp R Aa Aa Cs Aa Vv Num Nc Nn Aa PU PU
+NSUBJ ROOT VMOD INTJ CC ADJUNCT OBJ CONJ NSUBJ CCOMP PUNCT CC ADJUNCT CONJ NSUBJ ADJUNCT CCOMP ADJP_ADVMOD PREP ACOMP PCOMP NUM OBJ CLF AMOD PUNCT PUNCT
+2 0 2 2 2 7 8 2 10 8 8 8 14 8 17 17 14 17 17 21 19 23 21 23 23 2 2
+
+Giản_Tư_Trung , người từng làm chủ một doanh_nghiệp nhựa ở Q_. 5 , TP_. HCM , sau khi tốt_nghiệp đại_học đã phải từ_bỏ những kế_hoạch kiếm tiền cỏn_con của mình khi một ngày chợt nhận ra : mình sẽ kiếm được gì cho bản_thân và mang về cho xã_hội được gì khi quẩn_quanh với nhựa ?
+Nr PU Nn R Vv Nn Num Nn Nn Cs Nun Nr PU Nun Nr PU Cs Nt Vv Nn R Vv Vv Nq Nn Vv Nn Aa Cs Pp Nt Num Nt R Vv R PU Pp R Vv R Pp Cs Nn Cp Vv Cs Cs Nn Vv Pp Nt Vv Cs Nn PU
+NSUBJ PUNCT NSUBJ ADJUNCT PARATAXIS OBJ NUM NN NN PREP POBJ NN PUNCT PARATAXIS NN PUNCT PREP POBJ XCOMP OBJ ADJUNCT ROOT VMOD DET OBJ RCMOD OBJ AMOD PREP POBJ NP_ADVMOD NUM NP_ADVMOD ADJUNCT XCOMP ADJUNCT PUNCT NSUBJ ADJUNCT CCOMP ADJUNCT OBJ PREP POBJ CC CONJ PREP PREP POBJ VMOD OBJ NP_ADVMOD XCOMP PREP POBJ PUNCT
+22 1 5 5 1 5 8 6 8 8 10 11 11 11 14 1 22 17 18 19 22 0 22 25 23 25 26 25 25 29 23 33 35 35 31 35 40 40 40 35 40 40 40 43 40 40 46 47 48 46 50 40 52 53 54 22
+
+Trung giải_tán cơ_sở , xách cặp đi làm_thuê những tập_đoàn kinh_doanh lớn nhất thế_giới đang có_mặt tại VN .
+Nr Vv Nn PU Vv Nn Vv Vv Nq Nn Vv Aa R Nn R Aa Cs Nr PU
+NSUBJ ROOT OBJ PUNCT CONJ OBJ VMOD VMOD DET IOBJ VMOD AMOD ADJUNCT OBJ ADJUNCT AMOD PREP POBJ PUNCT
+2 0 2 2 2 5 5 7 10 8 10 10 12 12 16 10 16 17 2
+
+Anh làm_thuê với mức lương rất cao , nhưng cái được nhiều nhất chính là kinh_nghiệm , là kiến_thức và là lời giải cho câu hỏi : vì sao người_ta lớn đến thế ?
+Pp Vv Cs Nn Nn R Aa PU Cp Ncs Vv Aa R M Vc Nn PU Vc Nn Cp Vc Nn Vv Cs Nn Vv PU Cp Pp Pp Aa M Pp PU
+NSUBJ ROOT PREP POBJ NN ADJUNCT AMOD PUNCT CC NSUBJ CLF AMOD ADJUNCT INTJ CONJ ATTR PUNCT CONJ ATTR CC CONJ ATTR VMOD PREP POBJ VMOD PUNCT CC DEP NSUBJ CCOMP INTJ OBJ PUNCT
+2 0 2 3 4 7 4 2 2 15 10 10 12 15 2 15 15 15 18 18 18 21 22 22 24 25 31 31 31 31 25 33 31 2
+
+Anh tự_hào bước ra và mở riêng cho mình một nơi dùng để " nói " cho mọi người biết phải làm thế_nào để lớn từ chính kinh_nghiệm của mình .
+Pp Aa Vv R Cp Vv Aa Cs Pp Num Nn Vv Cs PU Vv PU Cs Nw Nn Vv Vv Vv Pp Cs Vv Cs M Nn Cs Pp PU
+NSUBJ ACOMP ROOT ADJUNCT CC CONJ ACOMP PREP POBJ NUM OBJ XCOMP PREP PUNCT PCOMP PUNCT PREP DET POBJ VMOD VMOD VMOD OBJ PREP PCOMP PREP INTJ POBJ PREP POBJ PUNCT
+3 3 0 3 3 3 6 6 8 11 6 11 12 15 13 15 15 19 17 15 20 21 22 22 24 22 28 26 28 29 3
+
+PACE - trung_tâm đào_tạo nhân_lực - đã ra_đời như thế .
+Nr PU Nn Vv Nn PU R Vv Cs Pp PU
+NSUBJ PUNCT PARATAXIS RCMOD OBJ PUNCT ADJUNCT ROOT PREP POBJ PUNCT
+8 1 1 3 4 1 8 0 8 9 8
+
+" Muốn tham_gia cuộc chơi toàn_cầu , anh buộc phải có kiến_thức chuẩn , kỹ_năng chuẩn và cách ứng_xử chuẩn " .
+PU Vv Vv Ncs Vv Nn PU Pp Vv Vv Ve Nn Aa PU Nn Aa Cp Nn Vv Aa PU PU
+PUNCT XCOMP VMOD OBJ CLF NN PUNCT NSUBJ ROOT VMOD VMOD OBJ AMOD PUNCT CONJ AMOD CC CONJ VMOD AMOD PUNCT PUNCT
+9 9 2 3 4 4 9 9 0 9 10 11 12 12 12 15 15 15 18 18 9 9
+
+Trung đập_bỏ ba rào cản lớn nhất của người Việt khi đến với hệ " chuẩn " này : ngôn_ngữ LBRK Việt hoá hệ_thống tài_liệu RBRK , kinh_phí LBRK mời giảng viên là các chuyên gia thành_công ở VN đến chia_sẻ kinh_nghiệm và kiến_thức RBRK và thời_gian LBRK rút ngắn các học_phần , chỉ chọn những điều quan_trọng và cần_thiết cho xã_hội hiện_nay RBRK .
+Nr Vv Num Nn Vv Aa R Cs Nn Nr Nt Vv Cs Nn PU Aa PU Pd PU Nn LBRK Nr Sv Nn Nn RBRK PU Nn LBRK Vv Vv Sv Vc Nq Aa Sv Aa Cs Nr Vv Vv Nn Cp Nn RBRK Cp Nn LBRK Vv Aa Nq Nn PU R Vv Nq Nn Aa Cp Aa Cs Nn Nt RBRK PU
+NSUBJ ROOT NUM OBJ VMOD AMOD ADJUNCT PREP POBJ NN NP_ADVMOD XCOMP PREP POBJ PUNCT AMOD PUNCT DET PUNCT PARATAXIS PUNCT PARATAXIS SINO OBJ NN PUNCT PUNCT CONJ PUNCT PARATAXIS OBJ SINO RCMOD DET ATTR SINO AMOD PREP POBJ VMOD VMOD OBJ CC CONJ PUNCT CC CONJ PUNCT PARATAXIS ACOMP DET OBJ PUNCT ADJUNCT CONJ DET OBJ AMOD CC CONJ PREP POBJ NP_ADVMOD PUNCT PUNCT
+2 0 4 2 4 4 6 4 8 9 4 11 12 13 14 14 14 14 4 4 20 20 22 22 24 20 20 20 28 28 30 31 31 35 33 35 35 35 38 30 40 41 42 42 28 28 28 47 47 49 52 49 49 55 49 57 55 57 58 58 58 61 62 47 2
+
+Và như thế , những chương_trình đào_tạo giám_đốc điều_hành LBRK CEO RBRK , giám_đốc tài_chính LBRK CFO RBRK danh_tiếng hàng trăm năm của các trường đại_học lớn nhất thế_giới sẽ có hàng trăm ngàn người Việt được thụ_hưởng .
+M Cs Pp PU Nq Nn Vv Nn Vv LBRK Nn RBRK PU Nn Nn LBRK Nn RBRK Aa R Nq Nu Cs Nq Nn Nn Aa R Nn R Ve R Nq Nq Nn Nr Vv Vv PU
+INTJ PREP POBJ PUNCT DET NSUBJ RCMOD OBJ VMOD PUNCT PARATAXIS PUNCT PUNCT CONJ NN PUNCT PARATAXIS PUNCT AMOD ADJUNCT NUM NP_ADVMOD PREP DET POBJ NN AMOD ADJUNCT OBJ ADJUNCT ROOT ADJUNCT NUM CONJ OBJ NN RCMOD VMOD PUNCT
+31 31 2 31 6 31 6 7 8 8 8 8 8 8 14 14 14 14 6 21 22 6 6 25 23 25 25 27 27 31 0 33 35 33 31 35 35 37 31
+
+Anh tin , chúng_tôi tin , và rất nhiều người khác cũng tin : giấc mơ xuất_khẩu hàng ngàn giám_đốc điều_hành chẳng có gì là xa_vời .
+Pp Vv PU Pp Vv PU Cp R Aa Nn Aa R Vv PU Ncs Vv Vv R Nq Nn Vv R Ve Pp M Aa PU
+NSUBJ ROOT PUNCT NSUBJ CONJ PUNCT CC ADJUNCT AMOD NSUBJ AMOD ADJUNCT CONJ PUNCT NSUBJ CLF RCMOD ADJUNCT NUM OBJ VMOD ADJUNCT CCOMP OBJ INTJ AMOD PUNCT
+2 0 2 5 2 5 5 9 10 13 10 13 5 23 23 15 15 19 20 17 20 23 13 23 24 24 2
+
+Giản_Tư_Trung làm chúng_tôi nhớ lại một câu_chuyện khác , buồn và chưa có hậu .
+Nr Vv Pp Vv R Num Nn Aa PU Aa Cp R Ve Aa PU
+NSUBJ ROOT NSUBJ CCOMP ADJUNCT NUM OBJ AMOD PUNCT AMOD CC ADJUNCT CONJ ACOMP PUNCT
+2 0 4 2 4 7 4 7 7 7 10 13 10 13 2
+
+Khi thực_hiện loạt bài này , chúng_tôi thử tìm_kiếm những gương_mặt trở_về từ chương_trình đào_tạo nhân_tài của Nhà_nước .
+Nt Vv Nn Nn Pd PU Pp Vv Vv Nq Nn Vv Cs Nn Vv Nn Cs Nn PU
+NP_ADVMOD XCOMP OBJ NN DET PUNCT NSUBJ ROOT VMOD DET OBJ RCMOD PREP POBJ RCMOD OBJ PREP POBJ PUNCT
+8 1 2 3 3 8 8 0 8 11 9 11 12 13 14 15 14 17 8
+
+Nhiều ngàn tỉ đồng đã được chi cho những thạc_sĩ , tiến_sĩ người Việt được đào_tạo ở nước_ngoài nhưng người về như bóng_chim_tăm_cá .
+Aa Nq Nq Nu R Vv Vv Cs Nq Nn PU Nn Nn Nr Vv Vv Cs Nn Cp Nn Vv Cs ID PU
+QUANTMOD NUM CONJ NSUBJ ADJUNCT ROOT VMOD PREP DET NN PUNCT NN POBJ NN RCMOD VMOD PREP POBJ CC NSUBJ VMOD CONJ PCOMP PUNCT
+2 4 2 6 6 0 6 7 13 13 13 13 8 13 13 15 16 17 6 22 20 6 22 6
+
+Người duy_nhất mà chúng_tôi biết được , tốt_nghiệp cao_học ngành vi_sinh , thì đang làm ... nhân_viên hành_chính , chính_xác là cặm_cụi gõ máy_tính những công_văn , hồ_sơ của một cơ_quan khoa_học công_nghệ nhà_nước .
+Nn Aa Cs Pp Vv R PU Vv Nn Nn Nn PU Cp R Vv PU Nn Aa PU Aa M Aa Vv Nn Nq Nn PU Nn Cs Num Nn Nn Nn Nn PU
+NSUBJ AMOD MARK NSUBJ CCOMP ADJUNCT PUNCT PARATAXIS OBJ NN NN PUNCT CC ADJUNCT ROOT PUNCT OBJ AMOD PUNCT ADJP_ADVMOD INTJ ACOMP PARATAXIS NP_ADVMOD DET OBJ PUNCT CONJ PREP NUM POBJ NN NN NN PUNCT
+15 1 5 5 1 5 1 1 8 9 10 1 15 15 0 15 15 17 17 23 20 23 17 23 26 23 26 26 26 31 29 31 32 31 15
+
+Và , có một câu_chuyện đáng suy_nghĩ khác diễn_ra tháng 7_-_2005 , tổng giám_đốc Pepsi Phạm_Phú_Ngọc_Trai đã rủ những người bạn ở Công_ty Kinh_Đô cùng bỏ tiền đầu_tư cho bốn sinh_viên xuất_sắc nhất cuộc thi Dynamic đến Mỹ tham_quan các công_ty , xưởng sản_xuất và tham_dự các cuộc hội_thảo khoa_học của các trường đại_học lớn trên thế_giới .
+M PU Ve Num Nn Vv Vv Aa Vv Nt Nt PU Sv Vv Nr Nr R Vv Nq Nc Nn Cs Nn Nr Aa Vv Nn Vv Cs Num Nn Aa R Ncs Vv FW Vv Nr Vv Nq Nn PU Nn Nn Cp Vv Nq Nc Nn Nn Cs Nq Nn Nn Aa Cs Nn PU
+INTJ PUNCT ROOT NUM OBJ RCMOD VMOD AMOD RCMOD NP_ADVMOD NN PUNCT SINO NN NSUBJ NN ADJUNCT PARATAXIS DET OBJ CLF PREP POBJ NN ACOMP VMOD OBJ VMOD PREP NUM POBJ AMOD ADJUNCT OBJ CLF DEP VMOD NP_ADVMOD VMOD DET OBJ PUNCT CONJ NN CC CONJ DET OBJ CLF NN PREP DET POBJ NN AMOD PREP POBJ PUNCT
+3 3 0 5 3 5 6 5 5 9 10 5 14 15 18 15 18 5 20 18 20 20 22 23 26 18 26 26 28 31 29 31 32 32 34 34 28 37 37 41 39 41 41 43 37 37 48 46 48 48 48 53 51 53 53 53 56 3
+
+" Chỉ là một dịp để các bạn có_thể nhìn xa , nhìn rộng và sờ tận_tay những mô_hình danh_tiếng , đó là những kinh_nghiệm mà chúng_tôi muốn gửi cho các bạn như một hành_trang bước ra thế_giới ... " .
+PU R Vc Num Nn Cs Nq Pp Aa Vv Aa PU Vv Aa Cp Vv Aa Nq Nn Aa PU Pd Vc Nq Nn Cs Pp Vv Vv Cs Nq Pp Cs Num Nn Vv Cs Nn PU PU PU
+PUNCT ADJUNCT ROOT NUM ATTR PREP DET NSUBJ ACOMP PCOMP ACOMP PUNCT CONJ ACOMP CC CONJ ADJP_ADVMOD DET OBJ AMOD PUNCT NSUBJ CONJ DET ATTR MARK NSUBJ CCOMP VMOD PREP DET POBJ PREP NUM POBJ RCMOD PREP POBJ PUNCT PUNCT PUNCT
+3 3 0 5 3 5 8 10 10 6 10 10 10 13 13 13 16 19 16 19 3 23 3 25 23 28 28 25 28 29 32 30 25 35 33 35 36 37 3 3 3
+
+Cuộc_sống sôi_động quanh mình đã trả_lời được nhiều điều hơn nếu chúng_ta chịu_khó quan_sát và suy_nghĩ ...
+Nn Aa Nn Pp R Vv R Aa Nn R Cp Pp Aa Vv Cp Vv PU
+NSUBJ AMOD NN NN ADJUNCT ROOT ADJUNCT ACOMP OBJ ADJUNCT CC NSUBJ CONJ VMOD CC CONJ PUNCT
+6 1 1 3 6 0 6 6 8 8 6 13 6 13 14 14 6
+
+Câu_chuyện về " những người làm_thuê số 1 " bởi_thế sẽ không khép lại ở đây , mà chuyện của những con_người ra_đi để mang về cho xã_hội những công_nghệ , những qui_trình làm chủ , những khát_vọng vươn lên đã giúp bạn_đọc trẻ nhận ra một điều đơn_giản : giấc mơ toàn_cầu đến bằng những hành_động cụ_thể chứ không phải bằng những lời thở_than về tài_sản của một đất_nước đói_nghèo và lạc_hậu .
+Nn Cs PU Nq Nn Vv Nn An PU Cp R R Vv R Cs Pd PU Cp Nn Cs Nq Nn Vv Cs Vv Cs Cs Nn Nq Nn PU Nq Nn Vv Nn PU Nq Nn Vv R R Vv Nn Aa Vv R Num Ncs Aa PU Ncs Vv Nn Vv Cs Nq Nn Aa Cp R Aa Cs Nq Nn Vv Cs Nn Cs Num Nn Aa Cp Aa PU
+NSUBJ PREP PCOMP DET POBJ RCMOD OBJ AMOD PCOMP CC ADJUNCT ADJUNCT ROOT ADJUNCT PREP POBJ PUNCT CC NSUBJ PREP DET NSUBJ PCOMP PREP PCOMP PREP PREP POBJ DET OBJ PUNCT DET CONJ RCMOD OBJ PUNCT DET CONJ RCMOD ADJUNCT ADJUNCT CONJ NSUBJ AMOD CCOMP ADJUNCT NUM OBJ CLF PUNCT NSUBJ CLF NN PARATAXIS PREP DET POBJ AMOD CC ADJUNCT PCOMP CONJ DET POBJ VMOD PREP POBJ PREP NUM POBJ AMOD CC CONJ PUNCT
+13 1 2 5 2 5 6 7 2 13 12 13 0 13 13 15 13 13 42 19 22 23 20 23 24 25 26 27 30 25 30 33 30 33 34 33 38 33 38 39 42 13 45 43 42 45 48 45 48 48 54 51 51 48 54 57 55 57 55 61 62 55 64 62 64 64 66 67 70 68 70 71 71 13
+
+Nhiều trường đại_học dán những bài báo này lên bảng tin của trường .
+Aa Nn Nn Vv Nq Nc Nn Pd Cs Nn Nn Cs Nn PU
+AMOD NSUBJ NN ROOT DET OBJ CLF DET PREP POBJ NN PREP POBJ PUNCT
+2 4 2 0 6 4 6 6 4 9 10 10 12 4
+
+Nhà_xuất_bản Trẻ đang xúc_tiến để quyển sách về " những người làm_thuê số 1 " ra_đời trong một ngày gần đây và nhiều bạn_đọc yêu_cầu thực_hiện các chương_trình giao_lưu với SVHS trong ngày nhập_học ...
+Nn Nn R Vv Cs Nc Nn Cs PU Nq Nn Vv Nn An PU Vv Cs Num Nt Aa Pd Cp Aa Nn Vv Vv Nq Nn Vv Cs X Cs Nt Vv PU
+NSUBJ NN ADJUNCT ROOT PREP NSUBJ CLF PREP PCOMP DET POBJ RCMOD OBJ AMOD PCOMP PCOMP PREP NUM POBJ AMOD OBJ CC AMOD NSUBJ CONJ VMOD DET OBJ RCMOD PREP POBJ PREP POBJ VMOD PUNCT
+4 1 4 0 4 16 6 6 8 11 8 11 12 13 8 5 16 19 17 19 20 4 24 25 4 25 28 26 28 29 30 29 32 33 4
+
+Kế_hoạch còn nhiều , trăn_trở cũng còn nhiều , và chúng_tôi muốn hẹn bạn_đọc ở một kênh thông_tin khác : diễn_đàn Tuổi 20 .
+Nn R Aa PU Nn R R Aa PU Cp Pp Vv Vv Nn Cs Num Nn Nn Aa PU Nn Nn An PU
+NSUBJ ADJUNCT ROOT PUNCT NSUBJ ADJUNCT ADJUNCT CONJ PUNCT CC NSUBJ CONJ VMOD OBJ PREP NUM POBJ NN AMOD PUNCT PARATAXIS NN AMOD PUNCT
+3 3 0 3 8 7 8 3 8 8 12 8 12 13 13 17 15 17 17 17 17 21 22 3
+
+Hãy chia_sẻ cùng mọi người tại tuoi_20_@_tuoi_tre_._com_._vn .
+R Vv Cs Nw Nn Cs Nr PU
+ADJUNCT ROOT PREP DET POBJ PREP POBJ PUNCT
+2 0 2 5 3 2 6 2
+
+Và sáng_mai , hãy đến với buổi giao_lưu trực_tuyến đầu_tiên với họ tại www_._tuoitre_._com_._vn .
+M Nt PU R Vv Cs Nt Vv Aa An Cs Pp Cs Nr PU
+INTJ NP_ADVMOD PUNCT ADJUNCT ROOT PREP POBJ VMOD AMOD AMOD PREP POBJ PREP POBJ PUNCT
+5 5 5 5 0 5 6 7 7 7 7 11 7 13 5
+

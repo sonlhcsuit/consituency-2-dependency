@@ -1,0 +1,260 @@
+Làng " đỏ " bây_giờ .
+Nun PU Aa PU Pd PU
+ROOT PUNCT AMOD PUNCT NP_ADVMOD PUNCT
+0 1 1 1 1 1
+
+Về làng " đỏ " Tân_An LBRK xóm Mù_U RBRK , xã Đức_Phong , huyện Mộ_Đức LBRK Quảng_Ngãi RBRK bây_giờ thấy màu xanh của cây và màu đỏ của ngói .
+Vv Nun PU Aa PU Nr LBRK Nun Nn RBRK PU Nun Nr PU Nun Nr LBRK Nr RBRK Pd Vv Nn Aa Cs Nn Cp Nn Aa Cs Nn PU
+XCOMP NP_ADVMOD PUNCT AMOD PUNCT NN PUNCT PARATAXIS NN PUNCT PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT PARATAXIS PUNCT NP_ADVMOD ROOT OBJ AMOD PREP POBJ CC CONJ AMOD PREP POBJ PUNCT
+21 1 2 2 2 2 2 2 8 2 2 2 12 12 12 15 15 15 15 2 0 21 22 22 24 22 22 27 27 29 21
+
+" Nhìn cảnh bình_yên nơi đây không ai nghĩ được cảnh 30 năm trước cả xóm này đã bị cày_xới , máu đổ như thế_nào " , anh Nguyễn_Đợi - người dân trong làng - vừa dẫn tôi thắp nén hương trong nhà bia vừa rưng_rưng nước_mắt ...
+PU Vv Nn Aa Nn Pd R Pp Vv R Nn Num Nu Nn Nw Nun Pd R Vv Vv PU Nn Vv Cs Pp PU PU Nn Nr PU Nc Nn Cs Nun PU Cp Vv Pp Vv Nn Nn Cs Nn Nn Cp Vv Nn PU
+PUNCT XCOMP OBJ AMOD NP_ADVMOD DET ADJUNCT NSUBJ CCOMP ADJUNCT OBJ NUM NP_ADVMOD NN DET NSUBJ DET ADJUNCT CCOMP VMOD PUNCT NSUBJ CONJ PREP POBJ PUNCT PUNCT NSUBJ NN PUNCT PARATAXIS CLF PREP POBJ PUNCT CC ROOT OBJ VMOD OBJ NN PREP POBJ NN CC CONJ OBJ PUNCT
+37 9 2 3 3 5 8 9 37 9 9 13 19 13 16 19 16 19 11 19 19 23 19 23 24 37 37 37 28 28 28 31 31 33 28 37 0 37 37 39 40 39 42 43 37 37 46 37
+
+Dân xây nhà bia .
+Nn Vv Nn Nn PU
+NSUBJ ROOT OBJ NN PUNCT
+2 0 2 3 2
+
+Anh Đợi kể : " Năm 1964 mình mới sáu tuổi .
+Pp Nr Vv PU PU Nt Num Pp R Num Nn PU
+NSUBJ NN ROOT PUNCT PUNCT NP_ADVMOD NUM NSUBJ ADJUNCT NUM CCOMP PUNCT
+3 1 0 11 11 11 6 11 10 11 3 3
+
+Sau một trận chống càn ngoài rìa làng , tin dữ bay về : ba hi_sinh .
+Cs Num Nn Vv Vv Cs Nn Nun PU Nn Aa Vv Cs PU Nn Vv PU
+PREP NUM POBJ XCOMP VMOD PREP POBJ NN PUNCT NSUBJ AMOD ROOT PREP PUNCT NSUBJ CCOMP PUNCT
+12 3 1 3 4 4 6 7 12 12 10 0 12 16 16 12 12
+
+Nghe tin này , mẹ mình lặng đi .
+Vv Nn Pd PU Nn Pp Vv R PU
+XCOMP OBJ DET PUNCT NSUBJ NN ROOT ADJUNCT PUNCT
+7 1 2 7 7 5 0 7 7
+
+Cũng từ ngày đó , mẹ LBRK mới 25 tuổi RBRK ít nói hẳn , ngày_ngày lẳng_lặng ra phía sau làng đem cơm cho anh_em bộ_đội du_kích và ở_vậy sớm_hôm cháo rau nuôi đứa con trai duy_nhất là mình .
+R Cs Nt Pd PU Nn LBRK R Num Nn RBRK Aa Vv Aa PU R R Vv Nn Nn Nun Vv Nn Cs Nn Nn Nn Cp Vv Nt Nn Nn Vv Nc Nn Nn Aa Vc Pp PU
+ADJUNCT PREP POBJ DET PUNCT NSUBJ PUNCT ADJUNCT NUM PARATAXIS PUNCT ROOT VMOD ADJP_ADVMOD PUNCT ADJUNCT CONJ CONJ NP_ADVMOD NN NN VMOD OBJ PREP POBJ NN NN CC CONJ NP_ADVMOD OBJ NN VMOD OBJ CLF NN AMOD RCMOD ATTR PUNCT
+2 12 2 3 12 12 6 9 10 6 6 0 12 12 12 18 16 12 18 19 19 18 22 22 24 25 25 18 18 29 29 31 29 33 34 34 34 34 38 12
+
+Tám năm sau , mẹ lại tiễn mình tiếp_bước theo con đường của ba " .
+Num Nu Nn PU Pp R Vv Pp Vv Vv Nc Nn Cs Nn PU PU
+NUM NP_ADVMOD NN PUNCT NSUBJ ADJUNCT ROOT OBJ RCMOD VMOD OBJ CLF PREP POBJ PUNCT PUNCT
+2 7 2 7 7 7 0 7 8 9 10 11 11 13 7 7
+
+Sát nhà anh Đợi là nhà bà Nguyễn_Thị_Tồn .
+Aa Nn Nn Nr Cp Nn Nn Nr PU
+ROOT OBJ NN NN CC NSUBJ NN NN PUNCT
+0 1 2 3 1 1 6 7 1
+
+Thời chiến_tranh , chồng bà và người em chồng cũng vào du_kích rồi em chồng hi_sinh .
+Nt Nn PU Nn Pp Cp Nc Nn Nn R Vv Nn Cp Nn Nn Vv PU
+NP_ADVMOD NN PUNCT NSUBJ NN CC NN CLF CONJ ADJUNCT ROOT OBJ CC NSUBJ NN CONJ PUNCT
+11 1 11 11 4 4 9 7 4 11 0 11 11 16 14 11 11
+
+Sau đó bà lại tiễn hai con là Nguyễn_Ngọc_Thường , Nguyễn_Văn_Quang vào du_kích .
+Cs Pd Pp R Vv Num Nn Vc Nr PU Nr Vv Nn PU
+PREP POBJ NSUBJ ADJUNCT ROOT NUM OBJ RCMOD ATTR PUNCT CONJ RCMOD OBJ PUNCT
+5 1 5 5 0 7 5 7 8 9 9 7 12 5
+
+Chiến_tranh khốc_liệt , anh Thường , anh Quang hi_sinh và hai người em kế_tiếp là Nguyễn_Tiến và Nguyễn_Tới cũng vào du_kích , rồi cũng ra_đi mãi_mãi .
+Nn Aa PU Nn Nr PU Nn Nr Vv Cp Num Nc Nn Vv Vc Nr Cp Nr R Vv Nn PU Cp R Vv R PU
+NSUBJ ROOT PUNCT NSUBJ NN PUNCT CONJ NN CONJ CC NUM NSUBJ CLF VMOD RCMOD ATTR CC CONJ ADJUNCT CONJ OBJ PUNCT CC ADJUNCT CONJ ADJUNCT PUNCT
+2 0 2 9 4 4 4 7 2 9 12 20 12 12 12 15 16 16 20 9 20 20 20 25 20 25 2
+
+Ở " làng lõm " Tân_An này , những thế_hệ tiếp_nối ra_đi không trở_về không_chỉ có nhà anh Đợi , nhà bà Tồn .
+Cs PU Nun Aa PU Nr Pd PU Nq Nn Vv Vv R Vv Cp Ve Nn Nn Nr PU Nn Nn Nr PU
+PREP PUNCT POBJ AMOD PUNCT NN DET PUNCT DET NSUBJ VMOD CSUBJ ADJUNCT VMOD CC ROOT OBJ NN NN PUNCT CONJ NN NN PUNCT
+16 3 1 3 3 3 3 16 10 12 10 16 14 12 16 0 16 17 18 17 17 21 22 16
+
+Năm 1975 , ngày vui toàn_thắng cũng là ngày người dân Tân_An nhìn khắp làng bùi_ngùi : cả làng có 52 nóc nhà , nhưng có đến 50 gia_đình liệt_sĩ và hai gia_đình có công với cách_mạng .
+Nt Num PU Nt Aa Vv R Vc Nt Nc Nn Nr Vv Aa Nun Aa PU Nw Nun Ve Num Nc Nn PU Cp Ve M Num Nn Nn Cp Num Nn Ve Nn Cs Nn PU
+NP_ADVMOD NUM PUNCT NSUBJ AMOD VMOD ADJUNCT ROOT ATTR NSUBJ CLF NN CCOMP OBJ OBJ ACOMP PUNCT DET NSUBJ CCOMP NUM OBJ CLF PUNCT CC CONJ QUANTMOD NUM OBJ NN CC NUM CONJ RCMOD OBJ PREP POBJ PUNCT
+8 1 8 8 4 4 8 0 8 13 10 10 9 13 14 13 20 19 20 16 22 20 22 20 20 20 28 29 26 29 29 33 29 33 34 34 36 8
+
+Nhà_cửa xác_xơ , lụp_xụp , nhiều gia_đình chết hết , chẳng còn ai đứng ra thờ_phụng .
+Nn Aa PU Aa PU Aa Nn Vv M PU R Ve Pp Vv R Vv PU
+NSUBJ ROOT PUNCT CONJ PUNCT AMOD NSUBJ CONJ INTJ PUNCT ADJUNCT CONJ NSUBJ CCOMP ADJUNCT VMOD PUNCT
+2 0 2 2 2 7 8 2 8 8 12 8 14 12 14 14 2
+
+Ngày giỗ người_thân đâu_thể không tươm_tất .
+Nt Nn Nn R R Aa PU
+NSUBJ NN NN ADJUNCT CONJ ROOT PUNCT
+6 1 1 6 4 0 6
+
+" Dân làng càng nghĩ càng thương cái làng mình .
+PU Nn Nun Cp Vv Cp Vv M Nun Pp PU
+PUNCT NSUBJ NN CC ROOT CC CONJ INTJ OBJ NN PUNCT
+5 5 2 5 0 5 5 9 7 9 5
+
+Thế_là cả làng bàn_bạc chuyện xây một nhà bia tưởng_niệm để thờ_phụng chung của cả làng , niềm riêng cũng là cảnh chung , cả làng cùng nhau chia_sẻ nỗi đau " , ông Nguyễn_Vụ nhớ lại .
+Cp Nw Nun Vv Nn Vv Num Nn Nn Vv Cs Vv Aa Cs Nw Nun PU Nn Aa R Vc Nn Aa PU Nw Nun Aa Nn Vv Ncs Aa PU PU Nn Nr Vv R PU
+CC DET NSUBJ CCOMP OBJ XCOMP NUM OBJ NN VMOD PREP PCOMP ACOMP PREP DET POBJ PUNCT NSUBJ AMOD ADJUNCT CONJ ATTR AMOD PUNCT DET NSUBJ CONJ OBJ VMOD OBJ CLF PUNCT PUNCT NSUBJ NN ROOT ADJUNCT PUNCT
+4 3 4 36 4 5 8 6 8 9 8 11 12 8 16 14 4 21 18 21 4 21 22 21 26 27 21 27 27 29 30 36 36 36 34 0 36 36
+
+Chuyện xây bia tưởng_niệm lan ra khắp làng .
+Nn Vv Nn Vv Vv R Aa Nun PU
+NSUBJ XCOMP OBJ VMOD ROOT ADJUNCT ADJP_ADVMOD OBJ PUNCT
+5 1 2 3 0 5 5 7 5
+
+Ông Trần_Út kể : " Hồi đó dân làng nghèo lắm , bữa rau bữa cháo nhưng thấy việc đúng nên bà_con tự_nguyện .
+Nn Nr Vv PU PU Nt Pd Nn Nun Aa R PU Nn Nn Nn Nn Cp Vv Nn Aa Cp Nn Vv PU
+NSUBJ NN ROOT PUNCT PUNCT NP_ADVMOD DET NSUBJ NN CCOMP ADJUNCT PUNCT CONJ NN NN NN CC CONJ OBJ AMOD CC NSUBJ CONJ PUNCT
+3 1 0 10 10 10 6 10 8 3 10 10 10 13 13 13 10 10 18 19 18 23 18 3
+
+Người bán rổ khoai_lang , củ_mì ; người ra biển cào ốc_gạo lấy tiền đóng_góp .
+Nn Vv Nn Nn PU Nn PU Nn Vv Nn Vv Nn Vv Nn Vv PU
+NSUBJ ROOT OBJ NN PUNCT CONJ PUNCT NSUBJ CONJ NP_ADVMOD VMOD OBJ VMOD OBJ VMOD PUNCT
+2 0 2 3 4 4 2 9 2 9 9 11 11 13 13 2
+
+Rồi nhà bia tưởng_niệm được xây_dựng trong cái nghĩa , cái tình " .
+Cp Nn Nn Vv Vv Vv Cs Nc Nn PU Nc Nn PU PU
+CC NSUBJ NN VMOD ROOT VMOD PREP POBJ CLF PUNCT CONJ CLF PUNCT PUNCT
+5 5 2 3 0 5 6 7 8 8 8 11 5 5
+
+Cuối năm 1993 , khánh_thành nhà bia , bà_con như nghẹn lại khi đứng trước danh_sách dài những liệt_sĩ của làng và cả những vùng quê khác hi_sinh trên đất này .
+Cs Nt Num PU Vv Nn Nn PU Nn Cs Vv R Nt Vv Cs Nn Aa Nq Nn Cs Nun Cp Nw Nq Nn Nn Aa Vv Cs Nn Pd PU
+PREP POBJ NUM PCOMP PCOMP OBJ NN PCOMP NSUBJ ROOT PCOMP ADJUNCT NP_ADVMOD XCOMP PREP POBJ AMOD DET NSUBJ PREP POBJ CC DET DET CONJ NN AMOD CCOMP PREP POBJ DET PCOMP
+10 1 2 10 10 5 6 10 10 0 10 11 11 13 14 15 16 19 28 19 20 21 25 25 21 25 25 16 28 29 30 10
+
+Kể từ ngày ấy , đâu_chỉ có dịp kỷ_niệm Ngày thương_binh liệt_sĩ , ngày tết , dân làng trước khi ra khơi hay đi đâu xa cũng mang hương ra thắp .
+Vv Cs Nt Pd PU Cp Ve Nn Vv Nt Nn Nn PU Nt Nt PU Nn Nun Cs Nt Vv Nn Cp Vv Pp Aa R Vv Nn Vv Vv PU
+ROOT PREP POBJ DET PUNCT CC CCOMP OBJ RCMOD OBJ NN NN PUNCT CONJ NN PUNCT NSUBJ NN PREP POBJ XCOMP OBJ CC CONJ OBJ ACOMP ADJUNCT CCOMP OBJ VMOD VMOD PUNCT
+0 1 2 3 1 1 1 7 8 9 10 10 10 10 14 1 28 17 28 19 20 21 21 21 24 24 28 1 28 28 30 1
+
+30 năm rồi , nhà bia không một ngày thiếu mùi hương .
+Num Nu R PU Nn Nn R Num Nu Aa Nn Nn PU
+NUM NP_ADVMOD ADJUNCT PUNCT NSUBJ NN ADJUNCT NUM ROOT AMOD OBJ NN PUNCT
+2 9 2 9 9 5 8 9 0 9 10 11 9
+
+Đất hồi_sinh .
+Nn Vv PU
+NSUBJ ROOT PUNCT
+2 0 2
+
+Tôi theo anh Nguyễn_Đợi đi về phía biển .
+Pp Vv Nn Nr Vv Cs Nn Nn PU
+NSUBJ VMOD OBJ NN ROOT PREP POBJ NN PUNCT
+5 5 2 3 0 5 6 7 5
+
+Nơi đây sau chiến_tranh chỉ có trảng cát dài nhìn nhức mắt , bây_giờ là hàng dương xanh .
+Nn Pd Cs Nn R Ve Nn Nn Aa Vv Aa Nn PU Pd Vc Nn Nn Aa PU
+NSUBJ DET PREP POBJ ADJUNCT ROOT OBJ NN AMOD RCMOD ACOMP OBJ PUNCT NP_ADVMOD CONJ ATTR NN AMOD PUNCT
+6 1 6 3 6 0 6 7 7 7 10 11 6 15 6 15 16 16 6
+
+Thấy " làng lõm " nằm chòi bên mép biển như cái_gai_trước_mắt , ngày 26_-_6_-_1966 Mỹ cho máy_bay ném bom phía trong trảng cát , rồi từ biển tàu chiến bắn lên .
+Vv PU Nun Aa PU Vv Vv Nn Nn Nn Cs ID PU Nt Nt Nr Vv Nn Vv Nn Nn Nn Nn Nn PU Cp Cs Nn Nn Vv Vv D PU
+ROOT PUNCT NSUBJ AMOD PUNCT CCOMP VMOD NP_ADVMOD NN NN PREP POBJ PUNCT NP_ADVMOD NN NSUBJ CCOMP OBJ VMOD OBJ NP_ADVMOD NN NN NN PUNCT CC PREP POBJ NSUBJ VMOD CCOMP VMOD PUNCT
+0 6 6 3 6 1 6 7 8 9 7 11 1 1 14 17 1 17 17 19 19 21 21 23 1 1 31 27 31 29 1 31 1
+
+Chỉ trong một buổi sáng , 125 người dân trong xóm và các xóm lân_cận không còn nữa .
+R Cs Num Nu Nt PU Num Nc Nn Cs Nun Nn Nq Nun Aa R Ve R PU
+ADJUNCT PREP NUM POBJ NN PUNCT NUM NSUBJ CLF PREP POBJ NN DET NN AMOD ADJUNCT ROOT ADJUNCT PUNCT
+2 17 4 2 4 17 8 17 8 8 10 11 14 11 14 17 0 17 17
+
+Đến nay cả làng có sáu bà_mẹ VN anh_hùng .
+Cs Nt Nw Nun Ve Num Nn Nr Aa PU
+PREP POBJ DET NSUBJ ROOT NUM OBJ NN AMOD PUNCT
+5 1 4 5 0 7 5 7 7 5
+
+Có nhà chết hết chẳng còn ai thờ_phụng .
+Ve Nn Vv M R Ve Pp Vv PU
+ROOT OBJ RCMOD INTJ ADJUNCT VMOD NSUBJ CCOMP PUNCT
+0 1 2 3 6 3 8 6 1
+
+Nhà bia là nơi ấm_áp những nén nhang .
+Nn Nn Vc Nn Aa Nq Nn Nn PU
+NSUBJ NN ROOT ATTR AMOD DET OBJ NN PUNCT
+3 1 0 3 4 7 5 7 3
+
+Chị Nguyễn_Thị_Cúc , dân trong làng , đang cào lá dương về nấu bếp , kể : " Hồi mới giải_phóng , mùa hè mỗi lần mang cơm ra biển cho chồng đi đánh cá , ngang qua trảng cát này phải bẻ theo một nhánh cây , bước đi vài bước ném nhánh cây xuống đứng lên cho khỏi bỏng_rát " .
+Nn Nr PU Nn Cs Nun PU R Vv Nn Nn Vv Vv Nn PU Vv PU PU Nt R Vv PU Nn Nt Nq Nn Vv Nn Vv Nn Cs Nn Vv Vv Nn PU Vv Cs Nn Nn Pd Vv Vv Vv Num Nn Nn PU Vv Vv Nq Nn Vv Nn Nn D Vv R Cs Vv Aa PU PU
+NSUBJ NN PUNCT PARATAXIS PREP POBJ PUNCT ADJUNCT PARATAXIS OBJ NN VMOD VMOD OBJ PUNCT ROOT PUNCT PUNCT NP_ADVMOD ADJUNCT XCOMP PUNCT PARATAXIS NN DET PARATAXIS XCOMP OBJ VMOD OBJ PREP POBJ RCMOD VMOD OBJ PUNCT CONJ PREP POBJ NN DET XCOMP VMOD VMOD NUM OBJ NN PUNCT CONJ CONJ DET OBJ CONJ OBJ NN VMOD VMOD ADJUNCT PREP PCOMP ACOMP PUNCT PUNCT
+16 1 1 1 4 5 1 9 1 9 10 9 12 13 1 0 42 42 42 21 19 19 19 23 26 23 26 27 27 29 27 31 32 33 34 27 27 37 38 39 39 16 42 43 46 43 46 42 42 49 52 49 49 53 54 53 53 57 57 59 60 42 16
+
+Còn ngoài mé biển , có trên vài chục người đàn_ông đang dồn sức kéo lưới rùng .
+Cp Cs Nn Nn PU Ve R Nq Nq Nc Nn R Vv Nn Vv Nn Nn PU
+CC PREP POBJ NN PUNCT ROOT ADJUNCT NUM CONJ OBJ CLF ADJUNCT RCMOD OBJ VMOD OBJ NN PUNCT
+6 6 2 3 6 0 8 10 8 6 10 13 10 13 13 15 16 6
+
+Ông Nguyễn_Xuân_Bình , 69 tuổi , vừa kéo lưới vừa nói : " Đất này khó_khăn nhiều , cố làm mới có cái ăn mà lo cho con_cháu " .
+Nn Nr PU Num Nn PU Cp Vv Nn Cp Vv PU PU Nn Pd Aa Aa PU Vv Vv R Ve Ncs Vv M Vv Cs Nn PU PU
+NSUBJ NN PUNCT NUM PARATAXIS PUNCT CC ROOT OBJ CC CONJ PUNCT PUNCT NSUBJ DET CCOMP ADJP_ADVMOD PUNCT CONJ VMOD ADJUNCT VMOD OBJ CLF INTJ VMOD PREP POBJ PUNCT PUNCT
+8 1 1 5 1 1 8 0 8 8 8 16 16 16 14 11 16 16 16 19 22 20 22 23 26 22 26 27 16 8
+
+Nhìn mẻ lưới kéo cũng chỉ được non vài ký cá , ông cười : " Ngày_mai rồi sẽ khá hơn " .
+Vv Nn Nn Vv R R Vv R Nq Nu Nn PU Pp Vv PU PU Nt R R Aa R PU PU
+XCOMP OBJ NN RCMOD ADJUNCT ADJUNCT VMOD ADJUNCT NUM OBJ NN PUNCT NSUBJ ROOT PUNCT PUNCT NP_ADVMOD ADJUNCT ADJUNCT CCOMP ADJUNCT PUNCT PUNCT
+14 1 2 2 6 7 4 9 10 7 10 14 14 0 20 20 20 19 20 14 20 20 14
+
+Sau chiến_tranh , đi từ đầu đến cuối làng , nhà nào cũng chỉ dùng thân cây dương bắt chéo rồi gác thêm một cây nữa làm đòn dông lợp tranh lên ở .
+Cs Nn PU Vv Cs Nn Cs Cs Nun PU Nn Pd R R Vv Nn Nn Nn Vv Aa Cp Vv Vv Num Nn R Vv Nn Nn Vv Nn Cs Vv PU
+PREP POBJ PUNCT XCOMP PREP POBJ CONJ PREP POBJ PUNCT NSUBJ DET ADJUNCT ADJUNCT ROOT OBJ NN NN VMOD ACOMP CC CONJ VMOD NUM OBJ ADJUNCT VMOD OBJ NN VMOD OBJ PREP VMOD PUNCT
+15 1 15 15 4 5 5 7 8 15 15 11 14 15 0 15 16 17 15 19 19 19 22 25 22 25 22 27 28 27 30 30 30 15
+
+Mùa mưa nước từ Bàu_Súng , xã Đức_Chánh đổ về dâng cao làm tắc đường từ xóm đi vào khu_vực trung_tâm xã .
+Nn Vv Nn Cs Nr PU Nun Nr Vv D Vv Aa Vv Vv Nn Cs Nun Vv Cs Nn Nn Nun PU
+NP_ADVMOD VMOD NSUBJ PREP POBJ PUNCT PARATAXIS NN CSUBJ VMOD CONJ ACOMP ROOT VMOD OBJ PREP POBJ RCMOD PREP POBJ NN NN PUNCT
+13 1 9 3 4 5 5 7 13 9 9 11 0 13 14 18 16 15 18 19 20 21 13
+
+Dân làng lúc phải lội bộ , lúc chèo ghe qua mé rộc đến xóm Vân_Hà làm ruộng .
+Nn Nun Nt Vv Vv Nn PU Nt Vv Nn Cs Nn Nn Cs Nun Nr Vv Nn PU
+NSUBJ NN NP_ADVMOD ROOT VMOD NP_ADVMOD PUNCT NP_ADVMOD CONJ OBJ PREP POBJ NN PREP POBJ NN PCOMP OBJ PUNCT
+4 1 4 0 4 5 4 9 4 9 9 11 12 9 14 15 14 17 4
+
+Tội nhất là nhiều đứa trẻ trong xóm lên xóm trên để học , đi ngang rộc bị nước cuốn trôi .
+Aa R Vc Nn Nc Nn Cs Nun Vv Nun Nn Cs Vv PU Vv Aa Nn Vv Nn Vv Vv PU
+ASUBJ ADJUNCT ROOT NSUBJ NN CLF PREP POBJ RCMOD NP_ADVMOD NN PREP PCOMP PUNCT CONJ ACOMP OBJ CCOMP NSUBJ CCOMP VMOD PUNCT
+3 1 0 18 4 5 4 7 4 9 10 9 12 9 9 15 16 3 20 18 20 3
+
+Khó_khăn thật nhiều nhưng chẳng ai kêu khó .
+Nn R Aa Cp R Pp Vv Aa PU
+NSUBJ ADJUNCT ROOT CC ADJUNCT NSUBJ CONJ ACOMP PUNCT
+3 3 0 3 6 7 3 7 3
+
+Bà_con cứ gom_góp từng mùa mua thiên ngói , mua gỗ_xẻ mè , làm trính để năm hoặc mười năm sau tiến_hành xây_dựng nhà .
+Nn R Vv Pp Nn Vv Nq Nn PU Vv Nn Nn PU Vv Nn Cs Nu Cp Num Nu Nn Vv Vv Nn PU
+NSUBJ ADJUNCT ROOT DET OBJ VMOD DET OBJ PUNCT CONJ OBJ NN PUNCT CONJ OBJ PREP NP_ADVMOD CC NUM CONJ NN PCOMP VMOD OBJ PUNCT
+3 3 0 5 3 3 8 6 6 6 10 11 10 10 14 14 22 17 20 17 17 16 22 23 3
+
+Nhiều hộ nghĩ ra cách năm ba người góp tiền để một hộ xây nhà trước , sau đó những hộ này góp lại cho người khác xây .
+Aa Nn Vv R Nn Num Num Nn Vv Nn Cs Num Nn Vv Nn Nn PU Cs Pd Nq Nn Pd Vv R Cs Nn Aa Vv PU
+AMOD NSUBJ ROOT ADJUNCT OBJ NUM CONJ NSUBJ CCOMP OBJ PREP NUM NSUBJ PCOMP OBJ ADJP_ADVMOD PUNCT PREP POBJ DET NSUBJ DET CONJ ADJUNCT PREP NSUBJ AMOD PCOMP PUNCT
+2 3 0 3 3 8 6 9 5 9 9 13 14 11 14 14 9 23 18 21 23 21 9 23 23 28 26 25 3
+
+Đến năm 1992 cả làng có ngôi nhà ngói đầu_tiên , những người là thương_binh hoặc mất sức_lao_động do bị địch tra_tấn tù_đày thì bà_con tập_trung sức , tiền_của mà giúp .
+Cs Nt Num Nw Nun Ve Nc Nn Nn An PU Nq Nn Vc Nn Cp Ve Nn Cs Vv Nn Vv Vv Cp Nn Vv Nn PU Nn M Vv PU
+PREP POBJ NUM DET NSUBJ ROOT OBJ CLF NN AMOD PUNCT DET DEP RCMOD ATTR CC CONJ OBJ PREP PCOMP NSUBJ CCOMP CONJ CC NSUBJ CONJ OBJ PUNCT CONJ INTJ VMOD PUNCT
+6 1 2 5 6 0 6 7 7 7 6 13 26 13 14 14 14 17 17 19 22 20 22 26 26 6 26 27 27 26 26 6
+
+Bây_giờ , hầu_hết trong làng là nhà ngói và 95% số hộ có xe_máy .
+Pd PU Nq Cs Nun Vc Nn Nn Cp Nq Nn Nn Ve Nn PU
+NP_ADVMOD PUNCT NSUBJ PREP POBJ ROOT ATTR NN CC NSUBJ NN NN CONJ OBJ PUNCT
+6 6 6 3 4 0 6 7 6 13 10 11 6 13 6
+
+Họ bàn với nhau chuyện nuôi bò lai , nuôi tôm trên cát .
+Pp Vv Cs Nn Nn Vv Nn Aa PU Vv Nn Cs Nn PU
+NSUBJ ROOT PREP POBJ OBJ RCMOD OBJ AMOD PUNCT CONJ OBJ PREP POBJ PUNCT
+2 0 2 3 2 5 6 7 6 6 10 10 12 2
+
+Trên trảng cát dài ngày nào là đất chết bởi pháo_bầy , bom_đạn cày_xới giờ là rừng phi_lao , rừng điều .
+Cs Nn Nn Aa Nt Pd Vc Nn Vv Cs Nn PU Nn Vv Nt Vc Nn Nn PU Nn Nn PU
+PREP POBJ NN AMOD NP_ADVMOD DET ROOT ATTR RCMOD MARK NSUBJ PUNCT CONJ ADVCL NP_ADVMOD CONJ ATTR NN PUNCT CONJ NN PUNCT
+7 1 2 2 7 5 0 7 8 14 14 11 11 9 16 7 16 17 17 17 20 7
+
+Ngoài phía biển , sau năm 2001 , khi ngành thuỷ_sản hoàn_thành đề_tài thực_nghiệm nuôi tôm trên cát bằng vật_liệu chống thấm rẻ tiền , nhiều hộ đã đầu_tư hàng trăm triệu đồng đào hồ , mua con_giống thả nuôi .
+Cs Nn Nn PU Cs Nt Num PU Nt Nn Nn Vv Nn Vv Vv Nn Cs Nn Cs Nn Vv Vv Aa Nn PU Aa Nn R Vv R Nq Nq Nu Vv Nn PU Vv Nn Vv Vv PU
+PREP POBJ NN PUNCT PREP POBJ NUM PUNCT NP_ADVMOD NSUBJ NN CCOMP OBJ VMOD RCMOD OBJ PREP POBJ PREP POBJ RCMOD VMOD AMOD OBJ PUNCT AMOD NSUBJ ADJUNCT ROOT ADJUNCT NUM CONJ OBJ VMOD OBJ PUNCT CONJ OBJ VMOD VMOD PUNCT
+29 1 2 29 29 5 6 29 29 12 10 9 12 13 13 15 15 17 15 19 20 21 20 23 29 27 29 29 0 31 33 31 29 29 34 34 34 37 37 39 29
+
+Ông Vũ_Nhân , chủ_tịch UBND xã Đức_Phong , cho hay Nhà_nước đã đầu_tư xây_dựng con đường nhựa 1 km từ ngã_ba Ông_Thành về đến đầu làng , xây_dựng trường mẫu_giáo , kéo điện về làng , cho dân vay vốn đóng mới hai chiếc tàu xa bờ để đánh_bắt mực_nồng_vôi xuất_khẩu ...
+Nn Nr PU Nn X Nun Nr PU Vv Vv Nn R Vv Vv Nc Nn Nn Num Nu Cs Nn Nr Cs Cs Nn Nun PU Vv Nn Nn PU Vv Nn Vv Nun PU Vv Nn Vv Nn Vv Aa Num Nc Nn Aa Nn Cs Vv Nn Vv PU
+NSUBJ NN PUNCT PARATAXIS NN NN NN PUNCT ROOT VMOD NSUBJ ADJUNCT CCOMP VMOD NN CLF NN NUM OBJ PREP POBJ NN CONJ PREP POBJ NN PUNCT CONJ OBJ NN PUNCT CONJ OBJ VMOD NP_ADVMOD PUNCT CONJ OBJ VMOD OBJ VMOD ACOMP NUM OBJ CLF AMOD OBJ PREP PCOMP OBJ VMOD PUNCT
+9 1 1 1 4 5 6 1 0 9 13 13 10 13 19 15 19 19 14 19 20 21 20 23 24 25 14 14 28 29 28 28 32 32 34 32 32 37 37 39 39 41 44 41 44 44 46 41 48 49 49 9
+
+Làng " đỏ " bây_giờ đã sinh_sôi , đổi_mới nhiều .
+Nun PU Aa PU Pd R Vv PU Vv Aa PU
+NSUBJ PUNCT AMOD PUNCT NP_ADVMOD ADJUNCT ROOT PUNCT CONJ ACOMP PUNCT
+7 1 1 1 7 7 0 7 7 7 7
+

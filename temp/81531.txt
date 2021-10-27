@@ -1,0 +1,355 @@
+Ngày_mai mẹ sẽ mua tay giả cho con .
+Nt Nn R Vv Nn Aa Cs Nn PU
+NP_ADVMOD NSUBJ ADJUNCT ROOT OBJ AMOD PREP POBJ PUNCT
+4 4 4 0 4 5 4 7 4
+
+" Tại sao mẹ không cho con đi học cùng các bạn ?
+PU Cp Pp Nn R Vv Pp Vv Vv Aa Nq Nn PU
+PUNCT CC OBJ NSUBJ ADJUNCT ROOT IOBJ VMOD VMOD ACOMP DET OBJ PUNCT
+6 6 6 6 6 0 6 6 8 9 12 10 6
+
+Tại sao các bạn khác có tay mà con không có " ?
+Cp Pp Nq Nn Aa Ve Nn Cp Pp R Ve PU PU
+CC DEP DET NSUBJ AMOD ROOT OBJ CC NSUBJ ADJUNCT CONJ PUNCT PUNCT
+6 6 4 6 4 0 6 6 11 11 6 6 6
+
+" Ngày_mai mẹ sẽ mua tay giả cho con để con đi học " ...
+PU Nt Nn R Vv Nn Aa Cs Pp Cs Pp Vv Vv PU PU
+PUNCT NP_ADVMOD NSUBJ ADJUNCT ROOT OBJ AMOD PREP POBJ PREP NSUBJ PCOMP VMOD PUNCT PUNCT
+5 5 5 5 0 5 6 5 8 5 12 10 12 5 5
+
+Những câu hỏi hồn_nhiên của bé Phú và lời hứa của mẹ em đã lâu lắm rồi nhưng hôm_nay nhớ lại , chị Bình - mẹ của Phú - lại đầm_đìa nước_mắt .
+Nq Nn Vv Aa Cs Nn Nr Cp Nn Vv Cs Nn Pp R Aa R M Cp Nt Vv R PU Nn Nr PU Nn Cs Nr PU R Aa Nn PU
+DET NSUBJ VMOD AMOD PREP POBJ NN CC CONJ VMOD PREP POBJ NN ADJUNCT ROOT ADJUNCT INTJ CC NP_ADVMOD XCOMP ADJUNCT PUNCT NSUBJ NN PUNCT PARATAXIS PREP POBJ PUNCT ADJUNCT CONJ OBJ PUNCT
+2 15 2 2 2 5 6 2 2 9 9 11 12 15 0 15 15 15 20 31 20 31 31 23 23 23 26 27 23 31 15 31 15
+
+Còn Phú không khóc , em tin rằng ngoại_ngữ và máy_tính sẽ thay được đôi bàn_tay không có của mình , như em đã tin đôi bàn_chân đã giúp em đoạt được giải Vở sạch chữ đẹp toàn huyện Yên_Thành hồi lớp 3 .
+Cp Nr R Vv PU Pp Vv Cs Nn Cp Nn R Vv R Nq Nn R Ve Cs Pp PU Cs Pp R Vv Nq Nn R Vv Pp Vv R Nn Nn Aa Nn Aa Nw Nun Nr Nt Nn An PU
+CC NSUBJ ADJUNCT ROOT PUNCT NSUBJ CONJ MARK NSUBJ CC CONJ ADJUNCT CCOMP ADJUNCT DET OBJ ADJUNCT RCMOD PREP POBJ PUNCT PREP NSUBJ ADJUNCT PCOMP DET NSUBJ ADJUNCT CCOMP OBJ VMOD ADJUNCT OBJ NN AMOD CONJ AMOD DET NN NN NP_ADVMOD NN AMOD PUNCT
+4 4 4 0 4 7 4 13 13 9 9 13 7 13 16 13 18 16 16 19 13 13 25 25 22 27 29 29 25 29 29 31 31 33 34 34 36 39 33 39 33 41 42 4
+
+" Củ khoai " của mẹ .
+PU Nn Nn PU Cs Nn PU
+PUNCT ROOT NN PUNCT PREP POBJ PUNCT
+2 0 2 2 2 5 2
+
+Hồi mới sinh , Phú như một củ khoai : " Một củ khoai dị_dạng , đầu to , chân ngắn , không có tay và không hề có một tiếng khóc " - anh Nguyễn_Quỳnh_Lộc , cha của Phú , nói .
+Nt R Vv PU Nr Cs Num Nn Nn PU PU Num Nn Nn Aa PU Nn Aa PU Nn Aa PU R Ve Nn Cp R M Ve Num Nn Vv PU PU Nn Nr PU Nn Cs Nr PU Vv PU
+NP_ADVMOD ADJUNCT RCMOD PUNCT NSUBJ ROOT NUM POBJ NN PUNCT PUNCT NUM NSUBJ NN CCOMP PUNCT CONJ AMOD PUNCT CONJ AMOD PUNCT ADJUNCT CONJ OBJ CC ADJUNCT INTJ CONJ NUM OBJ VMOD PUNCT PUNCT NSUBJ NN PUNCT PARATAXIS PREP POBJ PUNCT CONJ PUNCT
+6 3 1 6 6 0 8 6 8 6 42 13 15 13 42 15 15 17 17 17 20 17 24 17 24 24 29 29 24 31 29 31 42 42 42 35 35 35 38 39 35 6 6
+
+" Củ khoai cứ tuột khỏi tay mẹ vì nó không có gì bấu_víu được vào người mẹ " - chị Bình , vợ anh Lộc , nói thêm .
+PU Nn Nn R Vv Vv Nn Nn Cs Pp R Ve M Vv R Cs Nn Nn PU PU Nn Nr PU Nn Nn Nr PU Vv Vv PU
+PUNCT NSUBJ NN ADJUNCT CCOMP VMOD OBJ NN MARK NSUBJ ADJUNCT ADVCL INTJ VMOD ADJUNCT PREP POBJ NN PUNCT PUNCT NSUBJ NN PUNCT PARATAXIS NN NN PUNCT ROOT VMOD PUNCT
+28 5 2 5 28 5 6 7 12 12 12 5 12 12 14 14 16 17 28 28 28 21 21 21 24 25 21 0 28 28
+
+Anh Lộc biết chắc rằng " củ khoai " của vợ_chồng anh chính là hậu_quả của những lần anh " hít " khói " da_cam " ở chiến_trường Tây_nguyên hồi 1972 .
+Nn Nr Vv Aa Cs PU Nn Nn PU Cs Nn Pp M Vc Nn Cs Nq Nn Pp PU Vv PU Nn PU Nn PU Cs Nn Nr Nt Num PU
+NSUBJ NN ROOT ACOMP MARK PUNCT NSUBJ NN PUNCT PREP POBJ NN INTJ CCOMP ATTR PREP DET POBJ NSUBJ PUNCT CCOMP PUNCT OBJ PUNCT NN PUNCT PREP POBJ NN NP_ADVMOD NUM PUNCT
+3 1 0 3 14 7 14 7 7 7 10 11 14 3 14 15 18 16 21 21 18 21 21 23 23 23 21 27 28 21 30 3
+
+Dần_dà người dân ở làng Tam_Hợp nghèo_khó và cả xã Thọ_Thành LBRK Yên_Thành , Nghệ_An RBRK cũng nhận ra " củ khoai " của anh Lộc , chị Bình là hậu_quả của tội_ác chiến_tranh .
+R Nc Nn Cs Nun Nn Aa Cp Nw Nun Nr LBRK Nr PU Nr RBRK R Vv R PU Nn Nn PU Cs Nn Nr PU Nn Nr Vc Nn Cs Nn Nn PU
+ADJUNCT NSUBJ CLF PREP POBJ NN AMOD CC DET CONJ NN PUNCT PARATAXIS PUNCT PARATAXIS PUNCT ADJUNCT ROOT ADJUNCT PUNCT NSUBJ NN PUNCT PREP POBJ NN PUNCT CONJ NN CCOMP ATTR PREP POBJ NN PUNCT
+18 18 2 2 4 5 5 5 10 5 10 10 10 13 13 10 18 0 18 21 30 21 21 21 24 25 25 25 28 18 30 31 32 33 18
+
+Họ cảm_thông , chia_sẻ với anh_chị nhiều hơn , năng lui_tới vỗ_về đứa bé và âu_yếm gọi " củ khoai " là thằng cu Phú .
+Pp Vv PU Vv Cs Nn Aa R PU R Vv Vv Nc Nn Cp Aa Vv PU Nn Nn PU Cs Nn Nn Nr PU
+NSUBJ ROOT PUNCT CONJ PREP POBJ ACOMP ADJUNCT PUNCT ADJUNCT CONJ VMOD OBJ CLF CC ACOMP CONJ PUNCT OBJ NN PUNCT PREP POBJ NN NN PUNCT
+2 0 2 2 2 5 2 7 2 11 2 11 12 13 11 17 11 19 17 19 19 17 22 23 23 2
+
+Ngày ấy cả làng , cả xã đều thiếu_đói .
+Nt Pd Nw Nun PU Nw Nun R Vv PU
+NP_ADVMOD DET DET NSUBJ PUNCT DET CONJ ADJUNCT ROOT PUNCT
+9 1 4 9 4 7 4 9 0 9
+
+Nhưng với gia_đình anh Lộc , chị Bình thì cái thiếu , cái đói mới nghiệt_ngã làm_sao vì anh là thương_binh đã bị cắt 3[]4 dạ_dày , sa gan , suy thận ...
+Cp Cs Nn Nn Nr PU Nn Nr Cp Ncs Aa PU Ncs Vv R Aa E Cs Pp Vc Nn R Vv Vv Nq Nn PU Vv Nn PU Vv Nn PU
+CC PREP POBJ NN NN PUNCT NN NN CC NSUBJ CLF PUNCT CONJ CLF ADJUNCT ROOT INTJ MARK NSUBJ ADVCL ATTR ADJUNCT RCMOD VMOD DET OBJ PUNCT CONJ OBJ PUNCT CONJ OBJ PUNCT
+16 16 2 3 4 3 3 7 16 16 10 10 10 13 16 0 16 20 20 16 20 23 21 23 26 24 23 23 28 28 28 31 16
+
+Căn nhà của anh Lộc , chị Bình là ba gian kho thanh_lý của hợp_tác_xã vách được trát bằng đất bùn .
+Nc Nn Cs Nn Nr PU Nn Nr Vc Num Nn Nn Vv Cs Nn Nn Vv Vv Cs Nn Nn PU
+NSUBJ CLF PREP POBJ NN PUNCT CONJ NN ROOT NUM ATTR NN VMOD PREP POBJ NSUBJ CCOMP VMOD PREP POBJ CONJ PUNCT
+9 1 1 3 4 4 4 7 0 11 9 11 11 11 14 17 11 17 18 19 20 9
+
+Những ngày ấy , gia_đình họ sống nhờ một phần vào khoản cứu_tế của Nhà_nước mỗi tháng vài_ba cân gạo và cả những nắm cơm , bắp_ngô của láng_giềng đem cho .
+Nq Nt Pd PU Nn Pp Vv Vv Num Nn Cs Nn Vv Cs Nn Nq Nu Nq Nu Nn Cp Nw Nq Nn Nn PU Nn Cs Nn Vv Vv PU
+DET NP_ADVMOD DET PUNCT NSUBJ NN ROOT VMOD NUM OBJ PREP POBJ VMOD PREP POBJ DET NP_ADVMOD DET NN NN PCOMP DET DET POBJ NN PUNCT CONJ PREP NSUBJ PCOMP VMOD PUNCT
+2 7 2 7 7 5 0 7 10 8 8 11 12 12 14 17 12 19 12 19 11 24 24 11 24 24 24 27 30 28 30 7
+
+Chỉ sống bằng nước cơm nêm với muối trắng và mì_chính nên " củ khoai " của vợ_chồng anh Lộc , chị Bình chỉ lớn nhích từng tí một .
+R Vv Cs Nn Nn Vv Cs Nn Aa Cp Nn Cp PU Nn Nn PU Cs Nn Nn Nr PU Nn Nr R Vv Vv Pp Nq Num PU
+ADJUNCT ROOT PREP POBJ NN RCMOD PREP POBJ AMOD CC CONJ CC PUNCT NSUBJ NN PUNCT PREP POBJ NN NN PUNCT CONJ NN ADJUNCT CONJ VMOD DET NP_ADVMOD NUM PUNCT
+2 0 2 3 4 4 6 7 8 8 8 2 14 25 14 14 14 17 18 19 19 19 22 25 2 25 28 26 28 2
+
+Mãi đến 4 tuổi , Phú mới bắt_đầu tập đi nhưng vẫn như củ khoai , bế lên tụt xuống ; da " củ khoai " lúc đỏ tấy , lúc xanh nhợt , thỉnh_thoảng lại có những cơn đau quằn_quại .
+R Cs Num Nn PU Nr R Vv Vv Vv Cp R Cs Nn Nn PU Vv D Vv D PU Nn PU Nn Nn PU Nt Aa Vv PU Nt Aa Aa PU R R Ve Nq Ncs Aa Aa PU
+ADJUNCT PREP NUM POBJ PUNCT NSUBJ ADJUNCT ROOT VMOD VMOD CC ADJUNCT CONJ POBJ NN PUNCT CONJ VMOD CONJ VMOD PUNCT DEP PUNCT NN NN PUNCT NP_ADVMOD CONJ VMOD PUNCT NP_ADVMOD CONJ ADJP_ADVMOD PUNCT ADJUNCT ADJUNCT CONJ DET OBJ CLF AMOD PUNCT
+2 8 4 2 8 8 8 0 8 9 8 13 8 13 14 13 13 17 17 19 8 28 24 22 24 24 28 8 28 28 32 28 32 28 37 37 28 39 37 39 39 8
+
+Khát_vọng và chinh_phục .
+Vv Cp Vv PU
+ROOT CC CONJ PUNCT
+0 1 1 1
+
+Lên 6 tuổi , Phú đi_lại vững_vàng nhưng vẫn hay bị ngã , không có tay đỡ nên đầu cứ cày xuống đất làm rách xước , xây_xẩm mặt_mày .
+Cs Num Nn PU Nr Vv Aa Cp R R Vv Vv PU R Ve Nn Vv Cp Nn R Vv D Nn Vv Aa Aa PU Aa Nn PU
+PREP NUM POBJ PUNCT NSUBJ ROOT ACOMP CC ADJUNCT ADJUNCT CONJ VMOD PUNCT ADJUNCT CONJ NSUBJ CCOMP CC NSUBJ ADJUNCT CSUBJ VMOD OBJ CONJ ACOMP CONJ PUNCT CONJ OBJ PUNCT
+6 3 1 6 6 0 6 6 10 11 6 11 6 15 6 17 15 15 21 21 24 21 22 15 24 25 25 25 28 6
+
+Một hôm , Phú thấy bọn trẻ trong làng mang cặp đi qua ngõ nhà mình , em hỏi bố các bạn đi đâu ?
+Num Nt PU Nr Vv Nn Nn Cs Nun Vv Nq Vv Cs Nn Nn Pp PU Pp Vv Nn Nq Pp Vv Pp PU
+NUM NP_ADVMOD PUNCT NP_ADVMOD ROOT NSUBJ NN PREP POBJ CCOMP OBJ CONJ PREP POBJ NN NN PUNCT NSUBJ CONJ OBJ DET NSUBJ CCOMP OBJ PUNCT
+2 5 5 5 0 10 6 6 8 5 10 10 12 13 14 15 5 19 5 19 22 23 19 23 5
+
+Anh Lộc nói với Phú là các bạn đi học .
+Nn Nr Vv Cs Nr Cs Nq Pp Vv Vv PU
+NSUBJ NN ROOT PREP POBJ MARK DET NSUBJ CCOMP VMOD PUNCT
+3 1 0 3 4 9 8 9 3 9 3
+
+Phú nói rành_rọt với bố : " Con cũng đi học " !
+Nr Vv Aa Cs Nn PU PU Pp R Vv Vv PU PU
+NSUBJ ROOT ACOMP PREP POBJ PUNCT PUNCT NSUBJ ADJUNCT CCOMP VMOD PUNCT PUNCT
+2 0 2 2 4 10 10 10 10 2 10 10 2
+
+Từ hôm ấy , người_ta cứ bắt_gặp bé Phú tha_thẩn đến gần trường mẫu_giáo rồi nấp ở góc tường nhìn vào lớp học .
+Cs Nt Pd PU Pp R Vv Nn Nr Vv Vv Aa Nn Nn Cp Vv Cs Nn Nn Vv Cs Nn Vv PU
+PREP POBJ DET PUNCT NSUBJ ADJUNCT ROOT NSUBJ NN CCOMP VMOD ACOMP OBJ NN CC CONJ PREP POBJ NN VMOD PREP POBJ VMOD PUNCT
+7 1 2 7 7 7 0 10 8 7 10 11 12 13 11 11 16 17 18 16 20 21 22 7
+
+Họ còn thấy Phú mê_mẩn đứng xem các bạn cùng lứa tập thể_dục giữa sân trường .
+Pp R Vv Nr Vv Vv Vv Nq Pp Aa Nn Vv Nn Cs Nn Nn PU
+NSUBJ ADJUNCT ROOT NSUBJ CCOMP VMOD VMOD DET NSUBJ AMOD OBJ CCOMP OBJ PREP POBJ NN PUNCT
+3 3 0 5 3 5 6 9 12 9 10 7 12 12 14 15 3
+
+Anh Lộc kể : " có lần đi tìm con thì bắt_gặp Phú đang đứng say_sưa đung_đưa đôi vai cụt theo nhạc_điệu và động_tác thể_dục mà các bạn nhỏ đang tập trong sân trường mầm_non " .
+Nn Nr Vv PU PU Ve Nn Vv Vv Nn Cp Vv Nr R Vv Vv Vv Nq Nn Aa Vv Nn Cp Nn Nn Cs Nq Nn Aa R Vv Cs Nn Nn Nn PU PU
+NSUBJ NN ROOT PUNCT PUNCT CCOMP NP_ADVMOD XCOMP VMOD OBJ CC CCOMP NSUBJ ADJUNCT CCOMP VMOD VMOD DET OBJ AMOD VMOD OBJ CC CONJ NN MARK DET NSUBJ AMOD ADJUNCT CCOMP PREP POBJ NN NN PUNCT PUNCT
+3 1 0 6 6 3 12 7 8 9 12 6 15 15 12 15 16 19 17 19 17 21 22 22 24 31 28 31 28 31 24 31 32 33 34 6 3
+
+Rồi một hôm giữa bữa ăn Phú đòi bố_mẹ cho cậu đi học .
+Cp Num Nt Cs Nn Vv Nr Vv Nn Vv Nn Vv Vv PU
+CC NUM NP_ADVMOD PARATAXIS POBJ VMOD NSUBJ ROOT OBJ VMOD OBJ VMOD VMOD PUNCT
+8 3 8 3 4 5 8 0 8 8 10 10 12 8
+
+Chị Bình nói với Phú rằng con không học được vì không có tay .
+Nn Nr Vv Cs Nr Cs Pp R Vv R Cs R Ve Nn PU
+NSUBJ NN ROOT PREP POBJ MARK NSUBJ ADJUNCT CCOMP ADJUNCT MARK ADJUNCT ADVCL OBJ PUNCT
+3 1 0 3 4 9 9 9 3 9 13 13 9 13 3
+
+Phú buồn lắm , cậu không khóc nhưng hỏi lại tại sao con không có tay .
+Nr Aa R PU Pp R Vv Cp Vv R Cp Pp Pp R Ve Nn PU
+NSUBJ ROOT ADJUNCT PUNCT NSUBJ ADJUNCT CONJ CC CONJ ADJUNCT CC DEP NSUBJ ADJUNCT CCOMP OBJ PUNCT
+2 0 2 2 7 7 2 7 7 9 15 15 15 15 9 15 2
+
+Chị Bình không biết giải_thích thế_nào đành hứa liều với con : " Ngày_mai mẹ sẽ mua tay giả để con đi học " .
+Nn Nr R Vv Vv Pp Vv Vv Aa Cs Pp PU PU Nt Nn R Vv Nn Aa Cs Nn Vv Vv PU PU
+NSUBJ NN ADJUNCT ROOT VMOD OBJ CONJ VMOD ACOMP PREP POBJ PUNCT PUNCT NP_ADVMOD NSUBJ ADJUNCT CCOMP OBJ AMOD PREP NSUBJ PCOMP VMOD PUNCT PUNCT
+4 1 4 0 4 5 4 7 8 8 10 17 17 17 17 17 8 17 18 17 22 20 22 17 4
+
+Phú mừng lắm , rồi cậu đòi đóng cho mình một chiếc bảng gỗ .
+Nr Vv R PU Cp Pp Vv Vv Cs Pp Num Nc Nn Nn PU
+NSUBJ ROOT ADJUNCT PUNCT CC NSUBJ CONJ VMOD PREP POBJ NUM NN CLF OBJ PUNCT
+2 0 2 2 2 7 2 7 8 9 14 14 12 8 2
+
+Phú đeo bảng gỗ đi đến trường mẫu_giáo nhìn vào lớp_học nhưng không dám vào rồi lại chạy về nhà .
+Nr Vv Nn Nn Vv Cs Nn Nn Vv Cs Nn Cp R Vv Vv Cp R Vv Cs Nn PU
+NSUBJ ROOT OBJ NN VMOD PREP POBJ NN VMOD PREP POBJ CC ADJUNCT CONJ VMOD CC ADJUNCT CONJ PREP POBJ PUNCT
+2 0 2 3 2 5 6 7 5 9 10 2 14 2 14 14 18 14 18 19 2
+
+Trong bữa ăn Phú cũng đeo bảng trên cổ , có lúc đeo bảng nơi cổ rồi ngủ quên ; tỉnh_giấc Phú chạy vào hỏi mẹ : " Mẹ mua tay giả cho con chưa " ?
+Cs Nn Vv Nr R Vv Nn Cs Nn PU Ve Nt Vv Nn Nn Nn Cp Vv Vv PU Vv Nr Vv D Vv Nn PU PU Pp Vv Nn Aa Cs Pp R PU PU
+PREP POBJ VMOD NSUBJ ADJUNCT ROOT OBJ PREP POBJ PUNCT CONJ NP_ADVMOD XCOMP OBJ OBJ NN CC CONJ VMOD PUNCT XCOMP NSUBJ CCOMP VMOD VMOD OBJ PUNCT PUNCT NSUBJ CCOMP OBJ AMOD PREP POBJ ADJUNCT PUNCT PUNCT
+6 1 2 6 6 0 6 6 8 6 6 23 12 13 13 15 13 13 18 23 23 23 11 23 23 25 30 30 30 25 30 31 30 33 30 30 6
+
+Chị Bình ôm con vào lòng nghẹn_ngào ! ...
+Nn Nr Vv Nn Cs Nn Vv PU PU
+NSUBJ NN ROOT OBJ PREP POBJ VMOD PUNCT PUNCT
+3 1 0 3 3 5 3 3 3
+
+Thương con , anh Lộc dẫn Phú đến trường xin vào lớp học .
+Vv Nn PU Nn Nr Vv Nr Cs Nn Vv Vv Nn Vv PU
+ADVCL OBJ PUNCT NSUBJ NN ROOT OBJ PREP POBJ VMOD VMOD OBJ VMOD PUNCT
+6 1 6 6 4 0 6 6 8 6 10 11 12 6
+
+Phú đòi tập viết bằng chân ; anh Lộc mua phấn kẹp vào kẽ chân tập viết cho Phú .
+Nr Vv Vv Vv Cs Nn PU Nn Nn Vv Nn Vv Cs Nn Nn Vv Vv Cs Nr PU
+NSUBJ ROOT VMOD VMOD PREP POBJ PUNCT NSUBJ NN CONJ OBJ CONJ PREP POBJ NN CONJ VMOD PREP POBJ PUNCT
+2 0 2 3 4 5 2 10 8 2 10 10 12 13 14 12 16 16 18 2
+
+Tập cả tuần mà viên phấn kẹp vào lại rớt ra , có khi đè nát cả phấn mà không ra nét chữ .
+Vv Nw Nu Cp Nc Nn Vv R R Vv R PU Ve Nt Vv Aa Nw Nn Cp R Vv Nn Nn PU
+ROOT DET NP_ADVMOD CC DEP CLF CONJ ADJUNCT ADJUNCT CONJ ADJUNCT PUNCT CONJ OBJ XCOMP ACOMP DET OBJ CC ADJUNCT CONJ OBJ NN PUNCT
+0 3 1 1 7 5 1 7 10 7 10 7 7 13 14 15 18 15 15 21 15 21 22 1
+
+Vợ_chồng anh Lộc , chị Bình đã nản nhưng Phú quyết không chịu bỏ học , cậu cứ bắt bố tập viết .
+Nn Nn Nr PU Nn Nr R Vv Nn Nr Vv R Vv Vv Vv PU Pp R Vv Nn Vv Vv PU
+NSUBJ NN NN PUNCT CONJ NN ADJUNCT ROOT DEP NSUBJ CCOMP ADJUNCT VMOD VMOD VMOD PUNCT NSUBJ ADJUNCT CCOMP OBJ VMOD VMOD PUNCT
+8 1 2 2 2 5 8 0 8 11 8 13 11 13 14 8 19 19 8 19 19 21 8
+
+Một hôm , đi làm_đồng chập_tối mới về , vừa vào đến cổng thì thấy Phú chạy ra khoe : " Bố ơi , con viết thành chữ rồi ! " .
+Num Nt PU Vv Vv Nt R Vv PU R Vv Cs Nn Cp Vv Nr Vv D Vv PU PU Pp E PU Pp Vv Vv Nn R PU PU PU
+NUM NP_ADVMOD PUNCT ROOT VMOD NP_ADVMOD ADJUNCT CONJ PUNCT ADJUNCT CONJ PREP POBJ CC CONJ NSUBJ CCOMP VMOD VMOD PUNCT PUNCT VOCATIVE INTJ PUNCT NSUBJ CCOMP VMOD OBJ ADJUNCT PUNCT PUNCT PUNCT
+2 4 4 0 4 8 8 4 8 11 8 11 12 11 11 17 15 17 17 26 26 26 22 26 26 19 26 27 26 26 26 4
+
+Anh Lộc vào nhà cầm đèn_pin soi xuống sân và như không tin vào mắt mình .
+Nn Nr Vv Nn Vv Nn Vv Cs Nn Cp Cs R Vv Cs Nn Pp PU
+NSUBJ NN ROOT OBJ CONJ OBJ VMOD PREP POBJ CC CONJ ADJUNCT PCOMP PREP POBJ NN PUNCT
+3 1 0 3 3 5 5 7 8 5 5 13 11 13 14 15 3
+
+Cả một khoảnh sân rộng dày kín những chữ_cái , chữ thì nguệch_ngoạc , có chữ thì nét đã suôn_sẻ .
+Nw Num Nn Nn Aa Aa Aa Nq Nn PU Nn Cp Aa PU Ve Nn Cp Nn R Aa PU
+DET NUM NSUBJ NN AMOD ROOT CONJ DET OBJ PUNCT NSUBJ CC CONJ PUNCT CONJ DEP CC NSUBJ ADJUNCT CCOMP PUNCT
+3 3 6 3 3 0 6 9 6 6 13 13 6 13 13 20 20 20 20 15 6
+
+Anh Lộc ôm con vào lòng mà nước_mắt cứ tuôn ra .
+Nn Nr Vv Nn Cs Nn Cp Nn R Vv R PU
+NSUBJ NN ROOT OBJ PREP POBJ CC NSUBJ ADJUNCT CONJ ADJUNCT PUNCT
+3 1 0 3 3 5 3 10 10 3 10 3
+
+Phú say_mê tập viết suốt ngày , phấn ăn loét cả kẽ chân cũng không nản .
+Nr Vv Vv Vv Aa Nt PU Nn Vv Vv Nw Nn Nn R R Vv PU
+NSUBJ ROOT VMOD VMOD ADJP_ADVMOD OBJ PUNCT NSUBJ ADVCL VMOD DET OBJ NN ADJUNCT ADJUNCT CONJ PUNCT
+2 0 2 3 3 5 2 9 16 9 12 10 12 15 16 2 2
+
+Viết phấn đã thành_thạo , Phú đòi cha mua bút_chì .
+Vv Nn R Aa PU Nr Vv Nn Vv Nn PU
+XCOMP OBJ ADJUNCT ACOMP PUNCT NSUBJ ROOT OBJ VMOD OBJ PUNCT
+7 1 4 1 7 7 0 7 7 9 7
+
+Khi viết bút_chì giấy không rách nữa thì Phú tập viết bằng bút_bi .
+Nt Vv Nn Nn R Aa R Cp Nr Vv Vv Cs Nn PU
+NP_ADVMOD XCOMP OBJ NSUBJ ADJUNCT CCOMP ADJUNCT CC NSUBJ ROOT VMOD PREP POBJ PUNCT
+10 6 2 6 6 1 6 10 10 0 10 11 12 10
+
+Sau một tháng theo học lớp 1 , cô_giáo chủ_nhiệm cho biết Phú tiếp_thu rất nhanh , chăm học và rất ngoan .
+Cs Num Nu Vv Vv Nn An PU Nn Nn Vv Vv Nr Vv R Aa PU Aa Vv Cp R Aa PU
+PREP NUM POBJ XCOMP VMOD OBJ AMOD PUNCT NSUBJ NN ROOT VMOD NSUBJ CCOMP ADJUNCT ACOMP PUNCT CONJ VMOD CC ADJUNCT CONJ PUNCT
+11 3 1 3 4 5 6 11 11 9 0 11 14 12 16 14 14 14 18 18 22 18 11
+
+Ngoài chuyện tập viết , Phú còn tập cho đôi bàn_chân của mình làm_việc thay cho đôi tay để tự sinh_hoạt và đỡ_đần bố_mẹ .
+Cs Nn Vv Vv PU Nr R Vv Cs Nq Nn Cs Pp Vv Vv Cs Nq Nn Cs Pp Vv Cp Vv Nn PU
+PREP POBJ RCMOD VMOD PUNCT NSUBJ ADJUNCT ROOT PREP DET NSUBJ PREP POBJ PCOMP VMOD PREP DET POBJ PREP OBJ PCOMP CC CONJ OBJ PUNCT
+8 1 2 3 8 8 8 0 8 11 14 11 12 9 14 15 18 16 14 21 19 21 21 23 8
+
+Thật khó tin từ việc nhặt rau , quét nhà , nấu_bếp , xúc lúa , cào rơm đến cả việc khó như cầm thìa , cầm đũa ăn cơm , uốn lưỡi_câu , câu cá , xâu kim tự vá quần_áo ... dù chậm_chạp nhưng Phú đều làm được .
+R Aa Vv Cs Nn Vv Nn PU Vv Nn PU Vv PU Vv Nn PU Vv Nn Cs Nw Nn Aa Cs Vv Nn PU Vv Nn Vv Nn PU Vv Nn PU Vv Nn PU Vv Nn Pp Vv Nn PU Cp Aa Cp Nr R Vv R PU
+ADJUNCT ROOT VMOD MARK DEP RCMOD OBJ PUNCT CONJ OBJ PUNCT CONJ PUNCT CONJ OBJ PUNCT CONJ OBJ MARK DET NN AMOD PREP PCOMP OBJ PUNCT CONJ OBJ VMOD OBJ PUNCT CONJ OBJ PUNCT CONJ OBJ PUNCT CONJ OBJ OBJ CONJ OBJ PUNCT CC CCOMP CC NSUBJ ADJUNCT CONJ ADJUNCT PUNCT
+2 0 2 5 45 5 6 6 6 9 9 9 12 12 14 14 14 17 5 21 5 21 21 23 24 24 24 27 27 29 27 27 32 32 32 35 35 35 38 41 38 41 5 45 3 45 49 49 45 49 2
+
+Chỉ có việc đại , tiểu_tiện , thay quần_áo , tắm_rửa là phải nhờ đến sự trợ_giúp của em Thọ .
+R Ve Ncs Vv PU Vv PU Vv Nn PU Vv Cp Vv Vv Cs Ncs Vv Cs Nn Nr PU
+ADJUNCT ROOT OBJ RCMOD PUNCT CONJ PUNCT RCMOD OBJ PUNCT RCMOD CC CONJ VMOD PREP POBJ CLF PREP POBJ NN PUNCT
+2 0 2 3 4 4 3 3 8 3 3 2 2 13 14 15 16 16 18 19 2
+
+Thọ ít hơn Phú 2 tuổi nhưng học cùng lớp , và hằng ngày em là trợ_thủ đắc_lực cho anh_trai mình .
+Nr Aa Vcp Nr Num Nn Cp Vv Aa Nn PU Cp R Nu Pp Vc Nn Aa Cs Nn Pp PU
+NSUBJ ROOT VMOD OBJ NUM OBJ CC CONJ ACOMP OBJ PUNCT CC ADJUNCT NP_ADVMOD NSUBJ CONJ ATTR AMOD PREP POBJ NN PUNCT
+2 0 2 3 6 3 2 2 8 9 2 2 14 16 16 2 16 17 17 19 20 2
+
+Trở_lại chuyện học_hành của Phú , anh Lộc lục tìm rồi ôm ra một tập bài kiểm_tra toàn điểm 9 , điểm 10 ; các bức tranh do Phú vẽ và những quyển vở của Phú học hồi cấp I đưa cho tôi xem rồi khoe : " Bây_giờ lên lớp 6 phải viết nhanh nên chữ của cháu không đẹp như trước được nữa , chứ hồi lớp 3 cháu được giải đặc_biệt thi vở sạch chữ đẹp toàn huyện " .
+Vv Nn Vv Cs Nr PU Nn Nr Vv Vv Cp Vv R Num Nn Ncs Vv Nw Nn An PU Nn An PU Nq Nc Nn Cs Nr Vv Cp Nq Nc Nn Cs Nr Vv Nt Nn An Vv Vv Pp Vv Cp Vv PU PU Pd Vv Nn An Vv Vv Aa Cp Nn Cs Pp R Aa Cs Nn M R PU Cp Nt Nn An Pp Vv Nn Aa Vv Nn Aa Nn Aa Nw Nun PU PU
+XCOMP OBJ VMOD PREP POBJ PUNCT NSUBJ NN ROOT VMOD CC CONJ ADJUNCT NUM OBJ NN CLF DET NN AMOD PUNCT CONJ AMOD PUNCT DET CONJ CLF MARK NSUBJ CCOMP CC DET CONJ CLF PREP POBJ RCMOD NP_ADVMOD NN AMOD CONJ VMOD OBJ VMOD CC CONJ PUNCT PUNCT NP_ADVMOD CCOMP OBJ AMOD CONJ VMOD ACOMP CC NSUBJ PREP POBJ ADJUNCT CONJ PREP POBJ INTJ ADJUNCT PUNCT CC NP_ADVMOD NN AMOD NSUBJ CONJ OBJ AMOD RCMOD OBJ AMOD CONJ AMOD DET OBJ PUNCT PUNCT
+9 1 2 2 4 9 9 7 0 9 9 9 12 15 12 19 16 19 15 19 19 19 22 15 26 15 26 30 30 26 26 33 26 33 33 35 33 37 38 39 12 41 42 42 41 41 50 50 50 46 50 51 50 53 54 50 61 57 58 61 50 61 62 61 61 50 50 72 68 69 72 50 72 73 73 75 76 76 78 81 75 50 9
+
+Khả_năng nổi_trội nhất của Phú là môn toán , vẽ và ngoại_ngữ .
+Nn Aa R Cs Nr Vc Nn Nn PU Vv Cp Nn PU
+NSUBJ AMOD ADJUNCT PREP POBJ ROOT ATTR NN PUNCT CONJ CC CONJ PUNCT
+6 1 2 1 4 0 6 7 8 8 10 10 6
+
+Từ lớp 1 đến lớp 5 , năm nào Phú cũng làm lớp trưởng và đội_viên cờ đỏ xuất_sắc của trường .
+Cs Nn An Cs Nn An PU Nt Pd Nr R Vv Nn Sv Cp Nn Nn Aa Aa Cs Nn PU
+PREP POBJ AMOD CONJ POBJ AMOD PUNCT NP_ADVMOD DET NSUBJ ADJUNCT ROOT OBJ SINO CC CONJ NN AMOD AMOD PREP POBJ PUNCT
+12 1 2 1 4 5 12 12 8 12 12 0 12 13 13 13 16 17 16 16 20 12
+
+Tôi cũng được nghe thầy_giáo Đường_Xuân_Tùng , hiệu_trưởng Trường tiểu_học Thọ_Thành , nhận_xét về Phú như sau : " Học_lực của Phú xếp vào loại khá .
+Pp R Vv Vv Nn Nr PU Nn Nn Nn Nr PU Vv Cs Nr Cs Nn PU PU Nn Cs Nr Vv Cs Nn Aa PU
+NSUBJ ADJUNCT ROOT CONJ NSUBJ NN PUNCT PARATAXIS NN NN NN PUNCT CCOMP PREP POBJ PREP POBJ PUNCT PUNCT NSUBJ PREP POBJ CCOMP PREP POBJ AMOD PUNCT
+3 3 0 3 13 5 5 5 8 9 10 5 3 13 14 13 16 23 23 23 20 21 17 23 24 25 3
+
+Phú rất ngoan , sinh_hoạt , học_tập rất nghiêm_túc .
+Nr R Aa PU Vv PU Vv R Aa PU
+NSUBJ ADJUNCT ROOT PUNCT CONJ PUNCT CONJ ADJUNCT ACOMP PUNCT
+3 3 0 3 3 5 5 9 5 3
+
+Tôi thường mượn bài kiểm_tra của Phú về để làm_gương cho con mình " .
+Pp R Vv Ncs Vv Cs Nr Vv Cs Vv Cs Nn Pp PU PU
+NSUBJ ADJUNCT ROOT OBJ CLF PREP POBJ VMOD PREP PCOMP PREP POBJ NN PUNCT PUNCT
+3 3 0 3 4 4 6 3 3 9 10 11 12 3 3
+
+Chúng_tôi đang nói dở câu_chuyện thì hai anh_em Phú và Thọ đi học về .
+Pp R Vv Aa Nn Cp Num Nn Nr Cp Nr Vv Vv Vv PU
+NSUBJ ADJUNCT ROOT ACOMP OBJ CC NUM NSUBJ NN CC CONJ VMOD VMOD CONJ PUNCT
+3 3 0 3 3 3 8 14 8 9 9 14 12 3 3
+
+Tôi làm_quen với Phú , em rất ít nói .
+Pp Vv Cs Nr PU Pp R Aa Vv PU
+NSUBJ ROOT PREP POBJ PUNCT NSUBJ ADJUNCT CONJ VMOD PUNCT
+2 0 2 3 2 8 8 2 8 2
+
+Phú thổ_lộ rằng em rất thích tin_học và ước_ao có một chiếc máy_tính .
+Nr Vv Cs Pp R Vv Nn Cp Vv Ve Num Nc Nn PU
+NSUBJ ROOT MARK NSUBJ ADJUNCT CCOMP OBJ CC CONJ VMOD NUM OBJ CLF PUNCT
+2 0 6 6 6 2 6 6 6 9 12 10 12 2
+
+Sực nhớ tới lớp_học miễn_phí của cơ_sở tin_học - ngoại_ngữ nhân_đạo thuộc Trung_tâm đào_tạo nâng cao ở Nghi_Diên - Nghi_Lộc , tôi hứa sẽ giúp liên_hệ với chuyên gia máy_tính - giám_đốc cơ_sở Công_Hùng , để Phú được nhận vào học , Phú mừng lắm .
+R Vv Cs Nn Vv Cs Nn Nn PU Nn Aa Vv Nn Vv Vv Aa Cs Nr PU Nr PU Pp Vv R Vv Vv Cs Aa Sv Nn PU Nn Nn Nr PU Cs Nr R Vv Vv Vv PU Nr Vv R PU
+ADJUNCT XCOMP PREP POBJ VMOD PREP POBJ NN PUNCT CONJ AMOD RCMOD OBJ RCMOD VMOD ACOMP PREP POBJ PUNCT PARATAXIS PUNCT NSUBJ ROOT ADJUNCT VMOD VMOD PREP NN SINO NN PUNCT POBJ NN NN PUNCT PREP NSUBJ ADJUNCT PCOMP VMOD VMOD PUNCT NSUBJ CONJ ADJUNCT PUNCT
+2 23 2 3 4 4 6 7 8 8 7 7 12 13 14 15 13 17 18 18 23 23 0 25 23 25 26 32 28 32 32 27 32 32 25 25 39 39 36 39 40 23 44 23 44 23
+
+Phú nói_nhỏ với Thọ gì đó , và Thọ vội chạy vào mở cặp lấy bút , trải vở lên bàn cho anh .
+Nr Vv Cs Nr Pp Pd PU Cp Nr Aa Vv D Vv Nn Vv Nn PU Vv Nn Cs Nn Cs Pp PU
+NSUBJ ROOT PREP POBJ OBJ DET PUNCT CC NSUBJ ACOMP CONJ VMOD VMOD OBJ VMOD OBJ PUNCT VMOD OBJ PREP POBJ PREP POBJ PUNCT
+2 0 2 3 2 5 2 2 11 11 2 11 11 13 13 15 11 11 18 18 20 18 22 2
+
+Bàn viết của Phú là một cái ghế salon nan gỗ lắp thêm một bảng nhỏ làm chỗ kê vở .
+Nn Vv Cs Nr Vc Num Nc Nn FW Nn Nn Vv Vv Num Nn Aa Vv Nn Vv Nn PU
+NSUBJ VMOD PREP POBJ ROOT NUM ATTR NN DEP NN NN RCMOD VMOD NUM OBJ AMOD RCMOD OBJ RCMOD OBJ PUNCT
+5 1 1 3 0 7 5 7 8 7 10 7 12 15 12 15 15 17 18 19 5
+
+Phú dùng bốn ngón của hai bàn_chân mở nắp bút và kẹp vào kẽ chân phải rồi mải_mê viết .
+Nr Vv Num Nn Cs Num Nn Vv Nn Nn Cp Vv Cs Nn Nn Aa Cp Vv Vv PU
+NSUBJ ROOT NUM OBJ PREP NUM POBJ VMOD OBJ NN CC CONJ PREP POBJ NN AMOD CC CONJ VMOD PUNCT
+2 0 4 2 4 7 5 2 8 9 8 8 12 13 14 15 2 2 18 2
+
+Được một lúc Phú đột_nhiên dừng bút , cây_viết run_run trong " tay " em , mắt Phú lóng_lánh như có ngấn lệ !
+R Num Nu Nr R Vv Nn PU Nn Vv Cs PU Nn PU Pp PU Nn Nr VA Cs Ve Nn Nn PU
+ADJUNCT NUM NP_ADVMOD NSUBJ ADJUNCT ROOT OBJ PUNCT NSUBJ CONJ PREP PUNCT POBJ PUNCT NN PUNCT NSUBJ NN CONJ PREP PCOMP OBJ NN PUNCT
+3 3 6 6 6 0 6 6 10 6 10 13 11 13 13 10 19 17 10 19 20 21 22 6
+
+Tôi ngó vào trang vở : những con chữ tròn_trịa nhảy_múa trước mặt tôi , mắt tôi cay_cay khi đọc dòng chữ : " Hôm_nay cháu rất vui vì được bác đến thăm và giới_thiệu cho cháu một địa_chỉ học máy_tính và ngoại_ngữ .
+Pp Vv Cs Nn Nn PU Nq Nc Nn Aa Vv Cs Nn Pp PU Nn Pp Aa Nt Vv Nn Nn PU PU Nt Pp R VA Cs Vv Nn Vv Vv Cp Vv Cs Nn Num Nn Vv Nn Cp Nn PU
+NSUBJ ROOT PREP POBJ NN PUNCT DET NSUBJ CLF AMOD CONJ PREP POBJ NN PUNCT NSUBJ NN CONJ NP_ADVMOD XCOMP OBJ NN PUNCT PUNCT NP_ADVMOD NSUBJ ADJUNCT CCOMP MARK ADVCL NSUBJ CCOMP VMOD CC CONJ PREP POBJ NUM OBJ RCMOD OBJ CC CONJ PUNCT
+2 0 2 3 4 2 8 11 8 8 2 11 12 13 11 18 16 11 18 19 20 21 28 28 28 28 28 21 30 28 32 30 32 32 32 35 36 39 35 39 40 41 41 2
+
+Cháu vô_cùng xúc_động và cảm_ơn bác .
+Pp R Vv Cp Vv Pp PU
+NSUBJ ADJUNCT ROOT CC CONJ OBJ PUNCT
+3 3 0 3 3 5 3
+
+Cháu chúc bác mạnh_khoẻ và thu được nhiều thắng_lợi trong công_việc và cuộc_sống .
+Pp Vv Pp Aa Cp Vv M Aa Nn Cs Nn Cp Nn PU
+NSUBJ ROOT OBJ ACOMP CC CONJ INTJ AMOD OBJ PREP POBJ CC CONJ PUNCT
+2 0 2 2 4 4 6 9 6 9 10 11 11 2
+
+Cháu hẹn gặp lại bác vào một ngày gần đây !
+Pp Vv Vv R Pp Cs Num Nt Aa Pd PU
+NSUBJ ROOT VMOD ADJUNCT OBJ PREP NUM POBJ AMOD OBJ PUNCT
+2 0 2 3 3 3 8 6 8 9 2
+
+Trước khi kết_thúc những dòng cuối của bài viết này , tôi đã nhận được điện_thoại từ cơ_sở tin_học - ngoại_ngữ nhân_đạo Công_Hùng .
+Cs Nt Vv Nq Nn Aa Cs Ncs Vv Pd PU Pp R Vv M Nn Cs Nn Nn PU Nn Aa Nr PU
+PREP POBJ XCOMP DET OBJ AMOD PREP POBJ CLF DET PUNCT NSUBJ ADJUNCT ROOT INTJ OBJ PREP POBJ NN PUNCT CONJ AMOD NN PUNCT
+14 1 2 5 3 5 5 7 8 8 14 14 14 0 14 14 16 17 18 19 19 18 18 14
+
+Giám_đốc , chuyên gia máy_tính Nguyễn_Công_Hùng cũng bị tật_nguyền , anh nói rất xúc_động khi nghe câu_chuyện về Phú và hứa sẽ nhận Phú theo học lớp đào_tạo tin_học gần đây nhất .
+Nn PU Aa Sv Nn Nr R Vv Aa PU Pp Vv R Vv Nt Vv Nn Cs Nr Cp Vv R Vv Nr Vv Vv Nn Vv Nn Aa Pd R PU
+NSUBJ PUNCT CONJ SINO NN NN ADJUNCT ROOT ACOMP PUNCT NSUBJ CONJ ADJUNCT VMOD NP_ADVMOD XCOMP OBJ PREP POBJ CC CONJ ADJUNCT VMOD OBJ VMOD VMOD OBJ RCMOD OBJ AMOD OBJ ADJUNCT PUNCT
+8 1 1 3 3 1 8 0 8 8 12 8 14 12 14 15 16 17 18 12 12 23 21 23 23 25 26 27 28 27 30 30 8
+
+Tôi biết chắc là Phú và cha_mẹ của em rất vui khi biết tin này .
+Pp Vv Aa Cs Nr Cp Nn Cs Pp R VA Nt Vv Nn Pd PU
+NSUBJ ROOT ACOMP MARK NSUBJ CC CONJ PREP POBJ ADJUNCT CCOMP NP_ADVMOD XCOMP OBJ DET PUNCT
+2 0 2 11 11 5 5 7 8 11 2 11 12 13 14 2
+

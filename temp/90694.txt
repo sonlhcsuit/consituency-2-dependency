@@ -1,0 +1,515 @@
+Chị đã chết như chị đã sống .
+Pp R Vv Cs Pp R Vv PU
+NSUBJ ADJUNCT ROOT PREP NSUBJ ADJUNCT PCOMP PUNCT
+3 3 0 3 7 7 4 3
+
+Nhật_ký chấm_dứt ở ngày 20_-_6_-_1970 .
+Nn Vv Cs Nt Nt PU
+NSUBJ ROOT PREP POBJ NN PUNCT
+2 0 2 3 4 2
+
+Hai ngày sau , ngày 22_-_6_-_1970 , chị tôi hi_sinh .
+Num Nu Nn PU Nt Nt PU Nn Pp Vv PU
+NUM NP_ADVMOD NN PUNCT PARATAXIS NN PUNCT NSUBJ NN ROOT PUNCT
+2 10 2 2 2 5 2 10 8 0 10
+
+Mãi mấy tháng sau gia_đình tôi mới biết tin dữ .
+R Nq Nu Nn Nn Pp R Vv Nn Aa PU
+ADJUNCT DET NP_ADVMOD NN NSUBJ NN ADJUNCT ROOT OBJ AMOD PUNCT
+3 3 8 3 8 5 8 0 8 9 8
+
+Hôm đó là một ngày đầu đông , có mấy người khách đến Gặp gia_đình .
+Nt Pd Vc Num Nt Cs Nt PU Ve Nq Nc Nn Vv Vv Nn PU
+NSUBJ DET ADVCL NUM ATTR PREP POBJ PUNCT ROOT DET NSUBJ CLF CCOMP VMOD OBJ PUNCT
+3 1 9 5 3 5 6 9 0 11 13 11 9 13 14 9
+
+Nỗi đau người mẹ .
+Ncs Aa Nc Nn PU
+NN CLF ROOT CLF PUNCT
+3 1 0 3 3
+
+Mẹ tôi ngã_vật xuống giường , lặng đi không nói được câu nào .
+Nn Pp Vv Cs Nn PU Vv R R Vv R Nn Pd PU
+NSUBJ NN ROOT PREP POBJ PUNCT CONJ ADJUNCT ADJUNCT VMOD ADJUNCT OBJ DET PUNCT
+3 1 0 3 4 3 3 7 10 7 10 10 12 3
+
+Nhưng mẹ tôi không khóc .
+Cp Nn Pp R Vv PU
+CC NSUBJ NN ADJUNCT ROOT PUNCT
+5 5 2 5 0 5
+
+Mẹ tôi là một người phụ_nữ ít nói , đầy nghị_lực và đầy lý_trí .
+Nn Pp Vc Num Nc Nn Aa Vv PU Aa Nn Cp Aa Nn PU
+NSUBJ NN ROOT NUM ATTR CLF AMOD VMOD PUNCT CONJ OBJ CC CONJ OBJ PUNCT
+3 1 0 5 3 5 5 7 7 7 10 10 10 13 3
+
+Có_lẽ nỗi đau đã kết lại trong tim thành một khối rắn_chắc , kể từ đó mẹ tôi càng ít nói và hầu_như tôi không thấy mẹ tôi cười .
+R Ncs Aa R Vv R Cs Nn Vv Num Nn Aa PU Vv Cs Pd Nn Pp R Aa Vv Cp R Pp R Vv Nn Pp Vv PU
+ADJUNCT NSUBJ CLF ADJUNCT ROOT ADJUNCT PREP POBJ VMOD NUM OBJ AMOD PUNCT VMOD PREP POBJ NSUBJ NN ADJUNCT CONJ VMOD CC ADJUNCT NSUBJ ADJUNCT CONJ NSUBJ NN CCOMP PUNCT
+5 5 2 5 0 5 5 7 5 11 9 11 5 20 14 15 20 17 20 5 20 20 26 26 26 20 29 27 26 5
+
+Giấy báo_tử không nói rõ hoàn_cảnh chị tôi hi_sinh .
+Nn Vv R Vv Aa Nn Nn Pp Vv PU
+NSUBJ VMOD ADJUNCT ROOT ACOMP OBJ NSUBJ NN CCOMP PUNCT
+4 1 4 0 4 4 9 7 6 4
+
+Đồng đội cũng mỗi người nói một khác .
+Sv Nn R Nq Nn Vv Num Aa PU
+SINO OBJ ADJUNCT DET NSUBJ ROOT OBJ AMOD PUNCT
+2 6 6 5 6 0 6 7 6
+
+Người thì kể trên đường về đồng_bằng xin tiếp_tế cho bệnh_xá , chị tôi gặp ổ phục_kích của Mỹ , chị báo_động cho đồng đội chạy thoát và ở lại yểm_trợ rồi hi_sinh .
+Nn Cp Vv Cs Nn Vv Nn Vv Vv Cs Nn PU Nn Pp Vv Nn Vv Cs Nr PU Pp Vv Cs Sv Nn Vv Vv Cp Vv R Vv Cp Vv PU
+NSUBJ CC ROOT PREP POBJ RCMOD NP_ADVMOD VMOD VMOD PREP POBJ PUNCT NSUBJ NN CCOMP OBJ VMOD PREP POBJ PUNCT NSUBJ CONJ PREP SINO NSUBJ PCOMP VMOD CC CONJ ADJUNCT VMOD CC CONJ PUNCT
+3 3 0 15 4 5 6 6 8 8 10 15 15 13 3 15 16 16 18 15 22 15 22 25 26 23 26 22 22 29 29 29 29 3
+
+Người khác kể bệnh_xá bị địch tập_kích , chị hi_sinh để bảo_vệ thương_binh .
+Nn Aa Vv Nn Vv Nn Vv PU Pp Vv Cs Vv Nn PU
+NSUBJ AMOD ROOT NSUBJ CCOMP NSUBJ CCOMP PUNCT NSUBJ CONJ PREP PCOMP OBJ PUNCT
+3 1 0 5 3 7 5 5 10 5 10 11 12 3
+
+Có người lại kể toán công_tác của chị có bốn người , hi_sinh ba , chỉ còn một người thoát , đó là chị y_tá Nguyễn_Thị_Rô .
+Ve Nn R Vv Nn Vv Cs Pp Ve Num Nn PU Vv Num PU R Ve Num Nn Vv PU Pd Vc Nc Nn Nr PU
+ROOT NSUBJ ADJUNCT CCOMP NSUBJ VMOD PREP POBJ CCOMP NUM OBJ PUNCT CONJ DEP PUNCT ADJUNCT CONJ NUM OBJ VMOD PUNCT NSUBJ PARATAXIS ATTR CLF NN PUNCT
+0 4 4 1 9 5 5 7 4 11 9 9 9 13 13 17 13 19 17 19 19 23 19 23 24 24 1
+
+Cuộc chiến_tranh quá khốc_liệt , sự hi_sinh diễn_ra từng ngày , từng giờ , chị tôi hoà_lẫn trong muôn ngàn người đã lặng_lẽ hi_sinh vì Tổ_quốc , người_ta có_thể lẫn_lộn trường_hợp này với trường_hợp khác .
+Nc Nn R Aa PU Ncs Vv Vv Pp Nt PU Pp Nt PU Nn Pp Vv Cs Nq Nq Nn R Aa Vv Cs Nn PU Pp Aa Vv Nn Pd Cs Nn Aa PU
+NSUBJ CLF ADJUNCT ROOT PUNCT NSUBJ CLF CONJ DET NP_ADVMOD PUNCT DET CONJ PUNCT NSUBJ NN CONJ PREP NUM CONJ POBJ ADJUNCT ACOMP RCMOD PREP POBJ PUNCT NSUBJ ACOMP CONJ OBJ DET PREP POBJ AMOD PUNCT
+4 1 4 0 4 8 6 4 10 8 10 13 10 8 17 15 8 17 21 19 18 24 24 21 24 25 17 30 30 17 30 31 30 33 34 4
+
+Có một điều chắc_chắn là chị tôi hi_sinh trong tư_thế đương_đầu với giặc .
+Ve Num Nn Aa Cs Nn Pp Vv Cs Nn Vv Cs Nn PU
+ROOT NUM OBJ AMOD MARK NSUBJ NN CCOMP PREP POBJ RCMOD PREP POBJ PUNCT
+0 3 1 3 8 8 6 4 8 9 10 11 12 1
+
+Một vết đạn sâu_hoắm , ghim ngay giữa trán chị - điều này khi mẹ và tôi lên vùng núi Ba_Tơ để đưa chị về , tôi đã nhìn_thấy .
+Num Nn Nn Aa PU Vv M Cs Nn Pp PU Nn Pd Nt Nn Cp Pp Vv Nn Nn Nr Cs Vv Pp Vv PU Pp R Vv PU
+NUM NSUBJ NN ROOT PUNCT CONJ INTJ PREP POBJ NN PUNCT DEP DET NP_ADVMOD NSUBJ CC DET CCOMP NP_ADVMOD NN NN PREP PCOMP OBJ VMOD PUNCT NSUBJ ADJUNCT CONJ PUNCT
+2 4 2 0 4 4 6 6 8 9 4 29 12 29 18 15 15 14 18 19 20 18 22 23 23 29 29 29 4 4
+
+Anh Tâm , bí_thư Huyện_uỷ Đức_Phổ hiện_nay , cho biết anh được nghe kể lại trước khi hi_sinh chị còn hô vang : " Hồ_Chí_Minh muôn năm .
+Nn Nr PU Nn Nr Nr Nt PU Vv Vv Pp Vv Vv Vv R Cs Nt Vv Pp R Vv Aa PU PU Nr Nq Nu PU
+NSUBJ NN PUNCT PARATAXIS NN NN NP_ADVMOD PUNCT ROOT VMOD NSUBJ CCOMP VMOD VMOD ADJUNCT PREP POBJ XCOMP NSUBJ ADJUNCT CCOMP ACOMP PUNCT PUNCT NSUBJ DET CCOMP PUNCT
+9 1 1 1 4 5 4 1 0 9 12 10 12 13 14 21 16 17 21 21 14 21 27 27 27 27 21 9
+
+Đả_đảo đế_quốc Mỹ " .
+Vv Nn Nr PU PU
+ROOT OBJ NN PUNCT PUNCT
+0 1 2 1 1
+
+Tôi cũng không rõ đó có phải là sự_thật , hay chỉ là một huyền_thoại mà người dân Đức_Phổ yêu_thương chị kể lại cho thế_hệ sau nghe về một nữ bác_sĩ người Hà_Nội trẻ_trung , xinh_đẹp đã chiến_đấu và nằm lại trên quê_hương họ - trên mảnh đất Đức_Phổ mà chị đã coi là quê_hương thứ hai của mình .
+Pp R R Vv Pd R Aa Vc Nn PU Cp R Vc Num Nn Cs Nc Nn Nr Vv Pp Vv R Cs Nn Nn Vv Cs Num Sv Nn Nn Nr Aa PU Aa R Vv Cp Vv R Cs Nn Pp PU Cs Nn Nn Nr Cs Pp R Vv Cs Nn Nn An Cs Pp PU
+NSUBJ ADJUNCT ADJUNCT ROOT NSUBJ ADJUNCT ACOMP CCOMP ATTR PUNCT CC ADJUNCT CONJ NUM ATTR MARK NSUBJ CLF NN RCMOD OBJ CCOMP ADJUNCT PREP NSUBJ NN PCOMP PREP NUM SINO NN NSUBJ NN AMOD PUNCT CONJ ADJUNCT PCOMP CC CONJ ADJUNCT PREP POBJ NN PCOMP PARATAXIS POBJ NN NN MARK NSUBJ ADJUNCT CCOMP PREP POBJ NN AMOD PREP POBJ PUNCT
+4 3 4 0 8 7 8 4 8 8 8 13 8 15 13 22 22 17 17 17 20 15 22 22 27 25 24 27 32 31 32 38 32 32 34 34 38 28 38 38 40 40 42 43 42 42 46 47 47 53 53 53 47 53 54 55 56 55 58 4
+
+Câu_chuyện của người cựu chiến_binh Mỹ .
+Nn Cs Nc Sv Nn Nr PU
+ROOT PREP POBJ SINO CLF NN PUNCT
+0 1 2 5 3 3 1
+
+Sau bao đêm Fred thức cùng Nguyễn_Trung_Hiếu để đọc cuốn nhật_ký thứ nhất , cuốn nhật_ký cùng người viết nên nó đã trở_thành điều bí_mật riêng của hai người lính .
+Cs Nq Nu Nr Vv Aa Nr Cs Vv Nc Nn Nn An PU Nc Nn Cp Nn Vv Vv Pp R Vv Ncs Aa Aa Cs Num Nc Nn PU
+PREP DET POBJ NSUBJ CCOMP ACOMP OBJ PREP PCOMP NN CLF OBJ AMOD PUNCT NSUBJ CLF CC CONJ RCMOD VMOD OBJ ADJUNCT ROOT OBJ CLF AMOD PREP NUM POBJ CLF PUNCT
+23 3 1 5 3 5 6 5 8 12 10 9 12 23 23 15 15 15 18 19 20 23 0 23 24 24 24 29 27 29 23
+
+Tháng mười năm ấy , Fred lại có được một thông_tin về tác_giả cuốn nhật_ký .
+Nt Num Nt Pd PU Nr R Ve M Num Nn Cs Nn Nc Nn PU
+NP_ADVMOD NUM NN DET PUNCT NSUBJ ADJUNCT ROOT INTJ NUM OBJ PREP POBJ NN CLF PUNCT
+8 1 1 3 8 8 8 0 8 11 8 11 12 13 14 8
+
+Một đêm , trong khi chờ trận đánh mở_màn , Fred ngồi cạnh một người lính Mỹ .
+Num Nt PU Cs Nt Vv Nn Vv Vv PU Nr Vv Nn Num Nc Nn Nr PU
+NUM NP_ADVMOD PUNCT PREP POBJ XCOMP OBJ VMOD VMOD PUNCT NSUBJ ROOT NP_ADVMOD NUM NN CLF NN PUNCT
+2 12 12 12 4 5 6 7 7 12 12 0 12 15 13 15 15 12
+
+Hai người kể lại cho nhau nghe những trận đánh mà họ đã trải qua .
+Num Nn Vv R Cs Nn Vv Nq Nn Vv Cs Pp R Vv Cs PU
+NUM NSUBJ ROOT ADJUNCT PREP POBJ VMOD DET OBJ VMOD MARK NSUBJ ADJUNCT CCOMP PREP PUNCT
+2 3 0 3 3 5 3 9 7 9 14 14 14 9 14 3
+
+Người lính nọ kể cho Fred nghe một trận đánh lạ_lùng mà anh ta đã tham_dự .
+Nc Nn Pd Vv Cs Nr Vv Num Nn Vv Aa Cs Pp Pp R Vv PU
+NSUBJ CLF DET ROOT PREP POBJ VMOD NUM OBJ VMOD AMOD MARK NSUBJ DET ADJUNCT CCOMP PUNCT
+4 1 1 0 4 5 4 9 7 9 9 16 16 13 16 9 4
+
+Đó là một trận đánh không cân sức giữa 120 lính Mỹ với một người phụ_nữ .
+Pd Vc Num Nn Vv R Aa Nn Cs Num Nn Nr Cs Num Nc Nn PU
+NSUBJ ROOT NUM ATTR VMOD ADJUNCT AMOD OBJ PREP NUM POBJ NN CONJ NUM POBJ CLF PUNCT
+2 0 4 2 4 7 4 7 4 11 9 11 9 15 13 15 2
+
+Anh ta tả lại người con gái nhỏ_nhắn với chiếc túi vải bạt trên người , trong đựng vài quyển sổ nhỏ có vẽ những sơ_đồ vết_thương và phác_đồ điều_trị .
+Pp Pp Vv R Nc Nn Nn Aa Cs Nc Nn Nn Nn Cs Nn PU Cs Vv Nq Nc Nn Aa Ve Vv Nq Nn Nn Cp Nn Vv PU
+NSUBJ DET ROOT ADJUNCT OBJ CLF CLF AMOD PREP NN CLF POBJ NN PREP POBJ PUNCT PREP PARATAXIS DET OBJ CLF AMOD RCMOD VMOD DET OBJ NN CC CONJ VMOD PUNCT
+3 1 0 3 3 5 5 5 5 12 10 9 12 12 14 12 18 12 20 18 20 20 20 23 26 24 26 26 26 29 3
+
+Fred sững_sờ hiểu rằng anh đang được nghe kể về những giây_phút cuối_cùng của tác_giả cuốn nhật_ký đã ám_ảnh anh mấy tháng nay , liệu đó có phải là sự_thật ?
+Nr Aa Vv Cs Pp R Vv Vv Vv Cs Nq Nu Aa Cs Nn Nc Nn R Vv Pp Nq Nu Nt PU Vv Pd R Aa Vc Nn PU
+NSUBJ ACOMP ROOT MARK NSUBJ ADJUNCT CCOMP VMOD VMOD PREP DET POBJ AMOD PREP POBJ NN CLF ADJUNCT RCMOD OBJ DET NP_ADVMOD NN PUNCT CCOMP NSUBJ ADJUNCT ACOMP CCOMP ATTR PUNCT
+3 3 0 7 7 7 3 7 8 9 12 10 12 12 14 15 16 19 16 19 22 19 22 3 3 29 28 29 25 29 3
+
+Suốt bao_nhiêu năm Fred băn_khoăn với ý_nghĩ ấy .
+Aa Pp Nu Nr Aa Cs Nn Pd PU
+ADJP_ADVMOD DET OBJ NSUBJ ROOT PREP POBJ DET PUNCT
+5 3 1 5 0 5 6 7 5
+
+Sau khi liên_lạc được với gia_đình tôi , Fred viết cho mẹ tôi bức thư sau : 20 g 27 , chủ_nhật 1_-_5_-_2005 Thưa bà Trâm .
+Cs Nt Vv R Cs Nn Pp PU Nr Vv Cs Nn Pp Nc Nn Nn PU Num Nu Num PU Nt Nt E Nn Nr PU
+PREP POBJ XCOMP ADJUNCT PREP POBJ NN PUNCT NSUBJ ROOT PREP POBJ NN OBJ CLF NN PUNCT NUM CCOMP NN PUNCT PARATAXIS PARATAXIS INTJ VOCATIVE NN PUNCT
+10 1 2 3 3 5 6 10 10 0 10 11 12 10 14 14 19 19 14 19 19 19 22 25 19 25 10
+
+Tôi mong rằng thư này sẽ không đem đến cho bà nỗi buồn mà chỉ là niềm tự_hào của một người mẹ đã sinh ra một người con gái rất đặc_biệt .
+Pp Vv Cs Nn Pd R R Vv Cs Cs Pp Ncs Aa Cp R Vc Ncs Aa Cs Num Nc Nn R Vv R Num Nc Nn Nn R Aa PU
+NSUBJ ROOT MARK NSUBJ DET ADJUNCT ADJUNCT CCOMP MARK PREP POBJ OBJ CLF CC ADJUNCT CONJ ATTR CLF PREP NUM POBJ CLF ADJUNCT RCMOD ADJUNCT NUM OBJ CLF CLF ADJUNCT AMOD PUNCT
+2 0 8 8 4 7 8 2 8 8 10 8 12 8 16 8 16 17 17 21 19 21 24 21 24 27 24 27 27 31 27 2
+
+Tôi cần phải nói lại với bà điều mà bao năm qua tôi vẫn tin : đó là trường_hợp hi_sinh của con gái bà .
+Pp Vv Vv Vv R Cs Pp Nn Cs Nq Nu Aa Pp R Vv PU Pd Vc Nn Vv Cs Nn Nn Pp PU
+NSUBJ ROOT VMOD VMOD ADJUNCT PREP POBJ OBJ MARK DET NP_ADVMOD AMOD NSUBJ ADJUNCT CCOMP PUNCT NSUBJ CCOMP ATTR VMOD PREP POBJ NN NN PUNCT
+2 0 2 3 4 4 6 4 15 11 15 11 15 15 8 18 18 15 18 19 19 21 22 22 2
+
+Tôi đang ngồi chờ một trận đánh cùng một đơn_vị lính Mỹ .
+Pp R Vv Vv Num Nn Vv Aa Num Nn Nn Nr PU
+NSUBJ ADJUNCT ROOT VMOD NUM OBJ VMOD ACOMP NUM OBJ NN NN PUNCT
+3 3 0 3 6 4 6 4 10 8 10 11 3
+
+Ngồi bên cạnh tôi là một người lính và chúng_tôi nói với nhau về những trận đánh đã từng tham_dự .
+Vv Nn Nn Pp Vc Num Nc Nn Cp Pp Vv Cs Nn Cs Nq Nn Vv R R Vv PU
+VSUBJ NP_ADVMOD NN NN ROOT NUM ATTR CLF CC NSUBJ CONJ PREP POBJ PREP DET POBJ VMOD ADJUNCT ADJUNCT XCOMP PUNCT
+5 1 2 2 0 7 5 7 5 11 5 11 12 11 16 14 16 19 20 16 5
+
+Người lính đó kể cho tôi nghe về một trận chiến_đấu lạ_lùng giữa đơn_vị của anh ta gồm 120 người đàn_ông với một người phụ_nữ .
+Nc Nn Pd Vv Cs Pp Vv Cs Num Nn Vv Aa Cs Nn Cs Pp Pp Vv Num Nc Nn Cp Num Nc Nn PU
+NSUBJ CLF DET ROOT PREP POBJ RCMOD PREP NUM POBJ VMOD AMOD PREP POBJ PREP POBJ DET RCMOD NUM OBJ CLF CC NUM CONJ CLF PUNCT
+4 1 1 0 4 5 6 7 10 8 10 10 10 13 14 15 16 14 20 18 20 14 24 14 24 4
+
+Đơn_vị của anh ta gặp nhiều lều trại trong rừng sâu trên vùng núi phía tây huyện Đức_Phổ .
+Nn Cs Pp Pp Vv Aa Nn Nn Cs Nn Aa Cs Nn Nn Nn Nn Nun Nr PU
+NSUBJ PREP POBJ DET ROOT AMOD OBJ NN PREP POBJ AMOD PREP POBJ NN NN NN NN NN PUNCT
+5 1 2 3 0 7 5 7 5 9 10 10 12 13 13 15 15 17 5
+
+Ngay_lập_tức có một người nổ súng vào họ .
+R Ve Num Nn Vv Nn Cs Pp PU
+ADJUNCT ROOT NUM NSUBJ CCOMP OBJ PREP POBJ PUNCT
+2 0 4 5 2 5 5 7 2
+
+Người lính thấy rõ nhiều người đang chạy trong rừng để trốn_thoát và muốn bắt họ , Vì thế họ kêu_gọi người đang bắn hãy đầu_hàng , nhưng đáp lại lời kêu_gọi đầu_hàng là thêm rất nhiều viên đạn bắn vào họ .
+Nc Nn Vv Aa Aa Nn R Vv Cs Nn Cs Vv Cp Vv Vv Pp PU Cp Pp Pp Vv Nn R Vv R Vv PU Cp Vv R Nn Vv Vv Vc Vv R Aa Nc Nn Vv Cs Pp PU
+NSUBJ CLF ROOT ACOMP AMOD NSUBJ ADJUNCT CCOMP PREP POBJ PREP PCOMP CC CONJ VMOD OBJ PUNCT CC CONJ NSUBJ CONJ OBJ ADJUNCT RCMOD ADJUNCT VMOD PUNCT CC VSUBJ ADJUNCT OBJ RCMOD VMOD CONJ VMOD ADJUNCT AMOD OBJ CLF RCMOD PREP POBJ PUNCT
+3 1 0 3 6 8 8 3 8 9 8 11 3 3 14 15 3 3 3 21 19 21 24 22 26 21 19 19 34 29 29 31 32 19 34 37 38 35 38 38 40 41 3
+
+Đây là một người rất anh_hùng bởi_vì lính Mỹ được trang_bị rất nhiều vũ_khí vậy_mà phải khá lâu mới có_thể chặn lại một tay súng duy_nhất .
+Pd Vc Num Nn R Aa Nn Nn Nr Vv Vv R Aa Nn Cp Aa R Aa R Aa Vv R Num Nc Nn Aa PU
+NSUBJ ROOT NUM ATTR ADJUNCT AMOD DEP NSUBJ NN ADVCL CONJ ADJUNCT AMOD OBJ CC ADJP_ADVMOD ADJUNCT ADJP_ADVMOD ADJUNCT ACOMP CONJ ADJUNCT NUM OBJ CLF AMOD PUNCT
+2 0 4 2 6 4 10 10 8 6 10 13 14 10 10 21 18 16 21 21 10 21 24 21 24 24 2
+
+Khi thấy bị bắn tiếp , lính Mỹ bèn bắn trả và tay súng kia trúng đạn .
+Nt Vv Vv Vv Vv PU Nn Nr R Vv Vv Cp Nc Nn Pd Vv Nn PU
+NP_ADVMOD XCOMP VMOD VMOD VMOD PUNCT NSUBJ NN ADJUNCT ROOT VMOD CC NSUBJ CLF DET CONJ OBJ PUNCT
+10 1 2 3 4 10 10 7 10 0 10 10 16 13 13 10 16 10
+
+Nhưng toán lính Mỹ không bắt được ai khác nữa .
+Cp Nn Nn Nr R Vv R Pp Aa M PU
+CC NSUBJ NN NN ADJUNCT ROOT ADJUNCT OBJ AMOD INTJ PUNCT
+6 6 2 3 6 0 6 6 8 8 6
+
+Khi đến được nơi người kia nằm toán lính Mỹ nhận_thấy người đó đang bảo_vệ các bệnh_nhân trong một bệnh_viện .
+Nt Vv R Cs Nn Pd Vv Nn Nn Nr Vv Nn Pd R Vv Nq Nn Cs Num Nn PU
+NP_ADVMOD XCOMP ADJUNCT NP_ADVMOD NSUBJ DET CCOMP NSUBJ NN NN ROOT NSUBJ DET ADJUNCT CCOMP DET OBJ PREP NUM POBJ PUNCT
+11 1 2 2 7 5 4 11 8 8 0 15 12 15 11 17 15 17 20 18 11
+
+Trên xác người phụ_nữ đó có một khẩu CKC và một cái túi vải bạt đựng vài cuốn sổ và sách_vở .
+Cs Nn Nc Nn Pd Ve Num Nn Nn Cp Num Nc Nn Nn Nn Vv Nq Nc Nn Cp Nn PU
+PREP POBJ NN CLF DET ROOT NUM OBJ NN CC NUM NN CLF CONJ NN RCMOD DET NN CLF CC OBJ PUNCT
+6 1 2 3 3 0 8 6 8 8 14 14 12 8 14 14 21 21 18 21 16 6
+
+Trong chiến_tranh nhiệm_vụ của tôi là kiểm_tra tất_cả các giấy_tờ , tài_liệu bắt được của đối_phương .
+Cs Nn Nn Cs Pp Vc Vv Nw Nq Nn PU Nn Vv R Cs Nn PU
+PREP POBJ NSUBJ PREP POBJ ROOT VMOD DET DET OBJ PUNCT CONJ XCOMP ADJUNCT PREP POBJ PUNCT
+6 1 6 3 4 0 6 10 10 7 10 10 10 13 10 15 6
+
+Những điều người lính đó kể cho tôi nghe chắc_chắn là cái chết của người phụ_nữ có cuốn nhật_ký tôi nhận được ít lâu sau khi chị hi_sinh .
+Nq Nn Nc Nn Pd Vv Cs Pp Vv Vv Cs Ncs Vv Cs Nc Nn Ve Nc Nn Pp Vv M Aa Aa Cs Nt Pp Vv PU
+DET NSUBJ NSUBJ CLF DET CCOMP PREP POBJ VMOD ROOT MARK NSUBJ CLF PREP POBJ CLF CCOMP OBJ CLF NSUBJ CCOMP INTJ ADJP_ADVMOD ADJP_ADVMOD PREP POBJ NSUBJ CCOMP PUNCT
+2 10 6 3 3 2 6 7 6 0 17 17 12 12 14 15 10 17 18 21 18 21 21 23 21 25 28 26 10
+
+Trong thời_gian đó không có một tài_liệu nào khác giống như người lính mô_tả , Vì thế tôi tin chắc mình đã được nghe người lính nọ kể về cái chết của tác_giả cuốn nhật_ký .
+Cs Nn Pd R Ve Num Nn Pd Aa Vv Cs Nc Nn Vv PU Cp Pp Pp Vv Aa Pp R Vv Vv Nc Nn Pd Vv Cs Ncs Vv Cs Nn Nc Nn PU
+PREP POBJ DET ADJUNCT ROOT NUM OBJ DET AMOD RCMOD PREP NSUBJ CLF PCOMP PUNCT CC CONJ NSUBJ CONJ ACOMP NSUBJ ADJUNCT CCOMP VMOD OBJ CLF DET VMOD PREP POBJ CLF PREP POBJ NN CLF PUNCT
+5 1 2 5 0 7 5 7 7 7 10 14 12 11 5 17 5 19 17 19 23 23 19 23 24 25 25 24 28 29 30 30 32 33 34 5
+
+Đó là cuốn nhật_ký thứ hai của bác_sĩ Đặng_Thuỳ_Trâm .
+Pd Vc Nc Nn Nn An Cs Nn Nr PU
+NSUBJ ROOT NN CLF ATTR AMOD PREP POBJ NN PUNCT
+2 0 5 3 2 5 5 7 8 2
+
+Các con gái bà kể rằng một tháng sau ngày cuối_cùng ghi trong cuốn nhật_ký thứ hai thì Thuỳ_Trâm hi_sinh trong một trận đánh .
+Nq Nn Nn Pp Vv Cs Num Nu Cs Nt Aa Vv Cs Nc Nn Nn An Cp Nr Vv Cs Num Nn Vv PU
+DET NSUBJ NN NN ROOT MARK NUM NP_ADVMOD PREP POBJ AMOD XCOMP PREP NN CLF POBJ AMOD CC NSUBJ CCOMP PREP NUM POBJ VMOD PUNCT
+2 5 2 2 0 20 8 20 8 9 10 10 12 16 14 13 16 20 20 5 20 23 21 23 5
+
+Và nhờ một người bạn dẫn đường chỉ nơi chôn_cất gia_đình đã mang hài_cốt chị từ Quảng_Ngãi về vào năm 1979 .
+M Cs Num Nc Nn Vv Nn Vv Nn Vv Nn R Vv Nn Pp Cs Nr Vv Cs Nt Num PU
+INTJ PREP NUM POBJ CLF RCMOD OBJ VMOD OBJ VMOD NSUBJ ADJUNCT ROOT OBJ NN PREP POBJ VMOD PREP POBJ NUM PUNCT
+13 13 4 2 4 4 6 6 8 9 13 13 0 13 14 18 16 13 18 19 20 13
+
+Có đúng chị nằm trên một dãy núi cao ở miền tây Đức_Phổ ?
+Ve Aa Pp Vv Cs Num Nn Nn Aa Cs Nn Nn Nr PU
+ROOT ACOMP NSUBJ CCOMP PREP NUM POBJ NN AMOD PREP POBJ NN NN PUNCT
+0 1 4 2 4 7 5 7 7 7 10 11 11 1
+
+Và các bạn của chị có kể lại chị đã hi_sinh ra_sao không ?
+M Nq Pp Cs Pp Ve Vv R Pp R Vv Pp R PU
+INTJ DET NSUBJ PREP POBJ ROOT VMOD ADJUNCT NSUBJ ADJUNCT CCOMP OBJ ADJUNCT PUNCT
+6 3 6 3 4 0 6 7 11 11 7 11 7 6
+
+Suốt 35 năm nay tôi vẫn nghĩ rằng chắc_chắn bác_sĩ Đặng đã chết đúng như chị sống , hoàn_toàn không vị_kỷ , hoàn_toàn dâng_hiến .
+Aa Num Num Nt Pp R Vv Cs Vv Nn Nr R Vv Aa Cs Pp Vv PU Aa R Aa PU Aa Vv PU
+ADJP_ADVMOD NUM OBJ NN NSUBJ ADJUNCT ROOT MARK XCOMP NSUBJ NN ADJUNCT CCOMP ACOMP PREP NSUBJ PCOMP PUNCT ACOMP ADJUNCT ADJP_ADVMOD PUNCT CONJ VMOD PUNCT
+7 3 1 3 7 7 0 9 7 13 10 13 9 13 14 17 15 13 13 21 19 19 19 23 7
+
+Nếu tôi có xâm_phạm vào riêng_tư của bà thì cho_phép tôi xin_lỗi và mong không có điều gì xấu cả .
+Cp Pp R Vv Cs Aa Cs Pp Cp Vv Pp Vv Cp Vv R Ve Nn Pp Aa M PU
+CC NSUBJ ADJUNCT ROOT PREP PCOMP PREP POBJ CC CONJ OBJ VMOD CC CONJ ADJUNCT VMOD OBJ DET AMOD INTJ PUNCT
+4 4 4 0 4 5 6 7 4 4 10 10 12 12 16 14 16 17 17 17 4
+
+Tôi đã mang điều này trong lòng quá lâu và tôi vẫn đang đi_tìm câu trả_lời .
+Pp R Vv Nn Pd Cs Nn R Aa Cp Pp R R Vv Nn Vv PU
+NSUBJ ADJUNCT ROOT OBJ DET PREP POBJ ADJUNCT ADJP_ADVMOD CC NSUBJ ADJUNCT ADJUNCT CONJ OBJ VMOD PUNCT
+3 3 0 3 4 3 6 9 3 3 14 13 14 3 14 15 3
+
+Nhận được thư của Fred , mẹ tôi vội gọi điện hỏi lại anh Lê_Văn_Khương - người cùng công_tác trong bệnh_xá Đức_Phổ về địa_điểm chị tôi hi_sinh .
+Vv R Nn Cs Nr PU Nn Pp Aa Vv Nn Vv R Nn Nr PU Nn Aa Vv Cs Nn Nr Cs Nn Nn Pp Vv PU
+XCOMP ADJUNCT OBJ PREP POBJ PUNCT NSUBJ NN ACOMP ROOT OBJ VMOD ADJUNCT OBJ NN PUNCT PARATAXIS AMOD VMOD PREP POBJ NN PREP POBJ NSUBJ NN CCOMP PUNCT
+10 1 1 3 4 10 10 7 10 0 10 10 12 12 14 14 14 17 18 19 20 21 12 23 27 25 24 10
+
+Anh cho biết nơi chị tôi ngã xuống chỉ cách bệnh_xá có 50 m .
+Pp Vv Vv Nn Pp Pp Vv D R Vv Nn M Num Nu PU
+NSUBJ ROOT VMOD NSUBJ NSUBJ NN CCOMP VMOD ADJUNCT CCOMP NP_ADVMOD QUANTMOD NUM OBJ PUNCT
+2 0 2 10 7 5 4 7 10 3 10 13 14 10 2
+
+Hôm đó anh cũng đi công_tác , mãi hơn một tháng sau mới về và chỉ được nghe kể lại rằng chị tôi vừa ra khỏi bệnh_xá để đi công_tác xuống đồng_bằng thì phát_hiện có địch , chị nổ súng ngay báo_hiệu cho các bạn và chiến_đấu giữ_chân chúng .
+Nt Pd Pp R Vv Vv PU R R Num Nu Nn R Vv Cp R Vv Vv Vv R Cs Pp Pp R Vv Vv Nn Cs Vv Vv Cs Nn Cp Vv Ve Nn PU Pp Vv Nn R Vv Cs Nq Pp Cp Vv Vv Pp PU
+NP_ADVMOD DET NSUBJ ADJUNCT ROOT VMOD PUNCT ADJUNCT ADJUNCT NUM NP_ADVMOD NN ADJUNCT CONJ CC ADJUNCT CONJ VMOD VMOD ADJUNCT MARK NSUBJ NN ADJUNCT CCOMP VMOD NP_ADVMOD PREP PCOMP VMOD PREP POBJ CC CONJ VMOD OBJ PUNCT NSUBJ CONJ OBJ ADJUNCT VMOD PREP DET POBJ CC CONJ VMOD OBJ PUNCT
+5 1 5 5 0 5 5 9 10 11 14 11 14 5 14 17 14 17 18 19 25 25 22 25 19 25 26 25 28 29 30 31 25 25 34 35 25 39 25 39 39 39 42 45 43 39 39 47 48 5
+
+Mọi người thoát được hết , toán lính Mỹ kia vẫn nằm lại phục thêm ba ngày nữa mới rút_lui .
+Nw Nn Vv R M PU Nn Nn Nr Pd R Vv R Vv Vv Num Nu R R Vv PU
+DET NSUBJ ROOT ADJUNCT INTJ PUNCT NSUBJ NN NN DET ADJUNCT CONJ ADJUNCT VMOD VMOD NUM NP_ADVMOD ADJUNCT ADJUNCT VMOD PUNCT
+2 3 0 3 3 3 12 7 8 7 12 3 12 12 14 17 14 17 20 14 3
+
+Chị tôi được đồng_bào dân_tộc địa_phương và đồng đội chôn_cất ngay tại nơi chị ngã xuống , trên một đỉnh dốc của sườn núi Ba_Tơ .
+Nn Pp Vv Nn Nn Nn Cp Sv Nn Vv M Cs Nn Pp Vv D PU Cs Num Nn Nn Cs Nn Nn Nr PU
+NSUBJ NN ROOT NSUBJ NN NN CC SINO CONJ CCOMP PCOMP PREP POBJ NSUBJ CCOMP VMOD PUNCT PARATAXIS NUM POBJ NN PREP POBJ NN NN PUNCT
+3 1 0 10 4 4 4 9 4 3 12 10 12 15 13 15 13 13 20 18 20 20 22 23 23 3
+
+Nghe tôi kể lại những chi_tiết ấy , Fred viết cho mẹ tôi : 9 g 44 , thứ hai , 2_-_5_-_2005 .
+Vv Pp Vv R Nq Nn Pd PU Nr Vv Cs Nn Pp PU Num Nu Num PU Nt Num PU Nt PU
+XCOMP NSUBJ CCOMP ADJUNCT DET OBJ DET PUNCT NSUBJ ROOT PREP POBJ NN PUNCT NUM CCOMP NN PUNCT PARATAXIS NUM PUNCT PARATAXIS PUNCT
+10 3 1 3 6 3 6 10 10 0 10 11 12 16 16 10 16 16 16 19 19 19 10
+
+Thưa bà Trâm .
+E Nn Nr PU
+INTJ ROOT NN PUNCT
+2 0 2 2
+
+Và giờ đây thắc_mắc của tôi đã được giải_đáp .
+M Nt Pd Nn Cs Pp R Vv Vv PU
+INTJ NP_ADVMOD DET NSUBJ PREP POBJ ADJUNCT ROOT VMOD PUNCT
+8 8 2 8 4 5 8 0 8 8
+
+Trận đánh mà người lính nọ tả lại cho tôi đúng là điều đã xảy_ra .
+Nn Vv Cs Nc Nn Pd Vv R Cs Pp Aa Vc Nn R Vv PU
+NSUBJ VMOD MARK NSUBJ CLF DET CCOMP ADJUNCT PREP POBJ ADJP_ADVMOD ROOT ATTR ADJUNCT RCMOD PUNCT
+12 1 7 7 4 4 1 7 7 9 12 0 12 15 13 12
+
+Con gái bà đã một_mình chiến_đấu với 120 lính Mỹ để bảo_vệ các bạn mình .
+Nn Nn Pp R R Vv Cs Num Nn Nr Cs Vv Nq Nn Pp PU
+NSUBJ NN NN ADJUNCT ADJUNCT ROOT PREP NUM POBJ NN PREP PCOMP DET OBJ NN PUNCT
+6 1 1 5 6 0 6 9 7 9 6 11 14 12 14 6
+
+Ở bất_cứ đất_nước nào trên thế_giới điều đó đều được gọi là ANH_HÙNG và những người anh_hùng đều được tất_cả mọi người tôn_kính , dù người đó là đàn_ông hay đàn_bà .
+Cs R Nn Pd Cs Nn Nn Pd R Vv Vv Cs Nn Cp Nq Nc Nn R Vv Nw Nw Nn Vv PU Cp Nn Pd Vc Nn Cp Nn PU
+PREP ADJUNCT POBJ DET PREP POBJ NSUBJ DET ADJUNCT ROOT VMOD PREP POBJ CC DET NSUBJ CLF ADJUNCT CONJ DET DET NSUBJ CCOMP PUNCT CC NSUBJ DET CONJ ATTR CC CONJ PUNCT
+10 3 1 3 3 5 10 7 10 0 10 11 12 10 16 19 16 19 10 22 22 23 19 19 19 28 26 19 28 29 29 10
+
+Thế_giới phải được biết về sự dũng_cảm của con gái bà và mãi_mãi học_hỏi được điều gì đó từ tình_yêu và những suy_nghĩ của chị .
+Nn Vv Vv Vv Cs Ncs Aa Cs Nn Nn Pp Cp R Vv R Nn Pp Pd Cs Nn Cp Nq Nn Cs Pp PU
+NSUBJ ROOT VMOD VMOD PREP POBJ CLF PREP POBJ NN NN CC ADJUNCT CONJ ADJUNCT OBJ DET DET PREP POBJ PCOMP DET POBJ PREP POBJ PUNCT
+2 0 2 3 4 5 6 6 8 9 9 2 14 2 14 14 16 16 16 19 19 23 19 23 24 2
+
+Hôm_qua tôi cùng mẹ , vợ và con gái đi ăn tiệm .
+Nt Pp Cp Nn PU Nn Cp Nn Nn Vv Vv Nn PU
+NP_ADVMOD NSUBJ CC CONJ PUNCT CONJ CC CONJ NN ROOT VMOD OBJ PUNCT
+10 10 2 2 4 4 6 6 8 0 10 11 10
+
+Em trai tôi và vợ nó cũng đi cùng .
+Nn Nn Pp Cp Nn Pp R Vv Aa PU
+NSUBJ NN NN CC CONJ NN ADJUNCT ROOT ACOMP PUNCT
+8 1 1 1 1 5 8 0 8 8
+
+Em trai tôi là Michael , thời_gian chiến_tranh nó rất nóng_lòng muốn được sang VN tham_chiến .
+Nn Nn Pp Vc Nr PU Nn Nn Pp R Aa Vv Vv Vv Nr Vv PU
+NSUBJ NN NN ROOT ATTR PUNCT NP_ADVMOD NN NSUBJ ADJUNCT ACOMP CONJ VMOD VMOD NP_ADVMOD VMOD PUNCT
+4 1 1 0 4 4 12 7 12 11 12 4 12 13 14 14 4
+
+Nhưng cha tôi , một sĩ_quan hải_quân cao_cấp , lại không muốn đưa cả ba con trai sang VN .
+Cp Nn Pp PU Num Nn Nn Aa PU R R Vv Vv Nw Num Nn Nn Vv Nr PU
+CC NSUBJ NN PUNCT NUM PARATAXIS NN AMOD PUNCT ADJUNCT ADJUNCT ROOT VMOD QUANTMOD NUM OBJ NN VMOD OBJ PUNCT
+12 12 2 2 6 2 6 6 2 11 12 0 12 15 16 13 16 13 18 12
+
+Lúc đó anh trai tôi và tôi đã ở VN rồi .
+Nt Pd Nn Nn Pp Cp Pp R Vv Nr R PU
+NP_ADVMOD DET NSUBJ NN NN CC CONJ ADJUNCT ROOT NP_ADVMOD ADJUNCT PUNCT
+9 1 9 3 3 3 3 9 0 9 9 9
+
+Vì thế ông đã dùng các thế_lực chính_trị của mình để Michael không tham_gia cuộc chiến .
+Cp Pp Pp R Vv Nq Nn Nn Cs Pp Cs Nr R Vv Ncs Vv PU
+CC ROOT NSUBJ ADJUNCT CONJ DET OBJ NN PREP POBJ PREP NSUBJ ADJUNCT PCOMP OBJ CLF PUNCT
+2 0 5 5 2 7 5 7 7 9 5 14 14 11 14 15 2
+
+Michael rất tức_giận vì chuyện ấy .
+Nr R Vv Cs Nn Pd PU
+NSUBJ ADJUNCT ROOT PREP POBJ DET PUNCT
+3 3 0 3 4 5 3
+
+Nó vẫn tiếp_tục trở_thành một sĩ_quan quân_đội và mới về_hưu năm_ngoái với hàm đại_tá sau 34 năm phục_vụ trong không_lực .
+Pp R Vv Vv Num Nn Nn Cp R Vv Nt Cs Nn Nn Cs Num Nu Vv Cs Nn PU
+NSUBJ ADJUNCT ROOT VMOD NUM OBJ NN CC ADJUNCT CONJ NP_ADVMOD PREP POBJ NN PREP NUM POBJ XCOMP PREP POBJ PUNCT
+3 3 0 3 6 4 6 3 10 3 10 10 12 13 10 17 15 17 18 19 3
+
+Hôm_qua lúc ở tiệm ăn nó xẵng giọng nói với tôi rằng thoạt_tiên nó rất phản_đối những việc mà Robert và tôi làm đối_với hai cuốn nhật_ký của con gái bà .
+Nt Nt Cs Nn Vv Pp Aa Nn Vv Cs Pp Cs Nn Pp R Vv Nq Nn Cs Nr Cp Pp Vv Cs Num Nc Nn Cs Nn Nn Pp PU
+NP_ADVMOD NN CCOMP POBJ VMOD NSUBJ ACOMP OBJ ROOT PREP POBJ MARK NP_ADVMOD NSUBJ ADJUNCT CCOMP DET OBJ MARK NSUBJ CC DET CCOMP PREP NUM POBJ CLF PREP POBJ NN NN PUNCT
+9 1 2 3 4 9 9 7 0 9 10 16 16 16 16 9 18 16 23 23 20 20 18 23 26 24 26 26 28 29 29 9
+
+Nó tức_giận trước hành_động của chúng_tôi .
+Pp Vv Cs Nn Cs Pp PU
+NSUBJ ROOT PREP POBJ PREP POBJ PUNCT
+2 0 2 3 4 5 2
+
+Tôi hiểu .
+Pp Vv PU
+NSUBJ ROOT PUNCT
+2 0 2
+
+Dẫu_sao nó cũng chưa từng phải nếm vị mặn của chiến_tranh .
+Cp Pp R R R Vv Vv Nn Aa Cs Nn PU
+CC NSUBJ ADJUNCT ADJUNCT ADJUNCT ROOT VMOD OBJ AMOD PREP POBJ PUNCT
+6 6 4 6 4 0 6 7 8 8 10 6
+
+Nó chưa từng biết đến cảm_giác nát tim khi nhìn_thấy những người lính ngã xuống trên trận_địa .
+Pp R R Vv Cs Nn Aa Nn Nt Vv Nq Nc Nn Vv D Cs Nn PU
+NSUBJ ADJUNCT ADJUNCT ROOT PREP POBJ AMOD OBJ NP_ADVMOD XCOMP DET NSUBJ CLF CCOMP VMOD PREP POBJ PUNCT
+4 4 2 0 4 5 6 7 7 9 12 14 12 10 14 14 16 4
+
+Vì thế nó mới tức_giận .
+Cp Pp Pp R Vv PU
+CC ROOT NSUBJ ADJUNCT CONJ PUNCT
+2 0 5 5 2 2
+
+Nhưng trong bữa ăn với mẹ tôi nó hiểu ra hành_động của chúng_tôi .
+Cp Cs Nn Vv Cs Nn Pp Pp Vv R Nn Cs Pp PU
+CC PREP POBJ VMOD PREP POBJ NN NSUBJ ROOT ADJUNCT OBJ PREP POBJ PUNCT
+9 9 2 3 3 5 6 9 0 9 9 11 12 9
+
+Một người mẹ nhất_thiết phải được biết về cuộc_đời và những suy_nghĩ của con gái mình .
+Num Nc Nn R Vv Vv Vv Cs Nn Cp Nq Nn Cs Nn Nn Pp PU
+NUM NSUBJ CLF ADJUNCT ROOT VMOD VMOD PREP POBJ PCOMP DET POBJ PREP POBJ NN NN PUNCT
+2 5 2 5 0 5 6 7 8 8 12 8 12 13 14 14 5
+
+Vậy_là nó chấp_nhận .
+Cp Pp Vv PU
+CC NSUBJ ROOT PUNCT
+3 3 0 3
+
+Tôi nghĩ thật buồn biết_bao vì nó không biết được Thuỳ_Trâm đã dạy chúng_ta những gì .
+Pp Vv R Aa R Cs Pp R Vv R Nr R Vv Pp Nq Pp PU
+NSUBJ ROOT ADJUNCT ACOMP ADJUNCT MARK NSUBJ ADJUNCT ADVCL ADJUNCT NSUBJ ADJUNCT CCOMP IOBJ OBJ DET PUNCT
+2 0 4 2 4 9 9 9 4 9 13 13 9 13 13 15 2
+
+Nó không nhìn_thấy những gì tôi đã nhìn_thấy .
+Pp R Vv Nq Pp Pp R Vv PU
+NSUBJ ADJUNCT ROOT OBJ DET NSUBJ ADJUNCT CCOMP PUNCT
+3 3 0 3 4 8 8 4 3
+
+Nó và biết_bao_nhiêu người khác chỉ nhìn_thấy vầng hào_quang của chiến_tranh mà không cảm_thấy sai_trái đến thế_nào khi một dân_tộc này đi xâm_lược một đất_nước khác .
+Pp Cp R Nn Aa R Vv Nn Nn Cs Nn Cp R Vv Aa M Pp Nt Num Nn Pd Vv Vv Num Nn Aa PU
+NSUBJ CC ADJUNCT CONJ AMOD ADJUNCT ROOT OBJ NN PREP POBJ CC ADJUNCT CONJ ACOMP INTJ OBJ OBJ NUM NSUBJ DET CCOMP VMOD NUM OBJ AMOD PUNCT
+7 1 4 1 4 7 0 7 8 8 10 7 14 7 14 17 15 15 20 22 20 18 22 25 23 25 7
+
+Biết_bao cuộc_đời đã bị huỷ_hoại .
+R Nn R Vv Vv PU
+ADJUNCT NSUBJ ADJUNCT ROOT VMOD PUNCT
+2 4 4 0 4 4
+
+Nhưng nó là một người lính .
+Cp Pp Vc Num Nc Nn PU
+CC NSUBJ ROOT NUM ATTR CLF PUNCT
+3 3 0 5 3 5 3
+
+Những lúc không hành_nghề luật_sư hay khoa_học , tôi trở_thành một người làm vườn .
+Nq Nu R Vv Nn Cp Nn PU Pp Vv Num Nn Vv Nn PU
+DET NP_ADVMOD ADJUNCT XCOMP OBJ CC CONJ PUNCT NSUBJ ROOT NUM OBJ RCMOD OBJ PUNCT
+2 10 4 2 4 5 5 10 10 0 12 10 12 13 10
+
+Những lúc làm_việc trong vườn chăm_sóc những bông hoa , tôi có_thể nghĩ triền_miên hàng giờ về những chuyện như thế .
+Nq Nu Vv Cs Nn Vv Nq Nc Nn PU Pp Aa Vv Aa R Nt Cs Nq Nn Cs Pp PU
+DET NP_ADVMOD XCOMP PREP POBJ CONJ DET OBJ CLF PUNCT NSUBJ ACOMP ROOT ACOMP ADJUNCT NP_ADVMOD PREP DET POBJ PREP POBJ PUNCT
+2 13 2 3 4 3 8 6 8 13 13 13 0 13 16 13 13 19 17 19 20 13
+
+Hôm_qua những ý_nghĩ của tôi tràn_đầy về Thuỳ_Trâm .
+Nt Nq Nn Cs Pp Aa Cs Nr PU
+NP_ADVMOD DET NSUBJ PREP POBJ ROOT PREP POBJ PUNCT
+6 3 6 3 4 0 6 7 6
+
+Tôi vẫn thắc_mắc .
+Pp R Vv PU
+NSUBJ ADJUNCT ROOT PUNCT
+3 3 0 3
+
+Và hôm_nay , một bông hoa đẹp từ Hà_Nội đã trả_lời bao câu hỏi ngày hôm_qua của tôi .
+M Nt PU Num Nc Nn Aa Cs Nr R Vv Nq Nn Vv Nt Nt Cs Pp PU
+INTJ NP_ADVMOD PUNCT NUM NSUBJ CLF AMOD PREP POBJ ADJUNCT ROOT DET OBJ VMOD NP_ADVMOD NN PREP POBJ PUNCT
+11 11 11 5 11 5 5 5 8 11 0 13 11 13 13 15 13 17 11
+
+Thuỳ_Trâm đúng là người như tôi nghĩ .
+Nr Aa Vc Nn Cs Pp Vv PU
+NSUBJ ADJP_ADVMOD ROOT ATTR PREP NSUBJ PCOMP PUNCT
+3 3 0 3 4 7 5 3
+
+Chị đã chết đúng như tôi hình_dung qua câu_chuyện của tôi với người lính nọ bao_nhiêu năm về trước .
+Pp R Vv Aa Cs Pp Vv Cs Nn Cs Pp Cs Nc Nn Pd Pp Nu Vv Nn PU
+NSUBJ ADJUNCT ROOT PCOMP PREP NSUBJ PCOMP PREP POBJ PREP POBJ PREP POBJ CLF DET DET NP_ADVMOD RCMOD OBJ PUNCT
+3 3 0 5 3 7 5 7 8 9 10 9 12 13 13 17 9 17 18 3
+
+Và giờ đây tôi đã biết .
+M Nt Pd Pp R Vv PU
+INTJ NP_ADVMOD DET NSUBJ ADJUNCT ROOT PUNCT
+6 6 2 6 6 0 6
+
+Và bật khóc để biết .
+M Vv Vv Cs Vv PU
+INTJ ROOT VMOD PREP PCOMP PUNCT
+2 0 2 3 4 2
+
+Người phụ_nữ - tay súng duy_nhất chiến_đấu với 120 lính Mỹ ấy là ai ?
+Nc Nn PU Nc Nn Aa Vv Cs Num Nn Nr Pd Vc Pp PU
+NSUBJ CLF PUNCT NSUBJ CLF AMOD PARATAXIS PREP NUM POBJ NN DET ROOT ATTR PUNCT
+13 1 1 7 4 4 1 7 10 8 10 1 0 13 13
+
+Là chính chị Thuỳ_Trâm hay là một người con gái nào khác thì cuộc chiến bi_tráng ấy vẫn làm xúc_động người đọc hôm_nay .
+Vc M Nn Nr Cp Vc Num Nc Nn Nn Pd Aa Cp Ncs Vv Aa Pd R Vv Vv Nn Vv Nt PU
+ROOT INTJ ATTR NN CC CONJ NUM ATTR CLF CLF DET AMOD CC NSUBJ CLF AMOD DET ADJUNCT CONJ VMOD OBJ VMOD NP_ADVMOD PUNCT
+0 3 1 3 1 1 8 6 8 8 8 8 1 19 14 14 14 19 1 19 20 21 21 1
+
+Và dù là ai thì niềm tin của người cựu chiến_binh Mỹ vẫn nguyên_vẹn thế - chị Thuỳ_Trâm đã chết đúng như chị sống , hoàn_toàn dâng_hiến ...
+M Cp Vc Pp Cp Ncs Vv Cs Nc Sv Nn Nr R Aa Pp PU Nn Nr R Vv Aa Cs Pp Vv PU Aa Vv PU
+INTJ CC ROOT ATTR CC NSUBJ CLF PREP POBJ SINO CLF NN ADJUNCT CONJ OBJ PUNCT NSUBJ NN ADJUNCT CONJ PCOMP PREP NSUBJ PCOMP PUNCT PARATAXIS VMOD PUNCT
+3 3 0 3 3 14 6 6 8 11 9 9 14 3 14 3 20 17 20 3 22 20 24 22 24 24 26 3
+
+Dâng_hiến ngay cả khi chị mất đã 35 năm ...
+Vv R M Nt Pp Ve R Num Num PU
+ROOT ADJUNCT INTJ NP_ADVMOD NSUBJ CCOMP ADJUNCT NUM NP_ADVMOD PUNCT
+0 4 4 1 6 4 9 9 6 1
+

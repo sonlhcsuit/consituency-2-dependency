@@ -1,0 +1,370 @@
+Những người đi tìm niềm vui .
+Nq Nn Vv Vv Ncs Aa PU
+DET ROOT RCMOD VMOD OBJ CLF PUNCT
+2 0 2 3 4 5 2
+
+Cách đây hai năm có một chàng thanh_niên vừa ra trường từ phố núi xuống thành_phố tìm việc_làm .
+Vv Pd Num Nu Ve Num Nc Nn R Vv Nn Cs Nun Nn Vv Nun Vv Nn PU
+VMOD OBJ NUM OBJ ROOT NUM NSUBJ CLF ADJUNCT RCMOD OBJ PREP POBJ NN CCOMP OBJ VMOD OBJ PUNCT
+5 1 4 1 0 7 15 7 10 7 10 15 12 13 5 15 15 17 5
+
+Lơ_ngơ thế_nào , chàng ta bị mất sạch giấy_tờ và phải quay_về quê vất_vả hoàn_tất rất nhiều thủ_tục hành_chính để làm lại .
+Aa Pp PU Nn Pp Vv Ve R Nn Cp Vv Vv Nn Aa Vv R Aa Nn Aa Cs Vv R PU
+ADVCL OBJ PUNCT NSUBJ DET ROOT VMOD ADJUNCT OBJ CC CONJ VMOD OBJ ACOMP VMOD ADJUNCT AMOD OBJ AMOD PREP PCOMP ADJUNCT PUNCT
+6 1 6 6 4 0 6 7 7 6 6 11 12 15 12 17 18 15 18 15 20 21 6
+
+Lại đi tìm việc .
+R Vv Vv Nn PU
+ADJUNCT ROOT VMOD OBJ PUNCT
+2 0 2 3 2
+
+Đọc chán những thông_báo tìm người trên báo , anh_chàng lại đọc cả những thông_báo tìm giấy_tờ , người_thân bị thất_lạc .
+Vv Vv Nq Nn Vv Nn Cs Nn PU Nn R Vv Nw Nq Nn Vv Nn PU Nn Vv Vv PU
+ROOT VMOD DET OBJ RCMOD OBJ PREP POBJ PUNCT NSUBJ ADJUNCT CONJ DET DET OBJ RCMOD OBJ PUNCT CONJ RCMOD VMOD PUNCT
+0 1 4 1 4 5 4 7 1 12 12 1 15 15 12 15 16 17 17 17 20 1
+
+Và thế_là ý_tưởng về một dịch_vụ báo mất ra_đời ...
+M Cp Nn Cs Num Nn Vv Ve Vv PU
+INTJ CC NSUBJ PREP NUM POBJ RCMOD VMOD ROOT PUNCT
+9 9 9 3 6 4 6 7 0 9
+
+Nhặt và gọi .
+Vv Cp Vv PU
+ROOT CC CONJ PUNCT
+0 1 1 1
+
+Một ngày làm_việc của anh Âm bắt_đầu bằng việc làm_quen với một anh lái xe_ôm bất_kỳ .
+Num Nu Vv Cs Nn Nr Vv Cs Ncs Vv Cs Num Nn Vv Nn Aa PU
+NUM NSUBJ VMOD PREP POBJ NN ROOT PREP POBJ RCMOD PREP NUM POBJ RCMOD OBJ AMOD PUNCT
+2 7 2 2 4 5 0 7 8 9 10 13 11 13 14 13 7
+
+" Tôi là nhân_viên Công_ty báo mất Khai_Minh ... " .
+PU Pp Vc Nn Nn Vv Ve Nr PU PU PU
+PUNCT NSUBJ ROOT ATTR NN RCMOD VMOD NN PUNCT PUNCT PUNCT
+3 3 0 3 4 5 6 5 3 3 3
+
+Đáp lại là một cái nhìn đầy ngạc_nhiên .
+Vv R Vc Num Ncs Vv Aa Vv PU
+VSUBJ ADJUNCT ROOT NUM ATTR CLF AMOD VMOD PUNCT
+3 1 0 5 3 5 5 7 3
+
+Anh Âm giải_thích : " Chắc anh cũng đã từng nhặt được giấy_tờ rơi_rớt , công_ty chúng_tôi sẽ giúp anh trong việc tìm người bị mất và trả lại cho họ .
+Nn Nr Vv PU PU Aa Pp R R R Vv R Nn Vv PU Nn Pp R Vv Pp Cs Nn Vv Nn Vv Ve Cp Vv R Cs Pp PU
+NSUBJ NN ROOT PUNCT PUNCT CCOMP NSUBJ ADJUNCT ADJUNCT ADJUNCT CCOMP ADJUNCT OBJ RCMOD PUNCT NSUBJ NN ADJUNCT CONJ OBJ PREP POBJ RCMOD OBJ RCMOD VMOD CC CONJ ADJUNCT PREP POBJ PUNCT
+3 1 0 6 6 3 11 10 10 11 6 11 11 13 6 19 16 19 6 19 19 21 22 23 24 25 23 23 28 28 30 3
+
+Anh chỉ cần gọi điện_thoại ... " .
+Pp R Vv Vv Nn PU PU PU
+NSUBJ ADJUNCT ROOT VMOD OBJ PUNCT PUNCT PUNCT
+3 3 0 3 4 3 3 3
+
+Anh xe_ôm chẳng thắc_mắc gì mà nhanh_chóng hưởng_ứng : " Tốt quá .
+Nn Nn R Vv Pp Cp Aa Vv PU PU Aa R PU
+NSUBJ NN ADJUNCT ROOT OBJ CC ACOMP CONJ PUNCT PUNCT CCOMP ADJUNCT PUNCT
+4 1 4 0 4 4 8 4 11 11 8 11 4
+
+Tôi đã mấy lần nhặt được giấy_tờ , bóp , túi_xách .
+Pp R Nq Nn Vv R Nn PU Nn PU Nn PU
+NSUBJ ADJUNCT DET NP_ADVMOD ROOT ADJUNCT OBJ PUNCT CONJ PUNCT CONJ PUNCT
+5 4 4 5 0 5 5 7 7 9 9 5
+
+Theo địa_chỉ mang đến nhà họ trả , có người thì vui_vẻ cảm_ơn , có người lại nghi_ngờ vì đấy là đồ_đạc họ bị đánh_cắp , cướp_giật .
+Vv Nn Vv Cs Nn Pp Vv PU Ve Nn Cp Aa Vv PU Ve Nn R Vv Cs Pd Vc Nn Pp Vv Vv PU Vv PU
+ROOT OBJ VMOD PREP POBJ NN VMOD PUNCT CONJ DEP CC ACOMP CCOMP PUNCT CONJ NSUBJ ADJUNCT CCOMP MARK NSUBJ ADVCL ATTR NSUBJ CCOMP VMOD PUNCT CONJ PUNCT
+0 1 1 3 4 5 3 1 1 13 13 13 9 9 9 18 18 15 21 21 18 21 24 22 24 25 25 1
+
+Phiền lắm , có công_ty đứng giữa là tiện nhất " .
+Aa R PU Ve Nn Vv Nn Cp Aa R PU PU
+ADJP_ADVMOD ADJUNCT PUNCT VSUBJ NSUBJ CCOMP OBJ CC ROOT ADJUNCT PUNCT PUNCT
+9 1 9 9 6 4 6 9 0 9 9 9
+
+Sau anh xe_ôm là mấy chị gánh hàng rong , gánh ve_chai dạo phố , mấy chị đi xe_đạp chở hai bên hai cái sọt đựng đồ phế_liệu .
+Cs Nn Nn Cp Nq Nn Vv Nn Vv PU Vv Nn Vv Nn PU Nq Nn Vv Nn Vv Num Nn Num Nc Nn Vv Nn Nn PU
+PREP POBJ NN CC DET ROOT RCMOD OBJ VMOD PUNCT CONJ OBJ VMOD OBJ PUNCT DET CONJ RCMOD OBJ VMOD NUM OBJ NUM OBJ CLF RCMOD OBJ NN PUNCT
+6 1 2 6 6 0 6 7 8 7 7 11 11 13 6 17 6 17 18 18 22 20 24 20 24 24 26 27 6
+
+Chỉ trong một buổi sáng , số cộng_tác viên của anh Âm đã tăng lên đáng_kể .
+R Cs Num Nt Nt PU Nn Vv Sv Cs Nn Nr R Vv R Aa PU
+ADJUNCT PREP NUM POBJ NN PUNCT NSUBJ NN SINO PREP POBJ NN ADJUNCT ROOT ADJUNCT ACOMP PUNCT
+2 14 4 2 4 14 14 7 8 7 10 11 14 0 14 14 14
+
+Một anh thu_gom rác dân_lập đang nặng_nề đẩy xe trong một con hẻm đường Lê_Lợi đã mừng_rỡ vẫy : " Có nè ... " .
+Num Nn Vv Nn Aa R Aa Vv Nn Cs Num Nc Nn Nn Nr R Vv Vv PU PU Ve M PU PU PU
+NUM NSUBJ RCMOD OBJ AMOD ADJUNCT ACOMP CSUBJ OBJ PREP NUM NN CLF POBJ NN ADJUNCT ROOT VMOD PUNCT PUNCT CCOMP INTJ PUNCT PUNCT PUNCT
+2 8 2 3 2 8 8 17 8 8 14 14 12 10 14 17 0 17 21 21 18 21 21 21 17
+
+Anh móc trong túi áo ra ba chứng_minh nhân_dân : " Tôi lượm được trong đám rác này nè .
+Pp Vv Cs Nn Nn R Num Nn Nn PU PU Pp Vv R Cs Nn Nn Pd M PU
+NSUBJ ROOT PREP POBJ NN ADJUNCT NUM OBJ NN PUNCT PUNCT NSUBJ CCOMP ADJUNCT PREP POBJ NN DET INTJ PUNCT
+2 0 2 3 4 2 8 2 8 13 13 13 2 13 13 15 16 16 16 2
+
+Trước giờ , phân rác ra thỉnh_thoảng cũng thấy .
+Nn Nt PU Vv Nn R R R Vv PU
+NP_ADVMOD NN PUNCT ROOT OBJ ADJUNCT ADJUNCT ADJUNCT CONJ PUNCT
+4 1 4 0 4 4 9 7 4 4
+
+Gặp giấy của người quen thì trả , chẳng biết của ai thì ... thôi .
+Vv Nn Cs Nn Aa Cp Vv PU R Vv Cs Pp Cp PU M PU
+ROOT OBJ PREP POBJ AMOD CC CONJ PUNCT ADJUNCT CONJ PREP POBJ CC PUNCT CONJ PUNCT
+0 1 2 3 4 1 1 1 10 1 10 11 10 10 10 1
+
+Công_chuyện bận quá mà " .
+Nn Aa R M PU PU
+NSUBJ ROOT ADJUNCT INTJ PUNCT PUNCT
+2 0 2 2 2 2
+
+Anh Âm cầm mấy cái giấy , vuốt thẳng rồi cất vào cặp , cẩn_trọng như giấy_tờ của chính mình ...
+Nn Nr Vv Nq Nc Nn PU Vv Aa Cp Vv Cs Nq PU Aa Cs Nn Cs M Pp PU
+NSUBJ NN ROOT DET OBJ CLF PUNCT CONJ ACOMP CC CONJ PREP POBJ PUNCT CONJ PREP POBJ PREP INTJ POBJ PUNCT
+3 1 0 5 3 5 3 3 8 8 8 11 12 11 11 15 16 17 20 18 3
+
+Vừa thấy bóng anh Nghĩa đi vào là mấy chị ở xóm ve_chai ở P. 17 , Gò_Vấp đã đon_đả thông_báo : " Bữa_qua ... không nhặt được gì hết .
+R Vv Nn Nn Nr Vv D Cp Nq Pp Cs Nun Nn Cs Nun Nr PU Nr R Aa Vv PU PU Nt PU R Vv R Pp M PU
+ADJUNCT XCOMP NSUBJ NN NN CCOMP VMOD CC NSUBJ DET PREP POBJ NN PREP POBJ NN PUNCT PARATAXIS ADJUNCT ACOMP ROOT PUNCT PUNCT NP_ADVMOD PUNCT ADJUNCT XCOMP ADJUNCT OBJ INTJ PUNCT
+2 21 6 3 4 2 6 21 21 9 9 11 12 12 14 15 15 15 21 21 0 27 27 27 27 27 21 27 27 27 21
+
+Hôm_nay thì đang lựa đây " .
+Nt Cp R Vv M PU PU
+NP_ADVMOD CC ADJUNCT ROOT INTJ PUNCT PUNCT
+4 4 4 0 4 4 4
+
+Anh Nghĩa xắn tay_áo lên cùng với mấy chị xáo tung mớ vỏ hộp , giấy vụn , sách tập cũ các loại .
+Nn Nr Vv Nn R Aa Cs Nq Pp Vv Vv Nn Nn Nn PU Nn Aa PU Nn Nn Aa Nq Nn PU
+NSUBJ NN ROOT OBJ ADJUNCT ACOMP PREP POBJ DET CONJ VMOD OBJ NN NN PUNCT CONJ AMOD PUNCT CONJ CONJ AMOD DET NN PUNCT
+3 1 0 3 3 10 6 7 8 3 10 10 12 13 13 13 16 16 16 19 19 23 19 3
+
+Trong một cuốn sách cũ chợt rơi ra tấm thẻ sinh_viên của một cô gái , hết hạn năm 2001 .
+Cs Num Nc Nn Aa R Vv R Nc Nn Nn Cs Num Nc Nn PU Ve Nn Nt Num PU
+PREP NUM POBJ CLF AMOD ADJUNCT ROOT ADJUNCT OBJ CLF NN PREP NUM POBJ CLF PUNCT PARATAXIS OBJ NP_ADVMOD NUM PUNCT
+7 3 1 3 3 7 0 7 7 9 9 9 14 12 14 9 9 17 18 19 7
+
+Mọi người cùng cười : " Xui quá hả ?
+Nw Nn Aa Vv PU PU Aa R M PU
+DET NSUBJ ACOMP ROOT PUNCT PUNCT CCOMP ADJUNCT INTJ PUNCT
+2 4 4 0 7 7 4 7 7 4
+
+Thôi , cứ cất làm kỷ_niệm , biết_đâu ... " .
+M PU R Vv Vv Nn PU R PU PU PU
+INTJ PUNCT ADJUNCT ROOT VMOD OBJ PUNCT CONJ PUNCT PUNCT PUNCT
+4 4 4 0 4 5 4 4 4 4 4
+
+Đi tìm giấy_tờ rơi , những trạm trung_chuyển rác và các điểm thu_mua phế_liệu là " mối ruột " , những người bán hàng rong , sửa xe , thu_lượm là những cộng_tác viên thân_thiết vì " đi bộ , đi xe_đạp , ngồi cố_định một chỗ mới có nhiều cơ_hội nhìn xuống đường chứ " .
+Vv Vv Nn Vv PU Nq Nn Vv Nn Cp Nq Nn Vv Nn Vc PU Nn Aa PU PU Nq Nn Vv Nn Vv PU Vv Nn PU Vv Vc Nq Vv Sv Aa Cs PU Vv Nn PU Vv Nn PU Vv Aa Num Nn R Ve Aa Nn Vv Cs Nn M PU PU
+ROOT VMOD OBJ RCMOD PUNCT DET NSUBJ RCMOD OBJ CC DET CONJ RCMOD OBJ CONJ PUNCT ATTR AMOD PUNCT PUNCT DET NSUBJ RCMOD OBJ VMOD PUNCT CONJ OBJ PUNCT CONJ CONJ DET ATTR SINO AMOD MARK PUNCT VSUBJ OBJ PUNCT CONJ OBJ PUNCT CONJ ACOMP NUM OBJ ADJUNCT ADVCL AMOD OBJ RCMOD PREP POBJ INTJ PUNCT PUNCT
+0 1 2 3 1 7 15 7 8 7 12 7 12 13 1 17 15 17 17 15 22 31 22 23 24 23 23 27 27 27 15 33 31 33 33 49 49 49 38 38 38 41 41 41 44 47 45 49 33 51 49 51 52 53 49 49 1
+
+Từ ngày trở_nên thân_thiết với các nhân_viên của Khai_Minh , những người lao_động vốn rất thầm_lặng bên lề_đường này như vui hẳn lên .
+Cs Nt Vv Aa Cs Nq Nn Cs Nr PU Nq Nc Nn R R Aa Nn Nn Pd Cs Aa Aa R PU
+PREP POBJ XCOMP ACOMP PREP DET POBJ PREP POBJ PCOMP DET NSUBJ CLF ADJUNCT CONJ AMOD PREP POBJ DET ROOT PCOMP ADJP_ADVMOD ADJUNCT PCOMP
+20 1 2 3 4 7 5 7 8 20 12 20 12 16 14 12 16 17 18 0 20 21 21 20
+
+" Nếu nhặt được , chúng_tôi sẽ cất_giữ " , ai cũng hồ_hởi hứa như vậy .
+PU Cp Vv R PU Pp R Vv PU PU Pp R Aa Vv Cs Pp PU
+PUNCT CC CCOMP ADJUNCT PUNCT NSUBJ ADJUNCT CONJ PUNCT PUNCT NSUBJ ADJUNCT ACOMP ROOT PREP POBJ PUNCT
+14 3 14 3 3 8 8 3 14 14 14 14 14 0 14 15 14
+
+Tìm và trả .
+Vv Cp Vv PU
+ROOT CC CONJ PUNCT
+0 1 1 1
+
+Trong các ngăn_kéo bàn của Nguyễn_Hữu_Phi , anh_chàng sinh_viên lơ_ngơ bị mất giấy_tờ dạo nào , nay là trưởng phòng báo mất Công_ty Khai_Minh , cất_giữ hàng ngàn giấy_tờ các loại đã được tìm_thấy như vậy .
+Cs Nq Nn Nn Cs Nr PU Nn Nn Aa Vv Ve Nn Nt Pd PU Nt Vc Nn Nn Vv Ve Nn Nr PU Vv R Nq Nn Nq Nn R Vv Vv Cs Pp PU
+PREP DET POBJ NN PREP NN PUNCT POBJ NN AMOD RCMOD VMOD OBJ NP_ADVMOD DET PUNCT NP_ADVMOD PARATAXIS ATTR NN RCMOD VMOD NN NN PUNCT ROOT ADJUNCT NUM NN DET OBJ ADJUNCT RCMOD VMOD PREP POBJ PUNCT
+26 3 1 3 3 8 8 5 8 8 8 11 12 12 14 8 18 8 18 19 20 21 20 23 8 0 28 31 31 31 26 33 31 33 34 35 26
+
+Mỗi sáng , nhân_viên của công_ty lại đến bàn_giao những thứ họ đã tìm được ngày hôm trước và lại chia địa_bàn để tiếp_tục .
+Nq Nt PU Nn Cs Nn R Vv Vv Nq Nn Pp R Vv R Nt Nt Nn Cp R Vv Nn Cs Vv PU
+DET NP_ADVMOD PUNCT NSUBJ PREP POBJ ADJUNCT ROOT VMOD DET OBJ NSUBJ ADJUNCT CCOMP ADJUNCT NP_ADVMOD NN NN CC ADJUNCT CONJ OBJ PREP PCOMP PUNCT
+2 8 8 8 4 5 8 0 8 11 9 14 14 11 14 14 16 16 8 21 8 21 21 23 8
+
+Ở văn_phòng , Phi luôn tay luôn miệng với cái máy điện_thoại .
+Cs Nn PU Nr R Nn R Nn Cs Nc Nn Nn PU
+PREP POBJ PUNCT NSUBJ ADJUNCT ROOT ADJUNCT CONJ PREP POBJ NN NN PUNCT
+6 1 6 6 6 0 8 6 8 9 10 11 6
+
+Nhận thông_tin báo mất , tìm_kiếm địa_chỉ và liên_lạc với chủ_nhân những giấy_tờ đã tìm được , mời người đến nhận , tính phí và chi_trả thù_lao cho người nhặt ...
+Vv Nn Vv Ve PU Vv Nn Cp Vv Cs Nn Nq Nn R Vv R PU Vv Nn Vv Vv PU Vv Nn Cp Vv Nn Cs Nn Vv PU
+ROOT OBJ RCMOD VMOD PUNCT CONJ OBJ CC CONJ PREP POBJ DET NN ADJUNCT RCMOD ADJUNCT PUNCT CONJ OBJ VMOD VMOD PUNCT CONJ OBJ CC CONJ OBJ PREP POBJ VMOD PUNCT
+0 1 2 3 1 1 6 6 6 9 10 13 11 15 13 15 6 6 18 18 20 18 18 23 23 23 26 26 28 29 1
+
+Hôm tôi đến , có một chị được mời đến nhận lại giấy CMND .
+Nt Pp Vv PU Ve Num Nn Vv Vv Vv Vv R Nn X PU
+NP_ADVMOD NSUBJ CCOMP PUNCT ROOT NUM NSUBJ CCOMP VMOD VMOD VMOD ADJUNCT OBJ DEP PUNCT
+5 3 1 5 0 7 8 5 8 9 10 11 11 13 5
+
+Chị cầm tờ giấy đã bị thấm nước , hai mặt nilông bị bong , tách đôi ra ở một góc , tần_ngần : " Sao tìm được hay quá vậy ? .
+Pp Vv Nn Nn R Vv Vv Nn PU Num Nn Nn Vv Vv PU Vv Nq R Cs Num Nn PU Vv PU PU Pp Vv R Aa R M PU PU
+NSUBJ ROOT OBJ NN ADJUNCT RCMOD VMOD OBJ PUNCT NUM NN NN RCMOD VMOD PUNCT CONJ OBJ ADJUNCT PREP NUM POBJ PUNCT CONJ PUNCT PUNCT DEP CCOMP ADJUNCT ACOMP ADJUNCT INTJ PUNCT PUNCT
+2 0 2 3 6 3 6 7 3 11 3 11 11 13 13 13 16 16 16 21 19 2 2 27 27 27 23 27 27 29 29 27 2
+
+Tôi mất hơn một tháng rồi , cũng chẳng biết mất ở đâu .
+Pp Ve R Num Nu R PU R R Vv Ve Cs Pp PU
+NSUBJ ROOT ADJUNCT NUM NP_ADVMOD ADJUNCT PUNCT ADJUNCT ADJUNCT CONJ XCOMP PREP POBJ PUNCT
+2 0 4 5 2 2 2 9 10 2 10 11 12 2
+
+Đỡ ghê , khỏi phiền_phức ... " .
+Vv R PU Vv Aa PU PU PU
+ROOT ADJUNCT PUNCT CONJ ACOMP PUNCT PUNCT PUNCT
+0 1 1 1 4 1 1 1
+
+Còn vô_số câu_chuyện thú_vị như vậy .
+Ve Aa Nn Aa Cs Pp PU
+ROOT AMOD OBJ AMOD PREP POBJ PUNCT
+0 3 1 3 3 5 1
+
+Đó là khi một anh cán_bộ kêu thốt lên ngạc_nhiên khi đến nhận lại một cặp hồ_sơ : " Tôi đã bị mất nó khi công_tác ở Bạc_Liêu cơ_mà .
+Pd Vc Nt Num Nc Nn Vv Vv R Vv Nt Vv Vv R Num Nn Nn PU PU Pp R Vv Ve Pp Nt Vv Cs Nr M PU
+NSUBJ ROOT NP_ADVMOD NUM NSUBJ CLF CCOMP VMOD ADJUNCT VMOD NP_ADVMOD XCOMP VMOD ADJUNCT NUM OBJ NN PUNCT PUNCT NSUBJ ADJUNCT CCOMP VMOD OBJ NP_ADVMOD XCOMP PREP POBJ INTJ PUNCT
+2 0 2 5 7 5 3 7 8 8 10 11 12 13 16 13 16 22 22 22 22 8 22 23 23 25 26 27 23 2
+
+Sao lại lưu_lạc tận đây ? " .
+Pp R Vv Aa Pd PU PU PU
+OBJ ADJUNCT ROOT ADJP_ADVMOD OBJ PUNCT PUNCT PUNCT
+3 3 0 3 4 3 3 3
+
+Khi một chị ở An_Giang lên thành_phố bị giật mất giỏ xách , có điện_thoại hẹn đến Q. 9 để nhận lại , chị không dám tới và đã nhờ Khai_Minh .
+Nt Num Nn Cs Nr Vv Nun Vv Vv Ve Nn Vv PU Ve Nn Vv Vv Nun Nr Cs Vv R PU Pp R Vv Vv Cp R Vv Nr PU
+NP_ADVMOD NUM NSUBJ PREP POBJ RCMOD NP_ADVMOD CCOMP VMOD VMOD OBJ VMOD PUNCT ROOT OBJ RCMOD VMOD NP_ADVMOD NN PREP PCOMP ADJUNCT PUNCT NSUBJ ADJUNCT CONJ VMOD CC ADJUNCT CONJ OBJ PUNCT
+14 3 8 6 4 3 6 1 8 9 9 11 14 0 14 15 16 17 18 17 20 21 14 26 26 14 26 26 30 26 30 14
+
+Qua mấy chục cây_số mênh_mông là ruộng , cuối_cùng cái giỏ_xách đã được hoàn lại chủ .
+Cs Nq Nq Nu Aa M Nn PU Aa Nc Nn R Vv Vv R Nn PU
+PREP NUMBER NUM POBJ AMOD INTJ OBJ PUNCT ADJP_ADVMOD NSUBJ CLF ADJUNCT ROOT VMOD ADJUNCT IOBJ PUNCT
+13 3 4 1 4 5 5 13 13 13 10 13 0 13 14 14 13
+
+Cũng có khi người được mời đến nhận giấy_tờ đã đến văn_phòng cùng với một anh ... công_an : " Tại sao đồ tôi bị ăn_trộm mà lại xuất_hiện ở đây ? " ...
+R Aa Nt Nn Vv Vv Vv Vv Nn R Vv Nn Aa Cs Num Nc PU Nn PU PU Cp Pp Nn Pp Vv Vv Cp R Vv Cs Pd PU PU PU
+ADJUNCT ROOT NP_ADVMOD NSUBJ RCMOD VMOD VMOD VMOD OBJ ADJUNCT CCOMP OBJ ACOMP PREP NUM POBJ PUNCT CLF PUNCT PUNCT CC DEP NSUBJ NSUBJ CCOMP VMOD CC ADJUNCT CCOMP PREP POBJ PUNCT PUNCT PUNCT
+2 0 2 11 4 5 6 7 8 11 3 11 11 13 16 14 16 16 29 29 29 29 29 25 23 25 29 29 11 29 30 29 29 2
+
+Nhưng cũng có rất nhiều giấy_tờ chưa tìm được chủ .
+Cp R Ve R Aa Nn R Vv R Nn PU
+CC ADJUNCT ROOT ADJUNCT AMOD OBJ ADJUNCT RCMOD ADJUNCT OBJ PUNCT
+3 3 0 5 6 3 8 6 8 8 3
+
+Lại có nhiều giấy_tờ bị những chủ_nhân từ_chối nhận lại .
+R Ve Aa Nn Vv Nq Nn Vv Vv R PU
+ADJUNCT ROOT AMOD NSUBJ CCOMP DET NSUBJ CCOMP VMOD ADJUNCT PUNCT
+2 0 4 5 2 7 8 5 8 9 2
+
+Thế nhưng , những người đã bỏ công đi tìm không buồn , cũng không vứt trở_lại đống phế_liệu .
+Pp Cp PU Nq Nn R Vv Nn Vv Vv R VA PU R R Vv Vv Nn Nn PU
+ROOT CC PUNCT DET NSUBJ ADJUNCT RCMOD OBJ RCMOD VMOD ADJUNCT CONJ PUNCT ADJUNCT ADJUNCT CONJ VMOD OBJ NN PUNCT
+0 1 1 5 12 7 5 7 8 9 12 1 12 15 16 12 16 17 18 1
+
+Họ vẫn lau sạch từng vết bẩn , vẫn lưu_giữ cẩn_thận .
+Pp R Vv Aa Pp Nn Aa PU R Vv Aa PU
+NSUBJ ADJUNCT ROOT ACOMP DET OBJ AMOD PUNCT ADJUNCT CONJ ACOMP PUNCT
+3 3 0 3 6 3 6 3 10 3 10 3
+
+" Có_thể những người này đã làm được giấy_tờ khác , nhưng biết_đâu một ngày nào đó họ lại muốn lấy lại chúng như một kỷ_niệm .
+PU Aa Nq Nn Pd R Vv R Nn Aa PU Cp R Num Nt Pd Pd Pp R Vv Vv R Pp Cs Num Nn PU
+PUNCT ADJP_ADVMOD DET NSUBJ DET ADJUNCT ROOT ADJUNCT OBJ AMOD PUNCT CC ADJUNCT NUM NP_ADVMOD DET DET NSUBJ ADJUNCT CONJ VMOD ADJUNCT OBJ PREP NUM POBJ PUNCT
+7 7 4 7 4 7 0 7 7 9 7 7 20 15 20 15 15 20 20 7 20 21 21 21 26 24 7
+
+Dẫu_sao cũng là vật thiết_thân một thời , không hữu_ích thì ít_nhất cũng mang lại một nụ cười khi thấy lại ... " .
+Cp R Vc Nn Aa Num Nt PU R Aa Cp Aa R Vv R Num Nn Vv Nt Vv R PU PU PU
+CC ADJUNCT ROOT ATTR AMOD NUM OBJ PUNCT ADJUNCT CONJ CC ADJP_ADVMOD ADJUNCT CONJ ADJUNCT NUM OBJ VMOD NP_ADVMOD XCOMP ADJUNCT PUNCT PUNCT PUNCT
+3 3 0 3 4 7 5 3 10 3 10 14 14 10 14 17 14 17 17 19 20 3 3 3
+
+Lãi_ròng là những niềm vui .
+Nn Vc Nq Ncs Aa PU
+NSUBJ ROOT DET ATTR CLF PUNCT
+2 0 4 2 4 2
+
+" Làm việc này tuy âm_thầm nhưng vui , rất vui , chẳng có gì để buồn .
+PU Vv Nn Pd Cp Aa Cp VA PU R VA PU R Ve Pp Cs VA PU
+PUNCT VSUBJ OBJ DET ROOT CONJ CC CONJ PUNCT ADJUNCT CONJ PUNCT ADJUNCT CONJ OBJ PREP PCOMP PUNCT
+5 5 2 3 0 5 6 6 8 11 8 11 14 11 14 15 16 5
+
+Việc tốt mà ... " , các nhân_viên của Khai_Minh nói như vậy .
+Ncs Aa M PU PU PU Nq Nn Cs Nr Vv Cs Pp PU
+CCOMP CLF INTJ PUNCT PUNCT PUNCT DET NSUBJ PREP POBJ ROOT PREP POBJ PUNCT
+11 1 1 1 11 11 8 11 8 9 0 11 12 11
+
+Phi cho biết khi làm dự_án về dịch_vụ báo mất , anh đã thực_hiện một cuộc thăm_dò về nhu_cầu của người dân TP. HCM .
+Nr Vv Vv Nt Vv Nn Cs Nn Vv Ve PU Nn R Vv Num Ncs Vv Cs Nn Cs Nc Nn Nun Nr PU
+NSUBJ ROOT VMOD NP_ADVMOD XCOMP OBJ PREP POBJ RCMOD VMOD PUNCT NSUBJ ADJUNCT CCOMP NUM OBJ CLF PREP POBJ PREP NN CLF POBJ NN PUNCT
+2 0 2 14 4 5 6 7 8 9 14 14 14 3 16 14 16 16 18 19 23 21 20 23 2
+
+Hầu_như 100% số người được hỏi đều cho biết hoàn_toàn tán_thành và sẵn_sàng hợp_tác nếu dịch_vụ ra_đời .
+R Nq Nn Nn Vv Vv R Vv Vv Aa Vv Cp Aa Vv Cp Nn Vv PU
+ADJUNCT NUM NSUBJ NN RCMOD VMOD ADJUNCT ROOT VMOD ACOMP CCOMP CC ACOMP CONJ CC NSUBJ CONJ PUNCT
+2 3 8 3 4 5 8 0 8 11 9 11 14 11 11 17 11 8
+
+Nhặt và trả đã đủ để vui .
+Vv Cp Vv R Aa Cs Vv PU
+VSUBJ CC CONJ ADJUNCT ROOT PREP PCOMP PUNCT
+5 1 1 5 0 5 6 5
+
+Dịch_vụ của họ chính là khâu trung_gian đảm_bảo cho những niềm vui ấy được trọn_vẹn .
+Nn Cs Pp M Vc Nn Aa Vv Cs Nq Ncs Aa Pd Vv Aa PU
+NSUBJ PREP POBJ INTJ ROOT ATTR AMOD RCMOD MARK DET NSUBJ CLF DET CCOMP ACOMP PUNCT
+5 1 2 5 0 5 6 6 14 11 14 11 11 8 14 5
+
+Hiện ở Công_ty Khai_Minh mới chỉ có sáu nhân_viên làm nhiệm_vụ tìm_kiếm , nhưng con_số những người làm cộng_tác viên cho họ đã nhân ra tới hàng trăm .
+Nt Cs Nn Nr R R Ve Num Nn Vv Nn Vv PU Cp Nn Nq Nn Vv Vv Sv Cs Pp R Vv R M R Nq PU
+NP_ADVMOD PREP POBJ NN ADJUNCT CONJ ROOT NUM OBJ RCMOD OBJ VMOD PUNCT CC NSUBJ DET NN RCMOD OBJ SINO PREP POBJ ADJUNCT CONJ ADJUNCT INTJ ADJUNCT OBJ PUNCT
+7 7 2 3 7 5 0 9 7 9 10 11 7 7 24 17 15 17 18 19 18 21 24 7 24 28 28 24 7
+
+Những bao_bì đựng giấy_tờ đủ loại thu_lượm được ngày_càng đầy lên trong các ngăn_kéo .
+Nq Nn Vv Nn Aa Nn Vv R R Aa R Cs Nq Nn PU
+DET NSUBJ RCMOD OBJ AMOD OBJ RCMOD ADJUNCT ADJUNCT ROOT ADJUNCT PREP DET POBJ PUNCT
+2 10 2 3 4 5 4 7 10 0 10 10 14 12 10
+
+Chỉ thu phí khi " châu_về_hợp_phố " nên đã hoạt_động hơn một năm nhưng họ vẫn chưa có lãi .
+R Vv Nn Nt PU ID PU Cp R Vv R Num Nu Cp Pp R R Ve Nn PU
+ADJUNCT ROOT OBJ NP_ADVMOD CCOMP DEP PUNCT CC ADJUNCT CONJ ADJUNCT NUM NP_ADVMOD CC NSUBJ ADJUNCT ADJUNCT CONJ OBJ PUNCT
+2 0 2 2 4 5 5 2 10 2 12 13 10 10 18 17 18 10 18 2
+
+Bên cạnh đó , còn rất nhiều khách_hàng chưa được đáp_ứng nhu_cầu .
+Nn Nn Pd PU Ve R Aa Nn R Vv Vv Nn PU
+NP_ADVMOD NN DET PUNCT ROOT ADJUNCT AMOD NSUBJ ADJUNCT CCOMP VMOD OBJ PUNCT
+5 1 2 5 0 7 8 10 10 5 10 11 5
+
+Có khi điện_thoại reo vào lúc nửa_đêm : " Tôi vừa bị mất giấy_tờ ở đoạn đường … .
+Ve Nt Nn Vv Cs Nt Nt PU PU Pp R Vv Ve Nn Cs Nn Nn PU PU
+ROOT NP_ADVMOD NSUBJ CCOMP PREP POBJ NN PUNCT PUNCT NSUBJ ADJUNCT CCOMP VMOD OBJ PREP POBJ NN PUNCT PUNCT
+0 1 4 2 4 5 6 12 12 12 12 4 12 13 13 15 16 16 1
+
+Nhờ tìm giúp " .
+Vv Vv Vv PU PU
+ROOT VMOD VMOD PUNCT PUNCT
+0 1 2 1 1
+
+Phi bảo ở thời_điểm này thì Khai_Minh chưa đủ nhân_lực để đảm_nhiệm những nhiệm_vụ tại_chỗ như vậy , nhưng rồi ... sẽ nghiên_cứu .
+Nr Vv Cs Nt Pd Cp Nr R Aa Nn Cs Vv Nq Nn Aa Cs Pp PU Cp Cp PU R Vv PU
+NSUBJ ROOT PREP POBJ DET CC NSUBJ ADJUNCT CCOMP OBJ PREP PCOMP DET OBJ AMOD PREP POBJ PUNCT CC CC PUNCT ADJUNCT CONJ PUNCT
+2 0 9 3 4 9 9 9 2 9 10 11 14 12 14 14 16 9 9 19 23 23 9 2
+
+Các ông chủ trẻ của dịch_vụ báo mất vẫn yên_tâm tính hướng phát_triển , họ là những người tiên_phong mà .
+Nq Nc Nn Aa Cs Nn Vv Ve R Aa Vv Nn Vv PU Pp Vc Nq Nn Aa M PU
+DET NSUBJ CLF AMOD PREP POBJ RCMOD VMOD ADJUNCT ROOT VMOD OBJ VMOD PUNCT NSUBJ CONJ DET ATTR AMOD INTJ PUNCT
+2 10 2 2 2 5 6 7 10 0 10 11 12 10 16 10 18 16 18 18 10
+
+Lãi_ròng từ ý_tưởng của họ được tính bằng những niềm vui , và tính như vậy thì công_ty đã giàu .
+Nn Cs Nn Cs Pp Vv Vv Cs Nq Ncs Aa PU Cp Vv Cs Pp Cp Nn R Aa PU
+NSUBJ PREP POBJ PREP POBJ ROOT VMOD PREP DET POBJ CLF PUNCT CC XCOMP PREP POBJ CC NSUBJ ADJUNCT CONJ PUNCT
+6 1 2 3 4 0 6 7 10 8 10 6 6 20 14 15 20 20 20 6 6
+
+Mỗi tờ giấy chẳng sẽ mang lại ít_nhất hai nụ cười của người bị mất và người nhặt được đấy là gì .
+Nq Nn Nn R R Vv R Aa Num Nn Vv Cs Nn Vv Ve Cp Nn Vv R M M M PU
+DET NSUBJ NN ADJUNCT ADJUNCT ROOT ADJUNCT AMOD NUM OBJ VMOD PREP POBJ RCMOD VMOD CC CONJ RCMOD ADJUNCT INTJ INTJ INTJ PUNCT
+2 6 2 6 4 0 6 10 10 6 10 10 12 13 14 13 13 17 18 6 6 6 6
+
+Tờ bướm Công_ty Khai_Minh phân_phát để quảng_bá kết_thúc bằng một câu rất đẹp " một người làm việc tốt , hai người làm việc tốt ... tất_cả làm việc tốt thì cuộc_sống ngày_càng tốt_đẹp hơn " .
+Nn Nn Nn Nr Vv Cs Vv Vv Cs Num Nn R Aa PU Num Nn Vv Ncs Aa PU Num Nn Vv Ncs Aa PU Pp Vv Ncs Aa Cp Nn R Aa R PU PU
+NSUBJ NN NSUBJ NN CCOMP PREP PCOMP ROOT PREP NUM POBJ ADJUNCT AMOD PUNCT NUM NSUBJ CCOMP OBJ CLF PUNCT NUM NSUBJ CONJ OBJ CLF PUNCT NSUBJ CONJ OBJ CLF CC NSUBJ ADJUNCT CONJ ADJUNCT PUNCT PUNCT
+8 1 5 3 1 5 6 0 8 11 9 13 11 17 16 17 11 17 18 17 22 23 17 23 24 23 28 23 28 29 17 34 34 17 34 17 8
+
+Tôi chợt bật cười khi nghĩ công_việc họ đang làm là " chuyên_môn hoá " việc tốt .
+Pp R Vv Vv Nt Vv Nn Pp R Vv Vc PU Aa Sv PU Ncs Aa PU
+NSUBJ ADJUNCT ROOT VMOD NP_ADVMOD XCOMP NSUBJ NSUBJ ADJUNCT CCOMP CCOMP PUNCT VMOD SINO PUNCT OBJ CLF PUNCT
+3 3 0 3 4 5 11 10 10 7 6 13 11 13 13 13 16 3
+
+Chuyên_môn hoá là xu_hướng của phát_triển , việc tốt cũng chuyên_môn hoá thì quả_là tốt quá .
+Aa Sv Vc Nn Cs Nn PU Ncs Aa R Aa Sv Cp M Aa R PU
+VSUBJ SINO ROOT ATTR PREP POBJ PUNCT NSUBJ CLF ADJUNCT CSUBJ SINO CC INTJ CONJ ADJUNCT PUNCT
+3 1 0 3 4 5 3 11 8 11 15 11 15 15 3 15 3
+

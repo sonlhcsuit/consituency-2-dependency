@@ -1,0 +1,290 @@
+Ở số 10 phố Hàng_Mành Hà_Nội , vợ_chồng Dương_Tuấn - Ðặng_Hải_Lý , 26 tuổi , mở lớp dạy viết chữ đẹp .
+Cs Nn Nr Nun Nr Nr PU Nn Nr PU Nr PU Num Nn PU Vv Nn Vv Vv Nn Aa PU
+PREP POBJ NN PARATAXIS NN PARATAXIS PUNCT NSUBJ NN PUNCT CONJ PUNCT NUM PARATAXIS PUNCT ROOT OBJ RCMOD VMOD OBJ AMOD PUNCT
+16 1 2 2 4 4 16 16 8 9 9 9 14 9 9 0 16 17 18 19 20 16
+
+Lớp_học của họ ngày_càng thu_hút nhiều học viên .
+Nn Cs Pp R Vv Aa Vv Sv PU
+NSUBJ PREP POBJ ADJUNCT ROOT AMOD OBJ SINO PUNCT
+5 1 2 5 0 7 5 7 5
+
+Trong ngôi nhà lớn của gia_tộc họ Dương ở phố Hàng_Mành , Dương_Tuấn cho biết , nhà có truyền_thống viết chữ đẹp , nên cũng ham_mê luyện chữ đẹp .
+Cs Nc Nn Aa Cs Nn Nn Nr Cs Nun Nr PU Nr Vv Vv PU Nn Ve Nn Vv Nn Aa PU Cp R Vv Vv Nn Aa PU
+PREP POBJ CLF AMOD PREP POBJ NN NN PREP POBJ NN PUNCT NSUBJ ROOT VMOD PUNCT NSUBJ CCOMP OBJ RCMOD OBJ AMOD PUNCT CC ADJUNCT CONJ VMOD OBJ AMOD PUNCT
+14 1 2 2 2 5 6 7 2 9 10 14 14 0 14 18 18 15 18 19 20 21 18 18 26 18 26 27 28 14
+
+Anh cũng từng có ý_tưởng mở lớp dạy viết chữ đẹp từ lâu rồi .
+Pp R R Ve Nn Vv Nn Vv Vv Nn Aa Cs Aa R PU
+NSUBJ ADJUNCT ADJUNCT ROOT OBJ RCMOD OBJ RCMOD VMOD OBJ AMOD PREP PCOMP ADJUNCT PUNCT
+4 3 4 0 4 5 6 7 8 9 10 5 12 13 4
+
+Ý_tưởng của Tuấn biến thành hiện_thực ở trong một hoàn_cảnh cũng khá lý_thú .
+Nn Cs Nr Vv Vv Nn Cs Cs Num Nn R R Aa PU
+NSUBJ PREP POBJ ROOT VMOD OBJ PREP PREP NUM POBJ ADJUNCT ADJUNCT AMOD PUNCT
+4 1 2 0 4 5 5 7 10 8 12 13 10 4
+
+Đó là khi vào bộ_đội ở Quân_khu Thủ_đô , thấy Tuấn viết chữ đẹp nên ngoài luyện_tập chiến_đấu cấp trên giao cho Tuấn chuyên viết bằng_khen , giấy_khen rồi viết báo_cáo , báo_tường ...
+Pd Vc Nt Vv Nn Cs Nn Nn PU Vv Nr Vv Nn Aa Cp Cs Vv Vv Nn Nn Vv Cs Nr Aa Vv Nn PU Nn Cp Vv Nn PU Nn PU
+NSUBJ ROOT NP_ADVMOD XCOMP OBJ PREP POBJ NN PUNCT CONJ NSUBJ CCOMP OBJ AMOD CC PREP PCOMP VMOD NSUBJ NN CONJ PREP POBJ ACOMP VMOD OBJ PUNCT CONJ CC CONJ OBJ PUNCT CONJ PUNCT
+2 0 2 3 4 5 6 7 4 4 12 10 12 13 12 21 16 17 21 19 12 21 22 25 21 25 26 26 25 25 30 31 31 2
+
+Ngắm những dòng chữ nghiêng viết theo lối cũ , nét thanh , nét đậm đều tăm_tắp , mọi người mê_như_điếu_đổ .
+Vv Nq Nn Nn Aa Vv Vv Nn Aa PU Nn Aa PU Nn Aa Aa R PU Nw Nn ID PU
+XCOMP DET OBJ NN AMOD RCMOD VMOD OBJ AMOD PUNCT NSUBJ AMOD PUNCT CONJ AMOD PARATAXIS ADJUNCT PUNCT DET NSUBJ ROOT PUNCT
+21 3 1 3 3 3 6 7 8 8 16 11 11 11 14 8 16 21 20 21 0 21
+
+Thế_là lớp dạy viết chữ đẹp được mở ra , Tuấn làm giáo viên .
+Cp Nn Vv Vv Nn Aa Vv Vv R PU Nr Vv Vv Sv PU
+CC NSUBJ RCMOD VMOD OBJ AMOD ROOT VMOD ADJUNCT PUNCT NSUBJ CONJ OBJ SINO PUNCT
+7 7 2 3 4 5 0 7 8 7 12 7 12 13 7
+
+Đó là lớp dạy viết chữ đẹp đầu_tiên của anh .
+Pd Vc Nn Vv Vv Nn Aa An Cs Pp PU
+NSUBJ ROOT ATTR RCMOD VMOD OBJ AMOD AMOD PREP POBJ PUNCT
+2 0 2 3 4 5 6 3 3 9 2
+
+Hết nghĩa_vụ quân_sự , Tuấn về nhà và thi đỗ Đại_học Ngoại_ngữ , ra trường trở_thành giảng viên Đại_học Quốc_gia Hà_Nội .
+Ve Nn Nn PU Nr Vv Nn Cp Vv Vv Nn Nn PU Vv Nn Vv Vv Sv Nn Nn Nr PU
+ADVCL OBJ NN PUNCT NSUBJ ROOT OBJ CC CONJ VMOD OBJ NN PUNCT XCOMP OBJ CONJ NN SINO OBJ NN NP_ADVMOD PUNCT
+6 1 2 6 6 0 6 6 6 9 10 11 6 16 14 6 19 17 16 19 19 6
+
+Dẫu đã có chút thành_đạt , nhưng niềm đam_mê những con chữ đẹp và ý_tưởng mở lớp luyện viết chữ đẹp cho mọi người vẫn nguyên_vẹn .
+Cp R Ve Nq Nn PU Cp Ncs Vv Nq Nc Nn Aa Cp Nn Vv Nn Vv Vv Nn Aa Cs Nw Nn R Aa PU
+CC ADJUNCT ROOT DET OBJ PUNCT CC NN CLF DET NSUBJ CLF AMOD CC CONJ RCMOD OBJ RCMOD VMOD OBJ AMOD PREP DET POBJ ADJUNCT CONJ PUNCT
+3 3 0 5 3 3 3 11 8 11 26 11 11 11 11 15 16 17 18 19 20 17 24 22 26 3 3
+
+Niềm đam_mê cháy_bỏng đó đã lan sang cả người bạn_đời của anh - chị Ðặng_Hải_Lý , một cựu sinh_viên Đại_học Ngoại_thương .
+Ncs Vv Vv Pd R Vv Cs Nw Nc Nn Cs Pp PU Nn Nr PU Num Sv Nn Nn Nn PU
+NSUBJ CLF RCMOD DET ADJUNCT ROOT PREP DET NN CLF PREP POBJ PUNCT POBJ NN PUNCT NUM SINO NN PARATAXIS NN PUNCT
+6 1 1 1 6 0 6 14 14 9 14 11 14 7 14 14 20 19 20 14 20 6
+
+" Mới quen nhau , anh ấy đã dạy em cách viết chữ đẹp rồi sau đó em cũng mê luôn và khi mở lớp , em trở_thành trợ_giảng cho nhà em - " Lý kể , kèm theo một nụ cười rạng_rỡ .
+PU R Vv Nn PU Pp Pd R Vv Pp Nn Vv Nn Aa Cp Cs Pd Pp R Vv R Cp Nt Vv Nn PU Pp Vv Nn Cs Pp Pp PU PU Nn Vv PU Vv Vv Num Nn Vv Aa PU
+PUNCT ADJUNCT XCOMP OBJ PUNCT NSUBJ DET ADJUNCT CCOMP IOBJ OBJ RCMOD OBJ AMOD CC PREP POBJ NSUBJ ADJUNCT CONJ ADJUNCT CC NP_ADVMOD XCOMP OBJ PUNCT NSUBJ CONJ OBJ PREP POBJ NN PUNCT PUNCT NSUBJ ROOT PUNCT CONJ VMOD NUM OBJ VMOD AMOD PUNCT
+36 3 9 3 9 9 6 9 36 9 9 11 12 13 9 20 16 20 20 9 20 20 28 23 24 28 28 20 28 29 30 31 36 36 36 0 36 36 38 41 39 41 41 36
+
+Từ những lớp_học ngoại_ngữ , tiếng đồn về một thầy_giáo viết chữ đẹp và sẵn_lòng dạy cách viết chữ_quốc_ngữ đẹp truyền từ người này sang người khác .
+Cs Nq Nn Nn PU Nn Vv Cs Num Nn Vv Nn Aa Cp Vv Vv Nn Vv Nn Aa Vv Cs Nn Pd Cs Nn Aa PU
+PREP DET POBJ NN PUNCT NSUBJ VMOD PREP NUM NSUBJ PCOMP OBJ AMOD CC CONJ VMOD OBJ RCMOD OBJ AMOD ROOT PREP POBJ DET CONJ POBJ AMOD PUNCT
+21 3 1 3 21 21 6 6 10 11 8 11 12 11 11 15 16 17 18 19 0 21 22 23 22 25 26 21
+
+Ngày_càng có nhiều người , đủ mọi lứa tuổi , nghề_nghiệp đến theo học vợ_chồng anh .
+R Ve Aa Nn PU Aa Nw Nn Nn PU Nn Vv Vv Vv Nn Pp PU
+ADJUNCT ROOT AMOD NSUBJ PUNCT PARATAXIS DET OBJ CONJ PUNCT CONJ CCOMP VMOD VMOD OBJ NN PUNCT
+2 0 4 12 4 4 8 6 8 8 8 2 12 13 14 15 2
+
+Trong đó có không ít người là giáo_viên tiểu_học , trung_học_cơ_sở .
+Cs Pd Ve R Aa Nn Vc Nn Nn PU Nn PU
+PREP POBJ ROOT ADJUNCT AMOD NSUBJ CCOMP ATTR NN PUNCT CONJ PUNCT
+3 1 0 5 6 7 3 7 8 9 9 3
+
+Vào dịp nghỉ_hè rất đông học_sinh phổ_thông theo học .
+Cs Nn Vv R Aa Nn Nn Vv Vv PU
+PREP POBJ VMOD ADJUNCT AMOD NSUBJ NN ROOT VMOD PUNCT
+8 1 2 5 6 8 6 0 8 8
+
+Năm 2000 , Tuấn bắt_đầu mở lớp dạy viết chữ đẹp nhưng mãi đến tháng 3 năm nay mới chính_thức trương biển quảng_cáo ở mặt_phố .
+Nt Num PU Nr Vv Vv Nn Vv Vv Nn Aa Cp R Cs Nt Num Nt Nt R Aa Vv Nn Vv Cs Nn PU
+NP_ADVMOD NUM PUNCT NSUBJ ROOT VMOD OBJ RCMOD VMOD OBJ AMOD CC ADJUNCT PREP POBJ NUM NN NN ADJUNCT ACOMP CONJ OBJ VMOD PREP POBJ PUNCT
+5 1 5 5 0 5 6 7 8 9 10 5 14 21 14 15 15 17 21 21 5 21 22 22 24 5
+
+Ðến nay , vợ_chồng anh đã có hai cơ_sở dạy viết chữ đẹp , một ở Hàng_Mành và một ở phố Thái_Thịnh , thường_xuyên có năm , sáu chục học viên với mức học_phí 300 nghìn đồng một khoá học .
+Aa Nt PU Nn Pp R Ve Num Nn Vv Vv Nn Aa PU Num Cs Nr Cp Num Cs Nun Nr PU Aa Ve Num PU Num Nq Vv Sv Cs Nn Nn Num Nq Nu Num Nn Vv PU
+PREP POBJ PUNCT NSUBJ NN ADJUNCT ROOT NUM NSUBJ RCMOD VMOD OBJ AMOD PUNCT PARATAXIS PREP POBJ CC CONJ PREP POBJ NN PUNCT ACOMP CCOMP NUM PUNCT NUMBER QUANTMOD OBJ SINO PREP POBJ NN NUMBER NUM NN NUM NN VMOD PUNCT
+7 1 7 7 4 7 0 9 25 9 10 11 12 9 9 15 16 15 15 19 20 21 9 25 7 30 26 29 26 25 30 30 32 33 36 37 33 39 37 39 7
+
+Những sáng_tạo thú_vị .
+Nq Nn Aa PU
+DET ROOT AMOD PUNCT
+2 0 2 2
+
+Người bình_thường nào cũng viết được chữ đẹp , miễn_là kiên_trì và nắm được những quy_tắc cơ_bản , Tuấn - Lý khẳng_định chắc_chắn như vậy .
+Nn Aa Pd R Vv R Nn Aa PU Cp Aa Cp Vv R Nq Nn Aa PU Nr PU Nr Vv Aa Cs Pp PU
+NSUBJ AMOD DET ADJUNCT CCOMP ADJUNCT OBJ AMOD PUNCT CC CONJ CC CONJ ADJUNCT DET OBJ AMOD PUNCT NSUBJ PUNCT CONJ ROOT ACOMP PREP POBJ PUNCT
+5 1 1 5 22 5 5 7 5 5 5 11 11 13 16 13 16 22 22 19 19 0 22 22 24 22
+
+Những quy_tắc cơ_bản đó được Tuấn hình_thành và hoàn_chỉnh suốt trong quá_trình mày_mò , luyện viết các kiểu chữ đẹp theo đủ các mẫu chữ , từ kiểu viết chữ nghiêng truyền_thống của Việt_Nam đến các kiểu chữ trang_trí của Anh , Pháp ...
+Nq Nn Aa Pd Vv Nr Vv Cp Vv Aa Cs Nn Vv PU Vv Vv Nq Nn Nn Aa Vv Aa Nq Nn Nn PU Cs Nn Vv Nn Aa Aa Cs Nr Cs Nq Nn Nn Vv Cs Nr PU Nr PU
+DET NSUBJ AMOD DET ROOT NSUBJ CCOMP CC CONJ ADJP_ADVMOD PREP POBJ RCMOD PUNCT RCMOD VMOD DET OBJ NN AMOD RCMOD AMOD DET OBJ NN PUNCT PARATAXIS POBJ RCMOD OBJ AMOD AMOD PREP POBJ CONJ DET POBJ NN VMOD PREP POBJ PUNCT CONJ PUNCT
+2 5 2 2 0 7 5 7 7 7 10 11 12 12 12 15 18 16 18 18 18 24 24 21 24 18 18 27 28 29 30 30 30 33 27 37 35 37 37 37 40 41 41 5
+
+Đầu_tiên , người học phải luyện viết nét cơ_bản của các chữ_cái : nét tròn .
+Nn PU Nn Vv Vv Vv Vv Nn Aa Cs Nq Nn PU Nn Aa PU
+NP_ADVMOD PUNCT NSUBJ VMOD ROOT VMOD VMOD OBJ AMOD PREP DET POBJ PUNCT PARATAXIS AMOD PUNCT
+5 5 5 3 0 5 6 7 8 8 12 10 8 8 14 5
+
+Viết đẹp nét cơ_bản này coi như đã thành_công một nửa .
+Vv Aa Nn Aa Pd Vv Cs R Vv Num Nq PU
+VSUBJ ACOMP OBJ AMOD DET ROOT PREP ADJUNCT PCOMP OBJ DET PUNCT
+6 1 1 3 3 0 6 9 7 9 10 6
+
+Ðó là đối_với chữ thường , còn với chữ hoa , người học chỉ cần luyện viết thành_thạo hai nét cơ_bản mà theo cách gọi của Tuấn là nét thứ nhất và nét thứ hai .
+Pd Vc Cs Nn Aa PU Cp Cs Nn Nn PU Nn Vv R Vv Vv Vv Aa Num Nn Aa Cs Vv Nn Vv Cs Nr Vc Nn Nn An Cp Nn Nn An PU
+NSUBJ ROOT PREP POBJ AMOD PUNCT CC PREP POBJ NN PUNCT NSUBJ VMOD ADJUNCT CONJ VMOD VMOD ACOMP NUM OBJ AMOD MARK VMOD OBJ VMOD PREP POBJ CCOMP ATTR NN AMOD CC CONJ NN AMOD PUNCT
+2 0 2 3 4 2 2 15 8 9 15 15 12 15 2 15 16 17 20 17 20 28 28 23 24 24 26 20 28 29 30 29 29 33 34 2
+
+Khoá đào_tạo của Tuấn được sắp_xếp như sau : bốn buổi đầu , người học học cách cầm bút , tư_thế viết , luyện viết các nét cơ_bản và các chữ_cái .
+Nr Vv Cs Nr Vv Vv Cs Nn PU Num Nu Aa PU Nn Vv Vv Nn Vv Nn PU Nn Vv PU Vv Vv Nq Nn Aa Cp Nq Nn PU
+NSUBJ VMOD PREP POBJ ROOT VMOD PREP POBJ PCOMP NUM NP_ADVMOD AMOD PUNCT NSUBJ VMOD PARATAXIS OBJ RCMOD OBJ PUNCT CONJ VMOD PUNCT CONJ VMOD DET OBJ AMOD CC DET CONJ PUNCT
+5 1 1 3 0 5 6 7 7 11 16 11 16 16 14 7 16 17 18 17 17 21 16 16 24 27 25 27 27 31 27 5
+
+Các chữ_cái được gộp theo từng nhóm có nhiều nét gần_gũi nhau như : o , c , a rồi q , g , d ...
+Nq Nn Vv Vv Vv Pp Nn Ve Aa Nn Aa Nn Cs PU Nr PU Nr PU Nr Cp Nr PU Nr PU Nr PU
+DET NSUBJ ROOT VMOD VMOD DET OBJ RCMOD AMOD OBJ AMOD OBJ PARATAXIS PCOMP POBJ PUNCT CONJ PUNCT CONJ CC CONJ PUNCT CONJ PUNCT CONJ PUNCT
+2 3 0 3 4 7 5 7 10 8 10 11 7 13 13 15 15 17 17 15 15 21 21 23 23 3
+
+Buổi tiếp_theo học viết chữ hoa .
+Nt Vv Vv Vv Nn Nn PU
+NP_ADVMOD VMOD ROOT VMOD OBJ NN PUNCT
+3 1 0 3 4 5 3
+
+Hai buổi tiếp là học ghép_nối các chữ viết thuận_lợi , nghĩa_là từ chữ_cái nọ nối_liền chữ_cái kia bởi nét móc LBRK như : liếp , mình , quyển , sênh RBRK .
+Num Nu Vv Vc Vv Vv Nq Nn Vv Aa PU Vv Cs Nn Pd Vv Nn Pd Cs Nn Vv LBRK Cs PU Nn PU Nn PU Nn PU Nn RBRK PU
+NUM NSUBJ VMOD ROOT VMOD VMOD DET OBJ RCMOD ACOMP PUNCT PARATAXIS PREP POBJ DET XCOMP OBJ DET PREP POBJ VMOD PUNCT PARATAXIS PCOMP POBJ PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT PUNCT
+2 4 2 0 4 5 8 6 8 9 6 6 16 13 14 12 16 17 16 19 20 20 20 23 23 25 25 27 27 29 29 20 4
+
+Hai buổi tiếp nữa luyện viết các chữ viết không thuận_lợi tiếp_nối nhau bởi nét tròn như : oạch , oang , vọng , chồng ...
+Num Nu Vv R Vv Vv Nq Nn Vv R Aa Vv Nn Cs Nn Aa Cs PU Aa PU Aa PU Nn PU Nn PU
+NUM NSUBJ RCMOD ADJUNCT ROOT VMOD DET OBJ RCMOD ADJUNCT ACOMP VMOD OBJ PREP POBJ AMOD PARATAXIS PCOMP PCOMP PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT
+2 5 2 3 0 5 8 6 8 11 9 9 12 12 14 15 8 17 17 19 19 21 21 23 23 5
+
+Buổi tiếp_theo học ghép_nối các chữ hoa và buổi cuối_cùng là ôn_tập , tổng_hợp , dạy viết các kiểu chữ trang_trí .
+Nt Vv Vv Vv Nq Nn Nn Cp Nt Aa Vc Vv PU Vv PU Vv Vv Nq Nn Nn Vv PU
+NSUBJ VMOD ROOT VMOD DET OBJ NN CC NSUBJ AMOD CONJ VMOD PUNCT CONJ PUNCT CONJ VMOD DET OBJ NN VMOD PUNCT
+3 1 0 3 6 4 6 3 11 9 3 11 12 12 14 14 16 19 17 19 19 3
+
+Sau mười buổi luyện_tập , người học đã viết được những dòng chữ nghiêng ai trông_thấy cũng phải xiêu_lòng .
+Cs Num Nu Vv PU Nn Vv R Vv R Nq Nn Nn Aa Pp Vv R Vv Vv PU
+PREP NUM POBJ VMOD PUNCT NSUBJ VMOD ADJUNCT ROOT ADJUNCT DET OBJ NN AMOD NSUBJ CSUBJ ADJUNCT CCOMP VMOD PUNCT
+9 3 1 3 9 9 6 9 0 9 12 9 12 12 16 18 18 12 18 9
+
+Chúng_tôi lần giở những quyển vở tập viết của các học viên ở đủ mọi lứa tuổi .
+Pp Vv Vv Nq Nc Nn Vv Vv Cs Nq Vv Sv Cs Aa Nw Nn Nn PU
+NSUBJ ROOT VMOD DET OBJ CLF RCMOD VMOD PREP DET POBJ SINO PREP PCOMP DET OBJ CONJ PUNCT
+2 0 2 5 3 5 5 7 5 11 9 11 11 13 16 14 16 2
+
+Những trang đầu đều là những con chữ rời_rạc , không mấy hấp_dẫn , nhưng càng về sau các con chữ trở_nên tròn_trịa , mềm_mại và đều hơn .
+Nq Nn Aa R Vc Nq Nc Nn Aa PU R Nq Nn PU Cp R Cs Nn Nq Nc Nn Vv Aa PU Aa Cp Aa R PU
+DET NSUBJ AMOD ADJUNCT ROOT DET ATTR CLF AMOD PUNCT ADJUNCT NUM CONJ PUNCT CC ADJUNCT PREP POBJ DET NSUBJ CLF CONJ ACOMP PUNCT CONJ CC CONJ ADJUNCT PUNCT
+2 5 2 5 0 7 5 7 7 9 12 13 9 5 5 17 22 17 20 22 20 5 22 23 23 25 25 23 5
+
+Tôi giở đến những trang của buổi học thứ mười thì niềm ham_muốn viết được những dòng chữ đẹp tương_tự bỗng_nhiên dậy lên râm_ran trong người .
+Pp Vv Cs Nq Nn Cs Nt Vv Nn An Cp Ncs Vv Vv R Nq Nn Nn Aa Aa R Vv R Aa Cs Nn PU
+NSUBJ ROOT PREP DET POBJ PREP POBJ VMOD NN AMOD CC NSUBJ CLF RCMOD ADJUNCT DET OBJ NN AMOD ADJP_ADVMOD ADJUNCT CONJ ADJUNCT ACOMP PREP POBJ PUNCT
+2 0 2 5 3 5 6 7 7 9 2 22 12 12 14 17 14 17 17 19 22 2 22 22 24 25 2
+
+Tuấn cho biết , hiện_nay anh đã viết được 33 kiểu chữ khác nhau và sáng_tác được vài_ba kiểu chữ trang_trí khá đẹp_mắt .
+Nr Vv Vv PU Nt Pp R Vv R Num Nn Nn Aa Nn Cp Vv R Nq Nn Nn Vv R Aa PU
+NSUBJ ROOT VMOD PUNCT NP_ADVMOD NSUBJ ADJUNCT CCOMP ADJUNCT NUM OBJ NN AMOD OBJ CC CONJ ADJUNCT DET OBJ NN VMOD ADJUNCT AMOD PUNCT
+2 0 2 8 8 8 8 3 8 11 8 11 11 13 8 8 16 19 16 19 19 23 19 2
+
+Dạy chữ không quên dạy người .
+Vv Nn R Vv Vv Nn PU
+ROOT OBJ ADJUNCT CONJ VMOD OBJ PUNCT
+0 1 4 1 4 5 1
+
+Lớp luyện chữ của vợ_chồng Tuấn - Lý ở Hàng_Mành được bố_trí ngay trong gian thờ tổ_tiên của gia_đình .
+Nn Vv Nn Cs Nn Nr PU Nr Cs Nr Vv Vv M Cs Nn Vv Nn Cs Nn PU
+NSUBJ RCMOD OBJ PREP POBJ NN PUNCT CONJ PREP POBJ ROOT VMOD PCOMP PREP POBJ RCMOD OBJ PREP POBJ PUNCT
+11 1 2 1 4 5 6 6 1 9 0 11 14 12 14 15 16 15 18 11
+
+Những cô , cậu học_sinh ở mọi lứa tuổi chăm_chú ngồi luyện chữ bên những hoành_phi , câu_đối sơn_son_thếp_vàng đã phai mầu theo thời_gian càng làm cho không_khí lớp_học trở_nên trang_nghiêm và có sức hấp_dẫn rất riêng , rất lạ .
+Nq Nc PU Nc Nn Cs Nw Nn Nn Aa Vv Vv Nn Nn Nq Nn PU Nn ID R Vv Nn Vv Nn R Vv Cs Nn Nn Vv Aa Cp Ve Nn Vv R Aa PU R Aa PU
+DET NSUBJ PUNCT CONJ CLF PREP DET POBJ NN ACOMP RCMOD VMOD OBJ OBJ DET NN PUNCT CONJ AMOD ADJUNCT RCMOD OBJ VMOD OBJ ADJUNCT ROOT MARK NSUBJ NN CCOMP ACOMP CC CONJ OBJ VMOD ADJUNCT AMOD PUNCT ADJUNCT CONJ PUNCT
+2 26 2 2 2 2 8 6 8 11 2 11 12 11 16 14 16 16 16 21 16 21 21 23 26 0 30 30 28 26 30 30 30 33 34 37 34 37 40 37 26
+
+Hết khoá học ai muốn tiếp_tục đến ngồi cho có không_khí đều được hoan_nghênh mà không phải đóng thêm một khoản phí nào .
+Ve Nn Vv Pp Vv Vv Vv Vv Cs Ve Nn R Vv Vv Cp R Vv Vv Vv Num Nn Nn Pd PU
+VMOD OBJ VMOD NSUBJ RCMOD VMOD VMOD VMOD PREP PCOMP OBJ ADJUNCT ROOT VMOD CC ADJUNCT CONJ VMOD VMOD NUM OBJ NN DET PUNCT
+13 1 2 13 4 5 6 7 8 9 10 13 0 13 13 17 13 17 18 21 18 21 21 13
+
+Có học_sinh nổi_tiếng ngỗ_ngược ở trường , nhưng khi được bố_mẹ đưa đến đây , trải qua mấy buổi học trở_nên ngoan_ngoãn , hết khoá học không_những viết được chữ đẹp mà học_lực cũng khá hẳn lên .
+Ve Nn Aa Aa Cs Nn PU Cp Nt Vv Nn Vv Cs Pd PU Vv Cs Nq Nu Vv Vv Aa PU Ve Nn Vv Cp Vv R Nn Aa Cp Nn R Aa Aa R PU
+ROOT NSUBJ AMOD ADJP_ADVMOD PREP POBJ PUNCT CC NP_ADVMOD XCOMP NSUBJ CCOMP PREP POBJ PUNCT CONJ PREP DET POBJ VMOD CCOMP ACOMP PUNCT CONJ OBJ VMOD CC XCOMP ADJUNCT OBJ AMOD CC NSUBJ ADJUNCT CCOMP ADJP_ADVMOD ADJUNCT PUNCT
+0 21 2 3 4 5 21 21 21 9 12 10 12 13 10 10 16 19 17 19 1 21 21 21 24 25 24 24 28 28 30 24 35 35 24 35 35 1
+
+Trường_hợp đặc_biệt nhất là Nguyễn_Hải_Yến , học_sinh lớp 2E , Trường tiểu_học Thái_Thịnh .
+Nn Aa R Vc Nr PU Nn Nn Nr PU Nn Nn Nr PU
+NSUBJ AMOD ADJUNCT ROOT ATTR PUNCT PARATAXIS NN NN PUNCT PARATAXIS NN NN PUNCT
+4 1 2 0 4 5 5 7 8 8 8 11 12 4
+
+Em bị dị_tật ở mặt và luôn mặc_cảm với chính mình , thế_nhưng sau khi tham_gia khoá học , em viết chữ đẹp được thầy hiệu_trưởng tuyên_dương trước toàn trường .
+Pp Vv Nn Cs Nn Cp R Vv Cs M Pp PU Vv Cs Nt Vv Nn Vv PU Pp Vv Nn Aa Vv Nn Nn Vv Cs Nw Nn PU
+NSUBJ ROOT OBJ PREP POBJ CC ADJUNCT CONJ PREP INTJ POBJ PUNCT VMOD PREP POBJ XCOMP OBJ VMOD PUNCT NSUBJ CSUBJ OBJ AMOD CCOMP NSUBJ NN CCOMP PREP DET POBJ PUNCT
+2 0 2 3 4 2 8 2 8 11 9 2 2 24 14 15 16 17 24 21 24 21 22 2 27 25 24 27 30 28 2
+
+Thành_công đó đã giúp em vượt qua mặc_cảm tật_nguyền , sống tự_tin , hoà_đồng với mọi người .
+Nn Pd R Vv Pp Vv Cs Nn Nn PU Vv Vv PU Vv Cs Nw Nn PU
+NSUBJ DET ADJUNCT ROOT NSUBJ CCOMP PREP POBJ NN PUNCT CONJ VMOD PUNCT CONJ PREP DET POBJ PUNCT
+4 1 4 0 6 4 6 7 8 6 6 11 12 12 12 17 15 4
+
+Sức hấp_dẫn của lớp_học là do sức quyến_rũ của những con chữ đẹp , nhưng cũng là bởi cung_cách dạy_dỗ , đối_xử của vợ_chồng Tuấn - Lý đối_với người học , nhất_là các em nhỏ_tuổi .
+Nn Aa Cs Nn Vc Cs Nn Vv Cs Nq Nc Nn Aa PU Cp R Vc Cs Nn Vv PU Vv Cs Nn Nr PU Nr Cs Nn Vv PU Cp Nq Nn Aa PU
+NSUBJ AMOD PREP POBJ ROOT PREP POBJ VMOD PREP DET POBJ CLF AMOD PUNCT CC ADJUNCT CONJ PREP POBJ RCMOD PUNCT CONJ PREP POBJ NN PUNCT CONJ PREP POBJ VMOD PUNCT CC DET PARATAXIS AMOD PUNCT
+5 1 1 3 0 5 6 7 7 11 9 11 11 5 5 17 5 17 18 19 20 20 19 23 24 25 25 19 28 29 29 29 34 29 34 5
+
+Trong lớp_học không có sự doạ_dẫm , đe_nẹt mà chỉ có sự ân_cần , trìu_mến .
+Cs Nn R Ve Ncs Vv PU Vv Cp R Ve Ncs Aa PU Aa PU
+NP_ADVMOD NN ADJUNCT ROOT OBJ CLF PUNCT CONJ CC ADJUNCT CONJ OBJ CLF PUNCT CONJ PUNCT
+4 1 4 0 4 5 6 6 4 11 4 11 12 13 13 4
+
+Thầy , trò thân_ái trong từng động_tác nhỏ khi viết chữ .
+Nn PU Nn Aa Cs Pp Nn Aa Nt Vv Nn PU
+NSUBJ PUNCT CONJ ROOT PREP DET POBJ AMOD NP_ADVMOD XCOMP OBJ PUNCT
+4 1 1 0 4 7 5 7 4 9 10 4
+
+Tôi chưa thấy ở đâu người thầy kiên_nhẫn sửa từng lỗi nhỏ trong từng nét chữ của trò như ở đây .
+Pp R Vv Cs Pp Nc Nn Aa Vv Pp Nn Aa Cs Pp Nn Nn Cs Nn Cs Cs Pd PU
+NSUBJ ADJUNCT ROOT PREP POBJ NSUBJ CLF ACOMP CCOMP DET OBJ AMOD PREP DET POBJ NN PREP POBJ PREP PREP POBJ PUNCT
+3 3 0 3 4 9 6 9 5 11 9 11 11 15 13 15 15 17 3 19 20 3
+
+Cứ mỗi khi thấy nét bút của các trò hơi to hơn một_chút là Tuấn lại cặm_cụi mài lại ngòi_bút , sao cho không quá trơn để trò dễ điều_khiển , nhưng cũng không gai quá làm rách giấy .
+R Nq Nt Vv Nn Nn Cs Nq Nn R Aa R Nq Cp Nr R Aa Vv R Nn PU M Cs R R Aa Cs Nn Aa Vv PU Cp R R Aa R Vv Vv Nn PU
+ADJUNCT DET NP_ADVMOD XCOMP NSUBJ NN PREP DET POBJ ADJUNCT CCOMP ADJUNCT OBJ CC NSUBJ ADJUNCT ACOMP ROOT ADJUNCT OBJ PUNCT PCOMP PREP ADJUNCT ADJUNCT PCOMP PREP NSUBJ ACOMP PCOMP PUNCT CC ADJUNCT ADJUNCT CONJ ADJUNCT VMOD VMOD OBJ PUNCT
+3 3 18 3 11 5 5 9 7 11 4 11 11 18 18 18 18 0 18 18 18 23 18 26 24 23 26 30 30 27 26 26 34 35 26 35 35 37 38 18
+
+Lý lúc thì ân_cần sửa tư_thế ngồi cho người này , lúc thì viết mẫu lên bảng cho người khác .
+Nr Nt Cp Aa Vv Nn Vv Cs Nn Pd PU Nt Cp Vv Nn Cs Nn Cs Nn Aa PU
+DEP NP_ADVMOD CC ACOMP ROOT OBJ VMOD PREP POBJ DET PUNCT NP_ADVMOD CC CONJ OBJ PREP POBJ PREP POBJ AMOD PUNCT
+5 5 5 5 0 5 6 5 8 9 5 14 14 5 14 14 16 14 18 19 5
+
+Cả buổi dạy , đôi vợ_chồng họ không lúc nào ngơi_nghỉ nhưng nét mặt luôn tươi , giọng nói luôn nhẹ_nhàng .
+Nw Nt Vv PU Nq Nn Pp R Nt Pd Vv Cp Nn Nn R Aa PU Nn Vv R Aa PU
+DET NP_ADVMOD VMOD PUNCT DET NSUBJ NN ADJUNCT NP_ADVMOD DET ROOT CC NSUBJ NN ADJUNCT CONJ PUNCT NSUBJ VMOD ADJUNCT CONJ PUNCT
+2 11 2 11 6 11 6 9 11 9 0 11 16 13 16 11 16 21 18 21 16 11
+
+Nội_dung các bài viết để luyện chữ cũng được Tuấn chọn_lựa rất cẩn_thận từ nhiều nguồn khác nhau , phù_hợp từng lứa tuổi , hấp_dẫn mà có tính giáo_dục cao .
+Nn Nq Nn Vv Cs Vv Nn R Vv Nr Vv R Aa Cs Aa Nn Aa Nn PU Aa Pp Nn Nn PU Vv Cp Ve Nn Vv Aa PU
+NSUBJ DET NN VMOD PREP PCOMP OBJ ADJUNCT ROOT NSUBJ CCOMP ADJUNCT ACOMP PREP AMOD POBJ AMOD OBJ PUNCT AMOD DET OBJ NN PUNCT CONJ CC CONJ OBJ VMOD AMOD PUNCT
+9 3 1 3 3 5 6 9 0 11 9 13 11 11 16 14 16 17 16 16 22 20 22 9 9 25 25 27 28 28 9
+
+Nước sông Giordan chảy vào Biển_Chết .
+Nn Nn Nr Vv Cs Nr PU
+NSUBJ NN NN ROOT PREP POBJ PUNCT
+4 1 2 0 4 5 4
+
+Biển_Chết đón_nhận và giữ lại riêng cho mình mà không chia_sẻ nên nước trong biển trở_nên mặn_chát không một loài cá nào sống nổi .
+Nr Vv Cp Vv R Aa Cs Pp Cp R Vv Vv Nn Cs Nn Vv Aa R Num Nn Nn Pd Vv R PU
+NSUBJ ROOT CC CONJ ADJUNCT ACOMP PREP POBJ CC ADJUNCT CONJ VMOD NSUBJ PREP POBJ CCOMP ACOMP ADJUNCT NUM NSUBJ NN DET CCOMP ADJUNCT PUNCT
+2 0 2 2 4 4 6 7 4 11 4 2 16 13 14 2 16 19 20 23 20 20 17 23 2
+
+Biển_hồ Galilê cũng nhận nguồn nước từ sông Giordan rồi từ đó tràn qua các hồ nhỏ và sông_rạch , nhờ vậy nước trong biển_hồ này luôn sạch và mang lại sự sống cho cây_cối , muông_thú và con_người ...
+Nn Nr R Vv Nn Nn Cs Nn Nr Cp Cs Pd Vv Cs Nq Nn Aa Cp Nn PU Cs Pp Nn Cs Nn Pd R Aa Cp Vv R Ncs Vv Cs Nn PU Nn Cp Nn PU
+NSUBJ NN ADJUNCT ROOT OBJ NN PREP POBJ NN CC PREP POBJ CONJ PREP DET POBJ AMOD CC CONJ PUNCT PREP POBJ NSUBJ PREP POBJ DET ADJUNCT ADJP_ADVMOD CC CONJ ADJUNCT OBJ CLF PREP POBJ PUNCT CONJ CC CONJ PUNCT
+4 1 4 0 4 5 4 7 8 4 13 11 4 13 16 14 16 16 16 13 30 21 30 23 24 25 28 30 30 13 30 30 32 30 34 35 35 37 37 4
+
+Đấy là một đoạn trong số những bài viết ngắn mà Tuấn dùng để luyện viết chữ đẹp cho các học viên nhỏ_tuổi .
+Pd Vc Num Nn Cs Nn Nq Nn Vv Aa Cs Nr Vv Cs Vv Vv Nn Aa Cs Nq Vv Sv Aa PU
+NSUBJ ROOT NUM ATTR PREP POBJ DET NN VMOD AMOD MARK NSUBJ CCOMP PREP PCOMP VMOD OBJ AMOD PREP DET POBJ SINO AMOD PUNCT
+2 0 4 2 4 5 8 6 8 8 13 13 8 13 14 15 16 17 15 21 19 21 21 2
+
+Quả_là một đoạn văn hay và đầy tính giáo_dục .
+M Num Nn Nn Aa Cp Aa Nn Nn PU
+INTJ NUM NSUBJ NN ROOT CC CONJ OBJ NN PUNCT
+3 3 5 3 0 5 5 7 8 5
+
+Không_chỉ có thế , Tuấn sẵn_sàng dạy miễn_phí cho các học_sinh có hoàn_cảnh khó_khăn .
+Cp Ve Pp PU Nr Aa Vv Vv Cs Nq Nn Ve Nn Aa PU
+CC ROOT OBJ PUNCT NSUBJ ACOMP CONJ VMOD PREP DET POBJ RCMOD OBJ AMOD PUNCT
+2 0 2 2 7 7 2 7 7 11 9 11 12 13 2
+

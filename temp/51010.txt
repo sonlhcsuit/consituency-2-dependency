@@ -1,0 +1,310 @@
+Ngôi nhà của Ama Công .
+Nc Nn Cs Nn Nr PU
+ROOT CLF PREP POBJ NN PUNCT
+0 1 1 3 4 1
+
+Đó là ngôi nhà của một gia_đình người Kinh dưới chân núi Chư_Pah LKBT Gia_Lai RKBT .
+Pd Vc Nc Nn Cs Num Nn Nn Nr Cs Nn Nn Nr Nn Nr Nr PU
+NSUBJ ROOT ATTR CLF PREP NUM POBJ NN NN PREP POBJ NN NN NN PARATAXIS NN PUNCT
+2 0 2 3 3 7 5 7 8 3 10 11 12 12 12 12 2
+
+36 năm trôi qua , từ ngôi nhà này hàng chục chàng trai cô gái Jơ_Rai trở_về làng cũ sau khi được vợ_chồng cụ Nguyễn_Công nuôi_dưỡng từ tấm_bé đến lúc trưởng_thành .
+Num Nu Vv R PU Cs Nc Nn Pd R Nq Nc Nn Nc Nn Nr Vv Nun Aa Cs Nt Vv Nn Nn Nr Vv Cs Nn Cs Nt Vv PU
+NUM NP_ADVMOD RCMOD ADJUNCT PUNCT PREP NN CLF POBJ ADJUNCT NUM NSUBJ CLF NN CLF NN ROOT OBJ AMOD PREP POBJ XCOMP NSUBJ NN NN CCOMP PREP POBJ CONJ POBJ VMOD PUNCT
+2 17 2 3 17 17 9 7 6 11 12 17 12 12 14 12 0 17 18 17 20 21 26 23 24 22 26 27 27 29 30 17
+
+Dân_làng gọi ông là Ama LBRK cha RBRK Công - như một thành_viên của cộng_đồng Jơ_Rai thực_thụ ...
+Nn Vv Pp Cs Nn LBRK Nn RBRK Nr PU Cs Num Nn Cs Nn Nr Aa PU
+NSUBJ ROOT OBJ PREP POBJ PUNCT PARATAXIS PUNCT NN PUNCT PARATAXIS NUM POBJ PREP POBJ NN AMOD PUNCT
+2 0 2 2 4 5 5 5 5 2 2 13 11 13 14 15 13 2
+
+Vợ_chồng Ama Công đã ngoài 70 .
+Nn Nn Nr R R Num PU
+NSUBJ NN NN ADJUNCT ADJUNCT ROOT PUNCT
+6 1 2 6 6 0 6
+
+Ông_bà rời quê_hương Quảng_Ngãi lên lập_nghiệp ở Chư_Pah từ cuối năm 1968 .
+Nn Vv Nn Nr Vv Vv Cs Nr Cs Cs Nt Num PU
+NSUBJ ROOT NP_ADVMOD NN CONJ VMOD PREP POBJ PREP PREP POBJ NUM PUNCT
+2 0 2 3 2 5 6 7 6 9 10 11 2
+
+" Hồi ấy đây là vùng giao_tranh ác_liệt - ông kể - ngày nào cũng có người chết vì bom_đạn .
+PU Nt Pd Pd Vc Nn Vv Aa PU Pp Vv PU Nt Pd R Ve Nn Vv Cs Nn PU
+PUNCT NP_ADVMOD DET NSUBJ CCOMP ATTR RCMOD ACOMP PUNCT NSUBJ ROOT PUNCT NP_ADVMOD DET ADJUNCT CCOMP NSUBJ CCOMP PREP POBJ PUNCT
+11 5 2 5 11 5 6 7 11 11 0 16 16 13 16 11 18 16 18 19 11
+
+Cứ thấy trẻ_con mồ_côi là tui dẫn về nuôi .
+R Vv Nn Aa Cp Pp Vv Vv Vv PU
+ADJUNCT XCOMP OBJ AMOD CC NSUBJ ROOT VMOD VMOD PUNCT
+2 7 2 3 7 7 0 7 8 7
+
+Không nhớ chính_xác bao_nhiêu đứa nhưng nhiều lắm , mấy chục năm rồi còn gì .
+R Vv Aa Pp Nn Cp Aa R PU Nq Nq Nu R Ve Pp PU
+ADJUNCT ROOT ACOMP DET OBJ CC CONJ ADJUNCT PUNCT NUMBER NUM NP_ADVMOD ADJUNCT RCMOD OBJ PUNCT
+2 0 2 5 2 2 2 7 2 11 12 2 12 12 14 2
+
+Những đứa lớn chỉ ở với tui vài_ba năm rồi về làng để bắt chồng , bắt vợ .
+Nq Nn Aa R Vv Cs Pp Nq Nu Cp Vv Nun Cs Vv Nn PU Vv Nn PU
+DET NSUBJ AMOD ADJUNCT ROOT PREP POBJ DET NP_ADVMOD CC CONJ NP_ADVMOD PREP PCOMP OBJ PUNCT CONJ OBJ PUNCT
+2 5 2 5 0 5 6 9 5 5 5 11 11 13 14 14 14 17 5
+
+Còn những đứa nhỏ quá thì mình nuôi lâu hơn , có đứa ở với mình 15 - 20 năm .
+Cp Nq Nn Aa R Cp Pp Vv Aa R PU Ve Nn Vv Cs Pp Num PU Num Nu PU
+CC DET DEP AMOD ADJUNCT CC NSUBJ ROOT ACOMP ADJUNCT PUNCT CONJ NSUBJ CCOMP PREP POBJ NUM PUNCT CONJ NP_ADVMOD PUNCT
+8 3 8 3 4 8 8 0 8 9 8 8 14 12 14 15 20 17 17 14 8
+
+Hiện_giờ , vợ_chồng tui vẫn còn nuôi ba đứa là Rơ_Châm_Kiến , Rơ_Châm_Dâu và Rơ_Châm_Tô " .
+Nt PU Nn Pp R R Vv Num Nn Vc Nr PU Nr Cp Nr PU PU
+NP_ADVMOD PUNCT NSUBJ NN ADJUNCT ADJUNCT ROOT NUM OBJ RCMOD ATTR PUNCT CONJ CC CONJ PUNCT PUNCT
+7 7 7 3 6 7 0 9 7 9 10 11 11 13 13 7 7
+
+Mái tranh nghèo cho trẻ mồ_côi .
+Nn Nn Aa Cs Nn Aa PU
+ROOT NN AMOD PREP POBJ AMOD PUNCT
+0 1 1 1 4 5 1
+
+Cách đây 14 năm , Rơ_Châm_Yoih ở làng Buih LBRK xã Ia_Ka , Chư_Pah RBRK sinh con được ba ngày thì lên cơn sốt rồi chết vì sót nhau thai .
+Vv Pd Num Nu PU Nr Cs Nun Nr LBRK Nun Nr PU Nr RBRK Vv Pp Vv Num Nu Cp Vv Ncs Vv Cp Vv Cs Vv Nn Nn PU
+VMOD OBJ NUM OBJ PUNCT NSUBJ PREP POBJ NN PUNCT PARATAXIS NN PUNCT PARATAXIS PUNCT ROOT OBJ VMOD NUM NP_ADVMOD CC CONJ OBJ CLF CC CONJ PREP PCOMP OBJ NN PUNCT
+16 1 4 1 16 16 6 7 8 8 8 11 11 11 8 0 16 16 20 18 16 16 22 23 22 22 26 27 28 29 16
+
+Hôm ấy , ông Công đang đào giếng thuê gần đó nghe tiếng chiêng báo_hiệu làng có người chết liền chạy đến thăm .
+Nt Pd PU Nn Nr R Vv Nn Vv Aa Pd Vv Nn Nn Vv Nun Ve Nn Vv R Vv Vv Vv PU
+NP_ADVMOD DET PUNCT NSUBJ NN ADJUNCT ROOT OBJ VMOD ADJP_ADVMOD OBJ CONJ OBJ NN RCMOD NSUBJ CCOMP OBJ VMOD ADJUNCT CONJ VMOD VMOD PUNCT
+7 1 7 7 4 7 0 7 7 7 10 7 12 13 13 17 15 17 18 21 12 21 22 7
+
+Đến nơi , người_nhà và dân_làng định gác cái chân cứng_đờ của Yoih lên mặt thằng bé cho nó chết để chôn theo .
+Vv Nn PU Nn Cp Nn Vv Vv Nc Nn Aa Cs Nr Cs Nn Nc Nn Cs Pp Vv Cs Vv Vv PU
+XCOMP OBJ PUNCT NSUBJ CC CONJ ROOT VMOD OBJ CLF AMOD PREP POBJ PREP POBJ NN CLF MARK NSUBJ ADVCL PREP PCOMP VMOD PUNCT
+7 1 7 7 4 4 0 7 8 9 9 9 12 8 14 15 16 20 20 8 8 21 22 7
+
+Già_làng đã tế thần_linh , chuẩn_bị đưa hồn ma Yoih chuẩn_bị ra nhà mả .
+Nn R Vv Nn PU Vv Vv Nn Nn Nr Vv Vv Nn Nn PU
+NSUBJ ADJUNCT ROOT OBJ PUNCT CONJ VMOD OBJ NN NN CONJ VMOD OBJ NN PUNCT
+3 3 0 3 3 3 6 7 8 8 6 11 12 13 3
+
+Ông chen vào gỡ chân người sản_phụ xấu_số ra khỏi mặt thằng bé rồi quỳ xuống trước mặt già_làng : " Già_làng cho mình xin nó về , mẹ nó không muốn chôn nó theo đâu " .
+Pp Vv Cs Vv Nn Nc Nn Aa R Vv Nn Nc Nn Cp Vv R Cs Nn Nn PU PU Nn Vv Pp Vv Pp Vv PU Nn Pp R Vv Vv Pp Vv M PU PU
+NSUBJ ROOT PREP VMOD OBJ NN CLF AMOD ADJUNCT VMOD OBJ NN CLF CC CONJ ADJUNCT PREP POBJ NN PUNCT PUNCT NSUBJ CCOMP IOBJ VMOD OBJ VMOD PUNCT NSUBJ NN ADJUNCT CONJ VMOD OBJ VMOD INTJ PUNCT PUNCT
+2 0 2 2 4 5 6 6 4 4 10 11 12 2 2 15 15 17 18 23 23 23 15 23 23 25 25 23 32 29 32 23 32 33 33 33 23 2
+
+Dân_làng ngơ_ngác nhìn ông , có người gắt : " Lệ làng xưa_nay vậy rồi , không khác được , mày nuôi mà nó chết thì chịu phạt bò đấy " .
+Nn Aa Vv Pp PU Ve Nn Vv PU PU Nn Nun Nt Pp R PU R Aa R PU Pp Vv Cp Pp Vv Cp Vv Vv Nn M PU PU
+NSUBJ ACOMP ROOT OBJ PUNCT CONJ NSUBJ CCOMP PUNCT PUNCT NSUBJ NN NP_ADVMOD CCOMP ADJUNCT PUNCT ADJUNCT CONJ ADJUNCT PUNCT NSUBJ CONJ CC NSUBJ CONJ CC CONJ VMOD OBJ INTJ PUNCT PUNCT
+3 3 0 3 3 3 8 6 14 14 14 11 11 8 14 14 18 14 18 14 22 14 22 25 22 25 25 27 28 28 14 3
+
+Nhìn_thấy Ksor_Buh , cha đứa bé , đang lưỡng_lự , ông Công chỉ vào mặt người chết : " Đấy , thương con nên Yoih chết mà không nhắm mắt được , còn trợn ngược thế kia , già và dân_làng thấy không " .
+Vv Nr PU Nn Nc Nn PU R Vv PU Nn Nr Vv Cs Nn Nn Vv PU PU M PU Vv Nn Cp Nr Vv Cp R Vv Nn R PU R Vv Aa Pp Pd PU Nn Cp Nn Vv R PU PU
+XCOMP NSUBJ PUNCT PARATAXIS NN CLF PUNCT ADJUNCT CCOMP PUNCT NSUBJ NN ROOT PREP POBJ NN VMOD PUNCT PUNCT INTJ PUNCT CCOMP OBJ CC NSUBJ CONJ CC ADJUNCT CONJ OBJ ADJUNCT PUNCT ADJUNCT CONJ ACOMP OBJ DET PUNCT NSUBJ CC CONJ CONJ ADJUNCT PUNCT PUNCT
+13 9 2 2 4 5 2 9 1 13 13 11 0 13 14 15 16 22 22 22 22 13 22 22 26 22 26 29 26 29 29 29 34 29 34 34 36 26 42 39 39 26 42 22 13
+
+Nói đến đấy ông Công một tay ôm đứa bé vào lòng , một tay khấn thì_thầm rồi vuốt đôi mắt Yoih , ngay_lập_tức mắt Yoih nhắm lại .
+Vv Cs Pd Nn Nr Num Nn Vv Nc Nn Cs Nn PU Num Nn Vv Aa Cp Vv Nq Nn Nr PU R Nn Nr Vv R PU
+XCOMP PREP POBJ DEP NN NUM NSUBJ CCOMP OBJ CLF PREP POBJ PUNCT NUM NSUBJ ROOT ACOMP CC CONJ DET OBJ NN PUNCT ADJUNCT NSUBJ NN CONJ ADJUNCT PUNCT
+16 1 2 16 4 7 8 16 8 9 8 11 16 15 16 0 16 16 16 21 19 21 16 27 27 25 16 27 16
+
+Già_Làng Ksor_Oi phán : " Vậy là con Yoih đã ưng cái bụng , Yàng đã đồng_ý cho thằng Công nuôi đứa bé .
+Nn Nr Vv PU PU Pp Vc Nn Nr R Vv M Nn PU Nr R Vv Vv Nn Nr Vv Nc Nn PU
+NSUBJ NN ROOT PUNCT PUNCT NSUBJ CCOMP NSUBJ NN ADJUNCT CCOMP INTJ OBJ PUNCT NSUBJ ADJUNCT CONJ VMOD OBJ NN VMOD OBJ CLF PUNCT
+3 1 0 7 7 7 3 11 8 11 7 13 11 11 17 17 11 17 18 19 18 21 22 3
+
+Ta đặt tên cho nó là Rơ_Châm_Kiến vì con kiến chăm_chỉ kiếm_ăn , chỗ nào nó cũng sống được , nó sẽ sống với Công , nó không chết nữa , lớn lên nó sẽ tự về làng " .
+Pp Vv Nn Cs Pp Cs Nr Cs Nc Nn Aa Vv PU Nn Pd Pp R Vv R PU Pp R Vv Cs Nr PU Pp R Vv R PU Vv R Pp R Pp Vv Nun PU PU
+NSUBJ ROOT OBJ PREP POBJ PREP POBJ MARK NSUBJ CLF ACOMP ADVCL PUNCT NP_ADVMOD DET NSUBJ ADJUNCT CONJ ADJUNCT PUNCT NSUBJ ADJUNCT CONJ PREP POBJ PUNCT NSUBJ ADJUNCT CONJ ADJUNCT PUNCT ADVCL ADJUNCT NSUBJ ADJUNCT OBJ CONJ OBJ PUNCT PUNCT
+2 0 2 2 4 2 6 12 12 9 12 2 12 18 14 18 18 12 18 18 23 23 18 23 24 23 29 29 23 29 29 37 32 37 37 37 29 37 2 2
+
+Theo Tập_tục , ông Công uống một can rượu với già_làng , uống một can với Buh , cha của Kiến , và một can với dân_làng để cam_kết với làng Buih từ nay coi Kiến như con ruột mình đẻ ra rồi ẵm đứa bé xuống núi .
+Vv Nn PU Nn Nr Vv Num Nn Nn Cs Nn PU Vv Num Nn Cs Nr PU Nn Cs Nr PU Cp Num Nn Cs Nn Cs Vv Cs Nun Nr Cs Nt Vv Nr Cs Nn Aa Pp Vv R R Vv Nc Nn Vv Nn PU
+VMOD OBJ PUNCT NSUBJ NN ROOT NUM OBJ NN PREP POBJ PUNCT CONJ NUM OBJ PREP POBJ PUNCT PARATAXIS PREP POBJ PUNCT CC NUM CONJ PREP POBJ PREP PCOMP PREP POBJ NN PREP POBJ XCOMP OBJ PREP POBJ AMOD NSUBJ CCOMP ADJUNCT ADJUNCT VMOD OBJ CLF VMOD NP_ADVMOD PUNCT
+6 1 6 6 4 0 8 6 8 6 10 6 6 15 13 13 16 17 17 19 20 17 13 25 13 25 26 25 28 29 30 31 35 33 29 35 35 37 38 41 38 41 6 6 44 45 44 47 6
+
+" Giờ Nó đã 14 tuổi - Bà cụ Mậu , vợ ông Công kể - Lúc mới ẵm về thằng nhỏ đã bị nấc , nó mất sữa ba ngày , tui lật_đật lau rửa cho nó sạch_sẽ , gói trong tấm chăn rồi chạy đi xin bú nhờ .
+PU Nt Pp R Num Nn PU Nc Nn Nr PU Nn Nn Nr Vv PU Nt R Vv Vv Nn Aa R Vv Vv PU Pp Ve Nn Num Nu PU Pp Aa Vv Vv Cs Pp Aa PU Vv Cs Nc Nn Cp Vv Vv Vv Vv Vv PU
+PUNCT NP_ADVMOD NSUBJ ADJUNCT NUM CCOMP PUNCT NN CLF NN PUNCT NSUBJ NN NN ROOT PUNCT NP_ADVMOD ADJUNCT XCOMP VMOD NSUBJ AMOD ADJUNCT CCOMP VMOD PUNCT NSUBJ CONJ OBJ NUM NP_ADVMOD PUNCT NSUBJ ACOMP CONJ CONJ PREP POBJ ACOMP PUNCT CONJ PREP POBJ CLF CC CONJ VMOD VMOD VMOD VMOD PUNCT
+15 6 6 6 6 15 15 12 8 12 12 15 12 13 0 24 24 19 17 19 24 21 24 15 24 24 28 24 28 31 28 28 35 35 28 35 35 37 35 35 35 41 42 43 41 41 46 47 48 49 15
+
+May_mà hồi đó có đứa em ở gần đây , nó cũng mới sinh con , thương thằng nhỏ nên cho bú nhờ gần một tháng .
+E Nt Pd Ve Nc Nn Vv Aa Pd PU Pp R R Vv Nn PU Vv Nn Aa Cp Vv Vv Vv R Num Nu PU
+INTJ NP_ADVMOD DET ROOT OBJ CLF RCMOD ADJP_ADVMOD OBJ PUNCT NSUBJ ADJUNCT ADJUNCT CONJ OBJ PUNCT CONJ OBJ AMOD CC CONJ VMOD VMOD ADJUNCT NUM NP_ADVMOD PUNCT
+4 4 2 0 4 5 5 7 8 4 14 13 14 4 14 14 14 17 18 17 17 21 22 25 26 22 4
+
+Rồi tui rang gạo lấy nước pha sữa bò , bón cho nó từng muỗng .
+Cp Pp Vv Nn Vv Nn Vv Nn Nn PU Vv Cs Pp Pp Nn PU
+CC NSUBJ ROOT OBJ VMOD OBJ VMOD OBJ NN PUNCT CONJ PREP POBJ DET OBJ PUNCT
+3 3 0 3 3 5 5 7 8 3 3 11 12 15 11 3
+
+Mấy tháng đầu nó ốm vặt suốt , có lúc đang nửa đêm nó lên_cơn hen , sốt cao , trời thì mưa to , vợ_chồng tui gùi nó đạp xe chở xuống bệnh_viện huyện .
+Nq Nu Nn Pp Vv Aa Aa PU Ve Nt R Nq Nt Pp Vv Nn PU Vv Aa PU Nn Cp Vv Aa PU Nn Pp Vv Pp Vv Nn Vv Cs Nn Nun PU
+DET NP_ADVMOD NN NSUBJ ROOT ACOMP ACOMP PUNCT CONJ OBJ ADJUNCT DET NP_ADVMOD NSUBJ CCOMP OBJ PUNCT CONJ ACOMP PUNCT NSUBJ CC CCOMP ACOMP PUNCT NSUBJ NN CCOMP OBJ CONJ OBJ VMOD PREP POBJ NN PUNCT
+2 5 2 5 0 5 5 5 5 9 13 13 15 15 28 15 15 15 18 28 23 23 28 23 28 28 26 10 28 28 30 30 32 33 34 5
+
+Lần khác nó bị thương_hàn , ổng ở nhà đi đào giếng thuê kiếm tiền gửi xuống , tui thức cả tháng trời ở bệnh_viện chăm nó , cực lắm , kể sao xiết " .
+Nn Aa Pp Vv Nn PU Pp Vv Nn Vv Vv Nn Vv Vv Nn Vv Cs PU Pp Vv Nw Nu M Vv Nn Vv Pp PU Aa R PU Vv M Vv PU PU
+NP_ADVMOD AMOD NSUBJ ROOT OBJ PUNCT NSUBJ CONJ OBJ VMOD VMOD OBJ VMOD VMOD OBJ RCMOD PREP PUNCT NSUBJ CONJ DET NP_ADVMOD INTJ CONJ NP_ADVMOD VMOD OBJ PUNCT CONJ ADJUNCT PUNCT PARATAXIS INTJ VMOD PUNCT PUNCT
+4 1 4 0 4 4 8 4 8 8 10 11 11 11 14 15 16 8 20 8 22 20 22 20 24 24 26 24 24 29 29 29 34 32 4 4
+
+Thương_người_như_thể_thương_thân .
+ID PU
+ROOT PUNCT
+0 1
+
+" Có thích về làng Bùi không ? " .
+PU R Vv Vv Nun Nr R PU PU PU
+PUNCT ADJUNCT ROOT VMOD OBJ NN ADJUNCT PUNCT PUNCT PUNCT
+3 3 0 3 4 5 4 3 3 3
+
+Nghe tôi hỏi , Rơ_Châm_Kiến phì_cười : " Về chớ , tháng trước làng có lễ mừng lúa mới , em ở lại ba ngày ba đêm .
+Vv Pp Vv PU Nr Vv PU PU Vv M PU Nt Nn Nun Ve Nn Vv Nn Aa PU Pp Vv R Num Nu Num Nu PU
+XCOMP NSUBJ CCOMP PUNCT NSUBJ ROOT PUNCT PUNCT CCOMP INTJ PUNCT NP_ADVMOD NN NSUBJ CONJ OBJ RCMOD OBJ AMOD PUNCT NSUBJ CONJ ADJUNCT NUM NP_ADVMOD NUM CONJ PUNCT
+6 3 1 6 6 0 9 9 6 9 9 15 12 15 9 15 16 17 18 15 22 15 22 25 22 27 25 6
+
+Làng của mình mà .
+Nun Cs Pp M PU
+ROOT PREP POBJ INTJ PUNCT
+0 1 2 1 1
+
+Mấy tháng nữa em lại về làng để làm Pơ_thi LBRK lễ bỏ mả RBRK cho cha " .
+Nq Nu R Pp R Vv Nun Cs Vv Nn LBRK Nn Vv Nn RBRK Cs Nn PU PU
+DET NP_ADVMOD ADJUNCT NSUBJ ADJUNCT ROOT OBJ PREP PCOMP OBJ PUNCT PARATAXIS RCMOD OBJ PUNCT PREP POBJ PUNCT PUNCT
+2 6 2 6 6 0 6 6 8 9 10 10 12 13 10 9 16 6 6
+
+Cụ Công kể cách đây hơn một năm , ông Rơ_Châm_Buh chết sau một cơn ốm kéo dài .
+Nn Nr Vv Vv Pd R Num Nu PU Nn Nr Vv Cs Num Ncs Vv Vv Aa PU
+NSUBJ NN ROOT VMOD OBJ ADJUNCT NUM OBJ PUNCT NSUBJ NN CCOMP PREP NUM POBJ CLF RCMOD ACOMP PUNCT
+3 1 0 12 4 7 8 4 12 12 10 3 12 15 13 15 15 17 3
+
+Suốt mấy tháng trời trước đó thấy Buh khó qua_khỏi , ông Công cho Kiến về làng để được gần cha nó .
+Aa Nq Nu M Cs Pd Vv Nr Aa Vv PU Nn Nr Vv Nr Vv Nun Cs Vv Aa Nn Pp PU
+ADJP_ADVMOD DET OBJ INTJ PREP POBJ XCOMP NSUBJ CCOMP VMOD PUNCT NSUBJ NN ROOT OBJ VMOD OBJ PREP PCOMP ACOMP OBJ NN PUNCT
+7 3 1 3 3 5 14 9 7 9 14 14 12 0 14 14 16 16 18 19 20 21 14
+
+Còn ông_bà cứ năm bữa nửa tháng , dành một_ít gạo gùi sang cho .
+Cp Nn R Num Nn Nq Nu PU Vv Nq Nn Vv Vv Vv PU
+CC NSUBJ ADJUNCT NUM NP_ADVMOD DET CONJ PUNCT ROOT DET OBJ VMOD VMOD VMOD PUNCT
+9 9 5 5 9 7 5 9 0 11 9 9 12 13 9
+
+Trước lúc chết , ông Buh cứ nhìn ông Công chằm_chằm , miệng ú_ớ muốn nói gì đó nhưng không nói được .
+Cs Nt Vv PU Nn Nr R Vv Nn Nr Aa PU Nn Aa Vv Vv Pp Pd Cp R Vv R PU
+PREP POBJ VMOD PUNCT NSUBJ NN ADJUNCT ROOT OBJ NN ACOMP PUNCT NSUBJ ACOMP CONJ VMOD OBJ DET CC ADJUNCT CONJ ADJUNCT PUNCT
+8 1 2 8 8 5 8 0 8 9 8 8 15 15 8 15 16 17 15 21 15 21 8
+
+Ông Công ghé tai Buh nói một câu bằng tiếng Jơ_Rai : " Mình sẽ nuôi Kiến khôn_lớn rồi trả lại nó về làng " .
+Nn Nr Vv Nn Nr Vv Num Nn Cs Nn Nr PU PU Pp R Vv Nr Aa Cp Vv R Pp Cs Nun PU PU
+NSUBJ NN ROOT OBJ NN VMOD NUM OBJ PREP POBJ NN PUNCT PUNCT NSUBJ ADJUNCT CCOMP OBJ AMOD CC CONJ ADJUNCT OBJ PREP POBJ PUNCT PUNCT
+3 1 0 3 4 3 8 6 8 9 10 16 16 16 16 6 16 17 16 16 20 20 20 23 16 3
+
+Nghe đến đấy , đôi mắt Buh như sáng lên rồi từ_từ khép lại .
+Vv Cs Pd PU Nq Nn Nr Cs Aa R Cp Aa Vv R PU
+DEP PREP POBJ PUNCT DET NSUBJ NN ROOT PCOMP ADJUNCT CC ACOMP CONJ ADJUNCT PUNCT
+8 1 2 8 6 8 6 0 8 9 8 13 8 13 8
+
+Chính vợ_chồng cụ Công đã ở lại làng , cúng ma cho Buh hai ngày hai đêm theo tục_lệ , làm cho Buh một cái nhà_mồ thiệt đẹp , mua hai cái ghè , hai cái nồi , một cái rựa chôn theo để Buh có những thứ mang về với thế_giới Atâu làm_ăn .
+M Nn Nn Nr R Vv R Nun PU Vv Nn Cs Nr Num Nu Num Nu Vv Nn PU Vv Cs Nr Num Nc Nn R Aa PU Vv Num Nc Nn PU Num Nc Nn PU Num Nc Nn Vv Vv Cs Nr Ve Nq Nn Vv Vv Cs Nn Nn Vv PU
+INTJ NSUBJ NN NN ADJUNCT ROOT ADJUNCT OBJ PUNCT CONJ OBJ PREP POBJ NUM NP_ADVMOD NUM CONJ VMOD OBJ PUNCT CONJ PREP POBJ NUM OBJ CLF ADJUNCT AMOD PUNCT CONJ NUM OBJ CLF PUNCT NUM CONJ NN PUNCT NUM CONJ CLF RCMOD VMOD PREP NSUBJ PCOMP DET OBJ RCMOD VMOD PREP POBJ NN VMOD PUNCT
+2 6 2 3 6 0 6 6 6 6 10 10 12 15 10 17 15 10 18 10 10 21 22 25 21 25 28 25 21 21 32 30 32 32 36 32 36 36 40 36 40 40 42 30 46 44 48 46 48 49 50 51 52 50 6
+
+Rồi cũng chính cụ Công dẫn Rơ_Châm_Kiến lên rừng , tìm cây_gỗ dầu thật to , thật đẹp đốn về để đẽo tượng nhà_mồ cho Rơ_Châm_Buh .
+Cp R M Nn Nr Vv Nr Vv Nn PU Vv Nn Nn R Aa PU R Aa Vv Vv Cs Vv Nn Nn Cs Nr PU
+CC ADJUNCT INTJ NSUBJ NN ROOT OBJ VMOD NP_ADVMOD PUNCT CONJ OBJ NN ADJUNCT AMOD PUNCT ADJUNCT CONJ VMOD VMOD PREP PCOMP OBJ NN PREP POBJ PUNCT
+6 4 4 6 4 0 6 6 8 6 6 11 12 15 12 15 18 15 11 19 19 21 22 23 22 25 6
+
+Sau vụ cụ Công nhận nuôi Rơ_Châm_Kiến , mười mấy năm qua làng nào có sản_phụ chết , bà_con dân_tộc Jơ_Rai không chôn trẻ sơ_sinh theo mẹ mà chạy đến kêu vợ_chồng cụ Công .
+Cs Nn Nn Nr Vv Vv Nr PU Nq Nq Nu Aa Nun Pd Ve Nn Vv PU Nn Nn Nr R Vv Nn Aa Vv Nn Cp Vv Vv Vv Nn Nn Nr PU
+PREP POBJ NSUBJ NN CCOMP VMOD OBJ PUNCT NUM CONJ NP_ADVMOD AMOD NSUBJ DET CCOMP NSUBJ CCOMP PUNCT NSUBJ NN NN ADJUNCT ROOT OBJ AMOD VMOD OBJ CC CONJ VMOD VMOD OBJ NN NN PUNCT
+23 1 5 3 2 5 6 23 11 9 23 11 15 13 23 17 15 23 23 19 20 23 0 23 24 23 26 23 23 29 30 31 32 33 23
+
+Cũng mười mấy năm qua , bà_con dân_tộc Jơ_Rai ở khu_vực Nghĩa_Hoà , Ia_Ka và các vùng lân_cận đều gọi cụ Công là Ama Công và ngôi nhà của ông như một địa_chỉ từ_thiện .
+R Nq Nq Nu Aa PU Nn Nn Nr Cs Nn Nr PU Nr Cp Nq Nn Aa R Vv Nn Nr Cs Nn Nr Cp Nc Nn Cs Pp Cs Num Nn Aa PU
+ADJUNCT NUM CONJ NP_ADVMOD AMOD PUNCT NSUBJ NN NN PREP POBJ NN PUNCT PARATAXIS CC DET CONJ AMOD ADJUNCT ROOT OBJ NN PREP POBJ NN CC NSUBJ CLF PREP POBJ CONJ NUM POBJ AMOD PUNCT
+4 4 2 20 4 20 20 7 8 7 10 11 11 11 11 17 11 17 20 0 20 21 20 23 24 20 31 27 27 29 20 33 31 33 20
+
+Hai chị_em Rơ_Châm_Dâu , Rơ_Châm_Tô đến với gia_đình cũng là một dịp tình_cờ .
+Num Nn Nr PU Nr Vv Cs Nn R Vc Num Nn Aa PU
+NUM NSUBJ NN PUNCT CONJ CSUBJ PREP POBJ ADJUNCT ROOT NUM ATTR AMOD PUNCT
+2 6 2 3 3 10 6 7 10 0 12 10 12 10
+
+Một buổi tối , vợ_chồng và cô con gái đào giếng về muộn đã thấy một người đàn_ông Jơ_Rai ôm đứa bé đang khóc ngằn_ngặt trong tấm dồ , nép rúm_ró sau lưng cha nó là một bé gái chừng một tuổi .
+Num Nt Nt PU Nn Cp M Nn Nn Vv Nn Vv Aa R Vv Num Nc Nn Nr Vv Nc Nn R Vv Aa Cs Nc Nn PU Vv Aa Cs Nn Nn Pp Vc Num Nc Nn R Num Nn PU
+NUM NP_ADVMOD NN PUNCT NSUBJ CC INTJ CONJ NN ROOT OBJ VMOD ACOMP ADJUNCT VMOD NUM NSUBJ CLF NN CCOMP NSUBJ CLF ADJUNCT RCMOD ACOMP PREP POBJ CLF PUNCT VSUBJ ACOMP PREP POBJ NN NN CONJ NUM NN CLF ADJUNCT NUM ATTR PUNCT
+2 10 2 10 10 5 8 5 8 0 10 10 12 15 12 17 20 17 17 15 20 21 24 21 24 20 26 27 20 36 30 30 32 33 34 20 42 42 38 41 42 36 10
+
+Hỏi ra đó là ông Rmah_Rô .
+Vv R Pd Vc Nn Nr PU
+XCOMP ADJUNCT NSUBJ ROOT ATTR NN PUNCT
+4 1 4 0 4 5 4
+
+Nhà Rmah_Rô ở Ia_Phí , vợ Rô vừa chết vì thổ_tả .
+Nn Nr Vv Nr PU Nn Nr R Vv Cs Nn PU
+NSUBJ NN ROOT NP_ADVMOD PUNCT NSUBJ NN ADJUNCT CONJ PREP POBJ PUNCT
+3 1 0 3 3 9 6 9 3 9 10 3
+
+" Mình không nuôi chúng nó được mình đến gửi cho Ama Công nuôi chừng nào nó lớn thì mình đến xin về " - Rmah_Rô chỉ nói vẻn_vẹn có thế rồi giúi vội đứa bé cho bà Mậu , lóng_ngóng khoác gùi lên vai vừa bỏ_chạy vừa khóc .
+PU Pp R Vv R Pp R Pp Vv Vv Cs Nn Nr Vv Nn Pd Pp Aa Cp Pp Vv Vv Vv PU PU Nr R Vv Aa M Pp Cp Vv Aa Nc Nn Cs Nn Nr PU Aa Vv Nn Cs Nn Cp Vv Cp Vv PU
+PUNCT NSUBJ ADJUNCT CCOMP ADJUNCT OBJ ADJUNCT NSUBJ CONJ VMOD PREP NSUBJ NN PCOMP NP_ADVMOD DET NSUBJ CONJ CC NSUBJ CONJ VMOD VMOD PUNCT PUNCT NSUBJ ADJUNCT ROOT ACOMP INTJ OBJ CC CONJ ACOMP OBJ CLF PREP POBJ NN PUNCT ACOMP CONJ OBJ PREP POBJ CC CONJ CC CONJ PUNCT
+28 4 4 28 6 4 4 9 4 9 10 14 12 11 18 15 18 9 18 21 18 21 22 28 28 28 28 0 28 31 28 28 28 33 33 35 33 37 38 33 42 33 42 42 44 47 42 47 47 28
+
+Bà Mậu ôm đứa bé vào nhà vội giở ra , trời , một đứa bé trai chừng một tháng tuổi , mình_mẩy tím ngắt vì rét , vì đói sữa .
+Nn Nr Vv Nc Nn Cs Nn Aa Vv R PU E PU Num Nc Nn Nn R Num Nu Nn PU Nn Aa R Cs Aa PU Cs Vv Nn PU
+NSUBJ NN ROOT OBJ CLF PREP POBJ ACOMP CONJ ADJUNCT PUNCT INTJ PUNCT NUM NSUBJ CLF NN ADJUNCT NUM CONJ NN PUNCT NSUBJ CONJ ADJUNCT PREP PCOMP PUNCT CONJ PCOMP OBJ PUNCT
+3 1 0 3 4 3 6 9 3 9 3 20 20 15 20 15 15 19 20 3 20 20 24 20 24 24 26 26 26 29 30 3
+
+" Lúc ấy nhà đang túng tiền , ngay cả gạo trong nhà cũng chỉ có dăm_bảy ký - bà Mậu nhớ lại - thật_ra thì cũng có vài trăm bạc tiền công đào giếng nhưng người_ta chưa trả .
+PU Nt Pd Nn R Aa Nn PU M Nw Nn Cs Nn R R Ve Nq Nu PU Nn Nr Vv R PU Cp Cp R Ve Nq Nq Nn Nn Nn Vv Nn Cp Pp R Vv PU
+PUNCT NP_ADVMOD DET NSUBJ ADJUNCT CCOMP OBJ PUNCT INTJ DET NSUBJ PREP POBJ ADJUNCT ADJUNCT CONJ DET OBJ PUNCT NSUBJ NN ROOT ADJUNCT PUNCT INTJ CC ADJUNCT CCOMP DET OBJ NN NN NN RCMOD OBJ CC NSUBJ ADJUNCT CONJ PUNCT
+22 6 2 6 6 22 6 6 11 11 16 11 12 15 16 6 18 16 22 22 20 0 22 28 28 28 28 22 30 28 30 30 32 33 34 28 39 39 28 22
+
+Mấy người trong xóm bảo thôi_thì lâu_nay nuôi nhiều rồi , giờ già_yếu để người khác nuôi , nhưng khổ quá , nó còn đỏ_hỏn ai chịu nhận , mình nghĩ thôi_thì thương_người_như_thể_thương_thân " .
+Nq Nn Cs Nun Vv Cp Nt Vv Aa R PU Nt Aa Vv Nn Aa Vv PU Cp Aa R PU Pp R Aa Pp Vv Vv PU Pp Vv Cp ID PU PU
+DET NSUBJ PREP POBJ ROOT CC NP_ADVMOD CCOMP ACOMP ADJUNCT PUNCT NP_ADVMOD CONJ CONJ NSUBJ AMOD CCOMP PUNCT CC ADJP_ADVMOD ADJUNCT PUNCT NSUBJ ADJUNCT CONJ NSUBJ CONJ VMOD PUNCT NSUBJ CONJ CC DEP PUNCT PUNCT
+2 5 2 3 0 8 8 5 8 8 8 13 8 13 17 15 14 5 5 25 20 25 25 25 5 27 25 27 25 31 25 31 31 5 5
+
+Trong lúc bí , Ama Công quáng_quàng đạp xe xuống thị_trấn Phú_Hoà " thế_chấp " cái xe_đạp lấy năm lon sữa bò .
+Cs Nt Aa PU Nn Nr Aa Vv Nn Vv Nun Nr PU Vv PU Nc Nn Vv Num Nn Nn Nn PU
+PREP POBJ AMOD PUNCT NSUBJ NN ACOMP ROOT OBJ VMOD NP_ADVMOD NN PUNCT VMOD PUNCT OBJ CLF VMOD NUM OBJ CONJ NN PUNCT
+8 1 2 8 8 5 8 0 8 8 10 11 14 10 14 14 16 14 20 18 20 20 8
+
+Một tháng , hai tháng rồi ba tháng , lúc thì lấy thêm ba lon , lúc lấy năm lon , lúc vay nóng vài chục lo thuốc_thang cho hai đứa bé , cuối_cùng , biết lòng tốt của ông , chủ hiệu tạp_hoá thông_cảm " khoanh nợ " cho Ama Công , mãi hơn một năm sau ông xin trả 3 ster củi thay tiền .
+Num Nu PU Num Nu Cp Num Nu PU Nt Cp Vv Vv Num Nn PU Nt Vv Num Nn PU Nt Vv Aa Nq Nq Vv Nn Cs Num Nc Nn PU Aa PU Vv Nn Aa Cs Pp PU Nn Nn Nn Vv PU Vv Nn PU Cs Nn Nr PU R R Num Nu Nn Pp Vv Vv Num FW Nn Vv Nn PU
+NUM NP_ADVMOD PUNCT NUM CONJ CC NUM CONJ PUNCT NP_ADVMOD CC ROOT VMOD NUM OBJ PUNCT NSUBJ CONJ NUM OBJ PUNCT NSUBJ CONJ ACOMP NUMBER DEP VMOD OBJ PREP NUM POBJ CLF PUNCT ADJP_ADVMOD PUNCT ADVCL OBJ AMOD PREP POBJ PUNCT NSUBJ NN NN CONJ PUNCT VMOD OBJ PUNCT PREP POBJ NN PUNCT ADJUNCT CONJ NUM NP_ADVMOD NN NSUBJ CONJ VMOD NUM OBJ NN VMOD OBJ PUNCT
+2 12 2 5 2 5 8 5 12 12 12 0 12 15 12 12 18 12 20 18 18 23 18 23 26 23 23 27 27 31 29 31 12 45 45 45 36 37 37 39 45 45 42 43 12 47 45 47 47 47 50 51 12 56 54 57 60 57 60 12 60 63 61 63 61 65 12
+
+Bây_giờ bé chị Rơ_Châm_Dâu đang học lớp 3 , còn thằng em Rơ_Châm_Tô học lớp 1 Trường tiểu_học Nghĩa_Hoà .
+Pd Nn Nn Nr R Vv Nn An PU Cp Nc Nn Nr Vv Nn An Nn Nn Nr PU
+NP_ADVMOD NSUBJ NN NN ADJUNCT ROOT OBJ AMOD PUNCT CC NSUBJ CLF NN CONJ OBJ AMOD NN NN NN PUNCT
+6 6 2 2 6 0 6 7 6 6 14 11 11 6 14 15 15 17 18 6
+
+Buổi tối cơm xong , Rơ_Châm_Kiến chỉ các em học bài , trông thật đầm_ấm .
+Nt Nt Nn VA PU Nr Vv Nq Pp Vv Nn PU Vv R Aa PU
+NP_ADVMOD NN NN AMOD PUNCT NSUBJ ROOT DET OBJ VMOD OBJ PUNCT PARATAXIS ADJUNCT ACOMP PUNCT
+7 1 1 3 7 7 0 9 7 7 10 7 7 15 13 7
+
+" Nhà mình nghèo , nghề đào giếng là cái nghề ăn cơm dương_gian làm_việc âm_phủ .
+PU Nn Pp Aa PU Nn Vv Nn Vc M Nn Vv Nn Nn Vv Nn PU
+PUNCT NSUBJ NN ROOT PUNCT NSUBJ RCMOD OBJ CONJ INTJ ATTR RCMOD OBJ NN CONJ NP_ADVMOD PUNCT
+4 4 2 0 4 9 6 7 4 11 9 11 12 13 12 15 4
+
+Ba bốn bận đang đào giếng sâu 15 - 20 m bỗng_dưng gặp vỉa cát , đất sạt xuống , tui chới_với cố trồi đầu lên để thở .
+Num Num Nn R Vv Nn Aa Num PU Num Nu R Vv Nn Nn PU Nn Vv R PU Pp Vv Vv Vv Nn R Cs Vv PU
+NUM CONJ NP_ADVMOD ADJUNCT XCOMP OBJ AMOD NUM PUNCT CONJ OBJ ADJUNCT XCOMP OBJ NN PUNCT CONJ RCMOD ADJUNCT PUNCT NSUBJ ROOT VMOD VMOD OBJ ADJUNCT PREP PCOMP PUNCT
+3 1 13 5 3 5 6 11 8 8 7 13 22 13 14 14 14 17 18 22 22 0 22 23 24 24 24 27 22
+
+Hình_như ông trời bắt tui phải sống để nuôi trẻ dân_tộc mồ_côi - Kể đến đấy Ama Công phì_phèo nhả khói thuốc , miệng cười thật hóm - Bây_giờ tui đã bảy mốt , không còn sức đi đào giếng nữa .
+R Nc Nn Vv Pp Vv Vv Cs Vv Nn Nn Aa PU Vv Cs Pd Nn Nr Vv Vv Nn Nn PU Nn Vv R Aa PU Pd Pp R Num Nq PU R Ve Vv Vv Vv Nn R PU
+ADJUNCT NSUBJ CLF CCOMP NSUBJ CCOMP VMOD PREP PCOMP OBJ NN AMOD PUNCT XCOMP PREP POBJ NSUBJ NN ROOT VMOD OBJ NN PUNCT NSUBJ CCOMP ADJUNCT ACOMP PUNCT NP_ADVMOD NSUBJ ADJUNCT NUMBER CCOMP PUNCT ADJUNCT CONJ VMOD VMOD VMOD OBJ ADJUNCT PUNCT
+4 4 2 19 6 4 6 7 8 9 10 10 19 19 14 15 19 17 0 19 20 21 19 25 19 27 25 33 33 33 33 33 25 33 36 33 36 37 38 39 36 19
+
+Tui lo chăm mấy chục cây cà_phê mít trong vườn , lo mấy con heo , đàn gà , trồng rau , trồng củ nuôi chúng .
+Pp Vv Vv Nq Nq Nc Nn Nn Cs Nn PU Vv Nq Nc Nn PU Nn Nn PU Vv Nn PU Vv Nn Vv Pp PU
+NSUBJ ROOT VMOD DET OBJ NN CLF CLF PREP POBJ PUNCT CONJ DET OBJ CLF PUNCT CONJ NN PUNCT CONJ OBJ PUNCT CONJ OBJ VMOD OBJ PUNCT
+2 0 2 5 3 5 6 6 5 9 2 2 14 12 14 14 14 17 12 12 20 20 20 23 23 25 2
+
+Lúc ngặt , biết mình không còn đủ sức nhưng cũng nhận đi đào giếng kiếm cơm cho chúng nó .
+Nt Aa PU Vv Pp R Ve Aa Nn Cp R Vv Vv Vv Nn Vv Nn Cs R Pp PU
+NP_ADVMOD AMOD PUNCT ROOT NSUBJ ADJUNCT CCOMP ACOMP OBJ CC ADJUNCT CONJ VMOD VMOD OBJ VMOD OBJ PREP ADJUNCT POBJ PUNCT
+4 1 4 0 7 7 4 7 8 4 12 4 12 13 14 14 16 16 20 18 4
+
+Chắc vợ_chồng tui phải ráng sống chục năm nữa , lúc đó lũ nó lớn thì mình có " đi " cũng yên_lòng nhắm_mắt " ...
+M Nn Pp Vv Vv Vv Nq Nu R PU Nt Pd Nn Pp Aa Cp Pp Ve PU Vv PU R Aa Vv PU PU
+INTJ NSUBJ NN ROOT VMOD VMOD DET NP_ADVMOD ADJUNCT PUNCT NP_ADVMOD DET NSUBJ DET CONJ CC NSUBJ CONJ PUNCT VMOD PUNCT ADJUNCT CONJ VMOD PUNCT PUNCT
+4 4 2 0 4 5 8 6 6 4 15 11 15 13 4 15 18 15 18 18 20 23 18 23 4 4
+

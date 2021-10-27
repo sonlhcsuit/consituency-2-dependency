@@ -1,0 +1,310 @@
+Đường đến võ_đài ... LBRK kỳ 1 RBRK : Những " giác_đấu_sĩ " !
+Nn Vv Nn PU LBRK Nn An RBRK PU Nq PU Nn PU PU
+PARATAXIS RCMOD OBJ PUNCT PUNCT PARATAXIS AMOD PUNCT PUNCT DET PUNCT ROOT PUNCT PUNCT
+12 1 2 12 12 12 6 12 12 12 12 0 12 12
+
+Trong các môn võ_thuật từ Thiếu_lâm , boxing đến taekwondo , karate , judo ... có_lẽ không có môn võ nào sánh được với Muay_Thái về sự khốc_liệt .
+Cs Nq Nn Nn Cs Nn PU FW Cs FW PU FW PU FW PU R R Ve Nn Nn Pd Vv R Cs Nr Cs Ncs Aa PU
+PREP DET POBJ NN MARK NN PUNCT DEP MARK NN PUNCT CONJ PUNCT CONJ PUNCT ADJUNCT ADJUNCT ROOT OBJ NN DET RCMOD ADJUNCT PREP POBJ PREP POBJ CLF PUNCT
+18 3 1 3 6 3 6 6 6 6 10 10 12 12 6 17 18 0 18 19 19 19 22 22 24 22 26 27 18
+
+Thậm_chí không ít người sau khi xem đấu Muay_Thái được tận_mắt chứng_kiến các đấu_sĩ thượng_đài đã thốt lên : Đó là môn thể_thao dã_man nhất !
+R R Aa Nn Cs Nt Vv Vv Nr Vv Aa Vv Nq Nn Vv R Vv R PU Pd Vc Nn Nn Aa R PU
+ADJUNCT ADJUNCT AMOD NSUBJ PREP POBJ XCOMP VMOD OBJ CONJ ACOMP VMOD DET NSUBJ CCOMP ADJUNCT ROOT ADJUNCT PUNCT NSUBJ CCOMP ATTR NN AMOD ADJUNCT PUNCT
+17 3 4 17 17 5 6 7 8 7 12 10 14 15 12 17 0 17 21 21 17 21 22 22 24 17
+
+Nhưng ở một góc_độ khác , Muay_Thái thể_hiện trái_tim quả_cảm của các đấu_sĩ , thậm_chí chấp_nhận hy_sinh vì danh_dự và cả vì ... tiền !
+Cp Cs Num Nn Aa PU Nr Vv Nn Aa Cs Nq Nn PU R Vv Vv Cs Nn Cp M Cs PU Nn PU
+CC PREP NUM POBJ AMOD PUNCT NSUBJ ROOT OBJ AMOD PREP DET POBJ PUNCT CONJ CONJ VMOD PREP POBJ CC PCOMP CONJ PCOMP POBJ PUNCT
+8 8 4 2 4 8 8 0 8 9 9 13 11 8 8 15 16 17 18 18 22 18 22 22 8
+
+Cuộc chiến một mất , một còn ...
+Ncs Vv Num Ve PU Num Ve PU
+NN CLF ROOT RCMOD PUNCT CONJ RCMOD PUNCT
+3 1 0 3 3 3 6 3
+
+Trưa chủ_nhật một ngày đầu tháng tư , chúng_tôi chen_chúc trong dòng người xô_đẩy nhau dưới cơn mưa trái_mùa tầm_tã để vào dự_khán cuộc tỉ_thí giữa các võ_sĩ Muay_Thái .
+Nt Nt Num Nu Cs Nt Nq PU Pp Vv Cs Nn Nn Vv Nn Cs Ncs Vv Aa Aa Cs Vv Vv Ncs Vv Cs Nq Nn Nr PU
+NP_ADVMOD NN NUM NN PREP POBJ DET PUNCT NSUBJ ROOT PREP POBJ NN RCMOD OBJ PREP POBJ CLF AMOD AMOD PREP PCOMP VMOD OBJ CLF PREP DET POBJ NN PUNCT
+10 1 4 2 4 5 6 10 10 0 10 11 12 12 14 10 16 17 17 17 10 21 22 23 24 24 28 26 28 10
+
+Sàn đấu Muay_Thai Stadium 7 tại thủ_đô Bangkok , Thái_Lan có sức chứa hơn 2.000 người nằm ở khu công_viên Chatuchak gần_như không còn một chỗ trống .
+Nn Vv Nr Nr An Cs Nn Nr PU Nr Ve Nn Vv R Num Nn Vv Cs Nn Nn Nr R R Ve Num Nn Aa PU
+NSUBJ VMOD NN NN AMOD PREP POBJ NN PUNCT PARATAXIS ROOT OBJ VMOD ADJUNCT NUM NN CONJ PREP POBJ NN NN ADJUNCT ADJUNCT CONJ NUM OBJ AMOD PUNCT
+11 1 1 1 1 1 6 7 7 7 0 11 12 15 16 12 11 17 18 19 19 23 24 17 26 24 26 11
+
+Stadium 7 được xem là sàn đấu nổi_tiếng thứ ba tại Bangkok sau hai sàn Rajadamnoen và Lumphini .
+Nr An Vv Vv Cs Nn Vv Aa Nn An Cs Nr Cs Num Nn Nr Cp Nr PU
+NSUBJ AMOD ROOT VMOD PREP POBJ VMOD AMOD OBJ AMOD PREP POBJ PREP NUM POBJ NN CC CONJ PUNCT
+3 1 0 3 4 5 6 6 8 9 8 11 8 15 13 15 16 16 3
+
+Tại đây , khán_giả từng chứng_kiến cuộc thăng_hoa của võ_sĩ nổi_tiếng Somluck_Khamsing - người xuất_thân từ môn võ Muay_Thái trước khi chuyển sang đánh quyền_anh và mang về cho thể_thao Thái_Lan chiếc huy_chương vàng đầu_tiên trong một kỳ tranh tài Olympic ở Thế_vận_hội Atlanta LBRK Mỹ RBRK 1996 .
+Cs Pd PU Nn R Vv Ncs Vv Cs Nn Aa Nr PU Nn Vv Cs Nn Nn Nr Cs Nt Vv Cs Vv Nn Cp Vv Cs Cs Nn Nr Nc Nn Nn An Cs Num Nn Vv Nn FW Cs Nn Nr LBRK Nr RBRK Num PU
+PREP POBJ PUNCT NSUBJ ADJUNCT ROOT OBJ CLF PREP POBJ AMOD NN PUNCT NSUBJ PARATAXIS PREP POBJ NN NN PREP POBJ XCOMP PREP PCOMP OBJ CC CONJ PREP PREP POBJ NN OBJ CLF CLF AMOD PREP NUM POBJ RCMOD OBJ DEP PREP POBJ NN PUNCT PARATAXIS PUNCT NP_ADVMOD PUNCT
+6 1 6 6 6 0 6 7 7 9 10 10 10 15 10 15 16 17 17 15 20 21 22 23 24 15 15 27 28 29 30 27 32 32 32 32 38 36 38 39 38 38 42 43 43 43 43 38 6
+
+Xem Muay_Thái ở Thái_Lan không rẻ chút nào .
+Vv Nr Cs Nr R Aa Nq Pd PU
+VSUBJ OBJ PREP POBJ ADJUNCT ROOT OBJ DET PUNCT
+6 1 1 3 6 0 6 7 6
+
+Giá một chiếc vé hạng trung_bình ngồi chót_vót trên cao ở sàn Rajadamnoen không dưới 1.500 baht LBRK gần 50 USD RBRK .
+Nn Num Nc Nn Nn Aa Vv Aa Cs Nn Cs Nn Nr R R Num Nu LBRK R Num Nu RBRK PU
+NSUBJ NUM NN CLF NN AMOD RCMOD ACOMP PREP POBJ PREP POBJ NN ADJUNCT ADJUNCT NUM ROOT PUNCT ADJUNCT NUM PARATAXIS PUNCT PUNCT
+17 5 5 3 1 5 5 7 8 9 10 11 12 16 14 17 0 17 20 21 17 17 17
+
+Nhưng điều đặc_biệt là Stadium 7 không bán vé và khán_giả vào xem bằng giấy mời .
+Cp Ncs Aa Vc Nr An R Vv Nn Cp Nn Vv Vv Cs Nn Vv PU
+CC NSUBJ CLF ROOT NSUBJ AMOD ADJUNCT CCOMP OBJ CC NSUBJ CONJ VMOD PREP POBJ VMOD PUNCT
+4 4 2 0 8 5 8 4 8 4 12 4 12 13 14 15 4
+
+Sàn đấu tồn_tại nhờ vào tiền bán bản_quyền truyền_hình phát đi trên toàn_cầu , mà tiền thu về lên đến vài triệu baht .
+Nn Vv Vv Cs Cs Nn Vv Nn Vv Vv R Cs Nn PU Cs Nn Vv Vv Vv M Nq Nq Nu PU
+NSUBJ VMOD ROOT PREP PREP POBJ RCMOD OBJ VMOD RCMOD ADJUNCT PREP POBJ PUNCT MARK NSUBJ RCMOD VMOD CCOMP QUANTMOD NUM CONJ OBJ PUNCT
+3 1 0 3 4 5 6 7 8 8 10 10 12 3 3 19 16 17 3 21 23 21 19 3
+
+Mỗi tháng bốn lần , cứ vào các chiều chủ_nhật , Stadium 7 tổ_chức sáu trận đấu với sự tham_dự của những đấu_sĩ chuyên_nghiệp ở đủ lứa tuổi .
+Nq Nu Num Nn PU R Cs Nq Nu Nt PU Nr An Vv Num Nn Vv Cs Ncs Vv Cs Nq Nn Aa Cs Aa Nn Nn PU
+DET NP_ADVMOD NUM NN PUNCT ADJUNCT PREP DET POBJ NN PUNCT NSUBJ AMOD ROOT NUM OBJ VMOD PREP POBJ CLF PREP DET POBJ AMOD PREP PCOMP OBJ NN PUNCT
+2 14 4 2 14 7 14 9 7 9 14 14 12 0 16 14 16 16 18 19 19 23 21 23 23 25 26 27 14
+
+Tuỳ_theo mức_độ nổi_tiếng , nhưng khi thượng_đài mỗi đấu_sĩ thường nhận được trung_bình khoảng 12.000 baht LBRK 300 USD RBRK .
+Vv Nn Aa PU Cp Nt Vv Nq Nn R Vv M Aa R Num Nu LBRK Num Nu RBRK PU
+VMOD OBJ AMOD PUNCT CC NP_ADVMOD XCOMP DET NSUBJ ADJUNCT ROOT INTJ ACOMP ADJUNCT NUM OBJ PUNCT NUM PARATAXIS PUNCT PUNCT
+11 1 2 11 11 11 6 9 11 11 0 11 11 15 16 13 16 19 16 16 11
+
+Nếu thắng cuộc , họ có_thể nhận được thêm 8.000 - 12.000 baht .
+Cp Vv Nn PU Pp Aa Vv R Vv Num PU Num Nu PU
+CC ROOT OBJ PUNCT NSUBJ ACOMP CONJ ADJUNCT VMOD NUM PUNCT CONJ OBJ PUNCT
+2 0 2 2 7 7 2 7 7 13 10 10 7 2
+
+Gần một giờ nữa mới đến trận khai_mạc mà khán_đài đã chật_cứng người với đủ loại âm_thanh tạp_nham pha_trộn giữa tiếng la_hét của khán_giả , tiếng kèn_trống , tiếng loa phóng_thanh của những nhà tổ_chức ...
+R Num Nu R R Vv Nn Vv Cp Nn R Aa Nn Cs Aa Nn Nn Aa Vv Cs Nn Vv Cs Nn PU Nn Nn PU Nn Nn Vv Cs Nq Nn Vv PU
+ADJUNCT NUM NSUBJ ADJUNCT ADJUNCT ROOT OBJ VMOD CC NSUBJ ADJUNCT CONJ OBJ MARK ADJP_ADVMOD OBJ NN AMOD RCMOD PREP POBJ VMOD PREP POBJ PUNCT CONJ NN PUNCT CONJ NN VMOD PREP DET POBJ VMOD PUNCT
+2 3 6 3 6 0 6 7 6 12 12 6 12 12 12 15 16 17 17 19 20 21 21 23 21 21 26 26 26 29 30 29 34 32 34 6
+
+Khán_đài chật_ních người , nổi_bật nhất là những tay cò cá_cược la_hét ỏm_tỏi , không khó nhận ra sự có_mặt của " cò " vì trên tay họ luôn cầm một tấm bìa cứng dán trên đó 2 - 3 chiếc máy điện_thoại di_động hoặc máy bộ_đàm .
+Nn Aa Nn PU Aa R Vc Nq Nc Nn Vv Vv Aa PU R Aa Vv R Ncs Aa Cs PU Nn PU Cs Cs Nn Pp R Vv Num Nc Nn Aa Vv Cs Pd Num PU Num Nc Nn Nn Nn Cp Nn Nn PU
+NSUBJ ROOT OBJ PUNCT ASUBJ ADJUNCT CONJ DET NSUBJ CLF VMOD CCOMP ACOMP PUNCT ADJUNCT ACOMP CONJ ADJUNCT OBJ CLF PREP PUNCT POBJ PUNCT MARK PREP POBJ NSUBJ ADJUNCT ADVCL NUM OBJ CLF AMOD RCMOD PREP POBJ NUM PUNCT CONJ OBJ CLF NN NN CC CONJ NN PUNCT
+2 0 2 2 7 5 2 9 12 9 9 7 12 7 16 17 7 17 17 19 19 23 21 23 30 30 26 30 30 17 32 30 32 32 32 35 36 41 38 38 35 41 42 43 41 41 46 2
+
+Đây là các " cò " chuyên tường_thuật từ sàn đấu về cho các ông trùm ngồi nhà qua điện_thoại di_động hoặc bộ_đàm , các " cò " này là những người có kiến_thức cực_kỳ nhạy_bén về Muay_Thái , thậm_chí hơn cả các trọng_tài chấm điểm trận đấu .
+Pd Vc Nq PU Nn PU Aa Vv Cs Nn Vv Cs Cs Nq Nc Nn Vv Nn Cs Nn Nn Cp Nn PU Nq PU Nn PU Pd Vc Nq Nn Ve Nn R Aa Cs Nr PU R Vcp Nw Nq Nn Vv Nn Nn Vv PU
+NSUBJ ROOT DET PUNCT ATTR PUNCT ACOMP RCMOD PREP POBJ VMOD PREP PREP DET POBJ CLF RCMOD OBJ PREP POBJ NN CC CONJ PUNCT DET PUNCT NSUBJ PUNCT DET CONJ DET ATTR RCMOD OBJ ADJUNCT AMOD PREP POBJ PUNCT ADJUNCT PARATAXIS DET DET OBJ RCMOD OBJ NN VMOD PUNCT
+2 0 5 5 2 5 8 5 8 9 10 8 12 15 13 15 15 17 8 19 20 20 20 2 27 27 30 27 27 2 32 30 32 33 36 34 34 37 34 41 34 44 44 41 44 45 46 47 2
+
+Ðôi mắt họ luôn dán chặt lên sàn theo_dõi diễn_biến trận đấu , đồng_thời miệng liên_tục áp sát vào loa điện_thoại để " đọc " trận đấu về cho " ông chủ " và các kèo được ra không_chỉ trong phạm_vi nội_địa nước Thái mà còn khắp thế_giới , các " ông chủ " sẽ đưa ra kèo mới , báo_giá để các con_bạc sát_phạt đỏ_đen .
+Nq Nn Pp R Vv Aa Cs Nn Vv Nn Nn Vv PU R Nn Aa Vv Aa Cs Nn Nn Cs PU Vv PU Nn Vv Cs Cs PU Nc Nn PU Cp Nq Nn Vv Vv Cp Cs Nn Nn Nn Nr Cp R Aa Nn PU Nq PU Nc Nn PU R Vv R Nn Aa PU Vv Cs Nq Nn Vv Aa PU
+DET NSUBJ NN ADJUNCT ROOT ACOMP PREP POBJ VMOD OBJ NN VMOD PUNCT CONJ NSUBJ ACOMP CONJ ACOMP PREP POBJ NN PREP PUNCT PCOMP PUNCT OBJ VMOD PREP PREP PUNCT POBJ CLF PUNCT CC DET NSUBJ CONJ VMOD CC CONJ POBJ NN NN NN CC ADJUNCT CONJ OBJ PUNCT DET PUNCT NSUBJ CLF PUNCT ADJUNCT CONJ ADJUNCT OBJ AMOD PUNCT CONJ PREP DET NSUBJ PCOMP ACOMP PUNCT
+2 5 2 5 0 5 5 7 5 9 10 11 5 5 17 17 14 17 17 19 20 17 24 22 24 24 26 24 28 31 29 31 31 17 36 37 17 37 37 39 40 41 41 43 40 45 40 47 37 52 52 56 52 52 56 37 56 56 58 56 56 61 64 65 62 65 5
+
+13 g 30 , những tờ bướm công_bố sáu cặp đấu sẽ diễn_ra trong ngày được phát ra .
+Num Nt Num PU Nq Nn Nn Vv Num Nq Nn R Vv Cs Nt Vv Vv R PU
+NUM NP_ADVMOD NN PUNCT DET NSUBJ NN RCMOD NUM DET NSUBJ ADJUNCT CCOMP PREP POBJ ROOT VMOD ADJUNCT PUNCT
+2 16 2 16 6 16 6 6 11 11 13 13 8 13 14 0 16 17 16
+
+Hàng trăm cánh_tay vội_vã chìa ra xin tờ_rơi khiến sàn đấu càng trở_nên náo_nhiệt hơn .
+R Nq Nn Aa Vv R Vv Nn Vv Nn Vv R Vv Aa R PU
+ADJUNCT NUM NSUBJ ACOMP CSUBJ ADJUNCT VMOD OBJ ROOT NSUBJ VMOD ADJUNCT CCOMP ACOMP ADJUNCT PUNCT
+2 3 5 5 9 5 5 7 0 13 10 13 9 13 14 9
+
+Trận đấu đầu_tiên giữa hai võ_sĩ cùng 15 tuổi là Kaymarn_Sor_Ubdul mang biệt_danh " cọp dữ " và Kwanjai_Kieatprapat có biệt_danh " rắn lì đòn " đã được tung ra .
+Nn Vv An Cs Num Nn Aa Num Nn Vc Nr Vv Nn PU Nn Aa PU Cp Nr Ve Nn PU Nn Aa Nn PU R Vv Vv R PU
+NSUBJ VMOD AMOD PREP NUM POBJ AMOD NUM OBJ RCMOD ATTR PARATAXIS OBJ PUNCT NN AMOD PUNCT CC CONJ PARATAXIS OBJ PUNCT NN AMOD OBJ PUNCT ADJUNCT ROOT VMOD ADJUNCT PUNCT
+28 1 1 1 6 4 6 9 7 6 10 11 12 15 13 15 15 11 11 19 20 23 21 23 24 23 28 0 28 29 28
+
+" Cọp dữ " Kaymarn_Sor_Ubdul chưa hề nếm mùi thất_bại sau 15 lần thượng_đài , đồng_thời được xem là tay đấm thiếu_niên xuất_sắc nhất của Thái_Lan mặc quần xanh được xếp ở cửa trên .
+PU Nn Aa PU Nr R M Vv Nn Vv Cs Num Nn Vv PU Cp Vv Vv Cs Nn Vv Nn Aa R Cs Nr Vv Nn Aa Vv Vv Cs Nn Nn PU
+PUNCT NSUBJ AMOD PUNCT PARATAXIS ADJUNCT INTJ ROOT OBJ VMOD PREP NUM POBJ XCOMP PUNCT CC CONJ VMOD PREP POBJ VMOD NN AMOD ADJUNCT PREP POBJ CONJ OBJ AMOD CONJ VMOD PREP POBJ NN PUNCT
+2 8 2 2 2 8 8 0 8 9 8 13 11 13 8 8 8 17 18 19 20 20 20 23 20 25 17 27 28 27 30 31 32 33 8
+
+" Rắn lì đòn " Kwanjai_Kieatprapat mặc quần đỏ bị xếp ở cửa dưới .
+PU Nn Aa Nn PU Nr Vv Nn Aa Vv Vv Cs Nn Nn PU
+PUNCT NSUBJ AMOD OBJ PUNCT PARATAXIS ROOT OBJ AMOD CONJ VMOD PREP POBJ NN PUNCT
+2 7 2 3 2 2 0 7 8 7 10 11 12 13 7
+
+Cả sàn đấu vang rền tiếng hô " Ubdul ... Ubdul ... " .
+Nw Nn Vv Vv Aa Nn Vv PU Nr PU Nr PU PU PU
+DET NSUBJ VMOD ROOT ACOMP OBJ VMOD PUNCT NN PUNCT CONJ PUNCT PUNCT PUNCT
+2 4 2 0 4 4 6 9 6 9 9 9 9 4
+
+Hôm_nay , các con_bạc đã trút cạn hầu_bao đặt vào cửa " cọp dữ " Ubdul .
+Nt PU Nq Nn R Vv Aa Nn Vv Cs Nn PU Nn Aa PU Nr PU
+NP_ADVMOD PUNCT DET NSUBJ ADJUNCT ROOT ACOMP OBJ CONJ PREP POBJ PUNCT NN AMOD PUNCT PARATAXIS PUNCT
+6 6 4 6 6 0 6 6 6 9 10 13 11 13 13 13 6
+
+Đúng 13 g 45 , tiếng nhạc truyền_thống " ò e í e ... " tấu lên .
+Aa Num Nt Num PU Nn Nn Aa PU ON ON ON ON PU PU Vv R PU
+ADJP_ADVMOD NUM OBJ NN PUNCT NSUBJ NN AMOD PUNCT DEP DEP DEP DEP PUNCT PUNCT ROOT ADJUNCT PUNCT
+16 3 1 3 16 16 6 6 6 6 10 10 10 6 6 0 16 16
+
+" Cọp dữ " và " rắn lì đòn " bắt_đầu thực_hiện nghi_thức múa truyền_thống Wai-kru , bày_tỏ sự tôn_kính đối_với thầy mình .
+PU Nn Aa PU Cp PU Nn Aa Nn PU Vv Vv Nn Vv Aa Nr PU Vv Ncs Vv Cs Nn Pp PU
+PUNCT NSUBJ AMOD PUNCT CC PUNCT CONJ AMOD OBJ PUNCT ROOT VMOD OBJ VMOD AMOD NN PUNCT VMOD OBJ CLF PREP POBJ NN PUNCT
+2 11 2 2 2 7 2 7 8 7 0 11 12 13 13 13 12 12 18 19 19 21 22 11
+
+" Wai-kru " cũng là cách để tạo ra sức_mạnh tinh_thần , giúp đấu_sĩ thư_giãn , chuẩn_bị cho cơ_thể và tinh_thần trước khi nhập_cuộc .
+PU Nr PU R Vc Nn Cs Vv R Nn Nn PU Vv Nn Vv PU Vv Cs Nn Cp Nn Cs Nt Vv PU
+PUNCT NSUBJ PUNCT ADJUNCT ROOT ATTR PREP PCOMP ADJUNCT OBJ NN PUNCT CONJ NSUBJ CCOMP PUNCT CONJ PREP POBJ CC CONJ PREP POBJ XCOMP PUNCT
+2 5 2 5 0 5 6 7 8 8 10 8 8 15 13 15 15 15 18 19 19 15 22 23 5
+
+Ubdul và Kieatprapat chơi ngang_ngửa trong hai hiệp đấu đầu_tiên .
+Nr Cp Nr Vv Aa Cs Num Nu Vv An PU
+NSUBJ CC CONJ ROOT ACOMP PREP NUM POBJ VMOD AMOD PUNCT
+4 1 1 0 4 5 8 6 8 8 4
+
+Nhưng bước sang hiệp thứ ba , " rắn lì đòn " Kieatprapat đã bộc_lộ sự đuối sức .
+Cp Vv Cs Nn Nn An PU PU Nn Aa Nn PU Nr R Vv Ncs Aa Nn PU
+CC ROOT PREP POBJ NN AMOD PUNCT PUNCT CONJ AMOD OBJ PUNCT PARATAXIS ADJUNCT CONJ OBJ CLF OBJ PUNCT
+2 0 2 3 4 5 2 9 2 9 10 9 9 15 9 15 16 17 2
+
+Đôi mắt sáng , lầm_lì của anh đã biến_mất , thay vào đó là nỗi tuyệt_vọng khi liên_tiếp trúng ba đòn đá bạt hiểm_ác vào giữa mặt .
+Nn Nn Aa PU Aa Cs Pp R Vv PU Vv Cs Pd Vc Nc Vv Nt Aa Vv Num Nn Vv Vv Aa Cs Cs Nn PU
+NSUBJ NN AMOD PUNCT AMOD PREP POBJ ADJUNCT ROOT PUNCT VSUBJ PREP POBJ CONJ NN CLF ATTR ACOMP XCOMP NUM OBJ RCMOD VMOD ACOMP PREP PREP POBJ PUNCT
+9 1 1 1 1 1 6 9 0 9 14 11 12 9 17 15 14 19 17 21 19 21 22 22 22 25 26 9
+
+Liền sau đó hai cú dậm chỏ của " cọp dữ " từ trên cao khiến " rắn lì đòn " ngã vật ra giữa sàn .
+R Cs Pd Num Nn Vv Nn Cs PU Nn Aa PU Cs Nn Aa Vv PU Nn Aa Nn PU Vv Vv R Cs Nn PU
+ADJUNCT PREP POBJ NUM NSUBJ RCMOD OBJ PREP PUNCT POBJ AMOD PUNCT PREP POBJ AMOD ROOT PUNCT NSUBJ AMOD OBJ PUNCT CCOMP VMOD ADJUNCT PREP POBJ PUNCT
+2 16 2 5 16 5 6 5 10 8 10 10 5 13 14 0 18 22 18 19 18 16 22 23 23 25 16
+
+Đám đông hô to " Ubdul ... Ubdul ... " , nhưng tiếng chuông báo hết hiệp kịp cứu " rắn lì đòn " khỏi bị knock-out .
+Nn Aa Vv Aa PU Nr PU Nr PU PU PU Cp Nn Nn Vv Ve Nn Aa Vv PU Nn Aa Nn PU Vv Vv FW PU
+NSUBJ AMOD ROOT ACOMP PUNCT OBJ PUNCT CONJ PUNCT PUNCT PUNCT CC NSUBJ NN RCMOD VMOD OBJ ACOMP CONJ PUNCT OBJ AMOD OBJ PUNCT VMOD VMOD VMOD PUNCT
+3 1 0 3 6 3 6 6 6 6 3 3 19 13 13 15 16 19 3 21 19 21 22 21 19 25 26 3
+
+Nhưng đó là khoảnh_khắc gượng dậy cuối_cùng , tiếng kèn Wai-kru nghe giống tiếng kèn đám_ma .
+Cp Pd Vc Nn Vv Vv Aa PU Nn Nn Nr Vv Vv Nn Nn Nn PU
+CC NSUBJ ROOT ATTR RCMOD VMOD AMOD PUNCT NSUBJ NN NN CONJ VMOD OBJ NN NN PUNCT
+3 3 0 3 4 5 4 3 12 9 9 3 12 13 14 14 3
+
+Ngay phút đầu_tiên của hiệp thứ tư , " rắn lì đòn " đã nhận bốn cú lên gối trúng ngực và mặt , khi anh còn đang loạng_choạng thì " cọp dữ " Ubdul đã lao tới , bay người lên không_trung dùng hết lực cắm tiếp hai cú chỏ vào đỉnh đầu đối_phương .
+R Nt An Cs Nn Nn An PU PU Nn Aa Nn PU R Vv Num Nn Vv Nn Vv Nn Cp Nn PU Nt Pp R R Aa Cp PU Nn Aa PU Nr R Vv Vv PU Vv Nn Vv Nn Vv R Nn Vv Vv Num Nn Nn Cs Nn Nn Nn PU
+ADJUNCT NP_ADVMOD AMOD PREP POBJ NN AMOD PUNCT PUNCT NSUBJ AMOD OBJ PUNCT ADJUNCT ROOT NUM OBJ RCMOD OBJ RCMOD OBJ CC CONJ PUNCT NP_ADVMOD NSUBJ ADJUNCT ADJUNCT CCOMP CC PUNCT NSUBJ AMOD PUNCT PARATAXIS ADJUNCT CONJ VMOD PUNCT CONJ OBJ VMOD OBJ CONJ ADJUNCT OBJ CONJ VMOD NUM OBJ NN PREP POBJ NN NN PUNCT
+2 15 2 2 4 5 6 15 10 15 10 11 10 15 0 17 15 17 18 17 20 21 21 15 37 29 28 29 25 37 32 37 32 32 32 37 15 37 37 37 40 40 42 40 46 44 44 47 50 47 50 47 52 53 53 15
+
+" Rắn lì đòn " Kieatprapat đổ sụp xuống sàn đấu như một ngôi nhà sụp móng vỡ vụn .
+PU Nn Aa Nn PU Nr Vv Vv Vv Nn Vv Cs Num Nc Nn Vv Nn Vv Aa PU
+PUNCT NSUBJ AMOD OBJ PUNCT PARATAXIS ROOT VMOD VMOD OBJ VMOD PREP NUM POBJ CLF RCMOD OBJ VMOD ACOMP PUNCT
+2 7 2 3 2 2 0 7 7 9 10 7 14 12 14 14 16 16 18 7
+
+Trọng_tài ngay_lập_tức kéo cọp dữ Ubdul ra và tuyên_bố anh thắng knock-out !
+Nn R Vv Nn Aa Nr R Cp Vv Pp Vv Vv PU
+NSUBJ ADJUNCT ROOT OBJ AMOD PARATAXIS ADJUNCT CC CONJ NSUBJ CCOMP VMOD PUNCT
+3 3 0 3 4 4 3 3 3 11 9 11 3
+
+Cả khán_phòng như bùng_nổ , tiếng reo_hò , tung_hô , trong khi " rắn lì đòn " vẫn nằm bất_tỉnh giữa sàn đấu , chẳng ai ngó_ngàng gì đến anh .
+Nw Nn Cs Vv PU Nn Vv PU Vv PU Cs Nt PU Nn Aa Nn PU R Vv Aa Cs Nn Vv PU R Pp Vv M Cs Pp PU
+DET NSUBJ ROOT PCOMP PUNCT OBJ RCMOD PUNCT CONJ PUNCT PREP POBJ PUNCT NSUBJ AMOD OBJ PUNCT ADJUNCT CCOMP ACOMP PREP POBJ VMOD PUNCT ADJUNCT NSUBJ CONJ INTJ PREP POBJ PUNCT
+2 3 0 3 4 4 6 7 7 4 4 11 14 19 14 15 14 19 12 19 19 21 22 3 26 27 3 27 27 29 3
+
+Chúng_tôi còn chưa hoàn_hồn khi thấy bộ_phận y_tế lên khiêng " rắn lì đòn " xuống thì cặp đấu_sĩ 18 tuổi Thanasak_Sithuhubol và Sathandej_Skindeoymp xuất_hiện .
+Pp R R Vv Nt Vv Nn Nn Vv Vv PU Nn Aa Nn PU R Cp Nq Nn Num Nn Nr Cp Nr Vv PU
+NSUBJ ADJUNCT ADJUNCT ROOT NP_ADVMOD XCOMP NSUBJ NN CCOMP VMOD PUNCT OBJ AMOD OBJ PUNCT ADJUNCT CC DET NSUBJ NUM NN NN CC CONJ CONJ PUNCT
+4 3 4 0 4 5 9 7 6 9 12 10 12 13 12 10 4 19 25 21 19 19 22 22 4 4
+
+Trận đấu này dự_kiến diễn_ra trong sáu hiệp , nhưng mới được ba hiệp thì đấu_sĩ quần đỏ Skindeoymp đã trúng liền ba đòn đá giữa mặt và một đòn chỏ vào ót ngã lăn ra sàn bất_tỉnh , máu phún đầy nơi khoé miệng .
+Nn Vv Pd Vv Vv Cs Num Nn PU Cp R Vv Num Nn Cp Nn Nn Aa Nr R Vv Aa Num Nn Vv Cs Nn Cp Num Nn Nn Cs Nn Vv Vv R Nn Aa PU Nn Vv Aa Nn Nn Nn PU
+NSUBJ VMOD DET ROOT VMOD PREP NUM POBJ PUNCT CC ADJUNCT VMOD NUM OBJ CC NSUBJ NN AMOD NN ADJUNCT CONJ ACOMP NUM OBJ VMOD PREP POBJ CC NUM CONJ NN PREP POBJ CONJ VMOD ADJUNCT OBJ ACOMP PUNCT NSUBJ CONJ ACOMP OBJ NN NN PUNCT
+4 1 1 0 4 5 8 6 4 4 12 21 14 12 21 21 16 17 16 21 4 21 24 21 24 24 26 24 30 24 30 30 32 21 34 34 34 34 21 41 21 41 42 43 44 4
+
+Khán_đài lại hô vang trước sự gục_ngã của Skindeoymp .
+Nn R Vv Vv Cs Ncs Vv Cs Nr PU
+NSUBJ ADJUNCT ROOT VMOD PREP POBJ CLF PREP POBJ PUNCT
+3 3 0 3 3 5 6 6 8 3
+
+Cố_gắng lắm chúng_tôi mới xem hết trận thứ ba , cậu SV VN tên Nguyễn_Hữu_Hạnh - đang theo học khoa markerting ở Trường Đại_học ABAC - đi cùng đã kéo chúng_tôi khỏi đấu_trường .
+Vv R Pp R Vv M Nn Nn An PU Nc Nn Nr Nn Nr PU R Vv Vv Nn Nn Cs Nn Nn Nr PU Vv Aa R Vv Pp Vv Nn PU
+VMOD ADJUNCT NSUBJ ADJUNCT ROOT INTJ OBJ NN AMOD PUNCT NN CLF NSUBJ CONJ NN PUNCT ADJUNCT PARATAXIS VMOD OBJ NN PREP POBJ NN NN PUNCT CONJ ACOMP ADJUNCT CONJ OBJ VMOD OBJ PUNCT
+5 1 5 5 0 5 5 7 8 5 13 11 30 13 14 13 18 13 18 19 20 19 22 23 24 18 18 27 30 5 30 30 32 5
+
+Chúng_tôi rất ngạc_nhiên vì Hữu_Hạnh đã ở Bangkok hơn hai năm và ban_đầu anh tỏ ra rất háo_hức khi được đến đấu_trường .
+Pp R Vv Cs Nr R Vv Nr R Num Nu Cp Nn Pp Vv R R Aa Nt Vv Vv Nn PU
+NSUBJ ADJUNCT ROOT MARK NSUBJ ADJUNCT ADVCL NP_ADVMOD ADJUNCT NUM NP_ADVMOD CC NP_ADVMOD NSUBJ CONJ ADJUNCT ADJUNCT ACOMP NP_ADVMOD XCOMP VMOD OBJ PUNCT
+3 3 0 7 7 7 3 7 10 11 7 7 15 15 7 15 18 15 18 19 20 21 3
+
+Hạnh nói trong hơi thở gấp : Tôi đã hiểu vì sao các bạn SV Thái cùng trường khuyên không nên đi xem Muay_Thái , ép tim quá !
+Nr Vv Cs Nn Vv Aa PU Pp R Vv Cp Pp Nq Nc Nn Nr Aa Nn Vv R Vv Vv Vv Nr PU Vv Nn R PU
+NSUBJ ROOT PREP POBJ VMOD AMOD PUNCT NSUBJ ADJUNCT CCOMP CC DEP DET NSUBJ CLF NN AMOD OBJ CCOMP ADJUNCT VMOD VMOD VMOD OBJ PUNCT PARATAXIS OBJ ADJUNCT PUNCT
+2 0 2 3 4 4 10 10 10 2 19 19 14 19 14 14 14 17 10 21 19 21 22 23 21 21 26 26 2
+
+" Chiếc quan_tài bên sàn đấu ! ? "
+PU Nc Nn Nn Nn Nn PU PU PU
+PUNCT NN CLF ROOT NN NN PUNCT PUNCT PUNCT
+4 4 2 0 4 5 4 4 4
+
+Muay_Thái ra_đời cách đây hơn 700 năm và được hình_thành bởi những cuộc chiến chống lại những đạo_quân xâm_lăng , đó là tập_hợp những thế cận_chiến của các chiến_binh trên chiến_trường .
+Nr Vv Vv Pd R Num Nu Cp Vv Vv Cs Nq Ncs Vv Vv R Nq Nn Vv PU Pd Vc Nn Nq Nn Vv Cs Nq Nn Cs Nn PU
+NSUBJ ROOT VMOD OBJ ADJUNCT NUM OBJ CC CONJ VMOD PREP DET POBJ CLF RCMOD ADJUNCT DET OBJ RCMOD PUNCT NSUBJ CONJ ATTR DET NN VMOD PREP DET POBJ PREP POBJ PUNCT
+2 0 2 3 6 7 3 2 2 9 9 13 11 13 13 15 18 15 18 2 22 2 22 25 23 25 25 29 27 29 30 2
+
+Ông Sampong , một người am_hiểu lịch_sử Muay_Thái , cho biết : Muay_Thái ngày_xưa dã_man hơn nhiều .
+Nn Nr PU Num Nn Vv Nn Nr PU Vv Vv PU Nr Nt Aa Vcp Aa PU
+NSUBJ NN PUNCT NUM PARATAXIS RCMOD OBJ NN PUNCT ROOT VMOD PUNCT NSUBJ NP_ADVMOD CCOMP VMOD ACOMP PUNCT
+10 1 1 5 1 5 6 7 1 0 10 15 15 13 11 15 16 10
+
+Đấu_sĩ được_phép sử_dụng mọi đòn_thế , kể_cả việc đá vào hạ_bộ đối_phương và quấn băng tay nhúng keo trộn miểng thuỷ_tinh để tăng tính sát_thương khi ra đòn .
+Nn Vv Vv Nw Nn PU M Nn Vv Cs Nn Nn Cp Vv Nn Nn Vv Nn Vv Nn Nn Cs Vv Nn Vv Nt Vv Nn PU
+NSUBJ ROOT VMOD DET OBJ PUNCT INTJ PARATAXIS RCMOD PREP POBJ NN CC CONJ OBJ NN RCMOD OBJ RCMOD OBJ NN PREP PCOMP OBJ RCMOD NP_ADVMOD XCOMP OBJ PUNCT
+2 0 2 5 3 5 8 5 8 9 10 11 9 9 14 15 15 17 18 19 20 14 22 23 24 23 26 27 2
+
+Cách đây vài chục năm , những trận đánh Muay_Thái chuyên_nghiệp thường đặt sẵn một cỗ quan_tài cạnh đài , hai giác_đấu_sĩ được đưa vào sàn đấu là chiếc lồng sắt , trận đấu sẽ không có chuyện cả hai cùng bước ra khỏi lồng mà chỉ có một - là người chiến_thắng , còn kẻ bại_trận đã có sẵn cỗ quan_tài dành cho mình ! .
+Vv Pd Nq Nq Nu PU Nq Nn Vv Nr Aa R Vv Aa Num Nc Nn Nn Nn PU Num Nn Vv Vv Cs Nn Vv Vc Nc Nn Nn PU Nn Vv R R Ve Nn Nw Num Aa Vv R Vv Nn Cp R Ve Num PU Vc Nn Vv PU Cp Nn Vv R Ve Aa Nc Nn Vv Cs Pp PU PU
+ROOT OBJ NUM CONJ NN PUNCT DET NSUBJ VMOD NN AMOD ADJUNCT VMOD ACOMP NUM NN CLF OBJ NN PUNCT NUM NSUBJ CONJ VMOD PREP POBJ VMOD RCMOD NN CLF ATTR PUNCT NSUBJ VMOD ADJUNCT ADJUNCT CONJ OBJ DET NSUBJ ACOMP CCOMP ADJUNCT VMOD OBJ CC ADJUNCT CONJ DEP PUNCT PARATAXIS ATTR VMOD PUNCT CC NSUBJ VMOD ADJUNCT CONJ ACOMP OBJ CLF RCMOD PREP POBJ PUNCT PUNCT
+0 1 5 3 2 1 8 1 8 8 8 13 1 13 18 18 16 13 18 1 22 23 1 23 24 25 26 26 31 29 28 23 37 33 36 37 23 37 40 42 42 38 42 42 44 37 48 37 48 49 49 51 52 37 37 59 56 59 37 59 59 61 61 63 64 1 1
+
+Ngày_nay Muay_Thái cấm tuyệt_đối đòn dã_man có_thể dẫn đến thiệt_mạng , nhưng người xem vẫn ớn_lạnh khi chứng_kiến những cú đá ra đòn quyết_định , nhất_là cú cắm hai cùi_chỏ vào đỉnh đầu đối_phương .
+Nt Nr Vv Aa Nn Aa Aa Vv Cs Vv PU Cp Nn Vv R Vv Nt Vv Nq Nn Vv Vv Nn Vv PU Cp Nn Vv Num Nn Cs Nn Nn Nn PU
+NP_ADVMOD NSUBJ ROOT ACOMP OBJ AMOD ACOMP RCMOD PREP PCOMP PUNCT CC NSUBJ VMOD ADJUNCT CONJ NP_ADVMOD XCOMP DET OBJ VMOD RCMOD OBJ VMOD PUNCT CC PARATAXIS RCMOD NUM OBJ PREP POBJ NN NN PUNCT
+3 3 0 3 3 5 8 5 8 9 3 3 16 13 16 3 16 17 20 18 20 20 22 23 20 20 20 27 30 28 28 31 32 32 3
+
+Ông Sampong cho biết : vì tính_chất đối_kháng tự_do cho_phép các võ_sĩ sử_dụng nhiều bộ_phận trên cơ_thể ra đòn đánh đã khiến không ít người liệt Muay_Thái vào môn võ dã_man .
+Nn Nr Vv Vv PU Cs Nn Vv Aa Vv Nq Nn Vv Aa Nn Cs Nn Vv Nn Vv R Vv R Aa Nn Vv Nr Cs Nn Nn Aa PU
+NSUBJ NN ROOT VMOD PUNCT MARK NSUBJ RCMOD ACOMP RCMOD DET OBJ VMOD AMOD OBJ PREP POBJ VMOD OBJ VMOD ADJUNCT CCOMP ADJUNCT AMOD NSUBJ CCOMP OBJ PREP POBJ NN AMOD PUNCT
+3 1 0 3 4 22 22 7 8 7 12 10 10 15 13 15 16 13 18 19 22 4 24 25 26 22 26 26 28 29 29 3
+
+Nhưng với ông thì : " Tôi đã nhiều năm gắn_bó với Muay_Thái và từng chứng_kiến nhiều đấu_sĩ bị_thương nặng trên sàn đấu , nhưng chưa thấy ai chết cả .
+Cp Cs Pp Cp PU PU Pp R Aa Nu Vv Cs Nr Cp R Vv Aa Nn Vv Aa Cs Nn Vv PU Cp R Vv Pp Vv M PU
+CC PREP POBJ CC PUNCT PUNCT NSUBJ ADJUNCT AMOD NP_ADVMOD ROOT PREP POBJ CC ADJUNCT CONJ AMOD NSUBJ CCOMP ACOMP PREP POBJ VMOD PUNCT CC ADJUNCT CONJ NSUBJ CCOMP INTJ PUNCT
+11 11 2 11 11 11 11 10 10 11 0 11 12 11 16 11 18 19 16 19 19 21 22 16 16 27 16 29 27 27 11
+
+Trong một trận đấu Muay_Thái rất khó có đối_thủ thiệt_mạng khi hai đấu_sĩ có cùng cân nặng , chiều cao và kỹ_năng giao_chiến , họ che_chắn rất kỹ những chỗ hiểm ...
+Cs Num Nn Vv Nr R Aa Ve Nn Vv Nt Num Nn Ve Aa Nn Aa PU Nn Aa Cp Nn Vv PU Pp Vv R Aa Nq Nn Aa PU
+PREP NUM POBJ VMOD NN ADJUNCT ROOT VMOD NSUBJ CCOMP NP_ADVMOD NUM NSUBJ CCOMP ACOMP OBJ AMOD PUNCT CONJ AMOD CC CONJ VMOD PUNCT NSUBJ CONJ ADJUNCT ACOMP DET OBJ AMOD PUNCT
+7 3 1 3 3 7 0 7 10 8 10 13 14 11 14 15 16 16 16 19 19 19 22 7 26 7 28 26 30 26 30 7
+
+Nhưng khi chúng_tôi cho biết đã được nghe những câu_chuyện thiệt_mạng ở những sàn đấu cá_cược bất hợp_pháp tại những khu xóm lao_động ở ngoại_ô Bangkok , thì Sampong gật_gù : Do hai võ_sĩ đã chênh nhau đẳng_cấp , điều đó rất nguy_hiểm .
+Cp Nt Pp Vv Vv R Vv Vv Nq Nn Vv Cs Nq Nn Vv Vv Sv Aa Cs Nq Nn Nun Nn Cs Nn Nr PU Cp Nr Vv PU Cp Num Nn R Aa Nn Nn PU Nn Pd R Aa PU
+CC NP_ADVMOD NSUBJ CCOMP VMOD ADJUNCT XCOMP VMOD DET OBJ RCMOD PREP DET POBJ VMOD RCMOD SINO ACOMP PREP DET POBJ NN NN PREP POBJ NN PUNCT CC NSUBJ ROOT PUNCT CC NUM NSUBJ ADJUNCT CCOMP OBJ OBJ PUNCT NSUBJ DET ADJUNCT CONJ PUNCT
+30 30 4 2 4 7 5 7 10 8 10 11 14 12 14 14 18 16 14 21 19 21 21 21 24 25 30 30 30 0 36 36 34 36 36 30 36 36 36 43 40 43 36 30
+
+Luật Muay_Thái nghiêm_cấm sự chênh_lệch này .
+Nn Nr Vv Ncs Aa Pd PU
+NSUBJ NN ROOT OBJ CLF DET PUNCT
+3 1 0 3 4 4 3
+
+Nhưng với ông Amnuay_Kesbumrung - thành_viên Hội_đồng Muay_Thái thế_giới mà chúng_tôi tiếp_xúc tại MuayThai_Institute , nơi được xem là học_viện Muay_Thái lớn nhất thế_giới , gần sân_bay Don_Muong mà ông làm_chủ - thì : " Tôi đã chứng_kiến bốn trường_hợp võ_sĩ thiệt_mạng , nhưng họ không chết ngay trên sàn đấu mà chết tại bệnh_viện vì bị chấn_thương sọ não hoặc tim " .
+Cp Cs Nn Nr PU Nn Nn Nr Nn Cs Pp Vv Cs Nr PU Nn Vv Vv Cs Nn Nr Aa R Nn PU Aa Nn Nr Cs Pp Vv PU Cp PU PU Pp R Vv Num Nn Nn Vv PU Cp Pp R Vv M Cs Nn Vv Cp Vv Cs Nn Cs Vv Vv Nn Nn Cp Nn PU PU
+CC PREP POBJ NN PUNCT PARATAXIS NN NN NN MARK NSUBJ CCOMP PREP POBJ PUNCT PARATAXIS RCMOD VMOD PREP POBJ NN AMOD ADJUNCT OBJ PUNCT AMOD OBJ NN MARK NSUBJ CCOMP PUNCT CC PUNCT PUNCT NSUBJ ADJUNCT ROOT NUM OBJ NSUBJ CCOMP PUNCT CC NSUBJ ADJUNCT CONJ INTJ PREP POBJ VMOD CC CONJ PREP POBJ MARK ADVCL VMOD OBJ NN CC CONJ PUNCT PUNCT
+38 38 2 3 3 3 6 7 7 12 12 6 12 13 14 14 16 17 18 19 20 20 22 22 16 16 26 27 31 31 27 3 38 38 38 38 38 0 40 38 42 40 38 38 47 47 38 47 47 49 50 47 47 53 54 57 53 57 58 59 59 59 38 38
+
+Dù bị xem là môn võ dã_man nhưng chỉ riêng tại Bangkok đã có đến hàng ngàn trung_tâm huấn_luyện , lò luyện Muay_Thái mà thanh_thiếu_niên Thái_Lan theo học rất đông .
+Cp Vv Vv Cs Nn Nn Aa Cp R M Cs Nr R Ve M R Nq Nn Vv PU Nn Vv Nr Cs Nn Nr Vv Vv R Aa PU
+CC ROOT VMOD PREP POBJ NN AMOD CC ADJUNCT PCOMP PREP POBJ ADJUNCT CONJ QUANTMOD ADJUNCT NUM OBJ VMOD PUNCT CONJ RCMOD OBJ MARK NSUBJ NN CCOMP VMOD ADJUNCT ACOMP PUNCT
+2 0 2 3 4 5 5 2 11 11 14 11 14 2 17 17 18 14 18 18 18 21 22 27 27 25 21 27 30 27 2
+
+Theo ông Amnuay_Kesbumrung , uỷ_viên Hội_đồng Muay_Thái thế_giới , toàn nước Thái có đến hơn 10.000 trung_tâm , lò , trại huấn_luyện dạy Muay_Thái với cả triệu võ_sinh tham_gia .
+Vv Nn Nr PU Nn Nn Nr Nn PU Nw Nn Nr Ve M R Num Nn PU Nn PU Nn Vv Vv Nr Cs Nw Nq Nn Vv PU
+VMOD OBJ NN PUNCT PARATAXIS NN NN NN PUNCT DET NSUBJ NN ROOT QUANTMOD ADJUNCT NUM OBJ PUNCT CONJ PUNCT CONJ RCMOD CONJ OBJ PREP QUANTMOD NUM POBJ RCMOD PUNCT
+13 1 2 2 2 5 6 6 2 11 13 11 0 16 16 17 13 17 17 19 19 21 22 23 17 27 28 25 28 13
+
+Chúng_tôi thắc_mắc khi tiếp_xúc với nhiều công_chức , trí_thức hay sinh_viên các trường đại_học ở Bangkok , đa_số họ đều tỏ_vẻ sợ môn võ này , thậm_chí không đi xem thi_đấu , sao chỉ thấy thanh_thiếu_niên nghèo , ở nông_thôn chọn học Muay_Thái , cả ông Sampong lẫn ông Amnuay đã không chút đắn_đo , nhún_vai nói : " Ðó là con đường mà thanh_niên nông_thôn chọn_lựa để thoát nghèo và mưu_sinh tại những đô_thị lớn ...
+Pp Vv Nt Vv Cs Aa Nn PU Nn Cp Nn Nq Nn Nn Cs Nr PU Nq Pp R Vv Vv Nn Nn Pd PU R R Vv Vv Vv PU Pp R Vv Nn Aa PU Cs Nn Vv Vv Nr PU Nw Nn Nr Cp Nn Nr R R Nq Vv PU Vv Vv PU PU Nn Vc Nc Nn Cs Nn Nn Vv Cs Vv Aa Cp Vv Cs Nq Nn Aa PU
+NSUBJ ROOT NP_ADVMOD XCOMP PREP AMOD POBJ PUNCT CONJ CC CONJ DET NN NN PREP POBJ PUNCT DET NSUBJ ADJUNCT CCOMP VMOD OBJ NN DET PUNCT ADJUNCT ADJUNCT VMOD VMOD VMOD PUNCT DEP ADJUNCT CCOMP NSUBJ AMOD PUNCT PREP POBJ CCOMP VMOD OBJ PUNCT DET NSUBJ NN CC CONJ NN ADJUNCT ADJUNCT DEP CONJ PUNCT CONJ VMOD PUNCT PUNCT NSUBJ CCOMP ATTR CLF MARK NSUBJ NN CCOMP PREP PCOMP ACOMP CC CONJ PREP DET POBJ AMOD PUNCT
+2 0 2 3 4 7 5 7 7 9 9 13 11 13 13 15 21 19 21 21 2 21 22 23 23 21 21 29 21 29 30 21 35 35 21 41 36 36 36 39 35 41 42 2 46 54 46 46 46 49 52 53 54 2 54 54 56 61 61 61 57 61 62 67 67 65 62 67 68 69 69 69 72 75 73 75 2
+
+Quả_đấm và những giấc mơ đổi đời ...
+Nn Cp Nq Ncs Vv Vv Nn PU
+ROOT CC DET CONJ CLF RCMOD OBJ PUNCT
+0 1 4 1 4 4 6 1
+

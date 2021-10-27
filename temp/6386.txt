@@ -1,0 +1,220 @@
+Phiên chợ chó .
+Nc Nn Nn PU
+ROOT CLF NN PUNCT
+0 1 1 1
+
+Có bốn đại_lý tiêu_thụ chó , hình_thành một chợ chó nằm trên quốc_lộ 1A thuộc xã Điện_Phương , huyện Điện_Bàn , tỉnh Quảng_Nam .
+Ve Num Nn Vv Nn PU Vv Num Nn Nn Vv Cs Nn Nr Vv Nun Nr PU Nun Nr PU Nun Nr PU
+ROOT NUM NSUBJ RCMOD OBJ PUNCT CCOMP NUM OBJ NN RCMOD PREP POBJ NN RCMOD OBJ NN PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT
+0 3 7 3 4 7 1 9 7 9 9 11 12 13 13 15 16 16 16 19 19 19 22 1
+
+Mỗi ngày thu_gom hơn nửa tạ chó để " đánh " ra Bắc .
+Nq Nt Vv R Nq Nu Nn Cs PU Vv PU D Nn PU
+DET NP_ADVMOD ROOT ADJUNCT NUM OBJ NN PREP PUNCT PCOMP PUNCT VMOD OBJ PUNCT
+2 3 0 5 6 3 6 3 10 8 10 10 12 3
+
+Phiên chợ bắt_đầu từ 12 g - 18 g trong ngày , thời_điểm sôi_động nhất vào khoảng 16 g - 17 g , bởi đây là lúc các lái_buôn tập_trung về chợ sau một ngày đi thu_mua chó .
+Nc Nn Vv Cs Num Nt PU Num Nt Cs Nt PU Nt Vv R Vv R Num Nt PU Num Nt PU Cs Pd Vc Nt Nq Nn Vv Cs Nn Cs Num Nt Vv Vv Nn PU
+NSUBJ CLF ROOT PREP NUM POBJ PCOMP NUM POBJ PREP POBJ PUNCT NSUBJ RCMOD ADJUNCT CONJ ADJUNCT NUM OBJ PUNCT NUM CONJ PUNCT MARK NSUBJ ADVCL NP_ADVMOD DET NSUBJ CCOMP PREP POBJ PREP NUM POBJ XCOMP VMOD OBJ PUNCT
+3 1 0 3 6 4 4 9 4 4 10 3 16 13 14 3 19 19 16 19 22 19 19 26 26 19 26 29 30 27 30 31 30 35 33 35 36 37 3
+
+Hành_trình " đổi chó " .
+Nn PU Vv Nn PU PU
+ROOT PUNCT RCMOD OBJ PUNCT PUNCT
+0 1 1 3 1 1
+
+Theo ông Phạm_Yên , người có thâm_niên trên 20 năm đi đổi chó ở xã Điện_Minh , người_ta không gọi là đi " mua chó " mà gọi " đổi chó " mặc_dù là bán lấy tiền bởi lẽ người_ta nuôi chó là để giữ nhà , không dùng từ mua - bán .
+Vv Nn Nr PU Nn Ve Nn R Num Nu Vv Vv Nn Cs Nun Nr PU Pp R Vv Cs Vv PU Vv Nn PU Cp Vv PU Vv Nn PU Cp Cp Vv Vv Nn Cs Nn Pp Vv Nn Vc Cs Vv Nn PU R Vv Nn Vv PU Vv PU
+VMOD OBJ NN PUNCT PARATAXIS RCMOD OBJ ADJUNCT NUM NP_ADVMOD RCMOD VMOD OBJ PREP POBJ NN PUNCT NSUBJ ADJUNCT ROOT PREP PCOMP PUNCT VMOD OBJ PUNCT CC CONJ PUNCT VMOD OBJ PUNCT CC CC VMOD VMOD OBJ MARK CCOMP NSUBJ RCMOD OBJ CCOMP PREP PCOMP OBJ PUNCT ADJUNCT CONJ OBJ RCMOD PUNCT CONJ PUNCT
+20 1 2 2 2 5 6 9 10 7 10 11 12 10 14 15 2 20 20 0 20 21 22 22 24 22 20 20 28 28 30 28 28 28 28 35 36 39 28 43 40 41 39 43 44 45 43 49 43 49 50 51 51 20
+
+Đúng 6 g 30 , ông Yên hô lớn : " Lên_đường anh_em !_! " , lần_lượt những đôi bàn_tay rắn_chắc cầm lấy tay_lái Honda toả về khắp các ngả đường , bắt_đầu cuộc hành_trình một ngày đi đổi chó .
+Aa Num Nt Num PU Nn Nr Vv Aa PU PU Vv Nn PU PU PU R Nq Nq Nn Aa Vv Vv Nn FW Vv Vv Aa Nq Nn Nn PU Vv Nc Nn Num Nu Vv Vv Nn PU
+ADJP_ADVMOD NUM OBJ NN PUNCT NSUBJ NN ROOT ACOMP PUNCT PUNCT CCOMP NSUBJ PUNCT PUNCT PUNCT ADJUNCT DET DET NSUBJ AMOD CONJ VMOD OBJ DEP VMOD VMOD ACOMP DET OBJ NN PUNCT CONJ NN CLF NUM OBJ RCMOD VMOD OBJ PUNCT
+8 3 1 3 8 8 6 0 8 12 12 8 12 12 12 8 20 20 20 22 20 8 22 22 24 22 26 27 30 28 30 22 22 37 34 37 33 37 38 39 8
+
+Từ những khu thị_trấn sầm_uất đến những vùng nông_thôn hẻo_lánh đều có dấu chân của người đổi chó .
+Cs Nq Nn Nun Aa Cs Nq Nn Nn Aa R Ve Nn Nn Cs Nn Vv Nn PU
+PREP DET POBJ NN AMOD CONJ DET POBJ NN AMOD ADJUNCT ROOT OBJ NN PREP POBJ RCMOD OBJ PUNCT
+12 3 1 3 3 1 8 6 8 8 12 0 12 13 13 15 16 17 12
+
+Anh Trần_Văn_Lang , ở xã Điện_Phương , nói với đồng nghiệp : " Tôi đi hướng thị_xã Hội_An nhé ! " .
+Nn Nr PU Cs Nun Nr PU Vv Cs Sv Nn PU PU Pp Vv Nn Nun Nr M PU PU PU
+NSUBJ NN PUNCT PARATAXIS POBJ NN PUNCT ROOT PREP SINO POBJ PUNCT PUNCT NSUBJ CCOMP OBJ NN NN INTJ PUNCT PUNCT PUNCT
+8 1 1 1 4 5 1 0 8 11 9 15 15 15 8 15 16 17 15 15 15 8
+
+Anh_em Bùi_A , Bùi_B LBRK ở xã Duy_Phước , huyện Duy_Xuyên RBRK cho biết hôm_nay hai anh_em đi hướng huyện Thăng_Bình và hàng chục người đi đổi chó cũng thông_báo địa_điểm hướng đi để khỏi chạm_trán trong ngày .
+Nn Nr PU Nr LBRK Cs Nun Nr PU Nun Nr RBRK Vv Vv Nt Num Nn Vv Nn Nun Nr Cp R Nq Nn Vv Vv Nn R Vv Nn Nn Vv Cs Vv Vv Cs Nt PU
+NSUBJ NN PUNCT CONJ PUNCT PARATAXIS POBJ NN PUNCT PARATAXIS NN PUNCT ROOT VMOD NP_ADVMOD NUM NSUBJ CCOMP NP_ADVMOD NN NN CC ADJUNCT NUM NSUBJ RCMOD VMOD OBJ ADJUNCT CONJ OBJ NN VMOD PREP PCOMP VMOD PREP POBJ PUNCT
+13 1 2 2 1 1 6 7 7 7 10 1 0 13 18 17 18 14 18 19 20 13 24 25 30 25 26 27 30 13 30 31 32 30 34 35 36 37 13
+
+Anh_em Bùi_A , Bùi_B đi dọc quốc_lộ 1A vào hướng Thăng_Bình , đến thị_trấn Nam_Phước LBRK Duy_Xuyên RBRK , có tiếng gọi lớn từ trong ngôi nhà bên đường : " Đổi chó , đổi chó " .
+Nn Nr PU Nr Vv Aa Nn Nr Vv Nn Nr PU Vv Nun Nr LBRK Nr RBRK PU Ve Nn Vv Aa Cs Cs Nc Nn Nn Nn PU PU Vv Nn PU Vv Nn PU PU
+NSUBJ NN PUNCT CONJ ROOT ACOMP NP_ADVMOD NN VMOD OBJ NN PUNCT XCOMP OBJ NN PUNCT PARATAXIS PUNCT PUNCT CONJ OBJ RCMOD ACOMP PREP PREP NN CLF POBJ NN PUNCT PUNCT CCOMP OBJ PUNCT CONJ OBJ PUNCT PUNCT
+5 1 2 2 0 5 6 7 5 9 10 5 20 13 14 14 14 14 20 5 20 21 22 22 24 28 26 25 28 32 32 22 32 32 32 35 32 5
+
+Chiếc xe chưa kịp dừng hẳn , một bé trai chạy ra , cất giọng : " Vào nhà ba cháu đổi con Vàng " .
+Nc Nn R Aa Vv Aa PU Num Nc Nn Vv R PU Vv Nn PU PU Vv Nn Nn Pp Vv Nn Nr PU PU
+NSUBJ CLF ADJUNCT ROOT VMOD ACOMP PUNCT NUM NSUBJ CLF CONJ ADJUNCT PUNCT CONJ OBJ PUNCT PUNCT CCOMP OBJ NSUBJ NN CONJ OBJ NN PUNCT PUNCT
+4 1 4 0 4 5 4 9 11 9 4 11 11 11 14 18 18 14 18 22 20 18 22 23 14 4
+
+Sau khi thoả_thuận giá_cả 10.000 đồng_[]_kg , công_việc còn_lại của anh_em Bùi_A là bắt chó vào rọ .
+Cs Nt Nn Nn Num Nu PU Nn Ve Cs Nn Nr Vc Vv Nn D Nn PU
+PREP POBJ XCOMP OBJ NUM NN PUNCT NSUBJ VMOD PREP POBJ NN ROOT VMOD OBJ VMOD OBJ PUNCT
+13 1 2 3 6 4 13 13 8 8 10 11 0 13 14 14 16 13
+
+Bữa ăn " sang_trọng " cuối_cùng mà ông chủ Phạm_Tuấn dành cho chú Vàng yêu_quí gồm : cơm , cá , thịt heo ... để tiễn " người bạn tri_âm " 10 năm chung sống .
+Nn Vv PU Aa PU Aa Cs Nc Nn Nr Vv Cs Nn Nr Vv Vv PU Nn PU Nn PU Nn Nn PU Cs Vv PU Nc Nn Nn PU Num Nu Aa Vv PU
+NSUBJ VMOD PUNCT AMOD PUNCT AMOD MARK NSUBJ CLF NN CCOMP PREP POBJ NN RCMOD CSUBJ PUNCT OBJ PUNCT CONJ PUNCT CONJ NN PUNCT ROOT PCOMP PUNCT NN CLF NN PUNCT NUM OBJ ACOMP RCMOD PCOMP
+16 1 1 1 1 1 11 11 8 8 1 11 12 13 13 25 16 16 18 18 20 20 22 18 0 25 33 33 28 33 33 33 26 35 33 25
+
+Bữa ăn chưa kết_thúc , chiếc kẹp sắt dài 1 m từ bàn_tay của Bùi_A nhanh như chớp thò ra kẹp cổ chú Vàng bỏ vào rọ sắt , kết_thúc một thương_vụ .
+Nn Vv R Vv PU Nc Nn Nn Aa Num Nu Cs Nn Cs Nr Aa Cs Nn Vv D Nn Nn Nn Nr Vv Cs Nn Nn PU Vv Num Nn PU
+NSUBJ VMOD ADJUNCT ROOT PUNCT NN CLF NSUBJ AMOD NUM OBJ PREP POBJ PREP POBJ ADJP_ADVMOD PREP POBJ CONJ VMOD VMOD OBJ NN NN VMOD PREP POBJ NN PUNCT CONJ NUM OBJ PUNCT
+4 1 4 0 4 8 6 19 8 11 9 19 12 13 14 19 16 17 4 19 19 21 22 23 21 25 26 27 19 19 32 30 4
+
+Bé trai vẫn ngây_thơ vẫy tay chào chú Vàng , rồi nhìn ông Tuấn , nói : " Con Vàng mình về nhà mới sướng hơn nhà mình phải không ba ? " .
+Nc Nn R Aa Vv Nn Vv Nn Nr PU Cp Vv Nn Nr PU Vv PU PU Nn Nr Pp Vv Nn Aa Aa Vcp Nn Pp Aa R Nn PU PU PU
+NSUBJ CLF ADJUNCT ACOMP ROOT OBJ VMOD OBJ NN PUNCT CC CONJ OBJ NN PUNCT CONJ PUNCT PUNCT NSUBJ NN NN CCOMP OBJ AMOD ACOMP VMOD OBJ NN DEP ADJUNCT VOCATIVE PUNCT PUNCT PUNCT
+5 1 5 5 0 5 5 7 8 5 5 5 12 13 12 12 22 22 22 19 19 16 22 23 22 25 26 27 22 29 29 22 22 5
+
+Ông Tuấn không nói gì , cả nhà nhìn theo chú Vàng và chiếc xe Bùi_A khuất dần ...
+Nn Nr R Vv Pp PU Nw Nn Vv Vv Nn Nr Cp Nc Nn Nr VA R PU
+NSUBJ NN ADJUNCT ROOT OBJ PUNCT DET NSUBJ CONJ VMOD OBJ NN CC NN CLF CONJ RCMOD ADJUNCT PUNCT
+4 1 4 0 4 4 8 9 4 9 10 11 11 16 14 11 16 17 4
+
+Anh Bùi_B cho biết trong nhiều năm đi đổi chó , không ít lần chó bắt vào rọ phải thả ra vì những đứa con của chủ nhà về khóc_lóc không cho bán .
+Nn Nr Vv Vv Cs Aa Nu Vv Vv Nn PU R Aa Nn Nn Vv D Nn Vv Vv R Cs Nq Nc Nn Cs Nn Nn Vv Vv R Vv Vv PU
+NSUBJ NN ROOT VMOD PREP AMOD POBJ XCOMP VMOD OBJ PUNCT ADJUNCT AMOD NP_ADVMOD DEP RCMOD VMOD OBJ XCOMP VMOD ADJUNCT MARK DET NSUBJ CLF PREP POBJ NN ADVCL VMOD ADJUNCT VMOD VMOD PUNCT
+3 1 0 3 19 7 5 7 8 9 19 13 14 19 19 15 16 17 4 19 20 29 24 29 24 24 26 27 20 29 32 30 32 3
+
+Phiên chợ chỉ 4 người mua .
+Nc Nn R Num Nn Vv PU
+NSUBJ CLF ADJUNCT NUM ROOT VMOD PUNCT
+5 1 5 5 0 5 5
+
+Trong số bốn người mua chó , ba người là dân địa_phương được các " đại_gia " buôn chó quê ở Thanh_Hoá uỷ_thác đứng điểm , chỉ duy_nhất đại_lý của ông chủ Nguyễn_Đình_Mạnh LBRK người Thanh_Hoá RBRK đích_thân cử ông Thành từ Thanh_Hoá vào đứng điểm gom chó .
+Cs Nn Num Nn Vv Nn PU Num Nn Vc Nn Nn Vv Nq PU Nn PU Vv Nn Nn Cs Nr Vv Vv Nn PU R Aa Nn Cs Nc Nn Nr LBRK Nn Nr RBRK Pp Vv Nn Nr Cs Nr Vv Vv Nn Vv Nn PU
+PREP POBJ NUM NN RCMOD OBJ PUNCT NUM NSUBJ ROOT OBJ CONJ CONJ DET PUNCT NSUBJ PUNCT RCMOD OBJ NN PREP POBJ CCOMP VMOD OBJ PUNCT ADJUNCT ASUBJ OBJ PREP NN CLF NN PUNCT POBJ NN PUNCT OBJ CONJ OBJ NN PREP POBJ VMOD VMOD OBJ RCMOD OBJ PUNCT
+10 1 4 2 4 5 10 9 10 0 10 11 10 16 16 23 16 16 18 16 20 21 13 23 24 10 28 39 28 29 35 31 35 35 30 35 35 39 10 39 40 44 42 39 44 45 46 47 10
+
+Giá chó lên hay xuống là do sự thống_nhất của bốn người mua tại đây .
+Nn Nn Vv Cp Vv Vc Cs Ncs Vv Cs Num Nn Vv Cs Pd PU
+NSUBJ NN RCMOD CC CONJ ROOT PREP POBJ CLF PREP NUM POBJ VMOD PREP POBJ PUNCT
+6 1 1 3 3 0 6 7 8 8 12 10 12 10 14 6
+
+12 g 15 , một tay lái_buôn chở phía sau hai con chó vào đại_lý của ông Thành : " Chó hôm_nay đẹp lắm " .
+Num Nt Num PU Num Nc Nn Vv Nn Nn Num Nc Nn Vv Nn Cs Nn Nr PU PU Nn Nt Aa R PU PU
+NUM DEP NN PUNCT NUM NSUBJ CLF RCMOD OBJ NN NUM OBJ CLF ROOT OBJ PREP POBJ NN PUNCT PUNCT NSUBJ NP_ADVMOD CONJ ADJUNCT PUNCT PUNCT
+2 14 2 14 6 14 6 6 8 9 12 8 12 0 14 15 16 17 14 14 23 23 14 23 23 14
+
+Hai chú chó ở độ tuổi " U17 " , tức_là chó tơ .
+Num Nc Nn Cs Nn Nn PU Nr PU PU Vv Nn Aa PU
+NUM NSUBJ CLF ROOT POBJ NN PUNCT NN PUNCT PUNCT PARATAXIS OBJ AMOD PCOMP
+2 4 2 0 4 5 5 5 5 5 5 11 12 4
+
+Ông Thành nói : " Chó này mua tăng cho anh một đồng " , tức_là 13.500 đồng_[]_kg thay_vì 12.500 đồng_[]_kg .
+Nn Nr Vv PU PU Nn Pd Vv Vv Cs Pp Num Nu PU PU Vv Num Nu Cp Num Nu PU
+NSUBJ NN ROOT PUNCT PUNCT DEP DET XCOMP VMOD PREP POBJ NUM OBJ PUNCT PUNCT PARATAXIS NUM OBJ CC NUM CONJ PUNCT
+3 1 0 8 8 8 6 3 8 9 10 13 9 13 13 13 18 16 18 21 18 3
+
+Bên kia quốc_lộ 1A , tại ba địa_điểm mua chó của ông Chính , ông Hạt , ông Quốc , người bán chó đến càng đông , những tay lái_buôn và cả người dân tấp_nập đổ về .
+Nn Pd Nn Nr PU Cs Num Nn Vv Nn Cs Nn Nr PU Nn Nr PU Nn Nr PU Nn Vv Nn Vv R Aa PU Nq Nc Nn Cp Nw Nc Nn Aa Vv Vv PU
+NP_ADVMOD DET NN NN PUNCT PARATAXIS NUM POBJ RCMOD OBJ PREP POBJ NN PUNCT CONJ NN PUNCT CONJ NN PUNCT NSUBJ RCMOD OBJ ROOT ADJUNCT ACOMP PUNCT DET NSUBJ CLF CC DET CONJ CLF ACOMP CONJ VMOD PUNCT
+24 1 1 3 1 1 8 6 8 9 8 11 12 12 12 15 15 15 18 24 24 21 22 0 26 24 24 29 36 29 29 33 29 33 36 24 36 24
+
+Một người đàn_ông chở năm chú chó đáp vào điểm mua của ông Chính .
+Num Nc Nn Vv Num Nc Nn Vv Cs Nn Vv Cs Nn Nr PU
+NUM NSUBJ CLF ROOT NUM OBJ CLF CONJ PREP POBJ VMOD PREP POBJ NN PUNCT
+2 4 2 0 6 4 6 4 8 9 10 10 12 13 4
+
+Đó là ông Nguyễn_Minh_Phụng , ở huyện miền núi Tiên_Phước LBRK Quảng_Nam RBRK .
+Pd Vc Nn Nr PU Cs Nun Nun Nn Nr LBRK Nr RBRK PU
+NSUBJ ROOT ATTR NN PUNCT PARATAXIS POBJ NN NN NN PUNCT PARATAXIS PUNCT PUNCT
+2 0 2 3 3 3 6 7 8 7 7 7 7 2
+
+Ông Phụng làm nghề đổi chó gần 20 năm nay , hằng ngày ông mua chó về nhốt trong kho , khi đủ năm con đem bán một lần .
+Nn Nr Vv Nn Vv Nn R Num Nu Nt PU R Nt Pp Vv Nn Vv Vv Cs Nn PU Nt Aa Num Nn Vv Vv Num Nn PU
+NSUBJ NN ROOT OBJ RCMOD OBJ ADJUNCT NUM NP_ADVMOD NN PUNCT ADJUNCT NP_ADVMOD NSUBJ CONJ OBJ VMOD VMOD PREP POBJ PUNCT NP_ADVMOD CCOMP NUM OBJ CONJ VMOD NUM OBJ PUNCT
+3 1 0 3 4 5 8 9 3 9 3 13 15 15 3 15 15 17 18 19 15 26 22 25 23 15 26 29 27 3
+
+Ông Phụng nói cách đây hai năm , khi chó còn xuất_khẩu sang Trung_Quốc , nghề đổi chó hái ra tiền , bình_quân lời 2 - 2,5 triệu đồng_[]_tháng , nhưng bây_giờ chó không xuất_khẩu được , chỉ tiêu_thụ ở nội_địa , nhưng thu_nhập cũng trên 1 triệu đồng_[]_tháng .
+Nn Nr Vv Vv Pd Num Nu PU Nt Nn R Vv D Nr PU Nn Vv Nn Vv R Nn PU Aa Vv Num PU Num Nq Nu PU Cp Pd Nn R Vv R PU R Vv Cs Nn PU Cp Nn R R Num Nq Nu PU
+NSUBJ NN ROOT VMOD OBJ NUM OBJ PUNCT PARATAXIS NSUBJ ADJUNCT CCOMP VMOD OBJ PUNCT NSUBJ RCMOD OBJ CCOMP ADJUNCT OBJ PUNCT ACOMP PARATAXIS NUM PUNCT NUMBER CONJ OBJ PUNCT CC NP_ADVMOD NSUBJ ADJUNCT CONJ ADJUNCT PUNCT ADJUNCT CONJ PREP POBJ PUNCT CC NSUBJ ADJUNCT ADJUNCT NUMBER NUM CONJ PUNCT
+3 1 0 19 4 7 4 7 7 12 12 9 12 13 19 19 16 17 3 19 19 19 24 19 29 25 28 25 24 19 19 35 35 35 19 35 35 39 35 39 40 35 35 49 49 48 48 49 35 3
+
+Một đứa trẻ dắt ông lão khoảng 80 tuổi mang con chó đến bán .
+Num Nc Nn Vv Nc Nn R Num Nn Vv Nc Nn Vv Vv PU
+NUM NSUBJ CLF ROOT NN CLF ADJUNCT NUM OBJ RCMOD OBJ CLF VMOD VMOD PUNCT
+2 4 2 0 9 5 8 9 4 9 10 11 10 13 4
+
+Con chó này gắn_bó với cụ tám năm nay , nhưng thiếu tiền mua thuốc cho cụ bà , ông đành bán .
+Nc Nn Pd Vv Cs Nn Num Nu Nt PU Cp Aa Nn Vv Nn Cs Nc Nn PU Pp Vv Vv PU
+NSUBJ CLF DET ROOT PREP POBJ NUM NP_ADVMOD NN PUNCT CC ADVCL OBJ RCMOD OBJ PREP POBJ CLF PUNCT NSUBJ CONJ VMOD PUNCT
+4 1 1 0 4 5 8 4 8 4 4 21 12 13 14 14 16 17 21 21 4 21 4
+
+Sau một hồi thương_lượng , con chó được mua với giá 100.000 đồng trong sự nuối_tiếc của cả hai ông cháu .
+Cs Num Nt Vv PU Nc Nn Vv Vv Cs Nn Num Nu Cs Ncs Vv Cs Nw Num Nn Nn PU
+PREP NUM POBJ VMOD PUNCT NSUBJ CLF ROOT VMOD PREP POBJ NUM NN PREP POBJ CLF PREP DET NUM POBJ CONJ PUNCT
+8 3 1 3 8 8 6 0 8 9 10 13 11 9 14 15 15 20 20 17 20 8
+
+Những tay lái chó thường " trung_thành " với mối ruột .
+Nq Nn Nn Nn R PU Aa PU Cs Nn Aa PU
+DET NSUBJ NN NN ADJUNCT PUNCT ROOT PUNCT PREP POBJ AMOD PUNCT
+2 7 2 3 7 7 0 7 7 9 10 7
+
+Những bạn_hàng quen_thuộc còn được tặng quà trong những ngày lễ tết .
+Nq Nn Aa R Vv Vv Nn Cs Nq Nu Nn Nt PU
+DET NSUBJ AMOD ADJUNCT ROOT VMOD OBJ PREP DET POBJ NN NN PUNCT
+2 5 2 5 0 5 6 6 10 8 10 11 5
+
+Tổng_kết sau một phiên chợ , ông Quốc mua được 30 con ; ông Chính 20 con ; ông Thành 15 con và ông Hạt 17 con .
+Vv Cs Num Nc Nn PU Nn Nr Vv R Num Nn PU Nn Nr Num Nn PU Nn Nr Num Nn Cp Nn Nr Num Nn PU
+ROOT PREP NUM POBJ CLF PUNCT NSUBJ NN CCOMP ADJUNCT NUM OBJ PUNCT CONJ NN NUM OBJ PUNCT CONJ NN NUM OBJ CC CONJ NN NUM OBJ PUNCT
+0 1 4 2 4 9 9 7 1 9 12 9 9 9 14 17 14 14 16 19 22 19 19 21 24 27 24 1
+
+17 g ngày hôm sau , một chiếc xe_tải đậu trước điểm nhà ông Thành để đưa chó về phương Bắc bán cho các nhà_hàng .
+Num Nt Nt Nt Nn PU Num Nc Nn Vv Cs Nn Nn Nn Nr Cs Vv Nn Vv Nn Nn Vv Cs Nq Nn PU
+NUM NP_ADVMOD NN NN NN PUNCT NUM NSUBJ CLF ROOT PREP POBJ NN NN NN PREP PCOMP OBJ VMOD OBJ NN VMOD PREP DET POBJ PUNCT
+2 10 2 3 4 10 8 10 8 0 10 11 12 13 14 10 16 17 17 19 20 19 22 25 23 10
+
+Ông Dũng , tài_xế , cho biết đợt này có khoảng 120 con được chuyển ra Hà_Nội để bán cho các nhà_hàng thịt chó .
+Nn Nr PU Nn PU Vv Vv Nn Pd Ve R Num Nn Vv Vv D Nr Cs Vv Cs Nq Nn Nn Nn PU
+NSUBJ NN PUNCT PARATAXIS PUNCT ROOT VMOD NP_ADVMOD DET CCOMP ADJUNCT NUM OBJ RCMOD VMOD VMOD NP_ADVMOD PREP PCOMP PREP DET POBJ NN NN PUNCT
+6 1 1 1 1 0 6 10 8 7 12 13 10 13 14 15 16 15 18 19 22 20 22 23 6
+
+Từ trong kho chứa , lần_lượt 10 con vào một rọ .
+Cs Cs Nn Vv PU R Num Nn Vv Num Nn PU
+PREP PREP POBJ VMOD PUNCT ADJUNCT NUM NSUBJ ROOT NUM OBJ PUNCT
+9 1 2 3 9 8 8 9 0 11 9 9
+
+Không đủ chuyến ra Hà_Nội , ông Thành liên_hệ với ba đại_lý Hạt , Quốc và Chính thêm được hơn 400 con .
+R Aa Nn Vv Nr PU Nn Nr Vv Cs Num Nn Nr PU Nr Cp M Vv R R Num Nn PU
+ADJUNCT ROOT OBJ RCMOD NP_ADVMOD PUNCT NSUBJ NN CONJ PREP NUM POBJ NN PUNCT CONJ CC CONJ VMOD ADJUNCT ADJUNCT NUM OBJ PUNCT
+2 0 2 3 4 2 9 7 2 9 12 10 12 13 13 15 15 9 18 21 22 18 2
+
+Vài ngày hơn nửa tấn chó được đưa ra Thanh_Hoá , Hà_Nội , theo cái đà này không_chừng Quảng_Nam sẽ không còn chó .
+Nq Nu R Nq Nu Nn Vv Vv D Nr PU Nr PU Vv M Nn Pd R Nr R R Ve Nn PU
+DET NP_ADVMOD ADJUNCT NUM NSUBJ NN ROOT VMOD VMOD NP_ADVMOD PUNCT CONJ PUNCT VMOD INTJ OBJ DET ADJUNCT NSUBJ ADJUNCT CONJ CONJ OBJ PUNCT
+2 7 4 5 7 5 0 7 8 9 10 10 7 22 16 14 16 22 22 22 20 7 22 7
+
+Thời_gian gần đây tại Quảng_Nam thường_xuyên xảy ra nạn trộm chó .
+Nn Aa Pd Cs Nr Aa Vv R Nn Vv Nn PU
+NP_ADVMOD AMOD OBJ PREP POBJ ACOMP ROOT ADJUNCT OBJ RCMOD OBJ PUNCT
+7 1 2 7 4 7 0 7 7 9 10 7
+
+Bọn " cẩu_tặc " thường dùng điện , đánh bả để bắt chó trộm đem bán cho thương_lái .
+Nn PU Nn PU R Vv Nn PU Vv Nn Cs Vv Nn Vv Vv Vv Cs Nn PU
+NSUBJ PUNCT NN PUNCT ADJUNCT ROOT OBJ PUNCT CONJ OBJ PREP PCOMP OBJ VMOD VMOD VMOD PREP POBJ PUNCT
+6 1 1 1 6 0 6 6 6 9 6 11 12 12 12 15 16 17 6
+
+Mặc_dù công_an các địa_phương đã bắt_giữ và xử_lý rất nhiều trường_hợp nhưng tình_hình vẫn không giảm .
+Cp Nn Nq Nn R Vv Cp Vv R Aa Nn Cp Nn R R Vv PU
+CC NSUBJ DET NN ADJUNCT ROOT CC CONJ ADJUNCT AMOD OBJ CC NSUBJ ADJUNCT ADJUNCT CONJ PUNCT
+6 6 4 2 6 0 6 6 10 11 8 6 16 15 16 6 6
+
+Giá chó càng tăng , càng nhiều kẻ đi bắt trộm chó để bán , không loại_trừ cả chó điên cũng được xẻ thịt ...
+Nn Nn Cp Vv PU Cp Aa Nn Vv Vv Vv Nn Cs Vv PU R Vv Nw Nn Aa R Vv Vv Nn PU
+NSUBJ CONJ CC ROOT PUNCT CC CONJ OBJ RCMOD VMOD VMOD OBJ PREP PCOMP PUNCT ADJUNCT CONJ DET NSUBJ AMOD ADJUNCT CCOMP VMOD OBJ PUNCT
+4 1 4 0 4 7 4 7 8 9 10 11 11 13 4 17 4 19 22 19 22 17 22 23 4
+

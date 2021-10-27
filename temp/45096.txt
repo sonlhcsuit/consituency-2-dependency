@@ -1,0 +1,445 @@
+Bí_mật của người chồng : Sự lật_tẩy tươi_đẹp .
+Nn Cs Nc Nn PU Ncs Vv Aa PU
+PARATAXIS PREP POBJ CLF PUNCT ROOT CLF AMOD PUNCT
+6 1 2 3 6 0 6 6 6
+
+Kịch_bản cho sự trở_về .
+Nn Cs Ncs Vv PU
+ROOT PREP POBJ CLF PUNCT
+0 1 2 3 1
+
+Phú bắt_buộc phải nghĩ ra cách để bà Liễu LBRK một người từ Canada RBRK đứng trước căn_hộ tầng năm tập_thể Mai_Động như một sự tình_cờ hợp_lý .
+Nr Vv Vv Vv R Nn Cs Nn Nr LBRK Num Nn Cs Nr RBRK Vv Cs Nn Nn An Nn Nr Cs Num Ncs Aa Aa PU
+NSUBJ ROOT VMOD VMOD ADJUNCT OBJ PREP NSUBJ NN PUNCT NUM PARATAXIS PREP POBJ PUNCT PCOMP PREP POBJ NN AMOD NN NN PREP NUM POBJ CLF AMOD PUNCT
+2 0 2 3 4 4 6 16 8 8 12 8 12 13 8 7 16 17 18 19 19 21 16 25 23 25 25 2
+
+Nhiều kịch_bản đã được đưa ra , cuối_cùng Phú chọn cách " mua nhà ở Hà_Nội " .
+Aa Nn R Vv Vv R PU Aa Nr Vv Nn PU Vv Nn Cs Nr PU PU
+AMOD NSUBJ ADJUNCT ROOT VMOD ADJUNCT PUNCT ADJP_ADVMOD NSUBJ CONJ OBJ PUNCT RCMOD OBJ PREP POBJ PUNCT PUNCT
+2 4 4 0 4 5 4 10 10 4 10 11 11 13 14 15 11 4
+
+Bà Liễu cho biết chuyện những người xa Tổ_quốc khi về già muốn mua một căn nhà để sống ở VN những ngày cuối đời là phổ_biến .
+Nn Nr Vv Vv Nn Nq Nn Aa Nn Nt Vv Aa Vv Vv Num Nc Nn Cs Vv Cs Nr Nq Nu Cs Nn M Aa PU
+NSUBJ NN ROOT VMOD NSUBJ DET NSUBJ AMOD OBJ NP_ADVMOD XCOMP ACOMP CCOMP VMOD NUM OBJ CLF PREP PCOMP PREP POBJ DET NP_ADVMOD PREP POBJ INTJ CCOMP PUNCT
+3 1 0 3 27 7 13 7 8 13 10 11 5 13 16 14 16 14 18 19 20 23 19 23 24 27 4 3
+
+Bản_thân ông_bà cũng đã từng bàn đến chuyện này vài lần .
+Nn Nn R R R Vv Cs Nn Pd Nq Nn PU
+NSUBJ CONJ ADJUNCT ADJUNCT ADJUNCT ROOT PREP POBJ DET DET NP_ADVMOD PUNCT
+6 1 5 5 6 0 6 7 8 11 6 6
+
+Lần này bà sẽ có một người bạn ở Hà_Nội giới_thiệu một ngôi nhà đẹp , rẻ , đủ giấy_tờ nhưng cần bán rất gấp .
+Nn Pd Pp R Ve Num Nc Nn Cs Nr Vv Num Nc Nn Aa PU Aa PU Aa Nn Cp Vv Vv R Aa PU
+NP_ADVMOD DET NSUBJ ADJUNCT ROOT NUM NSUBJ CLF PREP POBJ CCOMP NUM OBJ CLF AMOD PUNCT CONJ PUNCT CONJ OBJ CC CONJ VMOD ADJUNCT ACOMP PUNCT
+5 1 5 5 0 7 11 7 7 9 5 13 11 13 13 15 15 17 17 19 15 15 22 25 23 5
+
+Bà không kịp bàn với ông và muốn gây bất_ngờ thú_vị như một món quà tặng ông .
+Pp R Aa Vv Cs Pp Cp Vv Vv Aa Aa Cs Num Nc Nn Vv Pp PU
+NSUBJ ADJUNCT ACOMP ROOT PREP POBJ CC CONJ VMOD ACOMP CONJ PREP NUM POBJ CLF XCOMP IOBJ PUNCT
+4 3 4 0 4 5 4 4 8 9 10 10 14 12 14 14 16 4
+
+Bà sẽ xem nhà và đặt_cọc tiền , sau đó quay_về để ông làm nốt phần việc mua_bán .
+Pp R Vv Nn Cp Vv Nn PU Cs Pd Vv Cs Pp Vv R Nn Ncs Vv PU
+NSUBJ ADJUNCT ROOT OBJ CC CONJ OBJ PUNCT PREP POBJ CONJ PREP NSUBJ PCOMP ADJUNCT OBJ NN CLF PUNCT
+3 3 0 3 3 3 6 3 11 9 3 11 14 12 14 14 16 17 3
+
+Kịch_bản này cần thêm một nhân_vật là người bạn giới_thiệu nhà .
+Nn Pd Vv Vv Num Nn Vc Nc Nn Vv Nn PU
+NSUBJ DET ROOT VMOD NUM OBJ RCMOD ATTR CLF RCMOD OBJ PUNCT
+3 1 0 3 6 3 6 7 8 8 10 3
+
+Người này ông Phong cũng phải có quen_biết .
+Nn Pd Nn Nr R Vv R Vv PU
+OBJ DET NSUBJ NN ADJUNCT ROOT ADJUNCT VMOD PUNCT
+6 1 6 3 6 0 8 6 6
+
+Bà Liễu đáp_ứng được điều_kiện đó .
+Nn Nr Vv R Nn Pd PU
+NSUBJ NN ROOT ADJUNCT OBJ DET PUNCT
+3 1 0 3 3 5 3
+
+Nhân_vật mới tên là bà Nhu .
+Nn Aa Nn Vc Nn Nr PU
+OBJ AMOD NSUBJ ROOT ATTR NN PUNCT
+4 1 4 0 4 5 4
+
+Ông Phong đã có lần gọi điện cho bà Nhu LBRK thực_tế việc này có thật RBRK bằng " số điện_thoại nhà Hạnh " .
+Nn Nr R Ve Nn Vv Nn Cs Nn Nr LBRK Nn Nn Pd Ve Aa RBRK Cs PU Nn Nn Nn Nr PU PU
+NSUBJ NN ADJUNCT ROOT OBJ XCOMP OBJ PREP POBJ NN PUNCT NP_ADVMOD NSUBJ DET PARATAXIS ACOMP PUNCT PREP PCOMP POBJ NN NN NN PCOMP PUNCT
+4 1 4 0 4 5 6 6 8 9 9 15 15 13 9 15 9 6 18 18 20 20 22 18 4
+
+Khi bà Nhu gọi lại cho ông qua số điện_thoại đó thì nghe thấy giọng nữ trả_lời .
+Nt Nn Nr Vv R Cs Pp Cs Nn Nn Pd Cp Vv Vv Nn Nn Vv PU
+NP_ADVMOD NSUBJ NN CCOMP ADJUNCT PREP POBJ PREP POBJ NN DET CC ROOT VMOD NSUBJ NN CCOMP PUNCT
+13 4 2 1 4 4 6 4 8 9 9 13 0 13 17 15 13 13
+
+Bà Nhu gặp bà Liễu sang VN mua nhà đã kể lại câu_chuyện này .
+Nn Nr Vv Nn Nr Vv Nr Vv Nn R Vv R Nn Pd PU
+NSUBJ NN ROOT NSUBJ NN CCOMP NP_ADVMOD VMOD OBJ ADJUNCT CONJ ADJUNCT OBJ DET PUNCT
+3 1 0 6 4 3 6 6 8 11 3 11 11 13 3
+
+Hai bà hỏi bưu_điện địa_chỉ số máy này và đến .
+Num Pp Vv Nn Nn Nn Nn Pd Cp Vv PU
+NUM NSUBJ ROOT IOBJ OBJ NN NN DET CC CONJ PUNCT
+2 3 0 3 3 5 6 6 3 3 3
+
+Khi bà Liễu có_mặt , nếu Hạnh là tình_nhân của ông Phong thì 90_% là Hạnh sẽ bỏ_chạy .
+Nt Nn Nr Aa PU Cp Nr Vc Nn Cs Nn Nr Cp Nq Vc Nr R Vv PU
+NP_ADVMOD NSUBJ NN CCOMP PUNCT CC NSUBJ ROOT ATTR PREP POBJ NN CC NSUBJ CONJ NSUBJ ADJUNCT CCOMP PUNCT
+8 4 2 1 8 8 8 0 8 9 10 11 8 15 8 18 18 15 8
+
+Bà Nhu khi đó sẽ xuất_hiện cùng bà Liễu giữ Hạnh lại bằng biện_pháp hoà_bình , văn_hoá .
+Nn Nr Nt Pd R Vv Cs Nn Nr Vv Nr R Cs Nn Nn PU Nn PU
+NSUBJ NN NP_ADVMOD DET ADJUNCT ROOT PREP POBJ NN CONJ OBJ ADJUNCT PREP POBJ NN PUNCT CONJ PUNCT
+6 1 6 3 6 0 6 7 8 6 10 10 10 13 14 15 15 6
+
+Nếu không được thì thôi .
+Cp R Vv Cp Vv PU
+CC ADJUNCT ROOT CC CONJ PUNCT
+3 3 0 3 3 3
+
+Trường_hợp Hạnh là con gái ông Phong thì 90_% Hạnh sẽ ở lại chứng_minh điều đó để bố không bị hiểu lầm .
+Nn Nr Vc Nn Nn Nn Nr Cp Nq Nr R Vv R Vv Nn Pd Cs Nn R Vv Vv Aa PU
+NP_ADVMOD NSUBJ CCOMP ATTR NN NN NN CC NSUBJ NSUBJ ADJUNCT ROOT ADJUNCT VMOD OBJ DET PREP NSUBJ ADJUNCT PCOMP VMOD ACOMP PUNCT
+12 3 1 3 4 4 6 12 12 12 12 0 12 12 14 15 14 20 20 17 20 21 12
+
+Kịch_bản được thông_qua .
+Nn Vv Vv PU
+NSUBJ ROOT VMOD PUNCT
+2 0 2 2
+
+Cuộc chạm_trán bất_ngờ .
+Ncs Vv Aa PU
+ROOT CLF AMOD PUNCT
+0 1 1 1
+
+Phú , bà Nhu và bà Liễu có_mặt trước cầu_thang khu_tập_thể Mai_Động lúc 7 g 20 .
+Nr PU Nn Nr Cp Nn Nr Aa Cs Nn Nn Nr Nt Num Nt Num PU
+NSUBJ PUNCT CONJ NN CC CONJ NN ROOT PREP POBJ NN NN NP_ADVMOD NUM NN NN PUNCT
+8 1 1 3 3 3 6 0 8 9 10 11 8 15 13 15 8
+
+Đây là giờ Hạnh và ông Phong đã ăn sáng tại nhà xong và Hạnh sắp đi làm .
+Pd Vc Nt Nr Cp Nn Nr R Vv Nt Cs Nn VA Cp Nr R Vv Vv PU
+NSUBJ ROOT NP_ADVMOD NSUBJ CC CONJ NN ADJUNCT CCOMP OBJ PREP POBJ VMOD CC NSUBJ ADJUNCT CONJ VMOD PUNCT
+2 0 2 9 4 4 6 9 3 9 9 11 9 9 17 17 9 17 2
+
+Bà Nhu và Phú ngồi ở quán nước .
+Nn Nr Cp Nr Vv Cs Nn Nn PU
+NSUBJ NN CC CONJ ROOT PREP POBJ NN PUNCT
+5 1 1 1 0 5 6 7 5
+
+Bà Liễu tiến lên tầng ba lấy điện_thoại di_động gọi vào số máy cố_định của Hạnh , gặp ông Phong .
+Nn Nr Vv R Nn An Vv Nn Nn Vv Cs Nn Nn Aa Cs Nr PU Vv Nn Nr PU
+NSUBJ NN ROOT ADJUNCT OBJ AMOD CONJ OBJ NN VMOD PREP POBJ NN AMOD PREP POBJ PUNCT CONJ OBJ NN PUNCT
+3 1 0 3 3 5 3 7 8 7 10 11 12 12 12 15 7 7 18 19 3
+
+Bà tươi_cười : " Em đây , vợ anh đây !
+Pp Aa PU PU Pp Pd PU Nn Pp Pd PU
+NSUBJ ROOT PUNCT PUNCT CCOMP DET PUNCT PARATAXIS NN DET PUNCT
+2 0 5 5 2 5 5 5 8 8 2
+
+Có nhận ra giọng vợ không đấy ? " .
+R Vv R Nn Nn R M PU PU PU
+ADJUNCT ROOT ADJUNCT OBJ NN ADJUNCT INTJ PUNCT PUNCT PUNCT
+2 0 2 2 4 2 2 2 2 2
+
+Ông Phong kinh_ngạc : " Ô !
+Nn Nr Vv PU PU E PU
+NSUBJ NN ROOT PUNCT PUNCT CCOMP PUNCT
+3 1 0 6 6 3 3
+
+Sao em biết anh ở đây ?
+Pp Pp Vv Pp Vv Pd PU
+OBJ NSUBJ ROOT NSUBJ CCOMP OBJ PUNCT
+3 3 0 5 3 5 3
+
+Em đang ở đâu vậy ? " .
+Pp R Vv Pp M PU PU PU
+NSUBJ ADJUNCT ROOT DEP INTJ PUNCT PUNCT PUNCT
+3 3 0 3 3 3 3 3
+
+" Anh thấy em có giỏi không ?
+PU Nr Vv Pp R Aa R PU
+PUNCT NSUBJ ROOT NSUBJ ADJUNCT CCOMP ADJUNCT PUNCT
+3 3 0 6 6 3 6 3
+
+Em đang ở VN , đang ở Hà_Nội và đang đứng dưới cầu_thang nhà anh đây " .
+Pp R Vv Nr PU R Vv Nr Cp R Vv Cs Nn Nn Pp M PU PU
+NSUBJ ADJUNCT ROOT NP_ADVMOD PUNCT ADJUNCT CONJ NP_ADVMOD CC ADJUNCT CONJ PREP POBJ NN NN INTJ PUNCT PUNCT
+3 3 0 3 3 7 3 7 7 11 7 11 12 13 14 11 3 3
+
+" Ủa , sao em sang VN mà không báo cho anh ?
+PU E PU Pp Pp Vv Nr Cp R Vv Cs Pp PU
+PUNCT DEP PUNCT OBJ NSUBJ ROOT NP_ADVMOD CC ADJUNCT CONJ PREP POBJ PUNCT
+6 6 6 6 6 0 6 6 10 6 10 11 6
+
+Có việc gì gấp không em ? " .
+Ve Nn Pp Aa R Pp PU PU PU
+ROOT OBJ DET AMOD ADJUNCT VOCATIVE PUNCT PUNCT PUNCT
+0 1 2 2 2 1 1 1 1
+
+Bà Liễu " hạ nhiệt " để tránh hoảng_hốt cho ông nên nói ngay : " Em được Nhu giới_thiệu một căn nhà trong phố cổ cực đẹp .
+Nn Nr PU Vv Nn PU Cs Vv Vv Cs Pp Cp Vv R PU PU Pp Vv Nr Vv Num Nc Nn Cs Nun Aa R Aa PU
+NSUBJ NN PUNCT ROOT OBJ PUNCT PREP PCOMP VMOD PREP POBJ CC CONJ ADJUNCT PUNCT PUNCT NSUBJ CCOMP NSUBJ CCOMP NUM OBJ CLF PREP POBJ AMOD ADJUNCT AMOD PUNCT
+4 1 4 0 4 4 4 7 8 8 10 4 4 13 18 18 18 13 20 18 22 20 22 22 24 25 28 22 4
+
+Giá rẻ và rất hợp với mình .
+Nn Aa Cp R Aa Cs Pp PU
+NSUBJ ROOT CC ADJUNCT CONJ PREP POBJ PUNCT
+2 0 2 5 2 5 6 2
+
+Họ quyết_định bán ngay hôm_nay nên em phải sang gấp .
+Pp Vv Vv R Nt Cp Pp Vv Vv Vv PU
+NSUBJ ROOT VMOD ADJUNCT NP_ADVMOD CC NSUBJ CONJ VMOD VMOD PUNCT
+2 0 2 3 3 2 8 2 8 9 2
+
+Định tặng anh món quà bất_ngờ rồi để anh làm giấy_tờ mua_bán , còn em về trước .
+Vv Vv Pp Nc Nn Aa Cp Vv Pp Vv Nn Vv PU Cp Pp Vv Nn PU
+ROOT VMOD IOBJ OBJ CLF AMOD CC CONJ NSUBJ CCOMP OBJ VMOD PUNCT CC NSUBJ CONJ NP_ADVMOD PUNCT
+0 1 2 2 4 4 1 1 10 8 10 11 1 1 16 1 16 1
+
+Không ngờ vô_tình biết anh ở đây .
+R Vv Aa Vv Pp Vv Pd PU
+ADJUNCT ROOT ACOMP VMOD NSUBJ CCOMP OBJ PUNCT
+2 0 4 2 6 4 6 2
+
+Vậy có cho em lên không ?
+Pp R Vv Pp Vv R PU
+NP_ADVMOD ADJUNCT ROOT IOBJ VMOD ADJUNCT PUNCT
+3 3 0 3 3 3 3
+
+Em lên nhà nhá ? " .
+Pp Vv Nn M PU PU PU
+NSUBJ ROOT OBJ INTJ PUNCT PUNCT PUNCT
+2 0 2 2 2 2 2
+
+Bà Liễu tỏ thái_độ hết_sức thoải_mái , vui_vẻ và không chờ ông Phong trả_lời , bà đi thẳng lên nhà .
+Nn Nr Vv Nn R Aa PU Aa Cp R Vv Nn Nr Vv PU Pp Vv Aa D Nn PU
+NSUBJ NN ROOT OBJ ADJUNCT AMOD PUNCT CONJ CC ADJUNCT CONJ NSUBJ NN CCOMP PUNCT NSUBJ CONJ ACOMP VMOD OBJ PUNCT
+3 1 0 3 6 4 6 6 3 11 3 14 12 11 3 17 3 17 17 19 3
+
+Bà Liễu vào nhà và sững người khi nhìn_thấy Hạnh .
+Nn Nr Vv Nn Cp Vv Nn Nt Vv Nn PU
+NSUBJ NN ROOT OBJ CC CONJ OBJ NP_ADVMOD XCOMP OBJ PUNCT
+3 1 0 3 3 3 6 6 8 9 3
+
+Hai người trong nhà bối_rối , cuống_quýt mời bà ngồi .
+Num Nn Cs Nn Aa PU Aa Vv Pp Vv PU
+NUM NSUBJ PREP POBJ ACOMP PUNCT CONJ ROOT IOBJ VMOD PUNCT
+2 8 2 3 8 5 5 0 8 8 8
+
+Bà Liễu hỏi chồng : " Ai đây ? " .
+Nn Nr Vv Nn PU PU Pp Pd PU PU PU
+NSUBJ NN ROOT OBJ PUNCT PUNCT CCOMP DET PUNCT PUNCT PUNCT
+3 1 0 3 7 7 3 7 7 7 3
+
+Ông Phong nói : " Hạnh !
+Nn Nr Vv PU PU Nr PU
+NSUBJ NN ROOT PUNCT PUNCT CCOMP PUNCT
+3 1 0 6 6 3 3
+
+Nó là Hạnh .
+Pp Vc Nr PU
+NSUBJ ROOT ATTR PUNCT
+2 0 2 2
+
+Con anh ! " .
+Nn Pp PU PU PU
+ROOT NN PUNCT PUNCT PUNCT
+0 1 1 1 1
+
+Quay vào trong ông kêu : " Hạnh , ra chào dì đi con ! " .
+Vv Cs Nn Pp Vv PU PU Nr PU Vv Vv Pp M Pp PU PU PU
+XCOMP PREP POBJ NSUBJ ROOT PUNCT PUNCT NSUBJ PUNCT CCOMP VMOD OBJ INTJ VOCATIVE PUNCT PUNCT PUNCT
+5 1 2 5 0 10 10 10 10 5 10 11 11 10 10 10 5
+
+Hạnh lễ_phép chào bà Liễu và ngồi ghé bên .
+Nn Aa Vv Nn Nr Cp Vv Vv Nn PU
+NSUBJ ACOMP ROOT OBJ NN CC CONJ VMOD OBJ PUNCT
+3 3 0 3 4 3 3 7 8 3
+
+Bà Liễu cứ đứng như_trời_trồng nhìn Hạnh và chồng .
+Nn Nr R Vv ID Vv Nr Cp Nn PU
+NSUBJ NN ADJUNCT ROOT DEP VMOD OBJ CC CONJ PUNCT
+4 1 4 0 4 4 6 7 7 4
+
+Ông Phong nói : " Em cứ ngồi xuống đây anh thưa câu_chuyện rồi em sẽ hiểu ... " .
+Nn Nr Vv PU PU Pp R Vv Vv Pd Pp Vv Nn Cp Pp R Vv PU PU PU
+NSUBJ NN ROOT PUNCT PUNCT NSUBJ ADJUNCT CCOMP VMOD OBJ NSUBJ CONJ OBJ CC NSUBJ ADJUNCT CONJ PUNCT PUNCT PUNCT
+3 1 0 8 8 8 8 3 8 9 12 8 12 12 17 17 12 8 8 3
+
+Hạnh gọi điện đến cửa_hàng xin nghỉ và cả ba cùng trở_về câu_chuyện 23 năm trước .
+Nr Vv Nn Cs Nn Vv Vv Cp Nw Num Aa Vv Nn Num Nu Nn PU
+NSUBJ ROOT OBJ PREP POBJ VMOD VMOD CC DET NSUBJ ACOMP CONJ OBJ NUM NP_ADVMOD NN PUNCT
+2 0 2 2 4 2 6 2 10 12 12 2 12 15 13 15 2
+
+Chuyện tình ở xưởng vẽ .
+Nn Nn Cs Nn Vv PU
+ROOT NN PREP POBJ VMOD PUNCT
+0 1 1 3 4 1
+
+Năm 1980 , ông Phong về Thái_Bình , đặt_hàng và giám_sát sản_xuất ở một cơ_sở chế_biến hàng cói thủ_công .
+Nt Num PU Nn Nr Vv Nr PU Vv Cp Vv Vv Cs Num Nn Vv Nn Nn Vv PU
+NP_ADVMOD NUM PUNCT NSUBJ NN ROOT NP_ADVMOD PUNCT CONJ CC CONJ VMOD PREP NUM POBJ RCMOD OBJ NN VMOD PUNCT
+6 1 6 6 4 0 6 6 6 9 9 11 12 15 13 15 16 17 17 6
+
+Tại đây ông có cảm_tình với người phụ_nữ ở xưởng vẽ .
+Cs Pd Pp Ve Nn Cs Nc Nn Cs Nn Vv PU
+PREP POBJ NSUBJ ROOT OBJ PREP POBJ CLF PREP POBJ VMOD PUNCT
+4 1 4 0 4 5 6 7 7 9 10 4
+
+Hai người đi_lại với nhau và đều cùng không đặt vấn_đề trách_nhiệm , ràng_buộc nhau .
+Num Nn Vv Cs Nn Cp R Aa R Vv Nn Nn PU Vv Nn PU
+NUM NSUBJ ROOT PREP POBJ CC ADJUNCT ACOMP ADJUNCT CONJ OBJ NN PUNCT CONJ OBJ PUNCT
+2 3 0 3 4 3 8 10 10 3 10 11 12 12 14 3
+
+Xong hợp_đồng với chủ cơ_sở , ông Phong cũng chia_tay người phụ_nữ này và không ai giữ địa_chỉ của nhau .
+VA Nn Cs Nn Nn PU Nn Nr R Vv Nc Nn Pd Cp R Pp Vv Nn Cs Nn PU
+ADVCL OBJ PREP POBJ NN PUNCT NSUBJ NN ADJUNCT ROOT OBJ CLF DET CC ADJUNCT NSUBJ CONJ OBJ PREP POBJ PUNCT
+10 1 2 3 4 10 10 7 10 0 10 11 11 10 16 17 10 17 18 19 10
+
+Ông Phong về Canada , lấy bà Liễu và cũng chỉ nhớ câu_chuyện ở Thái_Bình như một trong những kỷ_niệm trên tình_trường của đời trai phong_tình .
+Nn Nr Vv Nr PU Vv Nn Nr Cp R R Vv Nn Cs Nr Cs Num Cs Nq Nn Cs Nn Cs Nn Nn Aa PU
+NSUBJ NN ROOT NP_ADVMOD PUNCT CONJ OBJ NN CC ADJUNCT ADJUNCT CONJ OBJ PREP POBJ PREP POBJ PREP DET POBJ PREP POBJ PREP POBJ NN AMOD PUNCT
+3 1 0 3 3 3 6 7 6 11 12 6 12 13 14 12 16 17 20 18 20 21 22 23 24 24 3
+
+Năm 1993 , khi đang tìm hàng tại Hà_Nội , ông gặp lại người chủ cơ_sở sản_xuất cói mỹ_nghệ ở Thái_Bình năm xưa .
+Nt Num PU Nt R Vv Nn Cs Nr PU Pp Vv R Nc Nn Nn Vv Nn Nn Cs Nr Nt Nt PU
+NP_ADVMOD NUM PUNCT PARATAXIS ADJUNCT XCOMP OBJ PREP POBJ PUNCT NSUBJ ROOT ADJUNCT NN CLF OBJ RCMOD OBJ NN PREP POBJ NP_ADVMOD NN PUNCT
+12 1 1 1 6 4 6 6 8 1 12 0 12 16 14 12 16 17 18 16 20 16 22 12
+
+Hai người nối quan_hệ làm_ăn với nhau .
+Num Nn Vv Nn Vv Cs Nn PU
+NUM NSUBJ ROOT OBJ VMOD PREP POBJ PUNCT
+2 3 0 3 4 4 6 3
+
+Ông khách nọ mời ông Phong về Thái_Bình thăm cơ_ngơi sản_xuất của mình .
+Nc Nn Pd Vv Nn Nr Vv Nr Vv Nn Vv Cs Pp PU
+NSUBJ CLF DET ROOT OBJ NN VMOD NP_ADVMOD VMOD OBJ VMOD PREP POBJ PUNCT
+4 1 1 0 4 5 4 7 7 9 10 10 12 4
+
+Không ngờ ông gặp lại cố nhân ngay tại xưởng vẽ thuở nào .
+R Vv Pp Vv R Sv Nn M Cs Nn Vv Nn Pd PU
+ADJUNCT ROOT NSUBJ CCOMP ADJUNCT SINO OBJ PCOMP PREP POBJ VMOD NP_ADVMOD DET PUNCT
+2 0 4 2 4 7 4 9 4 9 10 10 12 2
+
+" Tình_nhân lại gặp tình_nhân " , bao_nhiêu mừng tủi , nhớ_nhung , oán_trách ... ào_ạt dội về .
+PU Nn R Vv Nn PU PU Pp Nn Nn PU Nn PU Nn PU Aa Vv R PU
+PUNCT NSUBJ ADJUNCT ROOT OBJ PUNCT PUNCT DET NSUBJ CONJ PUNCT CONJ PUNCT CONJ PUNCT ACOMP CONJ ADJUNCT PUNCT
+4 4 4 0 4 4 4 9 17 9 10 10 12 12 9 17 4 17 4
+
+Đôi tình_nhân già cũng hiểu rằng từ nay quan_san_cách_trở , ván_đã_đóng_thuyền nên tình_xưa_nghĩa_cũ chỉ cất_giữ trong tâm_khảm mà thôi .
+Nq Nn Aa R Vv Cs Cs Nt ID PU ID Cp ID R Vv Cs Nn M M PU
+DET NSUBJ AMOD ADJUNCT ROOT MARK PREP POBJ NP_ADVMOD PUNCT CONJ CC NSUBJ ADJUNCT CCOMP PREP POBJ INTJ INTJ PUNCT
+2 5 2 5 0 15 15 7 15 9 9 15 15 15 5 15 16 15 15 5
+
+Họ lại chia_tay nhau .
+Pp R Vv Nn PU
+NSUBJ ADJUNCT ROOT OBJ PUNCT
+3 3 0 3 3
+
+Ông chủ xưởng cói kể với ông : " Sau ngày ông về nước , chị ta có sinh một đứa con gái không ai nhận làm bố .
+Nc Nn Nn Nn Vv Cs Pp PU PU Cs Nt Pp Vv Nn PU Pp Pp R Vv Nq Nc Nn Nn R Pp Vv Vv Nn PU
+NN CLF NSUBJ NN ROOT PREP POBJ PUNCT PUNCT PREP POBJ NSUBJ CCOMP OBJ PUNCT NSUBJ DET ADJUNCT CCOMP DET OBJ CLF NN ADJUNCT VSUBJ CCOMP VMOD OBJ PUNCT
+3 1 5 3 0 5 6 19 19 19 10 13 11 13 19 19 16 19 5 21 19 21 21 25 26 21 26 27 5
+
+Chị ấy khổ lắm .
+Pp Pd Aa R PU
+NSUBJ DET ROOT ADJUNCT PUNCT
+3 1 0 3 3
+
+Đứa trẻ lên năm thì chị ta lấy một người chồng cũng từng có một đời vợ và con riêng .
+Nc Nn Vv Num Cp Pp Pp Vv Num Nc Nn R R Ve Num Nn Nn Cp Nn Aa PU
+NSUBJ CLF ROOT OBJ CC NSUBJ DET CONJ NUM OBJ CLF ADJUNCT ADJUNCT RCMOD NUM OBJ NN CC CONJ AMOD PUNCT
+3 1 0 3 3 8 6 3 10 8 10 13 14 10 16 14 16 16 16 19 3
+
+Cuộc_sống bây_giờ mới gọi_là tạm ổn " .
+Nn Pd R M Aa Aa PU PU
+NSUBJ NP_ADVMOD ADJUNCT INTJ ADJP_ADVMOD ROOT PUNCT PUNCT
+6 1 6 6 6 0 6 6
+
+Ông Phong lập_tức quay lại xưởng vẽ gặp người_tình cũ căn_vặn đủ đường .
+Nn Nr R Vv R Nn Vv Vv Nn Aa Vv Aa Nn PU
+NSUBJ NN ADJUNCT ROOT ADJUNCT OBJ VMOD VMOD OBJ AMOD VMOD ACOMP OBJ PUNCT
+4 1 4 0 4 4 6 4 8 9 8 11 12 4
+
+Lúc ấy bà mới nói đó là con gái ông .
+Nt Pd Pp R Vv Pd Vc Nn Nn Pp PU
+NP_ADVMOD DET NSUBJ ADJUNCT ROOT NSUBJ CCOMP ATTR NN NN PUNCT
+5 1 5 5 0 7 5 7 8 8 5
+
+Những ngày_tháng gian_truân nhất đã qua , nay bà không muốn đòi_hỏi hay trách_cứ gì ông .
+Nq Nu Aa R R Vv PU Nt Pp R Vv Vv Cp Vv M Pp PU
+DET NSUBJ AMOD ADJUNCT ADJUNCT ROOT PUNCT NP_ADVMOD NSUBJ ADJUNCT CONJ VMOD CC CONJ INTJ OBJ PUNCT
+2 6 2 3 6 0 6 11 11 11 6 11 12 12 12 12 6
+
+Tuy_nhiên bà cũng luôn nói cho con gái biết về người cha cách_trở của nó .
+Cp Pp R R Vv Cs Nn Nn Vv Cs Nc Nn Vv Cs Pp PU
+CC NSUBJ ADJUNCT ADJUNCT ROOT PREP NSUBJ NN PCOMP PREP POBJ CLF VMOD PREP POBJ PUNCT
+5 5 4 5 0 5 9 7 6 9 10 11 11 11 14 5
+
+Học hết cấp II , nó được bà gửi người quen làm thợ_may ở Hà_Nội dạy nghề cho nó ...
+Vv Ve Nn An PU Pp Vv Pp Vv Nn Vv Vv Nn Cs Nr Vv Nn Cs Pp PU
+XCOMP VMOD OBJ AMOD PUNCT NSUBJ ROOT NSUBJ CCOMP IOBJ VMOD RCMOD OBJ PREP POBJ VMOD OBJ PREP POBJ PUNCT
+7 1 2 3 7 7 0 9 7 9 10 10 12 12 14 9 16 16 18 7
+
+Ông Phong từ đó hay về VN hơn .
+Nn Nr Cs Pd R Vv Nr R PU
+NSUBJ NN PREP POBJ ADJUNCT ROOT NP_ADVMOD ADJUNCT PUNCT
+6 1 6 3 6 0 6 6 6
+
+Tuy không gặp lại người_yêu cũ nhưng ông luôn theo sát từng bước_đi của con gái mình .
+Cp R Vv R Nn Aa Cp Pp R Vv Aa Pp Nn Cs Nn Nn Pp PU
+CC ADJUNCT ROOT ADJUNCT OBJ AMOD CC NSUBJ ADJUNCT CONJ ACOMP DET OBJ PREP POBJ NN NN PUNCT
+3 3 0 3 3 5 3 10 10 3 10 13 10 13 14 15 15 3
+
+Về với bà Liễu , ông trằn_trọc rất nhiều đêm mà không biết sẽ nói thế_nào cho bà hiểu .
+Vv Cs Nn Nr PU Pp Vv R Aa Nu Cp R Vv R Vv Pp Cs Pp Vv PU
+XCOMP PREP POBJ NN PUNCT NSUBJ ROOT ADJUNCT AMOD NP_ADVMOD CC ADJUNCT CONJ ADJUNCT VMOD OBJ PREP NSUBJ PCOMP PUNCT
+7 1 2 3 7 7 0 9 10 7 7 13 7 15 13 15 15 19 17 7
+
+Nấn_ná chần_chừ , càng lâu càng khó nói .
+Vv Vv PU Cp Aa Cp Aa Vv PU
+ROOT CONJ PUNCT CC CONJ CC CONJ VMOD PUNCT
+0 1 1 5 1 7 5 7 1
+
+Cuối_cùng ông định đến ngày nhắm_mắt sẽ cho bà biết .
+Aa Pp Vv Cs Nt Vv R Vv Pp Vv PU
+ADJP_ADVMOD NSUBJ ROOT PREP POBJ XCOMP ADJUNCT XCOMP IOBJ VMOD PUNCT
+3 3 0 8 4 5 8 3 8 8 3
+
+Không ngờ ...
+R Vv PU
+ADJUNCT ROOT PUNCT
+2 0 2
+
+Ông Phong đưa cho bà Liễu xem những lá thư mẹ Hạnh viết cho con giới_thiệu ông với Hạnh , những tấm ảnh ông chụp chung với con gái khi bố_con mới nhận nhau ...
+Nn Nr Vv Cs Nn Nr Vv Nq Nc Nn Nn Nr Vv Cs Nn Vv Pp Cs Nr PU Nq Nc Nn Pp Vv Aa Cs Nn Nn Nt Nn R Vv Nn PU
+NSUBJ NN ROOT PREP POBJ NN VMOD DET OBJ CLF NSUBJ NN CCOMP PREP POBJ VMOD OBJ PREP POBJ PUNCT DET CONJ CLF NSUBJ CCOMP ACOMP PREP POBJ NN NP_ADVMOD NSUBJ ADJUNCT CCOMP OBJ PUNCT
+3 1 0 3 4 5 3 9 7 9 13 11 9 13 14 13 16 16 18 9 22 9 22 25 22 25 25 27 28 25 33 33 30 33 3
+
+Những giọt nước_mắt cảm_thông và hạnh_phúc đã rửa trôi những ngờ_vực , hờn_ghen ... của họ .
+Nq Nn Nn Vv Cp Aa R Vv Vv Nq Nn PU Nn PU Cs Pp PU
+DET NSUBJ NN RCMOD CC CONJ ADJUNCT ROOT VMOD DET OBJ PUNCT CONJ PUNCT PREP POBJ PUNCT
+2 8 2 2 4 4 8 0 8 11 8 11 11 11 11 15 8
+
+Tận 2 giờ chiều hôm đó ba người mới dẫn nhau đi ăn trưa và cùng chuẩn_bị kế_hoạch đón một lễ Noel đầy phúc Chúa .
+Aa Nt Nt Nt Nt Pd Num Nn R Vv Nn Vv Vv Nt Cp Aa Vv Nn Vv Num Nn FW Aa Nn Nn PU
+ADJP_ADVMOD OBJ CONJ NN NN DET NUM NSUBJ ADJUNCT ROOT OBJ VMOD VMOD OBJ CC ACOMP CONJ OBJ RCMOD NUM OBJ DEP AMOD OBJ NN PUNCT
+10 1 2 2 2 5 8 10 10 0 10 10 12 13 10 17 10 17 18 21 19 21 21 23 24 10
+
+Thám_tử Phú trả tiền ba chiếc bánh_mì và hai bao thuốc_lá , lặng_lẽ chìm vào phố_phường của chiều cuối năm ồn_ã ...
+Nn Nr Vv Nn Num Nc Nn Cp Nq Nn Nn PU Aa Vv Cs Nn Cs Nt Cs Nt Aa PU
+NSUBJ NN ROOT OBJ NUM NN CLF CC DET CONJ NN PUNCT ACOMP CONJ PREP POBJ PREP POBJ PREP POBJ AMOD PUNCT
+3 1 0 3 6 4 6 6 10 6 10 3 14 3 14 15 16 17 18 19 18 3
+
+Trước những trớ_trêu , oan_nghiệt của mỗi số_phận mà tạo_hoá đặt_bày , các thám_tử rất dễ mủi_lòng .
+Cs Nq Nn PU Nn Cs Nq Nn Cs Nn Vv PU Nq Nn R Aa Vv PU
+PREP DET POBJ PUNCT CONJ PREP DET POBJ MARK NSUBJ CCOMP PUNCT DET NSUBJ ADJUNCT ROOT VMOD PUNCT
+16 3 1 3 3 3 8 6 11 11 3 16 14 16 16 0 16 16
+
+Còn ngày_mai , khi dấn_thân vào những cuộc cạnh_tranh đầy đố_kỵ , nhiều cạm_bẫy và lọc_lừa ... , các anh biết mình sẽ phải đối_mặt với những điều đáng sợ và hổ_thẹn do chính con_người bày_đặt với nhau ...
+Cp Nt PU Nt Vv Cs Nq Ncs Vv Aa Vv PU Aa Nn Cp Vv PU PU Nq Pp Vv Pp R Vv Vv Cs Nq Ncs Vv Vv Cp Aa Cs M Nn Vv Cs Nn PU
+CC NP_ADVMOD PUNCT PARATAXIS XCOMP PREP DET POBJ CLF AMOD VMOD PUNCT CONJ OBJ CC CONJ PUNCT PUNCT DET NSUBJ ROOT NSUBJ ADJUNCT CCOMP VMOD PREP DET POBJ RCMOD VMOD CC CONJ MARK INTJ NSUBJ CCOMP PREP POBJ PUNCT
+21 21 2 2 4 5 8 6 8 8 10 10 10 13 14 14 10 2 20 21 0 24 24 21 24 25 28 26 28 29 30 30 36 35 36 28 36 37 21
+

@@ -1,0 +1,340 @@
+Mưu_sinh dưới đáy biển .
+Vv Cs Nn Nn PU
+ROOT PREP POBJ NN PUNCT
+0 1 2 3 1
+
+Đối_với họ đáy biển là một nguồn sống thiết_thân .
+Cs Pp Nn Nn Vc Num Nn Vv Aa PU
+PREP POBJ NSUBJ NN ROOT NUM ATTR VMOD AMOD PUNCT
+5 1 5 3 0 7 5 7 7 5
+
+Đó là kết_quả của cuộc vật_lộn bền_bỉ gần 17 năm của Huỳnh_Đỗi .
+Pd Vc Nn Cs Ncs Vv Aa R Num Nu Cs Nr PU
+NSUBJ ROOT ATTR PREP NN CLF AMOD ADJUNCT NUM POBJ PREP POBJ PUNCT
+2 0 2 3 10 5 10 9 10 4 10 11 2
+
+Khi biển phía Bắc hết mùa nắng ấm , họ di_chuyển vào biển Phan_Thiết LBRK Bình_Thuận RBRK , Ninh_Thuận , Bình_Tuy , đảo Phú_Quốc lặn thuê kiếm_sống .
+Nt Nn Nn Nn Ve Nn Nn Aa PU Pp Vv D Nn Nr LBRK Nr RBRK PU Nr PU Nr PU Nn Nr Vv Vv Vv PU
+NP_ADVMOD NSUBJ CONJ NN CCOMP OBJ NN AMOD PUNCT NSUBJ ROOT VMOD NP_ADVMOD NN PUNCT NP_ADVMOD PUNCT PUNCT CONJ PUNCT CONJ PUNCT CONJ NN VMOD VMOD VMOD PUNCT
+11 5 2 2 1 5 6 7 11 11 0 11 12 13 13 13 13 13 13 19 19 21 21 23 12 25 25 11
+
+Họ lặn cả ngày , có_khi cả đêm , dưới biển lạnh trên_dưới 9 0C .
+Pp Vv Nw Nt PU R Nw Nt PU Cs Nn Aa R Num Nu PU
+NSUBJ ROOT DET NP_ADVMOD PUNCT ADJUNCT DET NN PUNCT PREP POBJ AMOD ADJUNCT NUM OBJ PUNCT
+2 0 4 2 4 4 8 4 2 2 10 11 14 15 12 2
+
+Xưa lặn bộ nay lặn máy .
+Nt Vv Nn Nt Vv Nn PU
+NP_ADVMOD ROOT OBJ NP_ADVMOD CONJ OBJ PUNCT
+2 0 2 5 2 5 2
+
+Trong hơn 100 thợ_lặn , chiếm quá nửa tổng số thanh_niên trai_tráng của làng Xuân_Hoà , xã Thạch_Bằng LBRK Hà_Tĩnh RBRK có đến 40 người lặn có " bằng " .
+Cs R Num Nn PU Vv R Nq Sv Nn Nn Aa Cs Nun Nr PU Nun Nr LBRK Nr RBRK Ve M Num Nn Vv Ve PU Nn PU PU
+PREP ADJUNCT NUM POBJ PUNCT PARATAXIS ADJUNCT NUM SINO NN OBJ AMOD PREP POBJ NN PUNCT PARATAXIS NN PUNCT PARATAXIS PUNCT ROOT INTJ NUM OBJ RCMOD VMOD PUNCT OBJ PUNCT PUNCT
+22 3 4 1 4 4 8 11 10 11 6 11 11 13 14 14 14 17 17 17 17 0 25 25 22 25 26 27 27 27 22
+
+Họ tự_hào " con trai Xuân_Hoà đẻ ra là biết lặn , biết bơi " .
+Pp Vv PU Nn Nn Nr Vv R Vc Vv Vv PU Vv Nn PU PU
+NSUBJ ROOT PUNCT NSUBJ NN NN CSUBJ ADJUNCT CCOMP VMOD VMOD PUNCT CONJ VMOD PUNCT PUNCT
+2 0 9 7 4 4 9 7 2 9 10 10 10 13 2 2
+
+Tự_hào hơn khi họ kể chuyện ông Thú_Đỉnh - sư_phụ nghề lặn của làng - từng lặn bộ dưới biển cửa Sót sâu hàng chục mét để tháo cái chân_vịt của tàu_chiến Pháp đem về làm kỷ_niệm hồi năm 1953 .
+Vv R Nt Pp Vv Nn Nn Nr PU Nn Nn Vv Cs Nun PU R Vv Nn Cs Nn Nn Nr Aa R Nq Nu Cs Vv Nc Nn Cs Nn Nr Vv Vv Vv Nn Nt Nt Num PU
+ROOT ADJUNCT NP_ADVMOD NSUBJ CCOMP OBJ NSUBJ NN PUNCT PARATAXIS NN VMOD PREP POBJ PUNCT ADJUNCT CCOMP OBJ PREP POBJ NN NN AMOD ADJUNCT NUM OBJ PREP PCOMP OBJ CLF PREP POBJ NN VMOD VMOD VMOD OBJ NP_ADVMOD NN NUM PUNCT
+0 1 1 5 3 5 17 7 7 7 10 11 10 13 7 17 6 17 17 19 20 21 20 25 26 23 17 27 28 29 29 31 32 28 34 34 36 17 38 39 1
+
+Có lần tàu biệt_kích Pháp chở súng_đạn định đổ_bộ lên vùng_biển Thạch_Bằng do va phải đá ngầm bị chìm ngoài cửa Sót , ông Đỉnh lại được dân_quân xã cử đi lặn lấy mấy chục khẩu súng_cối trong đêm khuya .
+Ve Nn Nn Vv Nr Vv Nn Vv Vv D Nn Nr Cp Vv R Nn Aa Vv Vv Cs Nn Nr PU Nn Nr R Vv Nn Nun Vv Vv Vv Vv Nq Nq Nc Nn Cs Nt Nt PU
+ROOT NP_ADVMOD NSUBJ VMOD NN RCMOD OBJ RCMOD VMOD VMOD OBJ NN CC CCOMP ADJUNCT OBJ AMOD CONJ VMOD PREP POBJ NN PUNCT NSUBJ NN ADJUNCT VMOD NSUBJ NN CCOMP VMOD VMOD VMOD NUM CONJ OBJ CLF PREP POBJ NN PUNCT
+0 1 14 3 3 3 6 3 8 9 10 11 14 2 14 14 16 14 18 19 20 21 1 1 24 27 1 30 28 27 30 31 32 36 34 33 36 32 38 39 1
+
+Năm nay đã gần 80 tuổi , tai có hơi lãng đôi_chút nhưng ông Đỉnh vẫn chưa quên chuyện lặn .
+Nt Nt R R Num Nn PU Nn Ve R Vv Nq Cp Nn Nn R R Vv Nn Vv PU
+NP_ADVMOD NN ADJUNCT ADJUNCT NUM ROOT PUNCT NSUBJ CONJ ADJUNCT VMOD OBJ CC NSUBJ NN ADJUNCT ADJUNCT CONJ OBJ VMOD PUNCT
+6 1 6 5 6 0 6 9 6 11 9 11 6 18 14 17 18 6 18 19 6
+
+Ông nói : " Ngày_xưa chúng_tôi lặn bộ bắt con vẹm , hến_cơm là hết .
+Pp Vv PU PU Nt Pp Vv Nn Vv Nc Nn PU Nn Vc Ve PU
+NSUBJ ROOT PUNCT PUNCT NP_ADVMOD NSUBJ CSUBJ OBJ VMOD OBJ NN PUNCT CONJ CCOMP VMOD PUNCT
+2 0 14 14 7 7 14 7 7 9 10 11 11 2 14 2
+
+Lặn quanh_năm_suốt_tháng nhưng nhà vẫn nghèo vì lặn bộ không hết khả_năng của mình , với_lại hồi đó chưa có phong_trào ăn hải_sản như bây_giờ .
+Vv ID Cp Nn R Aa Cs Vv Nn R Ve Nn Cs Pp PU Cp Nt Pd R Ve Nn Vv Nn Cs Pd PU
+ROOT NP_ADVMOD CC NSUBJ ADJUNCT CONJ MARK VSUBJ OBJ ADJUNCT ADVCL OBJ PREP POBJ PUNCT CC NP_ADVMOD DET ADJUNCT CONJ OBJ RCMOD OBJ PREP POBJ PUNCT
+0 1 1 6 6 1 11 11 8 11 6 11 12 13 11 11 20 17 20 11 20 21 22 21 24 1
+
+Nay thanh_niên toàn lặn máy nên họ giàu lên là phải " .
+Nt Nn R Vv Nn Cp Pp Aa R Vc Aa PU PU
+NP_ADVMOD NSUBJ ADJUNCT ROOT OBJ CC NSUBJ CSUBJ ADJUNCT CONJ ACOMP PUNCT PUNCT
+4 4 4 0 4 4 8 10 8 4 10 4 4
+
+Kể chuyện lặn máy , hội thợ_lặn gồm những con " rái_cá " nổi_tiếng như Khắc_Hùng , Công_Hoà , Khắc_Chiêng , Hữu_Huấn , Văn_Tưởng , Ngọc_Bích đều nhắc đến ông thầy Khánh từ Quảng_Ngãi ra bày nghề .
+Vv Nn Vv Nn PU Nn Nn Vv Nq Nc PU Nn PU Aa Cs Nr PU Nr PU Nr PU Nr PU Nr PU Nr R Vv Cs Nc Nn Nr Cs Nr Vv Vv Nn PU
+XCOMP OBJ RCMOD OBJ PUNCT NSUBJ CONJ RCMOD DET OBJ PUNCT CLF PUNCT AMOD PREP POBJ PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT CONJ ADJUNCT ROOT PREP POBJ CLF NN PREP POBJ RCMOD VMOD OBJ PUNCT
+28 1 2 3 28 28 6 6 10 8 10 10 10 10 10 15 16 16 18 18 20 20 22 22 24 24 28 0 28 29 30 30 35 33 30 35 36 28
+
+Khi từ Quảng_Ngãi vượt biển đến Thạch_Bằng mua hàng , những thương_gia hải_sản đã phát_hiện Xuân_Hoà là một làng có truyền_thống lặn bộ nổi_tiếng .
+Nt Cs Nr Vv Nn Vv Nr Vv Nn PU Nq Nn Nn R Vv Nr Vc Num Nun Ve Nn Vv Nn Aa PU
+NP_ADVMOD PREP POBJ RCMOD OBJ VMOD OBJ VMOD OBJ PUNCT DET NSUBJ NN ADJUNCT ROOT NSUBJ CCOMP NUM ATTR RCMOD OBJ RCMOD OBJ AMOD PUNCT
+15 1 2 1 4 4 6 6 8 15 12 15 12 15 0 17 15 19 17 19 20 21 22 21 15
+
+Thế là họ tính bài truyền nghề lặn máy cho thanh_niên trong làng và tạo_lập " vệ_tinh " để khi cần họ thuê đi lặn .
+Pp Vc Pp Vv Nn Vv Nn Vv Nn Cs Nn Cs Nun Cp Vv PU Nn PU Cs Nt Vv Pp Vv Vv Vv PU
+OBJ ROOT NSUBJ CCOMP OBJ RCMOD OBJ RCMOD OBJ PREP POBJ PREP POBJ CC CONJ PUNCT OBJ PUNCT PREP NSUBJ XCOMP NSUBJ PCOMP VMOD VMOD PUNCT
+2 0 4 2 4 5 6 7 8 6 10 11 12 4 4 15 15 15 15 23 20 23 19 23 24 2
+
+Vì thế suốt dọc dài vùng_biển phía bắc miền Trung có bao_nhiêu làng biển , nhưng chỉ có mỗi làng Xuân_Hoà thạo nghề và trở_thành " đội quân thiện_chiến " .
+Cp Pp Aa Nn Aa Nn Nn Nn Nun Nn Ve Pp Nun Nn PU Cp R Ve Nq Nun Nr Aa Nn Cp Vv PU Nn Nn Aa PU PU
+CC ROOT ADJP_ADVMOD OBJ AMOD NN NP_ADVMOD NN NN NN CONJ DET OBJ NN PUNCT CC ADJUNCT CONJ DET OBJ NN AMOD OBJ CC CONJ PUNCT OBJ NN AMOD PUNCT PUNCT
+2 0 11 3 4 4 6 7 7 9 2 13 11 13 11 11 18 11 20 18 20 20 22 22 22 25 25 27 27 25 2
+
+Nơi đây tóc của thợ_lặn nào cũng vàng_hoe như tóc nhuộm và mắt của họ thì vàng lơ như mắt tây .
+Nn Pd Nn Cs Nn Pd R Aa Cs Nn Vv Cp Nn Cs Pp Cp Aa Aa Cs Nn Nn PU
+NP_ADVMOD DET NSUBJ PREP POBJ DET ADJUNCT ROOT PREP POBJ VMOD CC NSUBJ PREP POBJ CC CONJ ADJP_ADVMOD PREP POBJ NN PUNCT
+8 1 8 3 4 5 8 0 8 9 10 8 17 13 14 17 8 17 17 19 20 8
+
+Dưới đáy biển .
+Cs Nn Nn PU
+ROOT POBJ NN PCOMP
+0 1 2 1
+
+Ngày 18_-_10 , sau một cuộc rượu trưa tôi theo hội Văn , Tưởng đi lặn ngoài đảo Mắt .
+Nt Nt PU Cs Num Nn Nn Nt Pp Vv Nn Nr PU Nr Vv Vv Cs Nn Nr PU
+NP_ADVMOD NN PUNCT PARATAXIS NUM POBJ NN NN NSUBJ ROOT OBJ NN PUNCT CONJ VMOD VMOD PREP POBJ NN PUNCT
+10 1 1 1 6 4 6 6 10 0 10 11 12 12 10 15 16 17 18 10
+
+Ngư_trường cách bờ 15 hải_lý , sâu chừng 20 sải LBRK tương_đương 30 m RBRK .
+Nn Vv Nn Num Nu PU Aa Nn Num Nn LBRK Aa Num Nu RBRK PU
+NSUBJ ROOT OBJ NUM OBJ PUNCT CONJ OBJ NUM NN PUNCT PARATAXIS NUM OBJ PUNCT PUNCT
+2 0 2 5 2 2 2 7 10 8 10 10 14 12 10 2
+
+Lần đầu_tiên tôi nhìn thấy những thợ_lặn " hoá mình " vào bộ_đồ nhái chỉ trong dăm phút rồi nhảy ào_ào như lao xuống biển , lặn một_mạch dài đến bốn giờ mới ngoi lên .
+Nn An Pp Vv Vv Nq Nn PU Vv Nn PU Cs Nn Nn R Cs Nq Nu Cp Vv Aa Cs Vv D Nn PU Vv Nn Aa M Num Nt R Vv R PU
+ROOT AMOD NSUBJ CCOMP CONJ DET NSUBJ PUNCT CCOMP OBJ PUNCT PREP POBJ NN ADJUNCT PREP DET POBJ CC CONJ ACOMP PREP PCOMP VMOD OBJ PUNCT CONJ OBJ AMOD PREP NUM POBJ ADJUNCT RCMOD ADJUNCT PUNCT
+0 1 4 1 4 7 9 9 4 9 9 9 12 13 16 9 18 16 9 9 20 20 22 23 24 20 20 27 28 29 32 30 34 32 34 1
+
+Khi lặn , mỗi người ngậm phía đầu một cái vòi có chiều dài 100 - 150 m .
+Nt Vv PU Nq Nn Vv Nn Nn Num Nc Nn Ve Nn Aa Num PU Num Nu PU
+NP_ADVMOD XCOMP PUNCT DET NSUBJ ROOT NP_ADVMOD NN NUM OBJ CLF RCMOD OBJ AMOD NUM PUNCT CONJ NN PUNCT
+6 1 6 5 6 0 6 7 10 6 10 10 12 13 18 15 15 13 6
+
+Vòi này được nối qua cái đai chì đeo quanh người LBRK trước đây lặn bộ thì đeo đá để có đủ độ nặng giữ người dưới biển RBRK và nối liền với bình dưỡng_khí được vận_hành nhờ máy_thuỷ LBRK máy_nổ vừa đưa thuyền đi vừa cung_cấp hơi cho máy nén khí đưa hơi vào bình dưỡng_khí RBRK .
+Nn Pd Vv Vv Cs Nc Nn Nn Vv Nn Nn LBRK Cs Pd Vv Nn Cp Vv Nn Cs Ve Aa Nn Aa Vv Nn Cs Nn RBRK Cp Vv Aa Cs Nn Nn Vv Vv Cs Nn LBRK Nn Cp Vv Nn Vv Cp Vv Nn Cs Nn Vv Nn Vv Nn Vv Nn Nn RBRK PU
+NSUBJ DET ROOT VMOD PREP NN CLF POBJ RCMOD NP_ADVMOD NN PUNCT PREP POBJ PARATAXIS OBJ CC CONJ OBJ PREP PCOMP ACOMP OBJ AMOD RCMOD OBJ PREP POBJ PUNCT CC CONJ ACOMP PREP NN POBJ RCMOD VMOD PREP POBJ PUNCT NSUBJ CC PARATAXIS OBJ VMOD CC CONJ OBJ PREP POBJ NN OBJ RCMOD OBJ VMOD OBJ NN PUNCT PUNCT
+3 1 0 3 4 8 6 5 8 9 10 9 15 13 9 15 15 15 18 18 20 21 22 23 23 25 26 27 9 3 3 31 31 35 33 35 36 37 38 39 43 43 39 43 43 43 43 47 47 49 50 51 50 53 53 55 56 39 3
+
+Thoáng chốc cả sáu thợ_lặn đã chìm vào đáy biển .
+Nn Nt Nw Num Nn R Vv Cs Nn Nn PU
+NP_ADVMOD NN DET NUM NSUBJ ADJUNCT ROOT VMOD OBJ NN PUNCT
+7 1 5 5 7 7 0 7 8 9 7
+
+Trên con thuyền tròng_trành sóng liên_hồi đập đi đập lại chỉ còn chú lơ thuyền và tôi .
+Cs Nc Nn Aa Nn Aa Vv D Vv D R Ve Nc Nn Nn Cp Pp PU
+PREP POBJ CLF AMOD OBJ ACOMP RCMOD VMOD CONJ VMOD ADJUNCT ROOT OBJ CLF NN CC CONJ PUNCT
+12 1 2 2 4 7 5 7 7 9 12 0 12 13 13 13 13 12
+
+Chú lơ tên Hải đứng gác thuyền , gác máy .
+Nc Nn Nn Nr Vv Vv Nn PU Vv Nn PU
+NN CLF NSUBJ NN ROOT VMOD OBJ PUNCT CONJ OBJ PUNCT
+3 1 5 3 0 5 6 6 6 9 5
+
+Nhiệm_vụ quan_trọng nhất của chú là không để thuyền người khác đi qua vùng lặn kéo theo những dây nhựa đang nổi bồng_bềnh trên mặt biển đang nối liền với miệng của thợ_lặn để cung_cấp khí thở ; gỡ các dây khi sóng biển làm rối vào nhau và đổ nước mát cho các máy trên thuyền đủ sức chạy trong nhiều giờ liền .
+Nn Aa R Cs Nn Vc R Vv Nn Nn Aa Vv D Nn Vv Vv Vv Nq Nn Nn R Vv Vv Cs Nn Nn R Vv Aa Cs Nn Cs Nn Cs Vv Nn Vv PU Vv Nq Nn Nt Nn Nn Vv Aa Cs Nn Cp Vv Nn Aa Cs Nq Nn Cs Nn Aa Nn Vv Cs Aa Nu Aa PU
+NSUBJ AMOD ADJUNCT PREP POBJ ROOT ADJUNCT VMOD NSUBJ NN AMOD CCOMP VMOD NP_ADVMOD VMOD VMOD VMOD DET OBJ NN ADJUNCT RCMOD VMOD PREP POBJ NN ADJUNCT CONJ ACOMP PREP POBJ PREP POBJ PREP PCOMP OBJ VMOD PUNCT CONJ DET OBJ NP_ADVMOD NSUBJ NN CCOMP ACOMP PREP POBJ CC CONJ OBJ AMOD PREP DET POBJ PREP POBJ AMOD OBJ RCMOD PREP AMOD POBJ AMOD PUNCT
+6 1 2 1 4 0 8 6 12 9 10 8 12 12 14 12 16 19 16 19 22 19 22 22 24 25 28 22 28 28 30 31 32 28 34 35 36 8 8 41 39 39 45 43 42 45 46 47 39 39 50 51 50 55 53 55 56 55 58 59 60 63 61 63 6
+
+Là một thợ_lặn trẻ biết hết mọi chuyện mưu_sinh dưới biển , Hải kể : " Dưới đáy biển , thợ_lặn phải dùng một cái dùi bằng sắt hoặc con dao nhọn để cạy những con ngao , con sò bám rất chắc vào hang đá .
+Vc Num Nn Aa Vv Ve Nw Nn Vv Cs Nn PU Nr Vv PU PU Cs Nn Nn PU Nn Vv Vv Num Nc Nn Cs Nn Cp Nc Nn Aa Cs Vv Nq Nc Nn PU Nc Nn Vv R Aa Cs Nn Nn PU
+ROOT NUM ATTR AMOD RCMOD VMOD DET OBJ VMOD PREP POBJ PUNCT NSUBJ CONJ PUNCT PUNCT PREP POBJ NN PUNCT NSUBJ CCOMP VMOD NUM OBJ CLF PREP POBJ CC CONJ CLF AMOD PREP PCOMP DET OBJ CLF PUNCT CONJ CLF RCMOD ADJUNCT ACOMP PREP POBJ NN PUNCT
+0 3 1 3 3 5 8 5 8 8 10 1 14 1 22 22 22 17 18 22 22 14 22 25 23 25 25 27 25 25 30 30 23 33 36 34 36 36 36 39 39 43 41 41 44 45 1
+
+Nơi không có bãi đá , thợ phải có đôi mắt thật tinh để có_thể phát_hiện những " mánh " của con hàng .
+Nn R Ve Nn Nn PU Nn Vv Ve Nq Nn R Aa Cs Aa Vv Nq PU Nn PU Cs Nn Nn PU
+NP_ADVMOD ADJUNCT CCOMP OBJ NN PUNCT NSUBJ ROOT VMOD DET OBJ ADJUNCT AMOD PREP ACOMP PCOMP DET PUNCT OBJ PUNCT PREP POBJ NN PUNCT
+8 3 1 3 4 8 8 0 8 11 9 13 11 9 16 14 19 19 16 19 19 21 22 8
+
+Đó là khi làn cát tự_nhiên bị sụt xuống do ngao , sò đang di_chuyển dưới cát .
+Pd Vc Nt Nc Nn Aa Vv Vv D Cs Nn PU Nn R Vv Cs Nn PU
+NSUBJ ROOT NP_ADVMOD NSUBJ CLF AMOD CCOMP VMOD VMOD MARK NSUBJ PUNCT CONJ ADJUNCT ADVCL PREP POBJ PUNCT
+2 0 2 7 4 4 3 7 8 15 15 11 11 15 8 15 16 2
+
+Khi ấy chỉ cần dùng bàn_tay cào cát hoặc luồn sâu vào cát là bắt được " .
+Nt Pd R Vv Vv Nn Vv Nn Cp Vv Aa Vv Nn Vc Vv R PU PU
+NP_ADVMOD DET ADJUNCT CSUBJ VMOD OBJ VMOD OBJ CC CONJ ACOMP VMOD OBJ ROOT VMOD ADJUNCT PUNCT PUNCT
+14 1 4 14 4 5 5 7 7 7 10 10 12 0 14 15 14 14
+
+Có khi nào gặp rắn biển không ? - tôi hỏi .
+Ve Nt Pd Vv Nn Nn R PU PU Pp Vv PU
+CCOMP NP_ADVMOD DET XCOMP OBJ NN ADJUNCT PUNCT PUNCT NSUBJ ROOT PUNCT
+11 1 2 2 4 5 4 1 11 11 0 11
+
+Gặp thường .
+Vv Aa PU
+ROOT ACOMP PUNCT
+0 1 1
+
+Nhưng gặp rắn thì bắt rắn .
+Cp Vv Nn Cp Vv Nn PU
+CC ROOT OBJ CC CONJ OBJ PUNCT
+2 0 2 2 2 5 2
+
+Nhiều chuyến thợ_lặn còn lừa tôm_hùm , mực_nang vào hang và quần cả những con cá_mú nặng 30 kg cho mệt_lử rồi vây lưới bắt ngon_ơ nữa kìa ...
+Aa Nn Nn R Vv Nn PU Nn Vv Nn Cp Vv Nw Nq Nc Nn Aa Num Nu Cs Aa Cp Vv Nn Vv Aa R Pd PU
+AMOD NP_ADVMOD NSUBJ ADJUNCT ROOT OBJ PUNCT CONJ VMOD OBJ CC CONJ DET DET OBJ CLF AMOD NUM OBJ PREP PCOMP CC CONJ OBJ VMOD ACOMP ADJUNCT DEP PUNCT
+2 5 5 5 0 5 6 6 5 9 5 5 15 15 12 15 15 19 17 12 20 5 5 23 23 25 25 25 5
+
+Còn mùa đông lạnh thì sao ?
+Cp Nn Nt Aa Cp Pp PU
+CC ROOT NN AMOD CC CONJ PUNCT
+2 0 2 2 2 2 2
+
+Sá gì , mặc cho giữa biển lạnh buốt .
+Vv Pp PU Vv M Cs Nn Aa Aa PU
+ROOT OBJ PUNCT CONJ INTJ PREP POBJ AMOD ADJP_ADVMOD PUNCT
+0 1 1 1 4 4 6 7 8 1
+
+Tất_nhiên những lúc ấy họ chỉ lặn khoảng một giờ rồi lên nghỉ một chặp , sau đó lặn tiếp .
+Aa Nq Nu Pd Pp R Vv R Num Nu Cp Vv Vv Num Nt PU Cs Pd Vv Vv PU
+ADJP_ADVMOD DET NP_ADVMOD DET NSUBJ ADJUNCT ROOT ADJUNCT NUM NP_ADVMOD CC CONJ VMOD NUM OBJ PUNCT PREP POBJ CONJ VMOD PUNCT
+7 3 7 3 7 7 0 9 10 7 7 7 12 15 13 7 19 17 7 19 7
+
+Thợ lặn không sợ lạnh , chỉ sợ nhất đang lặn thì gặp biển nổi bão , dông , gió .
+Nn Vv R Vv Aa PU R Vv R R Vv Cp Vv Nn Vv Nn PU Nn PU Nn PU
+NSUBJ NN ADJUNCT ROOT ACOMP PUNCT ADJUNCT CONJ ADJUNCT ADJUNCT XCOMP CC CONJ OBJ RCMOD OBJ PUNCT CONJ PUNCT CONJ PUNCT
+4 1 4 0 4 4 8 4 8 11 8 11 11 13 14 15 16 16 18 18 4
+
+Bước nhảy từ lặn bộ sang lặn máy đã giúp những hội thợ_lặn làng Xuân_Hoà có điều_kiện chinh_phục những vùng_biển xa , rộng_lớn hơn .
+Nn Vv Cs Vv Nn Cs Vv Nn R Vv Nq Nn Nn Nun Nr Ve Nn Vv Nq Nn Aa PU Aa R PU
+NSUBJ RCMOD PREP PCOMP OBJ CONJ PCOMP OBJ ADJUNCT ROOT DET OBJ NN NP_ADVMOD NN CCOMP OBJ RCMOD DET OBJ AMOD PUNCT CONJ ADJUNCT PUNCT
+10 1 2 3 4 3 6 7 10 0 12 16 12 13 14 10 16 17 20 18 20 21 21 21 10
+
+Nhưng công_cuộc mưu_sinh dưới đáy biển không phải lúc nào cũng thuận_buồm_xuôi_gió .
+Cp Nn Vv Cs Nn Nn R Aa Nt Pd R ID PU
+CC ROOT RCMOD PREP POBJ NN ADJUNCT AMOD CONJ DET ADJUNCT AMOD PUNCT
+2 0 2 3 4 5 8 9 2 9 12 9 2
+
+Trong làng lặn , anh_em đã phải lặng_lẽ mang những cái tang ...
+Cs Nun Vv PU Nn R Vv Aa Vv Nq M Nn PU
+PREP POBJ VMOD PUNCT NSUBJ ADJUNCT ROOT ACOMP VMOD DET INTJ OBJ PUNCT
+7 1 2 7 7 7 0 9 7 12 12 9 7
+
+Đầu_tiên là Cường - một thợ trẻ .
+An Vc Nr PU Num Nn Aa PU
+ASUBJ ROOT ATTR PUNCT NUM PARATAXIS AMOD PUNCT
+2 0 2 3 6 3 6 2
+
+Cường chết trong tư_thế đang đeo đá vào người để tập lặn .
+Nr VA Cs Nn R Vv Nn Cs Nn Cs Vv Vv PU
+NSUBJ ROOT PREP POBJ ADJUNCT RCMOD OBJ PREP POBJ PREP PCOMP VMOD PUNCT
+2 0 2 3 6 4 6 6 8 6 10 11 2
+
+Khi nhảy xuống , vòi nối miệng với máy dưỡng_khí bị bật ra .
+Nt Vv D PU Vv Vv Nn Cs Nn Nn Vv Vv R PU
+NP_ADVMOD XCOMP VMOD PUNCT NSUBJ RCMOD OBJ PREP POBJ NN ROOT VMOD ADJUNCT PUNCT
+11 1 2 11 11 5 6 6 8 9 0 11 12 11
+
+Sau 30 phút không thấy động_tĩnh , người trên thuyền kéo vòi lên thì Cường đã chết .
+Cs Num Nu R Vv Nn PU Nn Cs Nn Vv Nn D Cp Nr R VA PU
+PREP NUM POBJ ADJUNCT ROOT OBJ PUNCT NSUBJ PREP POBJ CONJ OBJ VMOD CC NSUBJ ADJUNCT CONJ PUNCT
+5 3 1 5 0 5 5 11 8 9 5 11 11 5 17 17 5 5
+
+Kế_đến là anh Hồ , 37 tuổi , cùng bảy người khác đi lặn thuê trong biển Phan_Thiết .
+Vv Vc Nn Nr PU Num Nn PU Cp Num Nn Aa Vv Vv Vv Cs Nn Nr PU
+VSUBJ ROOT NSUBJ NN PUNCT NUM PARATAXIS PUNCT CC NUM CONJ AMOD CCOMP VMOD VMOD PREP POBJ NN PUNCT
+2 0 13 3 3 7 3 3 3 11 3 11 2 13 14 14 16 17 2
+
+Đang lặn thì máy nén khí bị hỏng .
+R Vv Cp Nn Vv Nn Vv Aa PU
+ADJUNCT XCOMP CC NSUBJ NN OBJ ROOT ACOMP PUNCT
+2 7 7 7 4 5 0 7 7
+
+Năm phút sau thấy bay thợ nổi lên nhưng anh Hồ lặn sâu quá 30 m , không ai thấy .
+Num Nu Nn Vv Nn Nn Vv R Cp Nn Nr Vv Aa Vv Num Nu PU R Pp Vv PU
+NUM NP_ADVMOD NN ROOT NSUBJ NN CCOMP ADJUNCT CC NSUBJ NN ADVCL ACOMP VMOD NUM OBJ PUNCT ADJUNCT NSUBJ CONJ PUNCT
+2 4 2 0 7 5 4 7 4 12 10 20 12 13 16 14 20 19 20 4 4
+
+Anh_em lại lặn xuống tìm , nhưng ...
+Nn R Vv D Vv PU Cp PU
+NSUBJ ADJUNCT ROOT VMOD VMOD PUNCT CC PUNCT
+3 3 0 3 3 3 3 3
+
+Ba hôm sau xác anh Hồ nổi lên trong bộ_đồ nhái .
+Num Nu Nn Nn Nn Nr Vv R Cs Nn Nn PU
+NUM NP_ADVMOD NN NSUBJ NN NN ROOT ADJUNCT PREP POBJ NN PUNCT
+2 7 2 7 4 5 0 7 7 9 10 7
+
+Mới_đây biển Thanh_Hoá rộ sò , có thợ_lặn được hơn 1 triệu đồng_[]_ngày .
+Nt Nn Nr VA Nn PU Ve Nn Vv R Num Num Nu PU
+NP_ADVMOD NSUBJ NN ROOT OBJ PUNCT CONJ NSUBJ CCOMP ADJUNCT NUM CONJ OBJ PUNCT
+4 4 2 0 4 4 4 9 7 11 13 11 9 4
+
+Thấy thế mấy người xã Thịnh_Lộc , huyện Can_Lộc sang mượn thuyền người Xuân_Hoà đi lặn .
+Vv Pp Nq Nn Nun Nr PU Nun Nr Vv Vv Nn Nn Nr Vv Vv PU
+XCOMP OBJ DET NSUBJ NP_ADVMOD NN PUNCT PARATAXIS NN ROOT VMOD OBJ NN NN VMOD VMOD PUNCT
+10 1 4 10 4 5 5 5 8 0 10 11 12 13 11 15 10
+
+Do lặn không quen , gặp máy bị trục_trặc người trên thuyền không kịp sửa nên hai thợ_lặn chết chìm dưới biển .
+Cp Vv R Aa PU Vv Nn Vv Aa Nn Cs Nn R Aa Vv Cp Num Nn VA Vv Cs Nn PU
+CC ROOT ADJUNCT VMOD PUNCT XCOMP OBJ RCMOD ACOMP NSUBJ PREP POBJ ADJUNCT ACOMP CONJ CC NUM NSUBJ CONJ VMOD PREP POBJ PUNCT
+2 0 4 2 2 15 6 7 8 15 10 11 15 15 2 2 18 19 2 19 20 21 2
+
+Tôi bấm đồng_hồ đến giờ thứ ba rồi mà vẫn chưa thấy thợ_lặn nào ngoi lên .
+Pp Vv Nn Vv Nt Nn An R Cp R R Vv Nn Pd Vv R PU
+NSUBJ ROOT OBJ RCMOD OBJ NN AMOD ADJUNCT CC ADJUNCT ADJUNCT CONJ NSUBJ DET CCOMP ADJUNCT PUNCT
+2 0 2 3 4 5 6 4 2 11 12 2 15 13 12 15 2
+
+Hải bảo còn đúng một giờ nữa .
+Nr Vv Ve Aa Num Nu R PU
+NSUBJ ROOT CCOMP ACOMP NUM OBJ ADJUNCT PUNCT
+2 0 2 3 6 4 6 2
+
+Dân thợ_lặn tuy không có ai đeo đồng_hồ nhưng đến giờ là họ biết , nếu không làm_sao đi lặn thuê được .
+Nn Nn Cp R Ve Pp Vv Nn Cp Vv Nt Cp Pp Vv PU Cp R E Vv Vv Vv R PU
+DEP CONJ CC ADJUNCT ROOT OBJ RCMOD OBJ CC VMOD OBJ CC NSUBJ CONJ PUNCT CC CONJ INTJ CONJ VMOD VMOD ADJUNCT PUNCT
+5 1 5 5 0 5 6 7 5 14 10 14 14 5 5 5 5 19 17 19 20 19 5
+
+Đúng tầm đủ bốn giờ Hải đứng dậy thông_báo : " Họ đang lên đấy " .
+Aa Nn Aa Num Nu Nr Vv Vv Vv PU PU Pp R Vv M PU PU
+ADJP_ADVMOD OBJ AMOD NUM OBJ NSUBJ ROOT VMOD VMOD PUNCT PUNCT NSUBJ ADJUNCT CCOMP INTJ PUNCT PUNCT
+7 1 2 5 3 7 0 7 7 14 14 14 14 9 14 14 7
+
+Quả_thật , cả sáu người thợ lần_lượt hiện lên như những con nhái biển .
+R PU Nw Num Nc Nn R Vv R Cs Nq Nc Nn Nn PU
+ADJUNCT PUNCT DET NUM NSUBJ CLF ADJUNCT ROOT ADJUNCT PREP DET POBJ CLF NN PUNCT
+8 8 5 5 8 5 8 0 8 8 12 10 12 12 8
+
+Người nào cũng mang một túi lưới đầy chặt những ngao , sò_huyết , hến đỏ , cua_đá , tôm_hùm .
+Nn Pd R Vv Num Nn Nn Aa Aa M Nn PU Nn PU Nn Aa PU Nn PU Nn PU
+NSUBJ DET ADJUNCT ROOT NUM OBJ NN AMOD CONJ INTJ OBJ PUNCT NN PUNCT NN NN PUNCT NN PUNCT NN PUNCT
+4 1 4 0 6 4 6 6 8 11 8 11 11 11 11 15 11 11 11 11 4
+
+Lên thuyền vừa_mới cất kính bảo_hiểm mắt đã thè lưỡi cười hả_hê .
+Vv Nn R Vv Nn Vv Nn R Vv Nn Vv Aa PU
+XCOMP OBJ ADJUNCT CONJ OBJ RCMOD OBJ ADJUNCT ROOT OBJ CONJ ACOMP PUNCT
+9 1 4 1 4 5 6 9 0 9 9 11 9
+
+Tôi hỏi : " Có lặn tiếp được không ? " .
+Pp Vv PU PU R Vv Vv R R PU PU PU
+NSUBJ ROOT PUNCT PUNCT ADJUNCT CCOMP VMOD ADJUNCT ADJUNCT PUNCT PUNCT PUNCT
+2 0 6 6 6 2 6 6 6 6 6 2
+
+Thợ lặn đồng_thanh : " Cứ trong vòng 12 giờ có hàng là lặn , kể_cả lặn tìm tàu hàng , tàu đứt neo chìm ngoài biển xa " .
+Nn Vv Vv PU PU R Cs Nn Num Nu Ve Nn Cp Vv PU M Vv Vv Nn Nn PU Nn Vv Nn Vv Cs Nn Aa PU PU
+NSUBJ NN ROOT PUNCT PUNCT ADJUNCT PREP POBJ NUM NN CCOMP OBJ CC CONJ PUNCT INTJ VMOD VMOD OBJ NN PUNCT CONJ RCMOD OBJ RCMOD PREP POBJ AMOD PUNCT PUNCT
+3 1 0 11 11 7 11 7 10 8 3 11 11 11 14 14 14 17 18 19 19 19 22 23 22 25 26 27 11 3
+
+Con thuyền trở_nên chật_chội và đằm hẳn xuống bởi hơn 20 tạ hàng được mò lên từ đáy biển .
+Nc Nn Vv Aa Cp Nn Aa R Cs R Num Nu Nn Vv Vv R Cs Nn Nn PU
+NSUBJ CLF ROOT ACOMP CC CONJ ACOMP ADJUNCT MARK ADJUNCT NUM NSUBJ NN CCOMP VMOD ADJUNCT PREP POBJ NN PUNCT
+3 1 0 3 3 3 6 6 14 11 12 14 12 6 14 15 15 17 18 3
+
+Tưởng co mình cởi bộ_đồ nhái nói : " Nhiều lần lặn ở tỉnh Thanh_Hoá , Quảng_Ninh bọn tôi phải thuê xe_tải chở hàng về đấy ... " .
+Nr Vv Nn Vv Nn Nn Vv PU PU Aa Nn Vv Cs Nun Nr PU Nr Nn Pp Vv Vv Nn Vv Nn Vv M PU PU PU
+NSUBJ ROOT OBJ VMOD OBJ NN CONJ PUNCT PUNCT AMOD NP_ADVMOD XCOMP PREP POBJ NN PUNCT CONJ NSUBJ DET CCOMP VMOD OBJ VMOD OBJ VMOD INTJ PUNCT PUNCT PUNCT
+2 0 2 2 4 5 2 20 20 11 20 11 12 13 14 15 15 20 18 7 20 21 21 23 23 20 20 20 2
+
+Nói đoạn cả tốp thợ thi nhau bàn về chuyện chiếc tàu cổ cùng với ba khẩu súng thần_công vừa được thợ_lặn xã Cẩm_Lĩnh , huyện Cẩm_Xuyên LBRK Hà_Tĩnh RBRK phát_hiện cách ngư_trường đảo Mắt 10 hải_lý .
+Vv Nn Nw Nn Nn Vv Nn Vv Cs Nn Nc Nn Aa Cp Cp Num Nc Nn Nn R Vv Nn Nun Nr PU Nun Nr LBRK Nr RBRK Vv Vv Nn Nn Nr Num Nu PU
+VMOD OBJ DET NSUBJ NN ROOT OBJ VMOD PREP POBJ NSUBJ CLF AMOD CC CC NUM CONJ CLF CLF ADJUNCT CCOMP NSUBJ NP_ADVMOD NN PUNCT PARATAXIS NN PUNCT PARATAXIS PUNCT CCOMP VMOD OBJ NN NN NUM OBJ PUNCT
+6 1 4 6 4 0 6 6 8 9 21 11 11 11 14 17 11 17 17 21 10 31 22 23 23 23 26 26 26 26 21 31 32 33 34 37 32 6
+

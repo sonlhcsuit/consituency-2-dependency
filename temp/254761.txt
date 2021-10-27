@@ -1,0 +1,240 @@
+Đổi hộ_chiếu ở Matxcơva : Cũng mất " phí dịch_vụ " .
+Nn Nn Cs Nr PU R Ve PU Nn Nn PU PU
+ROOT OBJ PREP POBJ PUNCT ADJUNCT CONJ PUNCT OBJ NN PUNCT PUNCT
+0 1 1 3 1 7 1 9 7 9 9 1
+
+Là một người Việt chỉ biết quanh_năm chăm_chỉ làm_lụng kiếm_ăn ở Tula - một thành_phố của Nga cách khá xa thủ_đô , tôi chẳng mấy khi lên Mát LBRK tên gọi ngắn chỉ thủ_đô Matxcơva mà người Việt thường dùng RBRK nếu_như không có những việc thật cần_thiết .
+Vc Num Nn Nr R Vv Nn Aa Vv Vv Cs Nr PU Num Nun Cs Nr Vv R Aa Nn PU Pp R Nq Nt Vv Nr LBRK Nn Vv Aa Vv Nn Nr Cs Nn Nr R Vv RBRK Cp R Ve Nq Nn R Aa PU
+XCOMP NUM NSUBJ NN ADJUNCT CCOMP NP_ADVMOD ACOMP VMOD VMOD PREP POBJ PUNCT NUM PARATAXIS PREP POBJ RCMOD ADJUNCT ACOMP OBJ PUNCT NSUBJ ADJUNCT NUM NP_ADVMOD ROOT NP_ADVMOD PUNCT PARATAXIS VMOD AMOD RCMOD OBJ NN MARK NSUBJ NN ADJUNCT CCOMP PUNCT CC ADJUNCT VMOD DET OBJ ADJUNCT AMOD PUNCT
+27 3 6 3 6 1 6 9 6 9 10 11 12 15 12 15 16 15 20 18 20 27 27 25 26 27 0 27 28 28 30 30 30 33 34 40 40 37 40 30 28 27 44 27 46 44 48 46 27
+
+Nhưng đã thành lệ , năm năm một lần hộ_chiếu lại hết hạn , những người dân_đen như tôi lại phải lo làm thủ_tục để xin được cấp hộ_chiếu mới .
+Cp R Vv Nn PU Num Nu Num Nn Nn R Ve Nn PU Nq Nc Nn Cs Pp R Vv Vv Vv Nn Cs Vv Vv Vv Nn Aa PU
+CC ADJUNCT ROOT OBJ PUNCT NUM DEP NUM NN NSUBJ ADJUNCT CCOMP OBJ PUNCT DET NSUBJ CLF PREP POBJ ADJUNCT CCOMP VMOD VMOD OBJ PREP PCOMP VMOD VMOD OBJ AMOD PUNCT
+3 3 0 3 3 7 12 9 7 12 12 3 12 3 16 21 16 16 18 21 3 21 22 23 24 25 26 27 28 29 3
+
+Mấy năm trước tình_hình buôn_bán khấm_khá , những người sống xa sứ_quán như chúng_tôi thường " phó_mặc " việc này cho một_số người làm dịch_vụ chuyên mang hộ_chiếu , giấy_tờ lên Mát đổi hộ .
+Nq Nu Nn Nn Vv Aa PU Nq Nn Vv Aa Nn Cs Pp R PU Vv PU Nn Pd Cs Nq Nn Vv Nn Aa Vv Nn PU Nn Cs Nr Vv Vv PU
+DET NP_ADVMOD NN NSUBJ VMOD ROOT PUNCT DET NSUBJ RCMOD ACOMP OBJ PREP POBJ ADJUNCT PUNCT CONJ PUNCT OBJ DET PREP DET POBJ RCMOD OBJ ACOMP RCMOD OBJ PUNCT CONJ PREP POBJ VMOD VMOD PUNCT
+2 6 2 6 4 0 6 9 17 9 10 11 9 13 17 17 6 17 17 19 17 23 21 23 24 27 25 27 28 28 27 31 27 33 6
+
+Dịch_vụ phí cũng không phải là thấp , hồi đó nghỉ một buổi chợ đối_với chúng_tôi có_thể còn thất_thu hơn nhiều .
+Nn Nn R R Aa Vc Aa PU Nt Pd Vv Num Nt Nn Cs Pp Aa R Vv Aa R PU
+NSUBJ NN ADJUNCT ADJUNCT ACOMP ROOT ACOMP PUNCT NP_ADVMOD DET VSUBJ NUM OBJ NN PREP POBJ ACOMP ADJUNCT CONJ ACOMP ADJUNCT PUNCT
+6 1 4 5 6 0 6 6 19 9 19 13 11 13 11 15 19 19 6 19 20 6
+
+Nhưng từ hai năm nay , chuyện làm_ăn trở_nên khó_khăn , hàng_họ không chạy như trước , chợ càng_ngày_càng vắng mà chi_tiêu hằng tháng lại hay phát_sinh , cho_nên đối_với những người buôn_bán nhỏ thì tiết_kiệm được khoản nào hay khoản đấy .
+Cp Cs Num Nu Nt PU Nn Vv Vv Aa PU Nn R Aa Cs Nn PU Nn R Aa Cp Nn R Nu R R Vv PU Cp Cs Nq Nn Vv Aa Cp Vv R Nn Pd Vv Nn Pd PU
+CC PREP NUM POBJ NN PUNCT NSUBJ VMOD ROOT ACOMP PUNCT NSUBJ ADJUNCT CONJ PREP POBJ PUNCT NSUBJ ADJUNCT CONJ CC NSUBJ ADJUNCT NN ADJUNCT ADJUNCT CONJ PUNCT CC PREP DET POBJ RCMOD ACOMP CC VSUBJ ADJUNCT OBJ DET CONJ OBJ DET PUNCT
+9 9 4 2 4 9 9 7 0 9 9 14 14 9 14 15 14 20 20 14 20 27 24 22 26 27 20 27 27 40 32 30 32 33 40 40 36 36 38 27 40 41 9
+
+Đã lâu rồi mới lại khăn_gói đến cửa_quan , sáng sớm thứ hai chúng_tôi theo xe_hàng lên Mát rồi tìm đến sứ_quán VN .
+R Aa R R R Vv Vv Nn PU Nt Nt Nt Num Pp Vv Nn Cs Nr Cp Vv Cs Nn Nr PU
+ADJUNCT ADJP_ADVMOD ADJUNCT ADJUNCT ADJUNCT ROOT VMOD NP_ADVMOD PUNCT NP_ADVMOD NN NN NUM NSUBJ CONJ OBJ PREP POBJ CC CONJ PREP POBJ NN PUNCT
+2 6 2 6 4 0 6 7 6 15 10 10 12 15 6 15 15 17 15 15 20 21 22 6
+
+10 giờ chúng_tôi đã đứng trước cửa phòng lãnh_sự , chú em đi cùng bỗng_nhiên khựng lại , cẩn_thận chùi chân , bỏ mũ rồi mới dám mở cửa bước vào .
+Num Nt Pp R Vv Cs Nn Nn Nn PU Nc Nn Vv Aa R Vv R PU Aa Vv Nn PU Vv Nn Cp R Vv Vv Nn Vv Cs PU
+NUM NP_ADVMOD NSUBJ ADJUNCT ROOT PREP POBJ NN NN PUNCT NSUBJ CLF RCMOD ACOMP ADJUNCT CONJ ADJUNCT PUNCT ACOMP CONJ OBJ PUNCT CONJ OBJ CC ADJUNCT CONJ VMOD OBJ VMOD PREP PUNCT
+2 5 5 5 0 5 6 7 8 5 16 11 11 13 16 5 16 16 20 16 20 20 20 23 23 27 23 27 28 28 30 5
+
+Trước mặt chúng_tôi là một ô cửa_sổ , chắc là phòng thường_trực , nhưng bên trong không có ai .
+Cs Nn Pp Vc Num Nn Nn PU Aa Vc Nn Vv PU Cp Nn Nn R Ve Pp PU
+PREP POBJ NN ROOT NUM ATTR NN PUNCT ADJP_ADVMOD CONJ ATTR VMOD PUNCT CC NP_ADVMOD NN ADJUNCT CONJ OBJ PUNCT
+4 1 2 0 6 4 6 4 10 4 10 11 4 4 18 15 18 4 18 4
+
+Phải mấy phút sau mới có một ông to_cao đeo kính xuất_hiện .
+Vv Nq Nu Nn R Ve Num Nn Aa Vv Nn Vv PU
+VMOD DET OBJ NN ADJUNCT ROOT NUM NSUBJ AMOD RCMOD OBJ CCOMP PUNCT
+6 3 1 3 6 0 8 12 8 8 10 6 6
+
+Thấy chúng_tôi , ông hỏi đúng giọng bảo_vệ chuyên_nghiệp :
+Vv Pp PU Pp Vv Aa Nn Nn Aa PU
+XCOMP OBJ PUNCT NSUBJ ROOT ACOMP OBJ NN AMOD PUNCT
+5 1 5 5 0 5 6 7 8 5
+
+" Anh hỏi ai " ?
+PU Pp Vv Pp PU PU
+PUNCT NSUBJ ROOT OBJ PUNCT PUNCT
+3 3 0 3 3 3
+
+Vào đây làm gì ?
+Vv Pd Vv Pp PU
+ROOT NP_ADVMOD VMOD OBJ PUNCT
+0 1 1 3 1
+
+Tôi trình_bày lý_do , rồi xuất_trình giấy_tờ để chứng_minh là anh_em tôi lên sứ_quán đổi hộ_chiếu .
+Pp Vv Nn PU Cp Vv Nn Cs Vv Cs Nn Pp Vv Nn Vv Nn PU
+NSUBJ ROOT OBJ PUNCT CC CONJ OBJ PREP PCOMP MARK NSUBJ NN CCOMP NP_ADVMOD VMOD OBJ PUNCT
+2 0 2 2 2 2 6 7 8 13 13 11 9 13 13 15 2
+
+Nhưng cũng phải mất đến hơn 10 phút chúng_tôi mới qua được cái ô tò_vò của ông thường_trực .
+Cp R Aa Vv M R Num Nu Pp R Vv R M Nn Nn Cs Nc Nn PU
+CC ADJUNCT ADJP_ADVMOD VMOD INTJ ADJUNCT NUM OBJ NSUBJ ADJUNCT ROOT ADJUNCT INTJ OBJ NN PREP POBJ CLF PUNCT
+11 3 11 3 4 7 8 4 11 11 0 11 14 11 14 14 16 17 11
+
+Anh_em tôi không_những đã phải xuất_trình đủ mọi thứ giấy_tờ tuỳ_thân , mà còn phải trả_lời cả những câu hỏi vừa " doạ_dẫm " : Đi đâu ? Gặp ai ? , lại vừa như " cảm_thông " của ông thường_trực nọ : " giờ này chưa ai tiếp đâu , anh cần gì thì tôi giúp ?
+Nn Pp Cp R Vv Vv Aa Nw Nn Nn Aa PU Cp R Vv Vv Nw Nq Nn Vv Cp PU Vv PU PU Vv Pp PU Vv Pp PU PU R Cp Cs PU Vv PU Cs Nc Nn Pd PU PU Nt Pd R Pp Vv M PU Pp Vv Pp Cp Pp Vv PU
+NSUBJ NN CC ADJUNCT ROOT VMOD ACOMP DET OBJ NN AMOD PUNCT CC ADJUNCT CONJ VMOD DET DET OBJ VMOD CC PUNCT CONJ PUNCT PUNCT CCOMP OBJ PUNCT CONJ OBJ PUNCT PUNCT ADJUNCT CC CONJ PUNCT PCOMP PUNCT PREP POBJ CLF DET PUNCT PUNCT NP_ADVMOD DET ADJUNCT NSUBJ CCOMP INTJ PUNCT NSUBJ CONJ OBJ CC NSUBJ CONJ PUNCT
+5 1 5 5 0 5 6 9 6 9 10 5 5 13 5 15 19 19 16 19 19 23 21 23 26 23 26 26 26 29 29 23 34 23 23 37 35 37 19 39 40 40 49 45 49 45 48 49 19 49 49 53 49 53 53 57 53 5
+
+Đổi hộ_chiếu hả , hay làm giấy_thông_hành về nước ?
+Vv Nn M PU Cp Vv Nn Vv Nn PU
+ROOT OBJ INTJ PUNCT CC CONJ OBJ RCMOD OBJ PUNCT
+0 1 1 1 1 1 6 7 8 1
+
+Hay khai_sinh cho con ?
+Cp Vv Cs Nn PU
+CC ROOT PREP POBJ PUNCT
+2 0 2 3 2
+
+Cần gì tôi làm cho , mất thêm tí_chút nhưng lấy được ngay rồi còn về mà đi bán hàng " .
+Vv Pp Pp Vv Vv PU Ve Vv Nn Cp Vv R R Cp R Vv M Vv Vv Nn PU PU
+ROOT OBJ NSUBJ CONJ VMOD PUNCT CONJ VMOD OBJ CC CONJ ADJUNCT ADJUNCT CC ADJUNCT CONJ INTJ VMOD VMOD OBJ PUNCT PUNCT
+0 1 4 1 4 4 4 7 7 7 7 11 11 11 16 11 18 16 18 19 1 1
+
+Sau một hồi " qua_lại " , rồi anh_em tôi cũng vào được bên trong phòng lãnh_sự .
+Cs Num Nt PU Vv PU PU Cp Nn Pp R Vv R Nn Nn Nn Nn PU
+PREP NUM POBJ PUNCT RCMOD PUNCT PUNCT CC NSUBJ NN ADJUNCT ROOT ADJUNCT NP_ADVMOD NN NN NN PUNCT
+12 3 1 5 3 5 12 12 12 9 12 0 12 12 14 14 16 12
+
+Vừa đặt người xuống ghế thì bỗng có ngay một chị đến bên chúng_tôi : " Các anh đến sớm thế , chắc là ở xa lên phải không ? Vào đây uống nước đã " .
+R Vv Nn Cs Nn Cp R Ve M Num Pp Vv Nn Pp PU PU Nq Pp Vv Aa M PU Vv Cs Cs Aa Vv Aa R PU Vv Pd Vv Nn M PU PU
+ADJUNCT ROOT OBJ PREP POBJ CC ADJUNCT CONJ INTJ NUM NSUBJ CCOMP NP_ADVMOD DET PUNCT PUNCT NSUBJ DET CCOMP ACOMP INTJ PUNCT CONJ MARK PREP PCOMP XCOMP ADJP_ADVMOD ADJUNCT PUNCT CONJ NP_ADVMOD VMOD OBJ INTJ PUNCT PUNCT
+2 0 2 2 4 2 8 2 8 11 12 8 12 13 19 19 19 17 12 19 20 19 19 27 27 25 23 23 28 23 23 31 31 33 33 19 2
+
+Rồi chị đon_đả kéo anh_em tôi sang phòng bên cạnh và nói : " Đây là phòng dịch_vụ của sứ_quán ... nếu muốn làm nhanh thì đưa đây tôi giúp , chỉ mất thêm chút_ít thôi nhưng lấy được ngay " .
+R Pp Aa Vv Nn Pp Cs Nn Nn Nn Cp Vv PU PU Pd Vc Nn Nn Cs Nn PU Cp Vv Vv Aa Cp Vv Pd Pp Vv PU R Ve Vv Nq M Cp Vv R R PU PU
+ADJUNCT NSUBJ ACOMP ROOT OBJ NN PREP POBJ NN NN CC CONJ PUNCT PUNCT NSUBJ CCOMP ATTR NN PREP POBJ PUNCT CC CONJ VMOD ACOMP CC CONJ OBJ NSUBJ CONJ PUNCT ADJUNCT CONJ VMOD OBJ INTJ CC CONJ ADJUNCT ADJUNCT PUNCT PUNCT
+4 4 4 0 4 5 4 7 8 9 4 4 16 16 16 12 16 17 17 19 16 23 16 23 24 23 23 27 30 27 23 33 23 33 33 35 33 33 38 38 12 4
+
+Nghe vậy , tôi mới hỏi nếu muốn làm hộ_chiếu thì cần phải khai những giấy gì và mất bao_nhiêu tiền thì nhận được ngay .
+Vv Pp PU Pp R Vv Cp Vv Vv Nn Cp Vv Vv Vv Nq Nn Pp Cp Ve Pp Nn Cp Vv M R PU
+XCOMP OBJ PUNCT NSUBJ ADJUNCT ROOT CC CCOMP VMOD OBJ CC CONJ VMOD VMOD DET OBJ DET CC CONJ DET OBJ CC CONJ INTJ ADJUNCT PUNCT
+6 1 6 6 6 0 8 6 8 9 8 8 12 13 16 14 16 12 12 21 19 19 19 23 23 6
+
+Chị ta liền chào ngay , đổi hộ_chiếu 230 đôla , cấp hộ_chiếu mới nếu bị mất là 370 đôla , lấy nhanh trong vòng nửa tiếng .
+Pp Pp R Vv R PU Vv Nn Num Nun PU Nn Nn Aa Cp Vv Ve Vc Num Nun PU Vv Aa Cs Nn Nq Nn PU
+NSUBJ DET ADJUNCT ROOT ADJUNCT PUNCT VSUBJ OBJ NUM CCOMP PUNCT VSUBJ OBJ AMOD CC VMOD VMOD CONJ NUM ATTR PUNCT CONJ ACOMP PREP POBJ DET NN PUNCT
+4 1 4 0 4 10 10 7 10 4 10 18 12 13 12 12 16 10 20 18 18 18 22 22 24 27 25 4
+
+Thấy chúng_tôi kêu đắt , chị ta bèn nói : " Tôi cũng chỉ lấy công 10 đô thôi , tiền là trên kia họ thu hết " ...
+Vv Pp Vv Aa PU Pp Pp R Vv PU PU Pp R R Vv Nn Num Nu M PU Nn Vc Nn Pd Pp Vv M PU PU
+XCOMP NSUBJ CCOMP ACOMP PUNCT NSUBJ DET ADJUNCT ROOT PUNCT PUNCT NSUBJ ADJUNCT ADJUNCT CCOMP OBJ NUM NN INTJ PUNCT NSUBJ CONJ NP_ADVMOD DET NSUBJ CCOMP INTJ PUNCT PUNCT
+9 3 1 3 9 9 6 9 0 15 15 15 14 15 9 15 18 16 15 15 22 15 26 23 26 22 26 9 9
+
+Thấy chúng_tôi ngần_ngừ , chị ta nói : " các anh không tin thì ra bảng thông_báo mà xem bảng giá , cũng thế thôi , mà còn lâu mới nhận được " .
+Vv Pp Vv PU Pp Pp Vv PU PU Nq Pp R Vv Cp Vv Nn Vv Cp Vv Nn Nn PU R Pp M PU M R Aa R Vv M PU PU
+XCOMP NSUBJ CCOMP PUNCT NSUBJ DET ROOT PUNCT PUNCT DET NSUBJ ADJUNCT CCOMP CC CONJ OBJ VMOD CC CONJ OBJ NN PUNCT ADJUNCT PARATAXIS INTJ PUNCT INTJ ADJUNCT AMOD ADJUNCT VMOD INTJ PUNCT PUNCT
+7 3 1 7 7 5 0 13 13 11 13 13 7 13 13 15 16 15 15 19 20 20 24 20 24 24 29 29 24 31 29 31 13 7
+
+Hai anh_em tôi ra xem bảng thông_báo .
+Num Nn Pp Vv Vv Nn Vv PU
+NUM NSUBJ NN ROOT VMOD OBJ VMOD PUNCT
+2 4 2 0 4 5 6 4
+
+Quả_thật , trên đó ngoài các mức lệ_phí thông_thường còn có thêm mục qui_định các mức phải nộp thêm nếu muốn làm trong ngày .
+R PU Cs Pd Cs Nq Nn Nn Aa R Ve Vv Nn Vv Nq Nn Vv Vv Vv Cp Vv Vv Cs Nt PU
+ADJUNCT PUNCT PREP POBJ PREP DET POBJ NN AMOD ADJUNCT ROOT VMOD OBJ RCMOD DET OBJ RCMOD VMOD VMOD CC CONJ VMOD PREP POBJ PUNCT
+11 11 11 3 11 7 5 7 8 11 0 11 11 13 16 14 16 17 18 18 18 21 22 23 11
+
+như chúng_tôi đổi hộ_chiếu , trong vòng 24 tiếng thì phải nộp lên thành 200% , muộn hơn thì 150% .
+Cp Pp Vv Nn PU Cs Nn Num Nu Cp Vv Vv R Vv Nq PU Aa R Cp Nq PU
+CC NSUBJ ROOT OBJ PUNCT PREP PCOMP NUM POBJ CC CONJ VMOD ADJUNCT VMOD OBJ PUNCT CONJ ADJUNCT CC OBJ PUNCT
+3 3 0 3 3 3 6 9 6 3 3 14 14 11 14 3 3 17 17 17 3
+
+Trong khi đó lệ_phí đổi hộ_chiếu bình_thường chỉ ghi là 50 đôla .
+Cs Nt Pd Nn Vv Nn Aa R Vv Cs Num Nun PU
+PREP POBJ DET NSUBJ RCMOD OBJ AMOD ADJUNCT ROOT PREP NUM POBJ PUNCT
+9 1 2 9 4 5 4 9 0 9 12 10 9
+
+Vừa lúc đó thì có cán_bộ xuống , những người đang đứng quanh bảng thông_báo liền ào về phía quầy tiếp dân .
+R Nt Pd Cp Ve Nn Vv PU Nq Nn R Vv Nn Nn Vv R Vv Cs Nn Nn Vv Nn PU
+ADJUNCT NP_ADVMOD DET CC ROOT NSUBJ CCOMP PUNCT DET NSUBJ ADJUNCT RCMOD NP_ADVMOD NN VMOD ADJUNCT CONJ PREP POBJ NN RCMOD OBJ PUNCT
+2 5 2 5 0 7 5 5 10 17 12 10 12 13 14 17 5 17 18 19 20 21 5
+
+Một cảnh_tượng hỗn_loạn , chen_lấn nhau diễn_ra .
+Num Nn Aa PU Vv Nn Vv PU
+NUM NSUBJ AMOD PUNCT CONJ OBJ ROOT PUNCT
+2 7 2 3 3 5 0 7
+
+Cuối_cùng đến lượt mình , tôi hỏi về thủ_tục đổi hộ_chiếu thì được trả_lời : khai theo mẫu , nộp hồ_sơ , rồi cầm giấy hẹn sau một tháng đến nhận .
+Aa Cs Nn Pp PU Pp Vv Cs Nn Vv Nn Cp Vv Vv PU Vv Vv Nn PU Vv Nn PU Cp Vv Nn Vv Cs Num Nt Vv Vv PU
+ADJP_ADVMOD PREP POBJ NN PUNCT NSUBJ ROOT PREP POBJ RCMOD OBJ CC CONJ VMOD PUNCT CCOMP VMOD OBJ PUNCT CONJ OBJ PUNCT CC CONJ OBJ VMOD PREP NUM POBJ CONJ VMOD PUNCT
+7 7 2 3 7 7 0 7 8 9 10 7 7 13 16 14 16 17 16 16 20 20 20 20 24 25 30 29 27 16 30 7
+
+Tôi liền hỏi về cách đổi nhanh thì được trả_lời : ra đọc qui_định tại bảng thông_báo .
+Pp R Vv Cs Nn Vv Aa Cp Vv Vv PU Vv Vv Nn Cs Nn Nn PU
+NSUBJ ADJUNCT ROOT PREP POBJ RCMOD ACOMP CC CONJ VMOD PUNCT XCOMP VMOD OBJ PREP POBJ NN PUNCT
+3 3 0 3 4 5 6 3 3 9 12 10 12 13 14 15 16 3
+
+Nói rồi anh cán_bộ ôm tập hồ_sơ đi .
+Vv Cp Nc Nn Vv Nn Nn Vv PU
+XCOMP CC NSUBJ CLF ROOT OBJ NN VMOD PUNCT
+5 5 5 3 0 5 6 5 5
+
+Ô bên cạnh có một chị cán_bộ đang ngồi , tôi vội hỏi về thời_gian nếu làm nhanh thì được giải_thích : lệ_phí là 220 đôla , cuối giờ lấy ! ?
+Nn Nn Nn Ve Num Nc Nn R Vv PU Pp Aa Vv Cs Nn Cp Vv Aa Cp Vv Vv PU Nn Vc Num Nun PU Cs Nt Vv PU PU
+NSUBJ NN NN ROOT NUM NSUBJ CLF ADJUNCT CCOMP PUNCT NSUBJ ACOMP CONJ PREP POBJ CC RCMOD ACOMP CC CONJ VMOD PUNCT NSUBJ CCOMP NUM ATTR PUNCT PREP POBJ CONJ PUNCT PUNCT
+4 1 2 0 6 9 6 9 4 4 13 13 4 13 14 15 15 17 13 13 20 24 24 21 26 24 24 30 28 24 4 4
+
+Thấy chúng_tôi thất_vọng quay ra , chị " dịch_vụ " mời chúng_tôi vào trong lúc mới đến và ông thường_trực vừa nói vừa cười : " Thấy chưa , mất có 10 đôla cho chúng_tôi thì có_khi bây_giờ đã xong rồi , thích làm thẳng thì chờ đến chiều muộn nhé " .
+Vv Pp Vv Vv R PU Nn PU Nn PU Vv Pp Cs Cs Nt R Vv Cp Nc Nn Cp Vv Cp Vv PU PU Vv R PU Ve M Num Nun Cs Pp Cp R Pd R VA R PU Vv Vv Aa Cp Vv Cs Nt Aa M PU PU
+XCOMP NSUBJ CCOMP VMOD ADJUNCT PUNCT NSUBJ PUNCT NN PUNCT RCMOD OBJ PREP POBJ NP_ADVMOD ADJUNCT XCOMP CC CONJ CLF CC ROOT CC CONJ PUNCT PUNCT XCOMP ADJUNCT PUNCT CONJ INTJ NUM OBJ PREP POBJ CC ADJUNCT NP_ADVMOD ADJUNCT CONJ ADJUNCT PUNCT CONJ VMOD ACOMP CC CONJ PREP POBJ AMOD INTJ PUNCT PUNCT
+22 3 1 3 4 22 22 7 7 7 7 11 11 13 11 17 15 7 7 19 22 0 22 22 27 27 22 27 27 27 33 33 30 33 34 30 40 40 40 30 40 40 40 43 44 43 43 47 48 49 47 27 22
+
+Anh_em tôi chỉ còn biết nhìn nhau .
+Nn Pp R R Vv Vv Nn PU
+NSUBJ NN ADJUNCT ADJUNCT ROOT VMOD OBJ PUNCT
+5 1 5 3 0 5 6 5
+
+Đành vậy thôi , đã lên được đến đây , tốn_kém tiền tàu_xe , lại luôn bị đe_doạ công_an Mát kiếm cớ kiểm_tra giấy_tờ để ăn_tiền , tôi đành tặc_lưỡi rút 460 đô và hai quyển hộ_chiếu sắp hết hạn đưa cho chị " dịch_vụ " .
+Vv Pp M PU R Vv R Cs Pd PU Vv Nn Nn PU R R Vv Vv Nn Nr Vv Nn Vv Nn Cs Vv PU Pp Vv Vv Vv Num Nu Cp Num Nc Nn R Ve Nn Vv Cs Nn PU Nn PU PU
+VMOD OBJ INTJ PUNCT ADJUNCT CONJ ADJUNCT PREP POBJ PUNCT CONJ OBJ NN PUNCT ADJUNCT ADJUNCT CONJ VMOD NSUBJ NP_ADVMOD CCOMP OBJ VMOD OBJ PREP PCOMP PUNCT NSUBJ ROOT VMOD VMOD NUM OBJ CC NUM CONJ CLF ADJUNCT RCMOD OBJ VMOD PREP POBJ PUNCT NN PUNCT PUNCT
+29 1 1 1 6 1 6 6 8 6 6 11 12 11 16 17 11 17 21 19 18 21 21 23 23 25 29 29 0 29 30 33 31 33 36 33 36 39 36 39 31 41 42 43 43 43 29
+
+Chị ta đon_đả cầm hộ_chiếu và tiền rồi bấm điện_thoại .
+Pp Pp Aa Vv Nn Cp Nn Cp Vv Nn PU
+NSUBJ DET ACOMP ROOT OBJ CC CONJ CC CONJ OBJ PUNCT
+4 1 4 0 4 5 5 4 4 9 4
+
+" Hai anh cứ ngồi đây uống nước , tí là xong thôi " .
+PU Num Pp R Vv Pd Vv Nn PU Nq M VA M PU PU
+PUNCT NSUBJ DET ADJUNCT ROOT NP_ADVMOD VMOD OBJ PUNCT NP_ADVMOD INTJ CONJ INTJ PUNCT PUNCT
+5 5 2 5 0 5 5 7 5 12 12 5 12 5 5
+
+Tôi cầm chén chè loãng trong tay mà như cầm chén mồ_hôi_nước_mắt .
+Pp Vv Nn Nn Aa Cs Nn M Cs Vv Nn ID PU
+NSUBJ ROOT OBJ NN AMOD PREP POBJ INTJ PREP PCOMP OBJ DEP PUNCT
+2 0 2 3 3 2 6 2 2 9 10 11 2
+
+Trong thâm_tâm tôi bỗng thấy vừa buồn , vừa tủi , vừa xót_xa .
+Cs Nn Pp R Vv Cp Aa PU Cp Aa PU Cp Aa PU
+PREP POBJ NSUBJ ADJUNCT ROOT CC ACOMP PUNCT CC CONJ PUNCT CC CONJ PUNCT
+5 1 5 5 0 7 5 7 7 7 10 10 10 5
+
+Tôi nhìn đồng_hồ hết đúng 25 phút , chúng_tôi đã cầm quyển hộ_chiếu Cộng_hoà xã_hội chủ_nghĩa VN mới_tinh trong tay với dấu quốc_huy đỏ_chót .
+Pp Vv Nn Ve Aa Num Nu PU Pp R Vv Nc Nn Nn Nn Sv Nr Aa Cs Nn Cs Nn Nn Aa PU
+NSUBJ ROOT OBJ RCMOD ADJP_ADVMOD NUM OBJ PUNCT NSUBJ ADJUNCT CONJ NN CLF OBJ NN SINO NN AMOD PREP POBJ PREP POBJ NN AMOD PUNCT
+2 0 2 3 4 7 5 2 11 11 2 14 12 11 14 15 14 14 14 19 14 21 22 22 2
+
+Chúng_tôi cầm quyển hộ_chiếu trong tay mà cảm_thấy thật đau_xót cho một đất_nước vừa trải qua chiến_tranh gian_khổ , nhân_dân còn nhiều khó_khăn nên nhiều người phải tha_hương xa xứ kiếm_ăn , mà anh_em chúng_tôi chỉ là hai trong số hàng vạn người Việt đang sinh_sống làm_ăn ở nước_ngoài .
+Pp Vv Nc Nn Cs Nn Cp Vv R Aa Cs Num Nn R Vv Cs Nn Aa PU Nn Ve Aa Nn Cp Aa Nn Vv Vv Aa Nn Vv PU Cp Nn Pp R Vc Num Cs Nn R Nq Nn Nr R Vv Vv Cs Nn PU
+NSUBJ ROOT OBJ CLF PREP POBJ CC CONJ ADJUNCT ACOMP PREP NUM POBJ ADJUNCT RCMOD PREP POBJ AMOD PUNCT NSUBJ CCOMP AMOD OBJ CC AMOD NSUBJ CONJ VMOD ACOMP OBJ VMOD PUNCT CC NSUBJ NN ADJUNCT CONJ ATTR PREP POBJ ADJUNCT NUM NN NN ADJUNCT RCMOD CONJ PREP POBJ PUNCT
+2 0 2 3 2 5 2 2 10 8 10 13 11 15 13 15 16 17 21 21 13 23 21 21 26 27 21 27 27 29 29 27 27 37 34 37 27 37 38 39 42 43 40 43 46 43 46 46 48 2
+
+Một năm trở_lại đây , vùng tôi xem được kênh VTV4 của Truyền_hình VN , biết được nhiều chủ_trương của Đảng và Chính_phủ đối_với người Việt ở nước_ngoài .
+Num Nt Vv Pd PU Nn Pp Vv R Nn Nr Cs Nn Nr PU Vv R Aa Nn Cs Nn Cp Nn Cs Nn Nr Cs Nn PU
+NUM NP_ADVMOD RCMOD OBJ PUNCT NSUBJ NN ROOT ADJUNCT OBJ NN PREP POBJ NN PUNCT CONJ ADJUNCT AMOD OBJ PREP POBJ CC CONJ PREP POBJ NN PREP POBJ PUNCT
+2 8 2 3 8 8 6 0 8 8 10 10 12 13 8 8 16 19 16 19 20 21 21 19 24 25 25 27 8
+
+Anh_chị_em chỗ tôi sống đều rất vui_mừng , nhưng có_lẽ đó chỉ là những chính_sách .
+Nn Nn Pp Vv R R Vv PU Cp R Pd R Vc Nq Nn PU
+NSUBJ NP_ADVMOD NSUBJ CCOMP ADJUNCT ADJUNCT ROOT PUNCT CC CONJ NSUBJ ADJUNCT CONJ DET ATTR PUNCT
+7 1 4 2 6 7 0 7 7 7 13 13 10 15 13 7
+
+Matxcơva , mùa xuân năm 2004 .
+Nr PU Nn Nt Nt Num PU
+ROOT PUNCT NP_ADVMOD NN NN NUM PUNCT
+0 1 1 3 3 5 1
+

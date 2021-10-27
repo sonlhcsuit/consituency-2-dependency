@@ -1,0 +1,265 @@
+Bảy xóm Việt kiều ở Pakse Học được mỗi câu " pay_tà_lạt " LBRK đi chợ RBRK , chúng_tôi lên chiếc tuktuk LBRK loại xe thông_dụng để chở khách , giống xe_lam của VN RBRK đi chợ Quốc_Tế , TP Pakse , tỉnh Champasak LBRK Lào RBRK .
+Num Nun Nr Sv Cs Nr Vv R M Nn PU FW PU LBRK Vv Nn RBRK PU Pp Vv Nc FW LBRK Nn Nn Aa Cs Vv Nn PU Vv Nn Cs Nr RBRK Vv Nn Aa PU Nun Nr PU Nun Nr LBRK Nr RBRK PU
+NUM NSUBJ NN SINO PREP POBJ ROOT ADJUNCT INTJ OBJ PUNCT RCMOD PUNCT PUNCT PARATAXIS OBJ PUNCT PUNCT NSUBJ CONJ NN CLF PUNCT NP_ADVMOD NN AMOD PREP PCOMP OBJ PUNCT PARATAXIS OBJ PREP POBJ PUNCT VMOD NP_ADVMOD AMOD PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT PARATAXIS PUNCT PUNCT
+2 7 2 3 2 5 0 7 10 7 12 10 12 12 12 15 12 7 20 7 24 21 24 20 24 24 24 27 28 24 24 31 32 33 24 20 36 37 37 37 40 40 40 43 43 43 43 7
+
+Dạo mua vài thứ lặt_vặt xong , lang_thang trên những con đường không biết gọi tên gì LBRK vì không đọc được chữ Lào RBRK , chúng_tôi đang tìm cách hỏi đường về nhà_nghỉ thì thật bất_ngờ một giọng nói tiếng Việt rất sõi đến với chúng_tôi : " Anh_chị về đâu , đi xe không ? " .
+Vv Vv Nq Nn Aa VA PU Vv Cs Nq Nc Nn R Vv Vv Nn Pp LBRK Cp R Vv R Nn Nr RBRK PU Pp R Vv Nn Vv Nn Vv Nn Cp R Aa Num Nn Vv Nn Nr R Aa Vv Cs Pp PU PU Nn Vv Pp PU Vv Nn R PU PU PU
+ROOT VMOD DET OBJ AMOD VMOD PUNCT CONJ PREP DET POBJ CLF ADJUNCT XCOMP VMOD OBJ DET PUNCT CC ADJUNCT PARATAXIS ADJUNCT OBJ NN PUNCT PUNCT NSUBJ ADJUNCT CONJ OBJ RCMOD OBJ RCMOD OBJ CC ADJUNCT ADJP_ADVMOD NUM NSUBJ RCMOD OBJ NN ADJUNCT ACOMP CONJ PREP POBJ PUNCT PUNCT NSUBJ CCOMP OBJ PUNCT CONJ OBJ ADJUNCT PUNCT PUNCT PUNCT
+0 1 4 2 4 2 1 1 8 11 9 11 14 11 14 15 16 15 15 21 15 21 21 23 15 1 29 29 1 29 30 31 32 33 29 37 45 39 45 39 40 41 44 40 29 45 46 51 51 51 45 51 51 51 54 54 51 51 1
+
+Thì_ra tiếng của anh chạy xe tên Thành , người gốc Việt , được sinh ra trên đất bạn .
+Cp Nn Cs Nn Vv Nn Nn Nr PU Nn Nn Nr PU Vv Vv R Cs Nn Nn PU
+CC ROOT PREP POBJ RCMOD OBJ NN NN PUNCT PARATAXIS NN NN PUNCT PARATAXIS VMOD ADJUNCT PREP POBJ NN PUNCT
+2 0 2 3 4 5 4 7 4 4 10 11 4 4 14 15 15 17 18 2
+
+Lập_nghiệp trên đất bạn Tại TP Pakse , chẳng khó_khăn lắm khi bạn muốn thuê xe dạo TP hay vào chợ mua hàng đến quán ăn ... vì nơi đây có khá nhiều Việt kiều sống thành từng khu xóm .
+Vv Cs Nn Nn Cs Nun Nr PU R Aa R Nt Pp Vv Vv Nn Vv Nun Cp Vv Nn Vv Nn Vv Nn Vv PU Cs Nn Pd Ve R Aa Nr Sv Vv Vv Pp Nun Nun PU
+ADVCL PREP POBJ NN PREP POBJ NN PUNCT ADJUNCT ROOT ADJUNCT NP_ADVMOD NSUBJ CCOMP VMOD OBJ VMOD OBJ CC CONJ OBJ VMOD OBJ CONJ NP_ADVMOD VMOD PUNCT MARK NP_ADVMOD DET ADVCL ADJUNCT AMOD OBJ SINO RCMOD VMOD DET OBJ NN PUNCT
+10 1 2 3 3 5 6 10 10 0 10 10 14 12 14 15 15 17 17 17 20 20 22 20 24 25 24 31 31 29 10 33 34 31 34 34 36 39 37 39 10
+
+" Tại PakSe có bảy xóm người Việt .
+PU Cs Nr Ve Num Nun Nn Nr PU
+PUNCT PREP POBJ ROOT NUM OBJ NN NN PUNCT
+4 4 2 0 6 4 6 7 4
+
+Đó là xóm Xuống_Đá , Nhà_Đèn , Tân_Phước , Tân_An , Sân_Bay , Tà_Hín và Bản_Thung .
+Pd Vc Nun Nr PU Nr PU Nr PU Nr PU Nn PU Nr Cp Nr PU
+NSUBJ ROOT ATTR NN PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT CONJ CC CONJ PUNCT
+2 0 2 3 4 4 6 6 8 8 10 10 12 12 14 14 2
+
+Có khoảng hơn 5.000 Việt kiều đang sinh_sống và lập_nghiệp tại đây so với hơn 6.000 Việt kiều sống rải_rác tại bốn tỉnh phía Nam Lào " - ông Trần_Ngọc_Kim , chánh văn_phòng Tổng lãnh_sự VN tại bốn tỉnh Nam Lào , cho biết .
+Ve R R Num Nr Sv R Vv Cp Vv Cs Pd Vv Cs R Num Nr Sv Vv Aa Cs Num Nun Nn Nn Nr PU PU Nn Nr PU Nn Nn Sv Nn Nr Cs Num Nun Nn Nr PU Vv Vv PU
+CCOMP ADJUNCT ADJUNCT NUM NSUBJ SINO ADJUNCT CCOMP CC CONJ PREP POBJ CONJ PREP ADJUNCT NUM POBJ SINO RCMOD ACOMP PREP NUM POBJ NN CONJ NN PUNCT PUNCT NSUBJ NN PUNCT PARATAXIS NN SINO NN NN PREP NUM POBJ NN NN PUNCT ROOT VMOD PUNCT
+43 3 4 5 8 5 8 1 8 8 8 11 8 13 16 17 14 17 17 19 19 23 21 23 24 24 43 43 43 29 29 29 32 35 36 32 36 39 37 39 40 29 0 43 43
+
+Bên cạnh những công_việc như xây_dựng , trồng cây công_nghiệp , Việt kiều buôn_bán rất đông ở hai chợ lớn và làm chủ những khách_sạn , nhà_hàng có tiếng tại TP này .
+Nn Nn Nq Nn Cs Vv PU Vv Nn Nn PU Nr Sv Vv R Aa Cs Num Nn Aa Cp Vv Nn Nq Nn PU Nn Ve Nn Cs Nun Pd PU
+NP_ADVMOD NN DET NN PARATAXIS PCOMP PUNCT CONJ OBJ NN PUNCT NSUBJ SINO ROOT ADJUNCT ACOMP PREP NUM POBJ AMOD CC CONJ OBJ DET NN PUNCT CONJ RCMOD OBJ PREP POBJ DET PUNCT
+14 1 4 1 4 5 6 6 8 9 14 14 12 0 16 14 14 19 17 19 14 14 22 25 23 25 25 25 28 25 30 31 14
+
+Đa_số Việt kiều định_cư tại Pakse từ khoảng 70 năm trước .
+Nq Nr Sv Vv Cs Nr Cs R Num Nu Nn PU
+DET NSUBJ SINO ROOT PREP POBJ PREP ADJUNCT NUM POBJ NN PUNCT
+2 4 2 0 4 5 4 9 10 7 10 4
+
+Họ có gốc tại miền Trung và Bắc_Trung_bộ VN .
+Pp Ve Nn Cs Nn Nn Cp Nr Nr PU
+NSUBJ ROOT OBJ PREP POBJ NN CC CONJ NN PUNCT
+2 0 2 3 4 5 5 5 8 2
+
+Phần_lớn gia_đình Việt kiều đều lo cho việc học của con_cái .
+Nq Nn Nr Sv R Vv Cs Ncs Vv Cs Nn PU
+DET NSUBJ NN SINO ADJUNCT ROOT PREP POBJ CLF PREP POBJ PUNCT
+2 6 2 3 6 0 6 7 8 8 10 6
+
+Như gia_đình ông Nguyễn_Văn_Thuật ở xóm Tân_Phước có sáu người con đều vào đại_học .
+Cp Nn Nn Nr Cs Nun Nr Ve Num Nc Nn R Vv Nn PU
+CC NSUBJ NN NN PREP POBJ NN ROOT NUM NSUBJ CLF ADJUNCT CCOMP OBJ PUNCT
+8 8 2 3 3 5 6 0 10 13 10 13 8 13 8
+
+Cô con gái đầu Nguyễn_Thị_Hồng_Điệp du_học bên Mỹ , cô em gái kế Nguyễn_Thị_Thanh_Đoan tốt_nghiệp ĐH Quốc_gia Vientiane đã đi làm , cậu con trai út Nguyễn_Đức_Quang đang học ĐH Y Thái_Bình tại VN ...
+M Nn Nn Aa Nr Vv Nn Nr PU M Nn Nn Vv Nr Vv Nn Aa Nr R Vv Vv PU M Nn Nn Aa Nr R Vv Nn Nn Nr Cs Nr PU
+INTJ NSUBJ NN AMOD NN ROOT NP_ADVMOD NN PUNCT INTJ NSUBJ NN VMOD NN RCMOD OBJ AMOD NN ADJUNCT CONJ VMOD PUNCT INTJ NSUBJ NN AMOD NN ADJUNCT CONJ OBJ NN NN PREP POBJ PUNCT
+2 6 2 2 2 0 6 7 6 11 20 11 11 11 11 15 16 16 20 6 20 20 24 29 24 24 24 29 20 29 30 30 30 33 6
+
+Truyền_thống gia_đình bên nội rất hiếu học nên chị_em nó cũng noi theo .
+Nn Nn Nn Nn R Aa Vv Cp Nn Pp R Vv Vv PU
+NSUBJ NN NN NN ADJUNCT ROOT VMOD CC NSUBJ NN ADJUNCT CONJ VMOD PUNCT
+6 1 2 3 6 0 6 6 12 9 12 6 12 6
+
+Cha_mẹ làm_ăn vất_vả nhưng giá nào cũng phải cho con_cái học đến_nơi_đến_chốn " - bà mẹ tâm_sự .
+Nn Vv Aa Cp Nn Pd R Vv Vv Nn Vv ID PU PU Nc Nn Vv PU
+NSUBJ CCOMP ACOMP CC DEP DET ADJUNCT CONJ VMOD IOBJ VMOD ACOMP PUNCT PUNCT NSUBJ CLF ROOT PUNCT
+2 17 2 2 8 5 8 2 8 9 9 11 17 17 17 15 0 17
+
+Gia_đình ông Nguyễn_Văn_Minh ở xóm Nhà_Đèn cũng vậy , có năm người con thì ba người đã vào đại_học .
+Nn Nn Nr Cs Nun Nr R Pp PU Ve Num Nc Nn Cp Num Nn R Vv Nn PU
+NSUBJ NN NN PREP POBJ NN ADJUNCT ROOT PUNCT PARATAXIS NUM OBJ CLF CC NUM NSUBJ ADJUNCT CONJ OBJ PUNCT
+8 1 2 2 4 5 8 0 8 8 12 10 12 10 16 18 18 10 18 8
+
+Ông Đoàn_Hữu_Đấu , chủ_nhiệm Hội Người VN tại tỉnh Champasak , cho biết : " Các gia_đình Việt kiều đa_số có cuộc_sống ổn_định , họ đầu_tư nhiều cho việc học của con_cái .
+Nn Nr PU Nn Nn Nn Nr Cs Nun Nr PU Vv Vv PU PU Nq Nn Nr Sv Nq Ve Nn Aa PU Pp Vv Aa Cs Ncs Vv Cs Nn PU
+NSUBJ NN PUNCT PARATAXIS NN NN NN PREP POBJ NN PUNCT ROOT VMOD PUNCT PUNCT DET DEP NN SINO NSUBJ CCOMP OBJ AMOD PUNCT NSUBJ CONJ ACOMP PREP POBJ CLF PREP POBJ PUNCT
+12 1 1 1 4 5 6 6 8 9 1 0 12 21 21 17 21 17 18 21 13 21 22 21 26 21 26 26 28 29 29 31 12
+
+Có nhiều cháu còn được Nhà_nước Lào chọn đi du_học để phục_vụ đất_nước nữa đấy " .
+Ve Aa Nn R Vv Nn Nr Vv Vv Vv Cs Vv Nn R M PU PU
+ROOT AMOD NSUBJ ADJUNCT CCOMP NSUBJ NN CCOMP VMOD VMOD PREP PCOMP OBJ ADJUNCT INTJ PUNCT PUNCT
+0 3 5 5 1 8 6 5 8 9 10 11 12 5 5 1 1
+
+Trường tiểu_học Hữu_Nghị nằm trên con đường 13_B TP Pakse là ngôi trường do Hội Việt kiều xây_dựng .
+Nn Nn Nr Vv Cs Nc Nn Nr Nun Nr Vc Nc Nn Cs Nn Nr Sv Vv PU
+NSUBJ NN NN RCMOD PREP NN CLF NN POBJ NN ROOT ATTR CLF MARK NSUBJ NN SINO CCOMP PUNCT
+11 1 2 1 4 9 6 9 5 9 0 11 12 18 18 15 16 12 11
+
+Mới đây , Hội Người VN ở nước_ngoài đã ủng_hộ 300 triệu đồng để xây thêm dãy phòng mới đủ để đào_tạo hơn 1.000 con_em Việt kiều tại đây .
+R Pd PU Nn Nn Nr Cs Nn R Vv Num Nq Nu Cs Vv Vv Nn Nn Aa Aa Cs Vv R Num Nn Nr Sv Cs Pd PU
+ADJUNCT NP_ADVMOD PUNCT NSUBJ NN NN PREP POBJ ADJUNCT ROOT NUMBER NUM OBJ PREP PCOMP VMOD OBJ NN AMOD AMOD PREP PCOMP ADJUNCT NUM OBJ NN SINO PREP POBJ PUNCT
+2 10 10 10 4 5 5 7 10 0 12 13 10 10 14 15 15 17 17 17 20 21 24 25 22 25 26 26 28 10
+
+Đa_số học_sinh của trường hiện_nay là thế_hệ thứ tư , thứ năm .
+Nq Nn Cs Nn Nt Vc Nn Nn An PU Nn An PU
+DET NSUBJ PREP POBJ NP_ADVMOD ROOT ATTR NN AMOD PUNCT CONJ AMOD PUNCT
+2 6 2 3 2 0 6 7 8 8 8 11 6
+
+Khi chúng_tôi đến trường , các em đã chào_đón bằng những bài hát rất thân_quen với thiếu_nhi VN : " Giơ tay ra nào , nắm lấy cái tai nào , lắc_lư cái đầu nào , ồ sao bé không lắc ... " .
+Nt Pp Vv Nn PU Nq Pp R Vv Cs Nq Ncs Vv R Aa Cs Nn Nr PU PU Vv Nn R M PU Vv R Nc Nn M PU Vv Nc Nn M PU E Pp Pp R Vv PU PU PU
+OBJ NSUBJ CCOMP OBJ PUNCT DET NSUBJ ADJUNCT ROOT PREP DET POBJ CLF ADJUNCT AMOD PREP POBJ NN PUNCT PUNCT CCOMP OBJ ADJUNCT INTJ PUNCT CONJ ADJUNCT OBJ CLF INTJ PUNCT CONJ OBJ CLF INTJ PUNCT INTJ DEP NSUBJ ADJUNCT CCOMP PUNCT PUNCT PUNCT
+9 3 1 3 9 7 9 9 0 9 12 10 12 15 12 15 16 17 21 21 12 21 21 21 21 21 26 26 28 26 26 26 32 33 32 21 41 41 41 41 21 21 21 9
+
+Trong chương_trình dạy tại đây , mỗi ngày các em còn được học một tiết tiếng Việt .
+Cs Nn Vv Cs Pd PU Nq Nt Nq Pp R Vv Vv Num Nu Nn Nr PU
+PREP POBJ VMOD PREP POBJ PUNCT DET NP_ADVMOD DET NSUBJ ADJUNCT ROOT VMOD NUM OBJ NN NN PUNCT
+12 1 2 2 4 12 8 12 10 12 12 0 12 15 13 15 16 12
+
+" Bộ GD_-_ĐT VN đã tăng_cường hai giáo viên sang đây dạy tiếng Việt .
+PU Nn X Nr R Vv Num Vv Sv Vv Pd Vv Nn Nr PU
+PUNCT NSUBJ DEP NN ADJUNCT ROOT NUM OBJ SINO RCMOD OBJ VMOD OBJ NN PUNCT
+6 6 2 2 6 0 8 6 8 8 10 10 12 13 6
+
+Chúng_tôi là Việt kiều nhưng sử_dụng tiếng Việt chừng_mực nào đó thôi .
+Pp Vc Nr Sv Cp Vv Nn Nr Nn Pd Pd M PU
+NSUBJ ROOT ATTR SINO CC CONJ OBJ NN OBJ DET DET INTJ PUNCT
+2 0 2 3 2 2 6 7 6 9 9 9 2
+
+Các em chỉ học tiếng Việt đến lớp 5 .
+Nq Pp R Vv Nn Nr Cs Nn An PU
+DET NSUBJ ADJUNCT ROOT OBJ NN PREP POBJ AMOD PUNCT
+2 4 4 0 4 5 4 7 8 4
+
+Chúng_tôi rất lo là lên cấp II các em sẽ bị mai_một tiếng Việt " - thầy Đặng_Công_Lân , hiệu_trưởng Trường Hữu_Nghị , bộc_bạch .
+Pp R Vv Cs Vv Nn An Nq Pp R Vv Vv Nn Nr PU PU Nn Nr PU Nn Nn Aa PU Vv PU
+NSUBJ ADJUNCT CCOMP MARK XCOMP OBJ AMOD DET NSUBJ ADJUNCT CCOMP VMOD OBJ NN PUNCT PUNCT NSUBJ NN PUNCT PARATAXIS NN AMOD PUNCT ROOT PUNCT
+3 3 24 11 11 5 6 9 11 11 3 11 12 13 24 24 24 17 17 17 20 21 17 0 24
+
+Giữ hồn Việt .
+Vv Nn Nr PU
+ROOT OBJ NN PUNCT
+0 1 2 1
+
+Con đường dẫn vào xóm Tân_Phước rất_đỗi thân_thuộc với những dãy nhà trang_trí rất giống như khu xóm tại VN .
+Nc Nn Vv Cs Nun Nr R Aa Cs Nq Nn Nn Vv R Vv Cs Nun Nun Cs Nr PU
+NSUBJ CLF RCMOD PREP POBJ NN ADJUNCT ROOT PREP DET POBJ NN RCMOD ADJUNCT VMOD PREP POBJ CONJ PREP POBJ PUNCT
+8 1 1 3 4 5 8 0 8 11 9 11 11 15 13 15 16 17 17 19 8
+
+Bước vào đầu ngõ , nhà cô Cúc phơi đầy bánh_tráng phía trước .
+Vv Cs Cs Nn PU Nn Nn Nr Vv Aa Nn Nn Nn PU
+XCOMP PREP PREP POBJ PUNCT NSUBJ NN NN ROOT AMOD OBJ OBJ NN PUNCT
+9 1 2 3 9 9 6 7 0 11 9 9 12 9
+
+Phía bên đường là tiệm cơm mang biển quảng_cáo song_ngữ Lào - Việt " cơm bình_dân " .
+Nn Nn Nn Cp Nn Nn Vv Nn Vv Aa Nr PU Nr PU Nn Aa PU PU
+NP_ADVMOD NN NN CC NSUBJ NN ROOT OBJ VMOD AMOD OBJ PUNCT CONJ PUNCT NN AMOD PUNCT PUNCT
+7 1 2 7 7 5 0 7 8 8 10 11 11 8 8 15 8 7
+
+Chúng_tôi cứ ngỡ không phải đang đi trên đất bạn .
+Pp R Vv R Aa R Vv Cs Nn Nn PU
+NSUBJ ADJUNCT ROOT ADJUNCT ACOMP ADJUNCT VMOD PREP POBJ NN PUNCT
+3 3 0 5 7 7 3 7 8 9 3
+
+Những đứa trẻ chạy tung_tăng trong con xóm nhỏ gọi nhau í_ới bằng tiếng Việt , đôi lúc chúng lại pha tiếng Lào .
+Nq Nc Nn Vv Vv Cs Nc Nun Aa Vv Nn Aa Cs Nn Nr PU Nq Nt Pp R Vv Nn Nr PU
+DET NSUBJ CLF ROOT VMOD PREP POBJ CLF AMOD CONJ OBJ ACOMP PREP POBJ NN PUNCT DET NP_ADVMOD NSUBJ ADJUNCT CONJ OBJ NN PUNCT
+2 4 2 0 4 4 6 7 7 4 10 10 10 13 14 4 18 21 21 21 4 21 22 4
+
+Trung_tâm xóm Tân_Phước là ngôi đền thờ Hưng_Đạo_Vương , phía trước có hai câu_đối Núi Kiếp bao phen vang chiến_tích - Sông Đằng một trận phá Nguyên binh , bên trong có bàn_thờ tượng Trần_Hưng_Đạo và một bàn_thờ những người có công giữ đền từ xa_xưa .
+Nn Nun Nr Vc Nc Nn Vv Nr PU Nn Nn Ve Num Nn Nn Nr Nq Nn Vv Nn PU Nn Nr Num Nn Vv Nr Nn PU Nn Nn Ve Nn Nn Nr Cp Num Nn Nq Nn Ve Nn Vv Nn Cs Aa PU
+NSUBJ NN NN ROOT ATTR CLF RCMOD OBJ PUNCT NP_ADVMOD NN CONJ NUM OBJ NP_ADVMOD NN DET NP_ADVMOD CCOMP OBJ PUNCT NP_ADVMOD NN NUM NP_ADVMOD CONJ NN OBJ PUNCT NSUBJ NN CONJ OBJ NN NN CC NUM CONJ DET NN RCMOD OBJ RCMOD OBJ PREP PCOMP PUNCT
+4 1 2 0 4 5 5 7 4 12 10 4 14 12 19 15 18 19 14 19 19 26 22 25 26 19 28 26 12 32 30 12 32 33 34 33 38 33 40 38 40 41 42 43 43 45 4
+
+Ngôi đền xây_dựng từ năm nào bà_con trong xóm không ai còn nhớ .
+Nc Nn Vv Cs Nt Pd Nn Cs Nun R Pp R Vv PU
+NSUBJ CLF CCOMP PREP POBJ DET OBJ PREP POBJ ADJUNCT NSUBJ ADJUNCT ROOT PUNCT
+3 1 13 3 4 5 13 7 8 11 13 13 0 13
+
+Đền được mở_rộng và xây khang_trang hơn vào năm 1993 , kinh_phí do bà_con Việt kiều đóng_góp .
+Nn Vv Vv Cp Vv Aa R Cs Nt Num PU Nn Cp Nn Nr Sv Vv PU
+NSUBJ ROOT VMOD CC CONJ ACOMP ADJUNCT PREP POBJ NUM PUNCT DEP CC NSUBJ NN SINO CONJ PUNCT
+2 0 2 3 3 5 6 5 8 9 2 17 17 17 14 15 2 2
+
+Gia_đình ông Đặng_Văn_Tình nhà ở gần ngôi đền nên được giao trọng_trách giữ đền .
+Nn Nn Nr Nn Cs Aa Nc Nn Cp Vv Vv Nn Vv Nn PU
+NSUBJ NN NN NN PREP PCOMP OBJ CLF CC ROOT VMOD OBJ RCMOD OBJ PUNCT
+10 1 2 2 4 5 6 7 10 0 10 11 12 13 10
+
+" Hằng ngày tôi vẫn vào thắp hương , dọn_dẹp .
+PU R Nu Pp R Vv Vv Nn PU Vv PU
+PUNCT ADJUNCT NP_ADVMOD NSUBJ ADJUNCT ROOT VMOD OBJ PUNCT CONJ PUNCT
+6 3 6 6 6 0 6 7 7 7 6
+
+Tượng của ngài được một bà thỉnh tận VN sang sau khi về thăm quê đấy .
+Nn Cs Pp Vv Num Nn Vv Aa Nr Vv Cs Nt Vv Vv Nn M PU
+NSUBJ PREP POBJ ROOT NUM NSUBJ CCOMP ADJP_ADVMOD OBJ VMOD PREP POBJ XCOMP VMOD OBJ INTJ PUNCT
+4 1 2 0 6 7 4 7 8 7 7 11 12 13 14 7 4
+
+Ngoài đám giỗ chính vào ngày 20_-_8 âm_lịch , hằng năm bà_con còn tập_trung về đây tổ_chức các lễ như lễ đầu năm , lễ vào hè , ra hè , lễ cuối năm ...
+Cs Nn Nn Aa Cs Nt Nt Nn PU R Nu Nn R Vv Vv Pd Vv Nq Nn Cs Nn Cs Nt PU Nn Vv Nt PU Vv Nt PU Nn Cs Nt PU
+PREP POBJ NN AMOD PREP POBJ NN NN PUNCT ADJUNCT NP_ADVMOD NSUBJ ADJUNCT ROOT VMOD OBJ VMOD DET OBJ PARATAXIS POBJ PREP POBJ PUNCT CONJ RCMOD OBJ PUNCT CONJ OBJ PUNCT CONJ PREP POBJ PUNCT
+14 1 2 2 2 5 6 6 14 11 14 14 14 0 14 15 14 19 17 19 20 21 22 21 21 25 26 26 26 29 25 25 32 33 14
+
+Chúng_tôi sống xa quê_hương nhưng vẫn luôn giữ phong_tục tập_quán của đất_nước mình , dù có người chưa một lần được đặt_chân về VN mà chỉ xem qua hình_ảnh trên tivi " - ông Tình tâm_sự .
+Pp Vv Aa Nn Cp R R Vv Nn Nn Cs Nn Pp PU Cp Ve Nn R Num Nn Vv Vv Vv Nr Cp R Vv Cs Nn Cs Nn PU PU Nn Nr Vv PU
+NSUBJ CCOMP ACOMP OBJ CC ADJUNCT ADJUNCT CONJ OBJ CONJ PREP POBJ NN PUNCT CC CONJ NSUBJ ADJUNCT NUM NP_ADVMOD CCOMP VMOD VMOD NP_ADVMOD CC ADJUNCT CONJ PREP POBJ PREP POBJ PUNCT PUNCT NSUBJ NN ROOT PUNCT
+2 36 2 3 2 7 8 2 8 9 9 11 12 2 2 2 21 20 20 21 16 21 22 23 21 27 21 27 28 29 30 36 36 36 34 0 36
+
+Ngay cả cách trang_trí của nhà_hàng Ketmany trên con đường 13 của ông chủ Bùi_Văn_Huấn cũng không khác gì những nhà_hàng tại VN .
+R Nw Nn Vv Cs Nn Nr Cs Nc Nn Nr Cs Nc Nn Nr R R Aa M Nq Nn Cs Nr PU
+ADJUNCT DET NSUBJ VMOD PREP POBJ NN PREP POBJ CLF NN PREP POBJ CLF NN ADJUNCT ADJUNCT ROOT INTJ DET OBJ PREP POBJ PUNCT
+3 3 18 3 3 5 6 6 8 9 9 6 12 13 13 17 18 0 18 21 18 21 22 18
+
+Quầy chính của nhà_hàng được bày bình hoa đào treo băng pháo giả , phía trên tủ thờ là tượng ba ông Phúc - Lộc - Thọ rất to .
+Nn Aa Cs Nn Vv Vv Nn Nn Nn Vv Nn Nn Aa PU Nn Nn Nn Vv Cp Nn Num Nn Nn PU Nn PU Nn R Aa PU
+NSUBJ AMOD PREP POBJ ROOT VMOD OBJ NN NN CONJ OBJ NN AMOD PUNCT CONJ NN NN VMOD CC CONJ NUM NN NN PUNCT CONJ PUNCT CONJ ADJUNCT AMOD PUNCT
+5 1 1 3 0 5 6 7 8 6 10 11 11 5 5 15 15 17 15 15 22 20 22 23 23 25 25 29 20 5
+
+Chúng_tôi được cô Mai_Huỳnh , con gái ông chủ , " tiếp_thị " các món ăn rất Nam_bộ như cá kho tiêu ; canh đậu_hũ , lá hẹ nấu thịt bằm .
+Pp Vv Nn Nr PU Nn Nn Nc Nn PU PU Vv PU Nq Nn Vv R Aa Cs Nn Vv Nn PU Nn Nn PU Nn Nn Vv Nn Vv PU
+NSUBJ ROOT NSUBJ NN PUNCT PARATAXIS NN NN CLF PUNCT PUNCT CCOMP PUNCT DET OBJ VMOD ADJUNCT AMOD PARATAXIS POBJ RCMOD OBJ PUNCT CONJ NN PUNCT CONJ NN RCMOD OBJ RCMOD PUNCT
+2 0 12 3 3 3 6 6 8 3 12 2 12 15 12 15 18 15 15 19 20 21 20 20 24 25 25 27 27 29 30 2
+
+Ngồi ăn trên đất Lào cứ ngỡ đang ở VN .
+Vv Vv Cs Nn Nr R Vv R Vv Nr PU
+ROOT VMOD PREP POBJ NN ADJUNCT CONJ ADJUNCT XCOMP NP_ADVMOD PUNCT
+0 1 2 3 4 7 1 9 7 9 1
+
+Hội Người Việt tỉnh Champasak hoạt_động khá mạnh so với Hội Người Việt ở các tỉnh khác trên đất_nước Lào .
+Nn Nn Nr Nun Nr Vv R Aa Vv Cs Nn Nn Nr Cs Nq Nun Aa Cs Nn Nr PU
+NSUBJ NN NN NP_ADVMOD NN ROOT ADJUNCT ACOMP VMOD PREP POBJ NN NN PREP DET POBJ AMOD PREP POBJ NN PUNCT
+6 1 2 2 4 0 8 6 8 9 10 11 12 12 16 14 16 16 18 19 6
+
+Hễ nghe tin quê_nhà bị bão lũ , hoạn_nạn là bà_con tức_tốc gom_góp gửi về ...
+Cp Vv Nn Nn Vv Nn Nn PU Nn Cp Nn R Vv Vv Vv PU
+CC ROOT OBJ NSUBJ CCOMP OBJ CONJ PUNCT CONJ CC NSUBJ ADJUNCT CONJ VMOD VMOD PUNCT
+2 0 2 5 3 5 6 7 7 2 13 13 2 13 14 2
+
+Nhà hội phân_công hẳn một người phụ_trách công_tác thanh_niên , đó là ông Mai_Văn_Khuê .
+Nn Nn Vv Aa Num Nn Vv Nn Nn PU Pd Vc Nn Nr PU
+NSUBJ NN ROOT ACOMP NUM OBJ RCMOD OBJ NN PUNCT NSUBJ PARATAXIS ATTR NN PUNCT
+3 1 0 3 6 3 6 7 8 6 12 6 12 13 3
+
+Ông cho biết : " Phong_trào cũng khá sôi_nổi .
+Pp Vv Vv PU PU Nn R R Aa PU
+NSUBJ ROOT VMOD PUNCT PUNCT NSUBJ ADJUNCT ADJUNCT CCOMP PUNCT
+2 0 2 9 9 9 8 9 3 2
+
+Các bạn thành_lập đội bóng của từng xóm , tập_luyện thường_xuyên tại sân_vận_động của tỉnh .
+Nq Pp Vv Nn Nn Cs Pp Nun PU Vv Aa Cs Nn Cs Nun PU
+DET NSUBJ ROOT OBJ NN PREP DET POBJ PUNCT CONJ ACOMP PREP POBJ PREP POBJ PUNCT
+2 3 0 3 4 4 8 6 3 3 10 10 12 13 14 3
+
+Đội văn_nghệ mỗi dịp giao_lưu , họp_mặt cũng hoạt_động hết công_suất " .
+Nn Nn Nq Nn Vv PU Vv R Vv Ve Nn PU PU
+NSUBJ NN DET NP_ADVMOD RCMOD PUNCT CONJ ADJUNCT ROOT VMOD OBJ PUNCT PUNCT
+9 1 4 9 4 5 5 9 0 9 10 9 9
+
+Những bài hát về Hà_Nội như Em ơi Hà_Nội phố , Hà_Nội mùa vắng những cơn mưa ... do anh Nguyễn_Văn_Tuấn trình_bày luôn làm rung_động những trái_tim người Việt trên đất bạn .
+Nq Ncs Vv Cs Nr Cs Pp E Nr Nun PU Nr Nn Aa Nq Nc VN PU Cs Nn Nr Vv R Vv Vv Nq Nn Nn Nr Cs Nn Nn PU
+DET NSUBJ CLF PREP POBJ PARATAXIS VOCATIVE INTJ PCOMP NN PUNCT NP_ADVMOD NSUBJ CONJ DET OBJ CLF PUNCT MARK NSUBJ NN CCOMP ADJUNCT ROOT VMOD DET OBJ NN NN PREP POBJ NN PUNCT
+2 24 2 2 4 2 9 7 6 9 9 14 14 9 16 14 16 9 22 22 20 2 24 0 24 27 25 27 28 28 30 31 24
+
+Tôi nói giọng Việt hơi lơ_lớ nhưng tôi dặn mấy đứa con đều phải sử_dụng tiếng Việt khi nói_chuyện trong gia_đình , nếu không chúng sẽ quên nguồn_gốc mất " - anh Tuấn nói .
+Pp Vv Nn Nr R Aa Cp Pp Vv Nq Nc Nn R Vv Vv Nn Nr Nt Vv Cs Nn PU Cp R Pp R Vv Nn M PU PU Nn Nr Vv PU
+NSUBJ CCOMP OBJ NN ADJUNCT ACOMP CC NSUBJ CONJ DET NSUBJ CLF ADJUNCT CCOMP VMOD OBJ NN NP_ADVMOD XCOMP PREP POBJ PUNCT CC ADJUNCT NSUBJ ADJUNCT CONJ OBJ INTJ PUNCT PUNCT NSUBJ NN ROOT PUNCT
+2 34 2 3 6 2 2 9 2 11 14 11 14 9 14 15 16 15 18 19 20 9 27 27 27 27 9 27 27 34 34 34 32 0 34
+

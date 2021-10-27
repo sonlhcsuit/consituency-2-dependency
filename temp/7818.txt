@@ -1,0 +1,305 @@
+Phóng_sự điều_tra : Thú rừng vẫn " chảy máu " : Những trùm đầu_nậu .
+Nn Vv PU Nn Aa R PU Vv Nn PU PU Nq Nn Nn PU
+PARATAXIS VMOD PUNCT NSUBJ AMOD ADJUNCT PUNCT ROOT OBJ PUNCT PUNCT DET PARATAXIS NN PUNCT
+8 1 8 8 4 8 8 0 8 8 8 13 8 13 8
+
+Trưa 28_-_10 , chúng_tôi ghé vào nhà_hàng Kiều_Oanh nằm ngay trung_tâm thị_xã Đồng_Xoài LBRK Bình_Phước RBRK .
+Nt Nt PU Pp Vv Cs Nn Nr Vv M Nn Nun Nr LBRK Nr RBRK PU
+NP_ADVMOD NN PUNCT NSUBJ ROOT PREP POBJ NN RCMOD INTJ NP_ADVMOD NN NN PUNCT PARATAXIS PUNCT PUNCT
+5 1 5 5 0 5 6 7 7 11 9 11 12 12 12 12 5
+
+Chủ quán đưa ra một thực_đơn gồm các món cá của miền Tây nhưng lại giới_thiệu : " Có chồn , nhím , heo rừng , cúi rừng ... các anh có nhậu không ? " .
+Nn Nn Vv R Num Nn Vv Nq Nn Nn Cs Nun Nn Cp R Vv PU PU Ve Nn PU Nn PU Nn Aa PU Nn Aa PU Nq Pp R Vv R PU PU PU
+NSUBJ NN ROOT ADJUNCT NUM OBJ RCMOD DET OBJ NN PREP POBJ NN CC ADJUNCT CONJ PUNCT PUNCT CCOMP OBJ PUNCT CONJ PUNCT CONJ AMOD PUNCT CONJ AMOD PUNCT DET NSUBJ ADJUNCT CCOMP ADJUNCT PUNCT PUNCT PUNCT
+3 1 0 3 6 3 6 9 7 9 10 11 12 3 16 3 19 19 16 19 20 20 22 22 24 24 24 27 19 31 33 33 19 33 33 16 3
+
+Chủ quán tươi_cười giải_thích : " Đang có chiến_dịch nên không dám ghi trong thực_đơn ... " .
+Nn Nn Aa Vv PU PU R Ve Nn Cp R Vv Vv Cs Nn PU PU PU
+NSUBJ NN ACOMP ROOT PUNCT PUNCT ADJUNCT CCOMP OBJ CC ADJUNCT CONJ VMOD PREP POBJ PUNCT PUNCT PUNCT
+4 1 4 0 8 8 8 4 8 8 12 8 12 13 14 8 4 4
+
+Tại các nhà_hàng khác ở thị_xã Đồng_Xoài LBRK Bình_Phước RBRK , vốn nổi_tiếng về đặc_sản thú rừng trước đây , chúng_tôi cũng đều gặp tình_cảnh tương_tự ...
+Cs Nq Nn Aa Cs Nun Nr LBRK Nr RBRK PU R Aa Cs Nn Nn Aa Cs Pd PU Pp R R Vv Nn Aa PU
+PREP DET POBJ AMOD PREP POBJ NN PUNCT PARATAXIS PUNCT PUNCT ADJUNCT PARATAXIS PREP POBJ NN AMOD NP_ADVMOD NN PUNCT NSUBJ ADJUNCT ADJUNCT ROOT OBJ AMOD PUNCT
+24 3 1 3 3 5 6 6 6 6 3 13 3 13 14 15 16 13 18 24 24 23 24 0 24 25 24
+
+Chân_dung các " trùm " .
+Nn Nq PU Nn PU PU
+ROOT DET PUNCT NN PUNCT PUNCT
+0 4 4 1 4 1
+
+Chúng_tôi tìm đến nhà ông Bình ở đường Nguyễn_Huệ , phường Tân_Xuân - một trong ba trùm đầu_nậu cung_cấp thú rừng cho các nhà_hàng đặc_sản tại thị_xã Đồng_Xoài .
+Pp Vv Vv Nn Nn Nr Cs Nn Nr PU Nun Nr PU Num Cs Num Nn Nn Vv Nn Aa Cs Nq Nn Nn Cs Nun Nr PU
+NSUBJ ROOT VMOD OBJ NN NN PREP POBJ NN PUNCT PARATAXIS NN PUNCT PARATAXIS PREP NUM POBJ NN RCMOD OBJ AMOD PREP DET POBJ NN PREP POBJ NN PUNCT
+2 0 2 3 4 5 5 7 8 8 8 11 5 5 14 17 15 17 17 19 20 19 24 22 24 24 26 27 2
+
+Khi bước vào nhà , chúng_tôi thấy ông ta đang loay_hoay với bảy con cheo .
+Nt Vv D Nn PU Pp Vv Nn Pp R Vv Cs Num Nc Nn PU
+NP_ADVMOD XCOMP VMOD OBJ PUNCT NSUBJ ROOT NSUBJ DET ADJUNCT CCOMP PREP NUM POBJ CLF PUNCT
+7 1 2 3 7 7 0 11 8 11 7 11 14 12 14 7
+
+Ông cho biết đang chuẩn_bị đem bỏ_mối cho một quán đặc_sản ở Bình_Chánh , TP HCM .
+Pp Vv Vv R Vv Vv Vv Cs Num Nn Nn Cs Nr PU Nun Nr PU
+NSUBJ ROOT VMOD ADJUNCT XCOMP VMOD VMOD PREP NUM POBJ NN PREP POBJ PUNCT PARATAXIS NN PUNCT
+2 0 2 5 3 5 6 7 10 8 10 10 12 13 13 15 2
+
+Chúng_tôi giới_thiệu ở TP HCM lên tìm nguồn hàng về bán cho một nhà_hàng mới khai_trương tại thành_phố .
+Pp Vv Cs Nun Nr Vv Vv Nn Nn Vv Vv Cs Nq Nn R Vv Cs Nun PU
+NSUBJ ROOT PREP POBJ NN XCOMP VMOD OBJ NN VMOD VMOD PREP DET POBJ ADJUNCT RCMOD PREP POBJ PUNCT
+2 0 6 3 4 2 6 7 8 7 10 11 14 12 16 14 16 17 2
+
+Ông vồn_vã " tiếp_thị " : chồn_hương sống 160.000 đ_[]_kg ; cheo 50.000 đ ; thỏ 50.000 đ ; nai 55.000 đ ...
+Pp Aa PU Vv PU PU Nn Aa Num Nu PU Nn Num Nu PU Nn Num Nu PU Nn Num Nu PU
+NSUBJ ACOMP PUNCT ROOT PUNCT PUNCT NSUBJ AMOD NUM CCOMP PUNCT NSUBJ NUM CONJ PUNCT NSUBJ NUM CONJ PUNCT NSUBJ NUM CONJ PUNCT
+4 4 4 0 4 10 10 7 10 4 10 14 14 10 14 18 18 14 18 22 22 18 4
+
+Ông nói : " Nếu các anh muốn chúng_tôi mang xuống tận nhà_hàng thì thêm mỗi ký 5.000 đ tiền vận_chuyển " .
+Pp Vv PU PU Cp Nq Pp Vv Pp Vv D Aa Nn Cp Vv Nq Nu Num Nu Nn Vv PU PU
+NSUBJ ROOT PUNCT PUNCT CC DET NSUBJ CCOMP NSUBJ CCOMP VMOD DEP DEP CC CONJ DET OBJ NUM OBJ NN VMOD PUNCT PUNCT
+2 0 8 8 8 7 8 2 10 8 10 11 12 8 8 17 15 19 15 19 20 8 2
+
+" Có gấu không ? "
+PU Ve Nn R PU PU
+PUNCT ROOT OBJ ADJUNCT PUNCT PUNCT
+2 0 2 2 2 2
+
+" Có , 500.000 đ_[]_kg " .
+PU Ve PU Num Nu PU PU
+PUNCT ROOT PUNCT NUM PARATAXIS PUNCT PUNCT
+2 0 2 5 2 2 2
+
+Ông giới_thiệu thêm : " Tôi có 3 - 4 nhân_viên ngày nào cũng chở hàng về Biên_Hoà LBRK Đồng_Nai RBRK và TP HCM nhưng chưa bao_giờ bị bắt .
+Pp Vv Vv PU PU Pp Ve Num PU Num Nn Nt Pd R Vv Nn Vv Nr LBRK Nr RBRK Cp Nun Nr Cp R Pp Vv Vv PU
+NSUBJ ROOT VMOD PUNCT PUNCT NSUBJ CCOMP NUM PUNCT CONJ NSUBJ NP_ADVMOD DET ADJUNCT CCOMP OBJ VMOD OBJ PUNCT PARATAXIS PUNCT CC CONJ NN CC ADJUNCT NP_ADVMOD CONJ VMOD PUNCT
+2 0 2 7 7 7 2 11 8 8 7 15 12 15 11 15 15 17 18 18 18 18 18 23 15 27 28 15 28 2
+
+Các anh yên_tâm .
+Nq Pp Aa PU
+NSUBJ DET ROOT PUNCT
+3 1 0 3
+
+Tôi lo được hết " .
+Pp Vv R M PU PU
+NSUBJ ROOT ADJUNCT INTJ PUNCT PUNCT
+2 0 2 2 2 2
+
+Trùm Bình có thâm_niên cung_cấp các loại động_vật rừng quí_hiếm từ hơn chục năm nay , sắm được cả xe_hơi .
+Nn Nr Ve Nn Vv Nq Nn Nn Aa Aa Cs R Nq Nu Nt PU Vv R Nw Nn PU
+NSUBJ NN ROOT OBJ RCMOD DET OBJ NN AMOD AMOD PREP ADJUNCT NUM POBJ NN PUNCT CONJ ADJUNCT DET OBJ PUNCT
+3 1 0 3 4 7 5 7 8 8 5 13 14 11 14 3 3 17 20 17 3
+
+Trước đây , ông và vợ tên là Hoa vừa đứng ra thu_gom hàng vừa trực_tiếp đi bỏ hàng cho các tỉnh thành , nhưng sau đó hai người ly_dị rồi ra làm_ăn riêng .
+Cs Pd PU Pp Cp Nn Nn Vc Nr Cp Vv R Vv Nn Cp Aa Vv Vv Nn Cs Nq Nun Nun PU Cp Cs Pd Num Nn Vv Cp Vv Vv Aa PU
+PREP POBJ PUNCT NSUBJ CC CONJ NSUBJ PARATAXIS ATTR CC ROOT ADJUNCT VMOD OBJ CC ACOMP CONJ VMOD OBJ PREP DET POBJ CONJ PUNCT CC PREP POBJ NUM NSUBJ CONJ CC CONJ VMOD ACOMP PUNCT
+11 1 11 11 4 4 8 6 8 11 0 11 11 13 11 17 11 17 18 18 22 20 22 11 11 30 26 29 30 11 30 30 32 33 11
+
+Bà Hoa cũng trở_thành một " đầu_nậu " khá tên_tuổi trong giới mua_bán động_vật rừng tại Bình_Phước .
+Nn Nr R Vv Nq PU Nn PU R Aa Cs Nn Vv Nn Aa Cs Nr PU
+NSUBJ NN ADJUNCT ROOT DET PUNCT OBJ PUNCT ADJUNCT AMOD PREP POBJ RCMOD OBJ AMOD PREP POBJ PUNCT
+4 1 4 0 7 7 4 7 10 7 7 11 12 13 14 12 16 4
+
+Rời nhà Bình , chúng_tôi tìm đến nhà trùm Hoa nằm trong con hẻm nhỏ đường Nguyễn_Đình_Chiểu , phường Tân_Xuân .
+Vv Nn Nr PU Pp Vv Vv Nn Nn Nr Vv Cs Nc Nn Aa Nn Nr PU Nun Nr PU
+XCOMP OBJ NN PUNCT NSUBJ ROOT VMOD OBJ NN NN RCMOD PREP NN CLF AMOD POBJ NN PUNCT PARATAXIS NN PUNCT
+6 1 2 6 6 0 6 7 8 9 8 11 16 13 16 12 16 16 16 19 6
+
+Trong nhà bà Hoa có nhốt một_số thú rừng còn sống như kỳ_đà , nhím .
+Cs Nn Nn Nr R Vv Nq Nn Aa R Aa Cs Nn PU Nn PU
+PREP POBJ NN NN ADJUNCT ROOT DET OBJ AMOD ADJUNCT AMOD PREP POBJ PUNCT CONJ PUNCT
+6 1 2 3 6 0 8 6 8 11 8 8 12 13 13 6
+
+Lát sau bà Hoa về , nghe chúng_tôi muốn đặt_hàng mua với số_lượng lớn , bà liền lấy giấy bút ghi cho chúng_tôi một bảng giá cụ_thể các loại động_vật rừng .
+Nt Nn Nn Nr Vv PU Vv Pp Vv Vv Vv Cs Nn Aa PU Pp R Vv Nn Nn Vv Cs Pp Nq Nn Nn Aa Nq Nn Nn Aa PU
+NP_ADVMOD NN NSUBJ NN ROOT PUNCT CONJ NSUBJ CCOMP VMOD VMOD PREP POBJ AMOD PUNCT NSUBJ ADJUNCT CONJ OBJ CONJ CONJ PREP POBJ DET OBJ NN AMOD DET NN NN AMOD PUNCT
+5 1 5 3 0 5 5 9 7 9 10 11 12 13 5 18 18 5 18 19 18 21 22 25 21 25 25 29 25 29 30 5
+
+Bà " bật_mí " : có loại mua về từ đường Campuchia , có loại từ rừng Bình_Phước .
+Pp PU Vv PU PU Ve Nn Vv R Cs Nn Nr PU Ve Nn Cs Nn Nr PU
+NSUBJ PUNCT ROOT PUNCT PUNCT CCOMP OBJ RCMOD ADJUNCT PREP POBJ NN PUNCT CONJ OBJ RCMOD POBJ NN PUNCT
+3 3 0 3 6 3 6 7 8 8 10 11 6 6 14 15 16 17 3
+
+Thú từ Campuchia về trông " đừ " lắm , ăn không ngon bằng từ rừng Bình_Phước ...
+Nn Cs Nr Vv Vv PU Aa PU R PU Vv R Aa Vv Cs Nn Nr PU
+NSUBJ PREP POBJ RCMOD ROOT PUNCT ACOMP PUNCT ADJUNCT PUNCT CONJ ADJUNCT ACOMP VMOD PREP POBJ NN PUNCT
+5 4 2 1 0 7 5 7 7 5 5 13 11 13 14 15 16 5
+
+" Các anh muốn loại nào cũng có , chỉ cần điện_thoại là tôi cho chở đến tận nơi " .
+PU Nq Pp Vv Nn Pd R Ve PU R Vv Nn Vc Pp Vv Vv Vv Aa Nn PU PU
+PUNCT NSUBJ DET ROOT OBJ DET ADJUNCT CONJ PUNCT ADJUNCT CSUBJ VMOD CONJ NSUBJ CCOMP VMOD VMOD ACOMP OBJ PUNCT PUNCT
+4 4 2 0 4 5 8 4 4 11 13 11 4 15 13 15 16 17 18 4 4
+
+Nguồn hàng của Hoa chủ_yếu cung_cấp cho các nhà_hàng đặc_sản ở Bình_Dương , " ngay cả đầu_nậu lớn ở Bình_Dương như Ba " đen " cũng phải lấy hàng của tui " - bà nói .
+Nn Nn Cs Nr Aa Vv Cs Nq Nn Nn Cs Nr PU PU M Nw Nn Aa Cs Nr Cs Nn PU Aa PU R Vv Vv Nn Cs Pp PU PU Pp Vv PU
+NSUBJ NN PREP POBJ ACOMP ROOT PREP DET POBJ NN PREP POBJ PUNCT PUNCT INTJ DET NSUBJ AMOD PREP POBJ PREP POBJ PUNCT AMOD PUNCT ADJUNCT CCOMP VMOD OBJ PREP POBJ PUNCT PUNCT NSUBJ CCOMP PUNCT
+6 1 1 3 6 0 6 9 7 9 9 11 6 6 17 17 27 17 17 19 17 21 22 22 22 27 6 27 28 29 30 6 6 35 6 6
+
+Chúng_tôi hỏi có tay gấu không , bà hạ giọng : " Các đầu_mối khác không có nhưng tui bảo_đảm có , một bộ tay gấu 3,7 triệu đồng ; còn 1 cc mật gấu 100.000 đ " .
+Pp Vv Ve Nn Nn R PU Pp Vv Nn PU PU Nq Nn Aa R Ve Cp Pp Vv Ve PU Num Nc Nn Nn Num Nq Nu PU Cp Num Nu Nn Nn Num Nu PU PU
+NSUBJ ROOT XCOMP OBJ NN ADJUNCT PUNCT NSUBJ CONJ OBJ PUNCT PUNCT DET NSUBJ AMOD ADJUNCT CCOMP CC NSUBJ CONJ VMOD PUNCT NUM NN CLF NSUBJ NUMBER NUM CONJ PUNCT CC NUM NSUBJ NN NN NUM CONJ PUNCT PUNCT
+2 0 2 3 4 3 2 9 2 9 17 17 14 17 14 17 9 17 20 17 20 17 26 26 24 29 28 29 17 29 29 33 37 33 34 37 29 17 2
+
+Bà viết cho chúng_tôi số điện_thoại di_động LBRK 091386315 RBRK bảo : " Cần cứ gọi " .
+Pp Vv Cs Pp Nn Nn Vv LBRK Nr RBRK Vv PU PU Vv R Vv PU PU
+NSUBJ ROOT PREP POBJ OBJ NN VMOD PUNCT PARATAXIS PUNCT CONJ PUNCT PUNCT CSUBJ ADJUNCT CCOMP PUNCT PUNCT
+2 0 2 3 2 5 6 5 5 5 2 16 16 16 16 11 16 2
+
+Nhưng đầu_nậu mà chúng_tôi nghe giới_thiệu nhiều nhất trong những ngày ở Bình_Phước lại là Tám_Xáng .
+Cp Nn Cs Pp Vv Vv Aa R Cs Nq Nu Vv Nr R Vc Nr PU
+CC NSUBJ MARK NSUBJ CCOMP VMOD ACOMP ADJUNCT PREP DET POBJ RCMOD NP_ADVMOD ADJUNCT ROOT ATTR PUNCT
+15 15 5 5 2 5 6 7 6 11 9 11 12 15 0 15 15
+
+Tối 29_-_10 , chúng_tôi đến hỏi mua thịt rừng tại nhà Tám_Xáng trên quốc_lộ 14 , phường Tân_Bình LBRK thị_xã Đồng_Xoài RBRK .
+Nt Nt PU Pp Vv Vv Vv Nn Aa Cs Nn Nr Cs Nn Nr PU Nun Nr LBRK Nun Nr RBRK PU
+NP_ADVMOD NN PUNCT NSUBJ ROOT VMOD VMOD OBJ AMOD PREP POBJ NN PREP POBJ NN PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT PUNCT
+5 1 5 5 0 5 6 7 8 6 10 11 11 13 14 14 14 17 17 17 20 17 5
+
+Tám_Xáng nhìn chúng_tôi đầy nghi_hoặc rồi làm_bộ ngạc_nhiên : " Ai giới_thiệu các anh vậy ?
+Nr Vv Pp Aa Vv Cp Vv Vv PU PU Pp Vv Nq Pp M PU
+NSUBJ ROOT OBJ ADJP_ADVMOD VMOD CC CONJ VMOD PUNCT PUNCT NSUBJ CCOMP DET OBJ INTJ PUNCT
+2 0 2 2 4 2 2 7 12 12 12 8 14 12 12 2
+
+Tôi bỏ nghề từ lâu rồi , qua ông Bình mà mua " .
+Pp Vv Nn Cs Aa R PU Vv Nn Nr Cp Vv PU PU
+NSUBJ ROOT OBJ PREP PCOMP ADJUNCT PUNCT CONJ OBJ NN CC CONJ PUNCT PUNCT
+2 0 2 2 4 2 2 2 8 9 8 8 2 2
+
+Chúng_tôi ra về , nhớ lại lời ông chủ quán đặc_sản Như_Ý tại Đồng_Xoài : " Thường thì phải quen_mặt đầu_nậu mới giao hàng " .
+Pp Vv Vv PU Vv R Nn Nc Nn Nn Nn Nr Cs Nr PU PU Aa Cp Vv Aa Nn R Vv Nn PU PU
+NSUBJ ROOT VMOD PUNCT CONJ ADJUNCT OBJ NN CLF NN NN NN PREP POBJ PUNCT PUNCT ADJP_ADVMOD CC CCOMP ACOMP NSUBJ ADJUNCT CONJ OBJ PUNCT PUNCT
+2 0 2 2 2 5 5 10 8 7 10 10 10 13 19 19 19 19 7 19 23 23 19 23 19 2
+
+Tuy_nhiên , sớm hôm sau LBRK 30_-_10 RBRK , chúng_tôi ghé cửa_hàng bán tạp_hoá của Tám_Xáng ở số 20 , đường số 1 chợ Đồng_Xoài hỏi mua thú rừng thì người_nhà của Tám_Xáng nhanh_nhẩu : " Hàng mới về hồi tối , vào nhà mà mua , để tôi gọi điện_thoại báo trước " .
+Cp PU Nt Nt Nn LBRK Nt RBRK PU Pp Vv Nn Vv Nn Cs Nr Cs Nn Nr PU Nn Nn An Nn Nr Vv Vv Nn Aa Cp Nn Cs Nr Aa PU PU Nn R Vv Nt Nt PU Vv Nn Cp Vv PU Vv Pp Vv Nn Vv Nn PU PU
+CC PUNCT NP_ADVMOD NN NN PUNCT PARATAXIS PUNCT PUNCT NSUBJ ROOT OBJ RCMOD OBJ PREP POBJ PREP POBJ NN PUNCT PARATAXIS NN AMOD PARATAXIS NN VMOD VMOD OBJ AMOD CC NSUBJ PREP POBJ CONJ PUNCT PUNCT NSUBJ ADJUNCT CCOMP NP_ADVMOD NN PUNCT CONJ OBJ CC CONJ PUNCT VMOD NSUBJ CCOMP NP_ADVMOD VMOD OBJ PUNCT PUNCT
+11 11 11 3 4 4 4 4 11 11 0 11 12 13 12 15 12 17 18 18 18 21 22 21 24 11 26 27 28 11 34 31 32 11 39 39 39 39 34 39 40 39 39 43 43 43 43 43 50 48 50 50 52 39 11
+
+Chúng_tôi quay lại nhà và gặp vợ_chồng người em của ông ta là Tám_Nhiều đang lui_cui trong bếp .
+Pp Vv R Nn Cp Vv Nn Nn Nn Cs Nn Pp Vc Nr R Vv Cs Nn PU
+NSUBJ ROOT ADJUNCT OBJ CC CONJ OBJ NN NN PREP POBJ DET RCMOD OBJ ADJUNCT RCMOD PREP POBJ PUNCT
+2 0 2 2 2 2 6 7 8 8 10 11 8 13 16 7 16 17 2
+
+Mùi khét lẫn mùi thơm của động_vật rừng bốc lên ngào_ngạt , toả khắp căn nhà .
+Nn Aa Cp Nn Aa Cs Nn Aa Vv D Aa PU Vv Aa Nc Nn PU
+NSUBJ AMOD CC CONJ AMOD PREP POBJ AMOD ROOT VMOD ADJP_ADVMOD PUNCT CONJ ACOMP OBJ CLF PUNCT
+9 1 1 1 4 4 6 7 0 9 9 9 9 13 14 15 9
+
+Tám_Nhiều đang thui con heo rừng bằng lửa của bình gas .
+Nr R Vv Nc Nn Aa Cs Nn Cs Nn FW PU
+NSUBJ ADJUNCT ROOT OBJ CLF AMOD PREP POBJ PREP POBJ DEP PUNCT
+3 3 0 3 4 4 3 7 8 9 10 3
+
+Tám_Nhiều nói : " Mới bẫy đây ! Các anh mua thịt lóc hay thịt xương ? " .
+Nr Vv PU PU R Vv M PU Nq Pp Vv Nn Vv Cp Nn Nn PU PU PU
+NSUBJ ROOT PUNCT PUNCT ADJUNCT CCOMP INTJ PUNCT NSUBJ DET CCOMP OBJ VMOD CC CONJ NN PUNCT PUNCT PUNCT
+2 0 6 6 6 2 6 6 11 9 6 11 12 12 12 15 11 6 2
+
+Chúng_tôi hỏi có chồn , cheo không ?
+Pp Vv Ve Nn PU Nn R PU
+NSUBJ ROOT XCOMP OBJ PUNCT CONJ ADJUNCT PUNCT
+2 0 2 3 4 4 3 2
+
+Vợ của Tám_Nhiều lôi ra hai bọc từ tủ_lạnh , bảo : " Yên_tâm , hàng tươi_sống cả , mang về xẻ ra ướp_lạnh ... " .
+Nn Cs Nr Vv D Num Nn Cs Nn PU Vv PU PU Aa PU Nn Aa M PU Vv D Vv R Vv PU PU PU
+NSUBJ PREP POBJ ROOT VMOD NUM OBJ PREP POBJ PUNCT CONJ PUNCT PUNCT CCOMP PUNCT NSUBJ CONJ INTJ PUNCT CONJ VMOD VMOD ADJUNCT CONJ PUNCT PUNCT PUNCT
+4 1 2 0 4 7 4 4 8 4 4 14 14 11 14 17 14 17 17 17 20 20 22 22 14 14 4
+
+Chiều 2_-_11 về Bình_Dương , chúng_tôi ghé quán đặc_sản gần khu_vực thị_trấn Phú_Giáo LBRK Bình_Dương RBRK .
+Nt Nt Vv Nr PU Pp Vv Nn Nn Aa Nn Nun Nr LBRK Nr RBRK PU
+NP_ADVMOD CONJ XCOMP OBJ PUNCT NSUBJ ROOT OBJ NN AMOD OBJ NN NN PUNCT PARATAXIS PUNCT PUNCT
+3 1 7 3 7 7 0 7 8 8 10 11 12 12 12 12 7
+
+Quán bán đầy_đủ các loại thú rừng ướp_lạnh .
+Nn Vv Aa Nq Nn Nn Aa Vv PU
+NSUBJ ROOT ACOMP DET OBJ NN AMOD RCMOD PUNCT
+2 0 2 5 3 5 6 6 2
+
+Hỏi nguồn hàng ở đâu , cô nhân_viên bán hàng cho biết lấy từ các đầu_nậu ở Bình_Phước , nhưng thỉnh_thoảng lấy ở nhà ông Ba " đen " - một đầu_mối khá lớn cách đây chỉ 50 m .
+Vv Nn Nn Vv Pp PU Nc Nn Vv Nn Vv Vv Vv Cs Nq Nn Cs Nr PU Cp R Vv Cs Nn Nn Nr PU Aa PU PU Nq Nn R Aa Vv Pd R Num Nu PU
+ROOT OBJ NN RCMOD OBJ PUNCT NSUBJ CLF RCMOD OBJ CONJ VMOD XCOMP PREP DET POBJ PREP POBJ PUNCT CC ADJUNCT CONJ PREP POBJ NN NN PUNCT AMOD PUNCT PUNCT DET PARATAXIS ADJUNCT AMOD RCMOD OBJ ADJUNCT NUM OBJ PUNCT
+0 1 2 2 4 1 11 7 7 9 1 11 12 13 16 14 16 17 13 13 22 13 22 23 24 25 25 25 25 25 32 25 34 32 32 35 38 39 35 1
+
+Theo chỉ_dẫn của cô bán quán , chúng_tôi tìm đến nhà Ba " đen " .
+Vv Nn Cs Pp Vv Nn PU Pp Vv Vv Nn Nr PU Aa PU PU
+VMOD OBJ PREP POBJ RCMOD OBJ PUNCT NSUBJ ROOT VMOD OBJ NN PUNCT AMOD PUNCT PUNCT
+9 1 2 3 4 5 9 9 0 9 10 11 12 12 12 9
+
+Tuy_nhiên ông Ba cảnh_giác : " Thú rừng bây_giờ hiếm lắm , nhà chỉ còn mỗi một con cheo khoảng 1,8 kg ... " .
+Cp Nn Nr Vv PU PU Nn Aa Pd Aa R PU Nn R Ve M Num Nc Nn R Num Nu PU PU PU
+CC NSUBJ NN ROOT PUNCT PUNCT NSUBJ AMOD NP_ADVMOD CCOMP ADJUNCT PUNCT NSUBJ ADJUNCT CONJ INTJ NUM NN CLF ADJUNCT NUM OBJ PUNCT PUNCT PUNCT
+4 4 2 0 10 10 10 7 10 4 10 10 15 15 10 22 22 22 18 21 22 15 10 4 4
+
+Hỏi mua với số_lượng lớn thì ông Ba lại chỉ sang các đầu_nậu ở Lâm_Đồng , Đồng_Nai ...
+Vv Vv Cs Nn Aa Cp Nn Nr R Vv Vv Nq Nn Cs Nr PU Nr PU
+ROOT VMOD PREP POBJ AMOD CC NSUBJ NN ADJUNCT VMOD CONJ DET OBJ PREP POBJ PUNCT CONJ PUNCT
+0 1 2 3 4 1 11 7 11 11 1 13 11 13 14 15 15 1
+
+Thế nhưng , theo tìm_hiểu của chúng_tôi , Ba " đen " là đầu_nậu theo kiểu vệ_tinh của các đầu_nậu chính ở Bình_Phước .
+Pp Cp PU Vv Nn Cs Pp PU Nr PU Aa PU Vc Nn Vv Nn Nn Cs Nq Nn Aa Cs Nr PU
+ROOT CC PUNCT VMOD OBJ PREP POBJ PUNCT NSUBJ PUNCT AMOD PUNCT CONJ ATTR RCMOD OBJ NN PREP DET POBJ AMOD PREP POBJ PUNCT
+0 1 1 13 4 5 6 13 13 9 9 9 1 13 14 15 16 17 20 18 20 20 22 1
+
+Kiểm_tra , xử_lý : " Khó bội lần " ...
+Vv PU Vv PU PU Aa Aa Nn PU PU
+VSUBJ PUNCT CONJ PUNCT PUNCT ROOT ADJP_ADVMOD OBJ PUNCT PUNCT
+6 1 1 6 6 0 6 7 6 6
+
+Ông Vũ_Đình_Trúc , trưởng phòng pháp_chế Chi_cục Kiểm_lâm Bình_Phước , cho biết ngành kiểm_lâm tỉnh đã kiểm_tra những điểm buôn_bán động_vật hoang_dã nhưng không_thể kiểm_soát hết được .
+Nn Nr PU Nn Nn Nn Nn Vv Nr PU Vv Vv Nn Vv Nun R Vv Nq Nn Vv Nn Aa Cp R Vv M R PU
+NSUBJ NN PUNCT PARATAXIS NN NN NN VMOD NN PUNCT ROOT VMOD NSUBJ VMOD NN ADJUNCT CCOMP DET OBJ RCMOD OBJ AMOD CC ADJUNCT CONJ INTJ ADJUNCT PUNCT
+11 1 1 1 4 5 5 7 7 1 0 11 17 13 13 17 12 19 17 19 20 21 17 25 17 25 25 11
+
+Hiện có các nguồn thịt rừng từ Campuchia , từ vườn_quốc_gia Cát_Tiên về rất nhiều .
+Nt Ve Nq Nn Nn Aa Cs Nr PU Cs Nn Nr Vv R Aa PU
+NP_ADVMOD ROOT DET NSUBJ NN AMOD PREP POBJ PUNCT CONJ POBJ NN CCOMP ADJUNCT ACOMP PUNCT
+2 0 4 13 4 5 5 7 7 7 10 11 2 15 13 2
+
+Chi_cục kiểm_lâm đã bố_trí chốt chặn không cho người vào rừng săn_bắn hoặc thu_gom , đồng_thời buộc các hàng_quán kinh_doanh động_vật rừng viết cam_kết .
+Nn Vv R Vv Nn Vv R Vv Nn Vv Nn Vv Cp Vv PU R Vv Nq Nn Vv Nn Aa Vv Nn PU
+NSUBJ RCMOD ADJUNCT ROOT OBJ RCMOD ADJUNCT VMOD IOBJ VMOD NP_ADVMOD VMOD CC CONJ PUNCT ADJUNCT VMOD DET OBJ RCMOD OBJ AMOD VMOD OBJ PUNCT
+4 1 4 0 4 5 8 6 8 8 10 10 12 12 4 4 4 19 17 19 20 21 17 23 4
+
+Riêng các đầu_nậu , ông Trúc than_thở : " Khó bội_phần vì họ không tổ_chức các điểm thu_mua như trước mà chủ_yếu mua_bán qua điện_thoại , sau đó vận_chuyển rất nhanh_chóng .
+M Nq Nn PU Nn Nr Vv PU PU Aa R Cs Pp R Vv Nq Nn Vv Cs Nn Cp Aa Vv Cs Nn PU Cs Pd Vv R Aa PU
+INTJ DET OBJ PUNCT NSUBJ NN ROOT PUNCT PUNCT CCOMP ADJUNCT MARK NSUBJ ADJUNCT ADVCL DET OBJ VMOD PREP POBJ CC ACOMP CONJ PREP POBJ PUNCT PREP POBJ CONJ ADJUNCT ACOMP PUNCT
+3 3 7 7 7 5 0 10 10 7 10 15 15 15 10 17 15 17 15 19 15 23 15 23 24 15 29 27 15 31 29 7
+
+Ở Bình_Phước chúng_tôi chưa thấy có đầu_nậu nào " ! ? .
+Nn Nr Pp R Vv Ve Nn Pd PU PU PU PU
+PREP POBJ NSUBJ ADJUNCT ROOT VMOD OBJ DET PUNCT PUNCT PUNCT PUNCT
+5 1 5 5 0 5 6 7 5 5 5 5
+
+Tuy_nhiên , ông Trúc cho rằng ngăn_chặn các đầu_nậu chuyên cung_cấp thú rừng còn phải có sự phối_hợp chặt_chẽ của chính_quyền địa_phương và công_an .
+Cp PU Nn Nr Vv Cs Vv Nq Nn Aa Vv Nn Aa R Vv Ve Ncs Vv Aa Cs Nn Nn Cp Nn PU
+CC PUNCT NSUBJ NN ROOT MARK VSUBJ DET OBJ AMOD VMOD OBJ AMOD ADJUNCT CCOMP VMOD OBJ CLF AMOD PREP POBJ NN CC CONJ PUNCT
+5 5 5 3 0 15 15 9 7 9 10 11 12 15 5 15 16 17 17 17 20 21 21 21 5
+
+Chính_quyền , công_an địa_phương - nơi quản_lý địa_bàn , không_thể không nắm được các đối_tượng buôn_bán động_vật rừng , nhưng việc phối_hợp chưa được chặt_chẽ .
+Nn PU Nn Nn PU Nn Vv Nn PU R R Vv R Nq Nn Vv Nn Aa PU Cp Ncs Vv R Vv Aa PU
+NSUBJ PUNCT CONJ NN PUNCT PARATAXIS RCMOD OBJ PUNCT ADJUNCT CONJ ROOT ADJUNCT DET OBJ RCMOD OBJ AMOD PUNCT CC NSUBJ CLF ADJUNCT CONJ ACOMP PUNCT
+12 1 1 1 1 1 6 7 12 12 10 0 12 15 12 15 16 17 12 12 24 21 24 12 24 12
+
+Tỉnh đã chỉ_đạo công_an lên danh_sách các đầu_nậu tại địa_phương nhưng đến nay vẫn ... giẫm_chân_tại_chỗ !
+Nun R Vv Nn Vv Nn Nq Nn Cs Nn Cp Cs Nt R PU ID PU
+NSUBJ ADJUNCT ROOT NSUBJ CCOMP OBJ DET NN PREP POBJ CC PREP POBJ ADJUNCT PUNCT CONJ PUNCT
+3 3 0 5 3 5 8 6 8 9 3 16 12 16 16 3 3
+
+Ở các tỉnh Đồng_Nai , Lâm_Đồng , Bình_Dương cũng đang lâm vào tình_cảnh tương_tự .
+Cs Nq Nu Nr PU Nr PU Nr R R Vv Cs Nn Aa PU
+PREP DET POBJ NN PUNCT CONJ PUNCT CONJ ADJUNCT ADJUNCT ROOT PREP POBJ AMOD PUNCT
+11 3 1 3 4 4 6 6 10 11 0 11 12 13 11
+
+Số vụ phát_hiện xử_lý hành_chính đã ít , còn số vụ xử_lý hình_sự về buôn_bán động_vật rừng quí_hiếm thì gần như chưa có .
+Nn Nn Vv Vv Aa R Aa PU Cp Nn Nn Vv Nn Cs Vv Nn Aa Aa Cp Aa Cs R Ve PU
+NSUBJ NN RCMOD VMOD DEP ADJUNCT ROOT PUNCT CC NSUBJ NN RCMOD OBJ PREP PCOMP OBJ AMOD AMOD CC CONJ PREP ADJUNCT PCOMP PUNCT
+7 1 2 3 4 7 0 7 7 20 10 11 12 12 14 15 16 16 20 7 20 23 21 7
+
+Và như vậy nguồn động_vật rừng vẫn âm_thầm chảy về thành_phố , dù chỉ_thị khẩn của Chính_phủ đã ban_hành ...
+M Cp Pp Nn Nn Aa R Aa Vv Vv Nun PU Cp Nn Aa Cs Nn R Vv PU
+INTJ CC ROOT NSUBJ NN AMOD ADJUNCT ACOMP CONJ VMOD OBJ PUNCT CC NSUBJ AMOD PREP POBJ ADJUNCT CONJ PUNCT
+3 3 0 9 4 5 9 9 3 9 10 3 3 19 14 14 16 19 3 3
+
+Kỳ trước : Từ quán nhậu đến vựa thú rừng .
+Nn Nn PU Cs Nn Vv Cs Nn Nn Aa PU
+ROOT NN PUNCT PREP POBJ VMOD CONJ POBJ NN AMOD PUNCT
+0 1 1 1 4 5 4 7 8 9 1
+

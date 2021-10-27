@@ -1,0 +1,290 @@
+Kỷ_niệm 59 năm ngày thành_lập Công_an nhân_dân .
+Vv Num Nu Nt Vv Nn Aa PU
+ROOT NUM OBJ NN RCMOD OBJ AMOD PUNCT
+0 3 1 3 4 5 6 1
+
+Họ đã sống vì sự bình_yên của nhân_dân .
+Pp R Vv Cs Ncs Aa Cs Nn PU
+NSUBJ ADJUNCT ROOT PREP POBJ CLF PREP POBJ PUNCT
+3 3 0 3 4 5 5 7 3
+
+Tất_cả họ - mười gương_mặt tiêu_biểu trong buổi giao_lưu " Tuổi_trẻ Công_an TP. HCM thực_hiện sáu điều Bác Hồ dạy " LBRK hôm_qua , 18_-_8 , tại Nhà_văn_hoá Thanh_niên RBRK đều ở độ tuổi 28 - 30 .
+Nw Pp PU Num Nn Aa Cs Nt Vv PU Nn Nn Nun Nr Vv Num Nn Nn Nr Vv PU LBRK Nt PU Nt PU Cs Nn Nn RBRK R Cs Nn Nn Num PU Num PU
+DET NSUBJ PUNCT NUM PARATAXIS AMOD PREP POBJ VMOD PUNCT NSUBJ NN NN NN CCOMP NUM OBJ NSUBJ NN CCOMP PUNCT PUNCT NP_ADVMOD PUNCT PARATAXIS PUNCT CONJ POBJ NN PUNCT ADJUNCT ROOT POBJ NN NUM PUNCT CONJ PCOMP
+2 32 2 5 2 5 5 7 8 8 15 11 12 13 8 17 15 20 18 17 8 8 8 23 23 23 23 27 28 8 32 0 32 33 33 35 35 32
+
+Họ lớn lên khi chiến_tranh đã đi qua nhưng vẫn chọn màu áo công_an để vào đời ...
+Pp Vv R Nt Nn R Vv Vv Cp R Vv Nn Nn Nn Cs Vv Nn PU
+NSUBJ ROOT ADJUNCT NP_ADVMOD NSUBJ ADJUNCT CCOMP VMOD CC ADJUNCT CONJ OBJ NN NN PREP PCOMP OBJ PUNCT
+2 0 2 2 7 7 4 7 2 11 2 11 12 13 11 15 16 2
+
+Và họ đã góp_phần không nhỏ cho sự bình_yên của TP này .
+M Pp R Vv R Aa Cs Ncs Aa Cs Nun Pd PU
+INTJ NSUBJ ADJUNCT ROOT ADJUNCT ACOMP PREP POBJ CLF PREP POBJ DET PUNCT
+4 4 4 0 6 4 4 7 8 8 10 11 4
+
+Những chuyện " nhỏ " ...
+Nq Nn PU Aa PU PU
+DET ROOT PUNCT AMOD PUNCT PUNCT
+2 0 2 2 2 2
+
+Để giới_thiệu Trần_Ngọc_Đoàn - 27 tuổi , trinh_sát của phòng cảnh_sát hình_sự , anh Thành_Bỉ dẫn chương_trình giao_lưu đã mở_đầu : " có một vụ án vào một thời_khắc anh phải có_mặt ngay để phá_án , nhưng cũng vào thời_khắc ấy cha của anh đang thập_tử_nhất_sinh , cần có_mặt anh bên cạnh và anh đã phải gác chuyện riêng ... " .
+Cs Vv Nr PU Num Nn PU Nn Cs Nn Nn Nn PU Nn Nr Vv Nn Vv R Vv PU PU Ve Num Nc Nn Cs Num Nn Pp Vv Aa R Cs Vv PU Cp R Cs Nn Pd Nn Cs Pp R ID PU Vv Aa Pp Nn Nn Cp Pp R Vv Vv Nn Aa PU PU PU
+PREP PCOMP OBJ PUNCT NUM PARATAXIS PUNCT PARATAXIS PREP POBJ NN NN PUNCT NSUBJ NN RCMOD OBJ VMOD ADJUNCT ROOT PUNCT PUNCT CCOMP NUM OBJ CLF PREP NUM POBJ NSUBJ CCOMP ACOMP ADJUNCT PREP PCOMP PUNCT CC ADJUNCT PREP POBJ DET NSUBJ PREP POBJ ADJUNCT CONJ PUNCT CONJ ACOMP OBJ OBJ NN CC NSUBJ ADJUNCT CONJ VMOD OBJ AMOD PUNCT PUNCT PUNCT
+20 1 2 3 6 3 3 3 8 9 10 11 3 20 14 14 16 17 20 0 23 23 20 25 23 25 25 29 27 31 29 31 32 32 34 23 23 39 46 39 40 46 42 43 46 23 46 46 48 49 49 51 46 56 56 46 56 57 58 23 23 20
+
+Cả hội_trường đã chìm trong im_lặng .
+Nw Nn R Vv Cs Aa PU
+DET NSUBJ ADJUNCT ROOT PREP PCOMP PUNCT
+2 4 4 0 4 5 4
+
+Đoàn cũng xúc_động không kém khi anh bồi_hồi kể lại thời_khắc của vụ án ấy .
+Nr R Vv R Aa Nt Pp Vv Vv R Nn Cs Nc Nn Pd PU
+NSUBJ ADJUNCT ROOT ADJUNCT ACOMP NP_ADVMOD NSUBJ CCOMP VMOD ADJUNCT OBJ PREP POBJ CLF DET PUNCT
+3 3 0 5 3 3 8 6 8 9 9 11 12 13 13 3
+
+Đó là tháng 12_-_2003 , Đoàn được giao nhiệm_vụ phá một đường_dây chuyên cho vay nặng_lãi đối_với các cô gái bán_dâm .
+Pd Vc Nt Nt PU Nr Vv Vv Nn Vv Num Nn Aa Vv Vv Nn Cs Nq Nc Nn Vv PU
+NSUBJ ROOT NP_ADVMOD NN PUNCT NSUBJ CCOMP VMOD OBJ RCMOD NUM OBJ ACOMP RCMOD VMOD OBJ PREP DET POBJ CLF VMOD PUNCT
+2 0 7 3 7 7 2 7 8 9 12 10 14 12 14 15 15 19 17 19 19 2
+
+Đoàn đã vào vai một thanh_niên ăn_chơi để tiếp_cận với khoảng 20 gái mại_dâm .
+Nr R Vv Nn Num Nn Vv Cs Vv Cs R Num Nn Vv PU
+NSUBJ ADJUNCT ROOT OBJ NUM NN RCMOD PREP PCOMP PREP ADJUNCT NUM POBJ VMOD PUNCT
+3 3 0 3 6 4 6 3 8 9 12 13 10 13 3
+
+Nhưng chứng_cứ thu_thập được vẫn còn mỏng , phải làm sao để bắt quả_tang việc giao_nhận tiền giữa các " trùm " trong đường_dây này .
+Cp Nn Vv R R R Aa PU Vv Vv Pp Cs Vv R Nn Vv Nn Cs Nq PU Nn PU Cs Nn Pd PU
+CC NSUBJ RCMOD ADJUNCT ADJUNCT ADJUNCT ROOT PUNCT CONJ VMOD OBJ PREP PCOMP ADJUNCT OBJ RCMOD OBJ PREP DET PUNCT POBJ PUNCT PREP POBJ DET PUNCT
+7 7 2 3 6 7 0 7 7 9 10 10 12 13 13 15 16 15 21 21 18 21 21 23 24 7
+
+Đêm ấy , mọi việc đã được sắp_xếp ...
+Nt Pd PU Nw Nn R Vv Vv PU
+NP_ADVMOD DET PUNCT DET NSUBJ ADJUNCT ROOT VMOD PUNCT
+7 1 7 5 7 7 0 7 7
+
+Trong khi đang dồn hết_mình cho việc phá_án thì cha của Đoàn phải vào bệnh_viện cấp_cứu vì cao huyết_áp .
+Cs Nt R Vv R Cs Ncs Vv Cp Nn Cs Nr Vv Vv Nn Vv Cs Aa Nn PU
+PREP POBJ ADJUNCT XCOMP ADJUNCT PREP POBJ CLF CC NSUBJ PREP POBJ ROOT VMOD OBJ VMOD PREP PCOMP OBJ PUNCT
+13 1 4 2 4 4 6 7 13 13 10 11 0 13 14 14 16 17 18 13
+
+" Tôi vào bệnh_viện trong tâm_trạng rất lo_lắng .
+PU Pp Vv Nn Cs Nn R Vv PU
+PUNCT NSUBJ ROOT OBJ PREP POBJ ADJUNCT RCMOD PUNCT
+3 3 0 3 3 5 8 6 3
+
+Nếu ở lại với cha thì cơ_hội phá_án sẽ qua đi , còn đi phá_án nếu chẳng may ...
+Cp Vv R Cs Nn Cp Nn Vv R Vv R PU Cp Vv Vv Cp R Aa PU
+CC ROOT ADJUNCT PREP POBJ CC NSUBJ VMOD ADJUNCT CONJ ADJUNCT PUNCT CC CONJ VMOD CC ADJUNCT ADJP_ADVMOD PUNCT
+2 0 2 2 4 2 10 7 10 2 10 2 2 2 14 14 18 14 2
+
+Tuy_nhiên , cha tôi đã động_viên và tôi gác chuyện riêng lên_đường " , Đoàn bộc_bạch .
+Cp PU Nn Pp R Vv Cp Pp Vv Nn Aa Vv PU PU Nr Vv PU
+CC PUNCT NSUBJ NN ADJUNCT CCOMP CC NSUBJ CONJ OBJ AMOD VMOD PUNCT PUNCT NSUBJ ROOT PUNCT
+6 6 6 3 6 16 6 9 6 9 10 9 16 16 16 0 16
+
+Ngay trong đêm ấy , Đoàn cùng đồng đội đã bắt quả_tang và đưa hàng chục tên tội_phạm ra ánh_sáng .
+M Cs Nt Pd PU Nr Cp Sv Nn R Vv R Cp Vv R Nq Nc Nn Vv Nn PU
+PCOMP PREP POBJ DET PUNCT NSUBJ CC SINO NN ADJUNCT ROOT ADJUNCT CC CONJ ADJUNCT NUM OBJ CLF VMOD OBJ PUNCT
+2 11 2 3 11 11 6 9 6 11 0 11 11 11 16 17 14 17 14 19 11
+
+Đoàn bảo : " Đây chỉ là một chiến_công nhỏ so với các bậc đàn_anh trong phòng cảnh_sát hình_sự , nhưng đã động_viên tôi rất nhiều " .
+Nr Vv PU PU Pd R Vc Num Nn Aa Vv Cs Nq Nc Nn Cs Nn Nn Nn PU Cp R Vv Pp R Aa PU PU
+NSUBJ ROOT PUNCT PUNCT NSUBJ ADJUNCT CCOMP NUM ATTR AMOD VMOD PREP DET POBJ CLF PREP POBJ NN NN PUNCT CC ADJUNCT CONJ OBJ ADJUNCT ACOMP PUNCT PUNCT
+2 0 7 7 7 7 2 9 7 9 10 11 14 12 14 14 16 17 18 10 10 23 10 23 26 23 7 2
+
+Cũng với suy_nghĩ ấy , Phạm_Ngọc_Thăng - điều_tra viên trẻ của phòng cảnh_sát điều_tra - kể về những cuộc đấu_trí căng_thẳng và phức_tạp khi đối_diện với những thủ_đoạn tinh_vi , xảo_quyệt của bọn tội_phạm , để tìm cho được chứng_cứ trong vụ phá đường_dây làm giấy_phép lái_xe giả .
+R Cs Nn Pd PU Nr PU Vv Sv Aa Cs Nn Nn Vv PU Vv Cs Nq Ncs Vv Aa Cp Aa Nt Vv Cs Nq Nn Aa PU Aa Cs Nn Nn PU Cs Vv M R Nn Cs Nc Vv Nn Vv Nn Nn Aa PU
+ADJUNCT PREP POBJ DET PUNCT NSUBJ PUNCT PARATAXIS SINO AMOD PREP POBJ NN VMOD PUNCT ROOT PREP DET NN CLF AMOD CC CONJ POBJ XCOMP PREP DET POBJ AMOD PUNCT CONJ PREP POBJ NN PUNCT PREP PCOMP INTJ ADJUNCT OBJ PREP POBJ RCMOD OBJ RCMOD OBJ NN AMOD PUNCT
+2 16 2 3 16 16 6 6 8 8 8 11 12 13 6 0 16 24 24 19 24 21 21 17 24 25 28 26 28 29 29 28 32 33 25 25 36 37 37 37 40 41 42 43 44 45 46 46 16
+
+" Công_việc chỉ luôn đối_diện với hồ_sơ , giấy_tờ và tội_phạm , anh có cảm_thấy buồn không ? " , anh Thành_Bỉ hỏi .
+PU Nn R R Vv Cs Nn PU Nn Cp Nn PU Pp R Vv VA R PU PU PU Nn Nr Vv PU
+PUNCT NSUBJ ADJUNCT CONJ CCOMP PREP POBJ PUNCT CONJ CC CONJ PUNCT NSUBJ ADJUNCT CCOMP VMOD ADJUNCT PUNCT PUNCT PUNCT NSUBJ NN ROOT PUNCT
+23 5 5 3 15 5 6 7 7 9 9 15 15 15 23 15 16 15 23 23 23 21 0 23
+
+Thăng chững_chạc trả_lời : " Khi đã khoác trên mình màu áo công_an nhân_dân thì không phải là vui hay buồn nữa mà là nghĩa_vụ và trách_nhiệm , thậm_chí là niềm tự_hào trong công_việc " .
+Nr Aa Vv PU PU Nt R Vv Cs Nn Nn Nn Nn Aa Cp R Aa Vc VA R VA R Cp Vc Nn Cp Nn PU R Vc Ncs Aa Cs Nn PU PU
+NSUBJ ACOMP ROOT PUNCT PUNCT NP_ADVMOD ADJUNCT XCOMP PREP POBJ OBJ NN NN AMOD CC ADJUNCT ACOMP XCOMP VMOD ADJUNCT DEP ADJUNCT CC CONJ ATTR CC CONJ PUNCT ADJUNCT CONJ ATTR CLF PREP POBJ PUNCT PUNCT
+3 3 0 18 18 18 8 6 8 9 8 11 12 13 18 17 18 3 18 19 19 19 24 18 24 25 25 24 30 24 30 31 31 33 18 3
+
+Giống như điều Thăng vừa tâm_sự , chiến_sĩ đội cảnh_sát chống tội_phạm ma_tuý LBRK Công_an quận 1 RBRK 24 tuổi Đặng_Văn_Cự cũng từ niềm tự_hào của màu áo công_an nhân_dân , đã không ít lần được khen_thưởng đột_xuất vì phá vỡ nhiều tụ_điểm mua_bán cái chết trắng .
+Vv Cs Nn Nr R Vv PU Nn Nn Nn Vv Nn Nn LBRK Nn Nun Nr RBRK Num Nn Nr R Cs Ncs Aa Cs Nn Nn Nn Aa PU R R Aa Nn Vv Vv Aa Cs Vv Vv Aa Nn Vv Ncs Vv Aa PU
+VMOD PREP POBJ NSUBJ ADJUNCT CCOMP PUNCT NSUBJ NN NN RCMOD OBJ NN PUNCT PARATAXIS NN NN PUNCT NUM PARATAXIS NN ADJUNCT PREP POBJ CLF PREP POBJ NN NN AMOD PUNCT ADJUNCT ADJUNCT ROOT OBJ RCMOD VMOD ACOMP MARK ADVCL VMOD AMOD OBJ RCMOD OBJ CLF AMOD PUNCT
+34 1 2 6 6 3 34 34 8 9 10 11 12 10 10 15 16 10 20 8 8 23 34 23 24 24 26 27 28 29 34 33 34 0 34 35 36 37 40 37 40 43 40 43 44 45 45 34
+
+" Tham_gia bắt tội_phạm ma_tuý , anh có cảm_giác thế_nào khi chứng_kiến những người cùng trang_lứa phạm tội ? " , một bạn trẻ hỏi .
+PU Vv Vv Nn Nn PU Pp Ve Nn Pp Nt Vv Nq Nn Aa Nn Vv Nn PU PU PU Num Nn Aa Vv PU
+PUNCT XCOMP VMOD OBJ NN PUNCT NSUBJ CCOMP OBJ DEP NN XCOMP DET NSUBJ AMOD OBJ CCOMP OBJ PUNCT PUNCT PUNCT NUM NSUBJ AMOD ROOT PUNCT
+25 8 2 3 4 8 8 25 8 9 9 11 14 17 14 15 12 17 8 25 25 23 25 23 0 25
+
+" Tôi thấy đau_lòng .
+PU Pp Vv Aa PU
+PUNCT NSUBJ ROOT ACOMP PUNCT
+3 3 0 3 3
+
+Số bạn trẻ vướng vào ma_tuý đã tự làm mất đi tuổi_trẻ của mình " , Cự nói .
+Nn Nn Aa Vv Cs Nn R Pp Vv Ve R Nn Cs Pp PU PU Nr Vv PU
+NSUBJ NN AMOD RCMOD PREP POBJ ADJUNCT OBJ CCOMP VMOD ADJUNCT OBJ PREP POBJ PUNCT PUNCT NSUBJ ROOT PUNCT
+9 1 2 2 4 5 9 9 18 9 10 10 12 13 18 18 18 0 18
+
+Nghệ_sĩ hài Trung_Dân đặt câu hỏi với trung_uý Trần_Thanh_Nguyên , đội trưởng đội cảnh_sát phòng cháy chữa_cháy LBRK Công_an Bình_Thạnh RBRK : " Để cứu người , cứu tài_sản , ngoài trách_nhiệm phải có lòng dũng_cảm nữa .
+Nn Aa Nr Vv Nn Vv Cs Nn Nr PU Nn Sv Nn Nn Vv Vv Vv LBRK Nn Nr RBRK PU PU Cs Vv Nn PU Vv Nn PU Cs Nn Vv Ve Nn Aa R PU
+NSUBJ AMOD NN ROOT OBJ VMOD PREP POBJ NN PUNCT NN SINO PARATAXIS NN RCMOD VMOD CONJ PUNCT PARATAXIS NN PUNCT PUNCT PUNCT PREP PCOMP OBJ PUNCT CONJ OBJ PUNCT PREP POBJ XCOMP VMOD OBJ AMOD ADJUNCT PUNCT
+4 1 1 0 4 5 4 7 8 8 13 11 8 13 14 15 15 13 13 19 13 33 33 33 24 25 25 25 28 33 33 31 4 33 34 35 34 4
+
+Bạn đã lăn_xả thế_nào khi một vụ cháy xảy_ra ? " .
+Pp R Vv Pp Nt Num Ncs Vv Vv PU PU PU
+NSUBJ ADJUNCT ROOT OBJ NP_ADVMOD NUM NSUBJ CLF CCOMP PUNCT PUNCT PUNCT
+3 3 0 3 3 7 9 7 5 3 3 3
+
+Nguyên kể về vụ cháy tại khoa thí_nghiệm Trường đại_học y dược TP. HCM .
+Nr Vv Cs Ncs Vv Cs Nn Vv Nn Nn Nn Nn Nun Nr PU
+NSUBJ ROOT PREP POBJ CLF PREP POBJ VMOD NN NN NN CONJ NN NN PUNCT
+2 0 2 3 4 4 6 7 7 9 10 11 10 13 2
+
+Hôm đó , Nguyên cùng một đồng đội đi làm một nhiệm_vụ khác thì bất_ngờ thấy khói bốc lên cao ở khu_vực Trường đại_học y dược .
+Nt Pd PU Nr Cp Num Sv Nn Vv Vv Num Nn Aa Cp Aa Vv Nn Vv Vv Aa Cs Nn Nn Nn Nn Nn PU
+NP_ADVMOD DET PUNCT NSUBJ CC NUM SINO CONJ ROOT VMOD NUM OBJ AMOD CC ACOMP CONJ NSUBJ CCOMP VMOD ACOMP PREP POBJ NN NN NN CONJ PUNCT
+9 1 9 9 4 8 8 4 0 9 12 10 12 9 16 9 18 16 18 19 18 21 22 23 24 25 9
+
+" Linh_tính nghề_nghiệp mách_bảo tôi chắc cháy lớn nên chúng_tôi phóng ngay đến hiện_trường " .
+PU Nn Nn Vv Pp Aa Vv Aa Cp Pp Vv R Vv Nn PU PU
+PUNCT NSUBJ NN ROOT IOBJ ADJP_ADVMOD VMOD ACOMP CC NSUBJ CONJ ADJUNCT VMOD OBJ PUNCT PUNCT
+4 4 2 0 4 7 4 7 4 11 4 11 11 13 4 4
+
+Nguyên phân_công anh bạn đồng nghiệp ở vòng ngoài bảo_vệ , còn mình leo lên lầu của khu_vực cháy để cứu người và chữa_cháy .
+Nr Vv Nc Nn Sv Nn Vv Nn Nn Vv PU Cp Pp Vv Vv Nn Cs Nn Vv Cs Vv Nn Cp Vv PU
+NSUBJ ROOT OBJ CLF SINO NN VMOD OBJ NN VMOD PUNCT CC NSUBJ CONJ VMOD OBJ PREP POBJ VMOD PREP PCOMP OBJ CC CONJ PUNCT
+2 0 2 3 6 3 2 7 8 7 2 2 14 2 14 15 16 17 18 15 20 21 21 21 2
+
+Nguyên vừa trấn_an vừa hướng_dẫn những sinh_viên còn kẹt trên lầu đi xuống .
+Nr Cp Vv Cp Vv Nq Nn R Vv Cs Nn Vv D PU
+NSUBJ CC ROOT CC CONJ DET IOBJ ADJUNCT RCMOD PREP POBJ VMOD VMOD PUNCT
+3 3 0 3 3 7 5 9 7 9 10 5 12 3
+
+Sau đó xé áo bịt mũi và miệng để vào sát ngọn lửa .
+Cs Pd Vv Nn Vv Nn Cp Nn Cs Vv Aa Nc Nn PU
+PREP POBJ ROOT OBJ VMOD OBJ CC CONJ PREP PCOMP ACOMP OBJ CLF PUNCT
+3 1 0 3 3 5 6 6 5 9 10 11 12 3
+
+Khói mịt_mù , Nguyên phải dùng tay và chân đập bể các cửa_kính cho khói thoát ra ngoài ...
+Nn Aa PU Nr Vv Vv Nn Cp Nn Vv Vv Nq Nn Cs Nn Vv Vv Nn PU
+NSUBJ ADVCL PUNCT NSUBJ ROOT VMOD OBJ CC CONJ VMOD VMOD DET OBJ PREP NSUBJ PCOMP VMOD OBJ PUNCT
+2 5 5 5 0 5 6 7 7 6 10 13 10 10 16 14 16 17 5
+
+" Khi tôi vào đến nơi thì lửa đang bén gần đến các thùng hoá_chất dễ cháy , thật may_mắn .
+PU Nt Pp Vv Cs Nn Cp Nn R Vv Aa Vv Nq Nn Nn Aa Vv PU R Aa PU
+PUNCT PREP NSUBJ PCOMP PREP POBJ CC NSUBJ ADJUNCT ROOT ACOMP VMOD DET OBJ NN AMOD VMOD PUNCT ADJUNCT ADJP_ADVMOD PUNCT
+10 10 4 2 4 5 10 10 10 0 10 11 14 12 14 14 16 10 20 10 10
+
+Khi tôi bước ra ngoài , tự_nhiên mắt hoa lên , nhìn tay_chân thấy đẫm máu vì mảnh kính vỡ ... , cả hội_trường lại chìm trong im_lặng .
+Nt Pp Vv Vv Nn PU Nn Nn Aa R PU Vv Nn Vv Aa Nn Cs Nn Nn Vv PU PU Nw Nn R Vv Cs Aa PU
+NP_ADVMOD NSUBJ CCOMP VMOD OBJ PUNCT ADJP_ADVMOD NSUBJ ROOT ADJUNCT PUNCT CONJ OBJ VMOD ACOMP OBJ PREP POBJ NN VMOD PUNCT PUNCT DET NSUBJ ADJUNCT CONJ PREP PCOMP PUNCT
+9 3 1 3 4 9 9 9 0 9 9 9 12 12 14 15 15 17 18 18 9 9 24 26 26 9 26 27 9
+
+Trước những cám_dỗ ...
+Cs Nq Nn PU
+ROOT DET POBJ PCOMP
+0 3 1 1
+
+" Ăn bánh_mì , uống trà đá , ngủ vỉa_hè " là một phần cuộc_sống hằng ngày của các chiến_sĩ trinh_sát phòng_chống tội_phạm ma_tuý .
+PU Vv Nn PU Vv Nn Nn PU Vv Nn PU Vc Num Nn Nn R Nu Cs Nq Nn Vv Vv Nn Nn PU
+PUNCT VSUBJ OBJ PUNCT CONJ OBJ NN PUNCT CONJ OBJ PUNCT ROOT NUM ATTR NN ADJUNCT NP_ADVMOD PREP DET POBJ VMOD RCMOD OBJ NN PUNCT
+12 12 2 2 2 5 6 5 5 9 12 0 14 12 14 17 15 15 20 18 20 20 22 23 12
+
+Thiếu_uý Đỗ_Quốc_Việt là một trường_hợp như thế .
+Nn Nr Vc Num Nn Cs Pp PU
+NSUBJ NN ROOT NUM ATTR PREP POBJ PUNCT
+3 1 0 5 3 5 6 3
+
+Nhưng có phải vì hoàn_cảnh đó , người chiến_sĩ công_an dễ_dàng sa_ngã trước những cám_dỗ vật_chất ?
+Cp R Aa Cs Nn Pd PU Nc Nn Nn Aa Vv Cs Nq Nn Nn PU
+CC ADJUNCT DEP PREP POBJ DET PUNCT NSUBJ CLF NN ACOMP ROOT PREP DET POBJ NN PUNCT
+12 3 12 12 4 5 12 12 8 8 12 0 12 15 13 15 12
+
+Câu khẳng_định là " không " đối_với Đỗ_Quốc_Việt .
+Nn Vv Vc PU R PU Cs Nr PU
+NSUBJ VMOD ROOT PUNCT VMOD PUNCT PREP POBJ PUNCT
+3 1 0 5 3 5 3 7 3
+
+Anh kể trong một lần truy_bắt tội_phạm , một " trùm " đường_dây ma_tuý lớn gặp Việt nói : " Tha cho em đi , anh cầm đồng_hồ xài " LBRK đồng_hồ trị_giá khoảng 3.000 USD RBRK , nhưng Việt cương_quyết từ_chối và bắt_giữ tội_phạm .
+Pp Vv Cs Num Nn Vv Nn PU Num PU Nn PU Nn Nn Aa Vv Nr Vv PU PU Vv Cs Pp M PU Pp Vv Nn Vv PU LBRK Nn Vv R Num Nu RBRK PU Cp Nr Aa Vv Cp Vv Nn PU
+NSUBJ ROOT PREP NUM POBJ XCOMP OBJ PUNCT NUM PUNCT NSUBJ PUNCT NN NN AMOD CCOMP OBJ VMOD PUNCT PUNCT CCOMP PREP POBJ INTJ PUNCT NSUBJ CONJ OBJ VMOD PUNCT PUNCT PARATAXIS RCMOD ADJUNCT NUM OBJ PUNCT PUNCT CC NSUBJ ACOMP CONJ CC CONJ OBJ PUNCT
+2 0 16 5 3 5 6 16 11 11 16 11 11 13 13 2 16 16 21 21 18 21 22 21 21 27 21 27 27 27 27 27 32 35 36 33 27 16 16 42 42 16 42 42 44 2
+
+" Người_ta cho sao không nhận ? " , anh Thành_Bỉ hỏi cắc_cớ .
+PU Pp Vv Pp R Vv PU PU PU Nn Nr Vv Aa PU
+PUNCT NSUBJ CCOMP DEP ADJUNCT CCOMP PUNCT PUNCT PUNCT NSUBJ NN ROOT ACOMP PUNCT
+12 3 6 6 6 12 6 12 12 12 10 0 12 12
+
+Rất điềm_tĩnh , Việt trả_lời : " Nếu tôi nhận cũng có nghĩa là tôi đã đồng_hành với tội_ác ... " .
+R Aa PU Nr Vv PU PU Cp Pp Vv R Ve Nn Cs Pp R Vv Cs Nn PU PU PU
+ADJUNCT ADVCL PUNCT NSUBJ ROOT PUNCT PUNCT CC NSUBJ CSUBJ ADJUNCT CCOMP OBJ MARK NSUBJ ADJUNCT CCOMP PREP POBJ PUNCT PUNCT PUNCT
+2 5 5 5 0 12 12 12 10 12 12 5 12 17 17 17 13 17 18 12 12 5
+
+" Bạn suy_nghĩ thế_nào khi gần đây báo_chí phản_ánh về tiêu_cực mãi_lộ của một_số cảnh_sát giao_thông ? " , anh Thành_Bỉ hướng câu hỏi về trung_uý Trần_Minh_Quang - 27 tuổi , hiện công_tác tại đội 6 cảnh_sát giao_thông TP .
+PU Pp Vv Pp Nt Aa Pd Nn Vv Cs Nn Nn Cs Nq Nn Nn PU PU PU Nn Nr Vv Nn Vv Cs Nn Nr PU Num Nn PU Nt Vv Cs Nn An Nn Nn Nun PU
+PUNCT NSUBJ CCOMP OBJ NP_ADVMOD ADJP_ADVMOD OBJ NSUBJ CCOMP PREP POBJ NN PREP DET POBJ NN PUNCT PUNCT PUNCT NSUBJ NN ROOT OBJ VMOD PREP NN NN PUNCT NUM POBJ PUNCT NP_ADVMOD PARATAXIS PREP POBJ AMOD NN NN NN PUNCT
+22 3 22 3 3 9 6 9 5 9 10 11 11 15 13 15 3 22 22 22 20 0 22 23 22 30 30 30 30 25 30 33 30 33 34 35 35 37 37 22
+
+Suy_nghĩ một lúc , Quang thổ_lộ : " Đây là điều đáng tiếc , nhưng đó chỉ là sai_phạm của một_số " con sâu " trong ngành " .
+Vv Num Nt PU Nr Vv PU PU Pd Vc Nn Vv Vv PU Cp Pd R Vc Nn Cs Nq PU Nc Nn PU Cs Nn PU PU
+XCOMP NUM NP_ADVMOD PUNCT NSUBJ ROOT PUNCT PUNCT NSUBJ CCOMP ATTR RCMOD VMOD PUNCT CC NSUBJ ADJUNCT CONJ ATTR PREP DET PUNCT POBJ CLF PUNCT PREP POBJ PUNCT PUNCT
+6 3 1 6 6 0 10 10 10 6 10 11 12 10 10 18 18 10 18 19 23 23 20 23 23 23 26 6 6
+
+Nhiều năm liền là chiến_sĩ_thi_đua , ngoài giờ đi làm Quang còn tranh_thủ đi học thêm và đã tốt_nghiệp Đại_học Kinh_tế .
+Aa Nu Aa Vc Nn PU Cs Nt Vv Vv Nr R Vv Vv Vv Vv Cp R Vv Nn Nn PU
+AMOD NP_ADVMOD AMOD ROOT ATTR PUNCT PREP POBJ RCMOD VMOD NSUBJ ADJUNCT CONJ VMOD VMOD VMOD CC ADJUNCT CONJ OBJ NN PUNCT
+2 4 2 0 4 4 13 7 8 9 13 13 4 13 14 15 13 19 13 19 20 4
+
+Quang bảo điều đó giúp Quang là một trong số nhiều đồng nghiệp vẫn vững_vàng với nghề tuần_tra giao_thông .
+Nr Vv Nn Pd Vv Nr Vc Num Cs Nn Aa Sv Nn R Aa Cs Nn Vv Nn PU
+NSUBJ ROOT NSUBJ DET CCOMP OBJ VMOD ATTR PREP POBJ AMOD SINO NN ADJUNCT AMOD PREP POBJ RCMOD OBJ PUNCT
+2 0 5 3 2 5 5 7 8 9 13 13 10 15 13 15 16 17 18 2
+
+" Khắc_tinh " của tội_phạm .
+PU Nn PU Cs Nn PU
+PUNCT ROOT PUNCT PREP POBJ PUNCT
+2 0 2 2 4 2
+
+Ba quần_chúng tiêu_biểu trong phong_trào bảo_vệ an_ninh trật_tự đến với cuộc giao_lưu được ví như những " khắc_tinh " của bọn tội_phạm .
+Num Nn Aa Cs Nn Vv Nn Nn Vv Cs Ncs Vv Vv Vv Cs Nq PU Nn PU Cs Nn Nn PU
+NUM NSUBJ AMOD PREP POBJ RCMOD OBJ CONJ RCMOD PREP POBJ CLF ROOT VMOD PREP DET PUNCT POBJ PUNCT PREP POBJ NN PUNCT
+2 13 2 2 4 5 6 7 2 9 10 11 0 13 14 18 18 15 18 18 20 21 13
+
+Đó là anh làm nghề xe_ôm Nguyễn_Văn_Tú , 24 tuổi LBRK ngụ phường 9 , quận 5 RBRK nhưng đã có " thâm_niên " bắt hàng chục vụ cướp_giật .
+Pd Vc Nn Vv Nn Nn Nr PU Num Nn LBRK Vv Nun Nr PU Nun Nr RBRK Cp R Ve PU Nn PU Vv R Nq Ncs Vv PU
+NSUBJ ROOT ATTR RCMOD OBJ NN NN PUNCT NUM PARATAXIS PUNCT PARATAXIS NP_ADVMOD NN PUNCT PARATAXIS NN PUNCT CC ADJUNCT PARATAXIS PUNCT OBJ PUNCT RCMOD ADJUNCT NUM OBJ CLF PUNCT
+2 0 2 3 4 5 3 3 10 3 3 3 12 13 13 13 16 3 3 21 3 23 21 23 23 27 28 25 28 2
+
+Khi được hỏi vì sao anh tự_nguyện tham_gia công_việc này , anh nói rất giản_dị : " Tôi chỉ muốn góp một phần cho sự bình_yên của người dân thành_phố " .
+Nt Vv Vv Cp Pp Pp Vv Vv Nn Pd PU Pp Vv R Aa PU PU Pp R Vv Vv Num Nn Cs Ncs Aa Cs Nc Nn Nun PU PU
+NP_ADVMOD XCOMP VMOD CC DEP NSUBJ CCOMP VMOD OBJ DET PUNCT NSUBJ ROOT ADJUNCT ACOMP PUNCT PUNCT NSUBJ ADJUNCT CCOMP VMOD NUM OBJ PREP POBJ CLF PREP NN CLF POBJ PUNCT PUNCT
+13 1 2 7 7 7 3 7 8 9 13 13 0 15 13 20 20 20 20 13 20 23 21 21 24 25 25 30 28 27 20 13
+
+Còn Nguyễn_Văn_Minh_Tiến , 30 tuổi LBRK ngụ phường 8 , Tân_Bình RBRK tham_gia bắt cướp từ năm 1997 đến nay " không nhớ hết đã bắt được bao_nhiêu vụ " .
+Cp Nr PU Num Nn LBRK Vv Nun Nr PU Nr RBRK Vv Vv Nn Cs Nt Num Cs Nt PU R Vv Ve R Vv R Pp Nn PU PU
+CC NSUBJ PUNCT NUM PARATAXIS PUNCT PARATAXIS NP_ADVMOD NN PUNCT PARATAXIS PUNCT ROOT VMOD OBJ PREP POBJ NUM CONJ POBJ PUNCT ADJUNCT CONJ VMOD ADJUNCT XCOMP ADJUNCT DET OBJ PUNCT PUNCT
+13 13 2 5 2 2 2 7 8 8 8 2 0 13 14 14 16 17 16 19 13 23 13 23 26 23 26 29 26 13 13
+
+Câu_chuyện một lần cứu được một em học_sinh bị tên cướp dùng ống kim_tiêm có máu nhiễm HIV khống_chế , cướp tài_sản , Tiến vẫn còn nhớ như in .
+Nn Num Nn Vv R Num Nc Nn Vv Nc Nn Vv Nn Nn Ve Nn Vv FW Vv PU Vv Nn PU Nr R R Vv Cs Vv PU
+OBJ NUM NP_ADVMOD XCOMP ADJUNCT NUM OBJ CLF RCMOD NSUBJ CLF CCOMP OBJ NN RCMOD OBJ RCMOD OBJ VMOD PUNCT CONJ OBJ PUNCT NSUBJ ADJUNCT ADJUNCT ROOT PREP PCOMP PUNCT
+27 3 4 1 4 7 4 7 7 12 10 9 12 13 13 15 16 17 12 19 19 21 27 27 27 25 0 27 28 27
+
+Khi Tiến rượt_đuổi theo và bị ngã , tên này đã dùng ống kim_tiêm đe_doạ , nhưng anh tháo dây nịt xông vào bắt được hắn .
+Nt Nr Vv Vv Cp Vv Vv PU Nn Pd R Vv Nn Nn Vv PU Cp Pp Vv Nn Nn Vv Vv Vv R Pp PU
+NP_ADVMOD NSUBJ CCOMP VMOD CC CONJ VMOD PUNCT NSUBJ DET ADJUNCT ROOT OBJ NN VMOD PUNCT CC NSUBJ CONJ OBJ NN VMOD VMOD VMOD ADJUNCT OBJ PUNCT
+12 3 1 3 3 3 6 12 12 9 12 0 12 13 12 12 12 19 12 19 20 19 22 22 24 24 12
+
+" Bình_thường nghĩ đến ống kim_tiêm tôi cũng sợ lắm , nhưng không hiểu sao lúc đó tôi quên cả sợ " , anh chân_thành bộc_bạch .
+PU Aa Vv Cs Nn Nn Pp R Vv R PU Cp R Vv Pp Nt Pd Pp Vv M Vv PU PU Pp Aa Vv PU
+PUNCT ADJP_ADVMOD CCOMP PREP POBJ NN NSUBJ ADJUNCT CONJ ADJUNCT PUNCT CC ADJUNCT CONJ DEP NP_ADVMOD DET NSUBJ CCOMP INTJ VMOD PUNCT PUNCT NSUBJ ACOMP ROOT PUNCT
+26 3 26 3 4 5 9 9 3 9 3 3 14 3 19 19 16 19 14 21 19 26 26 26 26 0 26
+
+Anh Nguyễn_Anh_Tuấn , ở phường 5 , Gò_Vấp , hiện mang trong người năm vết_thương do bị tội_phạm tấn_công , nhưng khi được hỏi anh sẽ tham_gia bắt tội_phạm đến khi nào , anh cười vui bảo " đến già ... " .
+Nn Nr PU Cs Nun Nr PU Nr PU Nt Vv Cs Nn Num Nn Cs Vv Nn Vv PU Cp Nt Vv Vv Pp R Vv Vv Nn Cs Nt Pd PU Pp Vv Aa Vv PU Cs Aa PU PU PU
+ROOT NN PUNCT PARATAXIS POBJ NN PUNCT PARATAXIS PUNCT NP_ADVMOD PARATAXIS PREP POBJ NUM OBJ MARK CCOMP NSUBJ CCOMP PUNCT CC NP_ADVMOD XCOMP VMOD NSUBJ ADJUNCT CCOMP VMOD OBJ PREP POBJ DET PUNCT NSUBJ CONJ ACOMP VMOD PCOMP PREP PCOMP PUNCT PCOMP PUNCT
+0 1 1 1 4 5 5 5 1 11 1 11 12 15 11 17 15 19 17 1 1 35 22 23 27 27 24 27 28 28 30 31 35 35 1 35 35 39 37 39 40 39 1
+

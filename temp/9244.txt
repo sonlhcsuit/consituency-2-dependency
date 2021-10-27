@@ -1,0 +1,325 @@
+Chuyện những người mang số 115 .
+Nn Nq Nn Vv Nn Nr PU
+ROOT DET NN RCMOD OBJ NN PUNCT
+0 3 1 3 4 5 1
+
+Sáng nay ngồi quán cà_phê cóc , ông bạn già của tôi tâm_sự : " Chú_mày biết không , hôm_kia không nhờ cấp_cứu đã xong cái mạng già này ! " .
+Nt Nt Vv Nn Nn Aa PU M Nn Aa Cs Pp Vv PU PU Pp Vv R PU Nt R Vv Vv R VN M Nn Aa Pd PU PU PU
+NP_ADVMOD NN XCOMP NP_ADVMOD NN AMOD PUNCT INTJ NSUBJ AMOD PREP POBJ ROOT PUNCT PUNCT NSUBJ CCOMP ADJUNCT PUNCT NP_ADVMOD ADJUNCT VSUBJ VMOD ADJUNCT PARATAXIS INTJ OBJ AMOD DET PUNCT PUNCT PUNCT
+3 1 13 3 4 4 13 9 13 9 9 11 0 17 17 17 13 17 17 25 22 25 22 25 17 27 25 27 27 17 13 13
+
+Số_là trở_về nhà sau một chầu nhậu , bị tăng huyết_áp đột_ngột , ông bị choáng ngất , bà vợ luống_cuống tay_chân hét toáng lên .
+Cp Vv Nn Cs Num Nn Vv PU Vv Vv Nn Aa PU Pp Vv Aa Aa PU Nc Nn Aa Nn Vv Aa R PU
+CC XCOMP OBJ PREP NUM POBJ VMOD PUNCT CONJ VMOD OBJ ADJP_ADVMOD PUNCT NSUBJ ROOT ACOMP ADJP_ADVMOD PUNCT DEP CLF CONJ OBJ VMOD ACOMP ADJUNCT PUNCT
+15 15 2 2 6 4 6 2 2 9 10 10 15 15 0 15 16 15 21 19 15 21 21 23 23 15
+
+Một người hàng_xóm nhanh_trí gọi số 115 xin cấp_cứu ...
+Num Nc Nn Aa Vv Nn Nr Vv Vv PU
+NUM NSUBJ CLF ROOT VMOD OBJ NN VMOD VMOD PUNCT
+2 4 2 0 4 5 6 5 8 4
+
+Đó chỉ là một trong hàng ngàn trường_hợp " không nhờ cấp_cứu đã ... " .
+Pd R Vc Num Cs R Nq Nn PU R Vv Vv R PU PU PU
+NSUBJ ADJUNCT ROOT ATTR PREP ADJUNCT NUM POBJ PUNCT ADJUNCT RCMOD VMOD CONJ PUNCT PUNCT PUNCT
+3 3 0 3 4 7 8 5 11 11 8 11 11 13 11 3
+
+Và 115 đã trở_thành số điện_thoại đáng tin_cậy của nhiều người ...
+M Nr R Vv Nn Nn Vv Vv Cs Aa Nn PU
+INTJ NSUBJ ADJUNCT ROOT OBJ NN RCMOD VMOD PREP AMOD POBJ PUNCT
+4 4 4 0 4 5 5 7 5 11 9 4
+
+Theo những vòng xe cấp_cứu .
+Vv Nq Nn Nn Vv PU
+ROOT DET OBJ NN NN PUNCT
+0 3 1 3 4 1
+
+Buổi sáng 10_-_11_-_2003 tôi ngồi ở phòng cấp_cứu 115 của Bệnh_viện Trưng_Vương .
+Nt Nt Nt Pp Vv Cs Nn Vv Nr Cs Nn Nr PU
+NP_ADVMOD NN NN NSUBJ ROOT PREP POBJ VMOD NN PREP POBJ NN PUNCT
+5 1 1 5 0 5 6 7 7 7 10 11 5
+
+Trên bàn trực có những năm điện_thoại bàn và hai bộ_đàm .
+Cs Nn Vv Ve M Num Nn Nn Cp Num Nn PU
+PREP POBJ VMOD ROOT INTJ NUM OBJ NN CC NUM CONJ PUNCT
+4 1 2 0 7 7 4 7 7 11 7 4
+
+Y_tá Liêu_Văn_Trường trực điện_thoại , có tiếng chuông reo vang , Trường cầm ống_nghe : " Ồ không có gì đâu !
+Nn Nr Vv Nn PU Ve Nn Nn Vv Aa PU Nr Vv Nn PU PU E R Ve Pp M PU
+NSUBJ NN ROOT OBJ PUNCT CONJ OBJ NN RCMOD ACOMP PUNCT NSUBJ CONJ OBJ PUNCT PUNCT INTJ ADJUNCT CCOMP OBJ INTJ PUNCT
+3 1 0 3 3 3 6 7 7 9 6 13 6 13 19 19 19 19 13 19 19 3
+
+Nhiệm_vụ của chúng_tôi mà .
+Nn Cs Pp M PU
+ROOT PREP POBJ INTJ PUNCT
+0 1 2 1 1
+
+Anh ấy bình_phục là tốt rồi " .
+Nn Pd Vv M Aa R PU PU
+NSUBJ DET CSUBJ INTJ ROOT ADJUNCT PUNCT PUNCT
+3 1 5 5 0 5 5 5
+
+Quay sang tôi , anh Trường nói : " Một chị ở quận 8 gọi điện cảm_ơn chúng_tôi đã cấp_cứu kịp_thời nên chồng chị qua khỏi cơn nguy_kịch " .
+Vv Cs Pp PU Nn Nr Vv PU PU Num Nn Cs Nun Nr Vv Nn Vv Pp R Vv Aa Cp Nn Pp Vv Vv Ncs Aa PU PU
+XCOMP PREP POBJ PUNCT NSUBJ NN ROOT PUNCT PUNCT NUM NSUBJ PREP POBJ NN CCOMP OBJ VMOD NSUBJ ADJUNCT CCOMP ADJP_ADVMOD CC NSUBJ NN CONJ VMOD OBJ CLF PUNCT PUNCT
+7 1 2 7 7 5 0 15 15 11 15 11 12 13 7 15 15 20 20 17 20 20 25 23 20 25 25 27 15 7
+
+Tôi đã từng nghe cấp_cứu nhưng chỉ khi nghe chị Nguyễn_Thị_Tuyết_Mai , trưởng khoa cấp_cứu ngoại_viện LBRK CCNV RBRK , phân_tích mới thật_sự hiểu rõ " nội_tình " .
+Pp R R Vv Vv Cp R Nt Vv Nn Nr PU Nn Nn Vv Nn LBRK X RBRK PU Vv R Aa Vv Aa PU Nn PU PU
+NSUBJ ADJUNCT ADJUNCT ROOT VMOD CC ADJUNCT NP_ADVMOD XCOMP NSUBJ NN PUNCT PARATAXIS NN RCMOD OBJ PUNCT PARATAXIS PUNCT PUNCT CCOMP ADJUNCT ACOMP CONJ ACOMP PUNCT OBJ PUNCT PUNCT
+4 3 4 0 4 4 8 24 8 21 10 10 10 13 14 15 15 15 15 10 9 24 24 4 24 27 24 27 4
+
+CCNV chỉ đảm_nhiệm cấp_cứu đoạn đường từ hiện_trường đến cổng bệnh_viện .
+X R Vv Vv Nn Nn Cs Nn Cs Nn Nn PU
+VSUBJ ADJUNCT ROOT VMOD OBJ NN PREP POBJ CONJ POBJ NN PUNCT
+3 3 0 3 4 5 5 7 7 9 10 3
+
+Sau khi nhận điện_báo , mỗi ca cấp_cứu gồm êkip một lái_xe , một bác_sĩ LBRK BS RBRK , hai điều_dưỡng viên LBRK ĐDV RBRK tức_tốc lên xe .
+Cs Nt Vv Nn PU Nq Nn Vv Vv Nn Num Nn PU Num Nn LBRK Nn RBRK PU Num Vv Sv LBRK Nn RBRK R Vv Nn PU
+PREP POBJ XCOMP OBJ PUNCT DET NSUBJ VMOD RCMOD OBJ NUM NN PUNCT NUM CONJ PUNCT PARATAXIS PUNCT PUNCT NUM NN SINO PUNCT CONJ PUNCT ADJUNCT ROOT OBJ PUNCT
+27 1 2 3 27 7 27 7 7 9 12 10 12 15 12 15 15 15 15 24 24 21 24 15 24 27 0 27 27
+
+BS khám bệnh rồi chẩn_đoán , ĐDV đo huyết_áp , chích thuốc giảm đau , chuyển bệnh_nhân lên băng_ca , lái_xe chở thẳng đến bệnh_viện .
+Nn Vv Nn Cp Vv PU Nn Vv Nn PU Vv Nn Vv Aa PU Vv Nn Cs Nn PU Nn Vv Aa Cs Nn PU
+NSUBJ ROOT OBJ CC CONJ PUNCT NSUBJ CONJ OBJ PUNCT CONJ OBJ RCMOD ACOMP PUNCT CONJ OBJ PREP POBJ PUNCT NSUBJ CONJ ACOMP PREP POBJ PUNCT
+2 0 2 2 2 2 8 2 8 8 8 11 12 13 11 11 16 16 18 8 22 8 22 22 24 2
+
+Sau khi hoàn_thành thủ_tục nhập_viện là xong ca cấp_cứu .
+Cs Nt Vv Nn Vv Cp VA Nn Vv PU
+PREP POBJ XCOMP OBJ VMOD CC ROOT OBJ VMOD PUNCT
+7 1 2 3 4 7 0 7 8 7
+
+BS Tuyết_Mai cho biết khoa gồm 12 BS , 22 ĐDV , sáu lái_xe với 10 xe cấp_cứu phục_vụ cả địa_bàn TP. HCM .
+Nn Nr Vv Vv Nn Vv Num Nn PU Num Nn PU Num Nn Cp Num Nn Vv Vv Nw Nn Nun Nr PU
+NSUBJ NN ROOT VMOD CCOMP RCMOD NUM OBJ PUNCT NUM CONJ PUNCT NUM CONJ CC NUM CONJ NN RCMOD DET NP_ADVMOD NN NN PUNCT
+3 1 0 3 4 5 8 6 8 11 8 11 14 11 14 17 14 17 5 21 19 21 22 3
+
+Họ được gọi là cấp_cứu viên LBRK CCV RBRK .
+Pp Vv Vv Cs Vv Sv LBRK Nn RBRK PU
+NSUBJ ROOT VMOD PREP NN SINO PUNCT POBJ PUNCT PUNCT
+2 0 2 3 8 5 8 4 8 2
+
+Lăn theo những vòng xe cấp_cứu .
+Vv Vv Nq Nn Nn Vv PU
+ROOT VMOD DET OBJ NN NN PUNCT
+0 1 4 2 4 5 1
+
+Buổi trưa 14_-_11_-_2003 khi tôi đang ngồi nói_chuyện với các anh_chị bỗng ĐDV trực_ban cho biết có ca cấp_cứu đường Tô_Hiến_Thành đang gọi .
+Nt Nt Nt Nt Pp R Vv Vv Cs Nq Nn R Nn Vv Vv Vv Ve Nn Vv Nn Nr R Vv PU
+NP_ADVMOD NN NN PARATAXIS NSUBJ ADJUNCT CCOMP VMOD PREP DET POBJ ADJUNCT NSUBJ VMOD ROOT VMOD CCOMP NSUBJ VMOD NP_ADVMOD NN ADJUNCT CCOMP PUNCT
+15 1 1 1 7 7 4 7 8 11 9 15 15 13 0 15 16 23 18 18 20 23 17 15
+
+Thế_là tôi cùng với êkip cấp_cứu gồm BS Hà_Thanh_Hà , ĐDV Nguyễn_Thị_Kim_Chi , Nguyễn_Văn_Huệ , lái_xe Nguyễn_Văn_Nghĩa lên_đường .
+Cp Pp Cp Cp Nn Vv Vv Nn Nr PU Nn Nr PU Nr PU Nn Nr Vv PU
+CC NSUBJ CC CC CONJ VMOD RCMOD OBJ NN PUNCT CONJ NN PUNCT CONJ PUNCT CONJ NN ROOT PUNCT
+18 18 2 3 2 5 5 7 8 8 8 11 12 12 11 11 16 0 18
+
+Chiếc xe cấp_cứu của chúng_tôi băng_băng với tốc_độ chóng_mặt .
+Nc Nn Vv Cs Pp Aa Cs Nn Vv PU
+NSUBJ NN NN PREP POBJ ROOT PREP POBJ VMOD PUNCT
+6 1 2 1 4 0 6 7 8 6
+
+Đang giờ tan_tầm , trên đường xe qua_lại như đan_mắt_lưới .
+R Nt Vv PU Cs Nn Nn Vv Cs ID PU
+ADJUNCT NP_ADVMOD XCOMP PUNCT PREP POBJ NSUBJ ROOT PREP PCOMP PUNCT
+2 8 2 8 8 5 8 0 8 9 8
+
+Tiếng còi hụ liên_hồi .
+Nn Nn Vv Aa PU
+NSUBJ NN ROOT ACOMP PUNCT
+3 1 0 3 3
+
+Anh Nghĩa lái_xe bất_ngờ thắng gấp vì từ ngã ba một chiếc Spacy phóng ngang qua .
+Nn Nr Nn Aa Vv Aa Cs Cs Nn Num Num Nc Nr Vv Aa D PU
+NSUBJ NN PARATAXIS ACOMP ROOT ACOMP MARK PREP POBJ NUM NUM NSUBJ CLF ADVCL ACOMP VMOD PUNCT
+5 1 1 5 0 5 14 14 8 9 12 14 12 5 14 14 5
+
+Trên đường đi , thỉnh_thoảng xe phải dừng lại vì những bác xích_lô chở sắt thép cứ nhơi_nhơi cuốn thép dài_ngoằng chực quất vào kẻ khác .
+Cs Nn Vv PU R Nn Vv Vv R Cs Nq Nc Nn Vv Nn Nn R Aa Vv Nn Aa Vv Vv Cs Nn Aa PU
+PREP POBJ CCOMP PUNCT ADJUNCT NSUBJ ROOT VMOD ADJUNCT MARK DET NSUBJ CLF RCMOD OBJ CONJ ADJUNCT ACOMP CSUBJ OBJ AMOD ADVCL VMOD PREP POBJ AMOD PUNCT
+7 1 2 7 7 7 0 7 8 22 12 19 12 12 14 15 19 19 22 19 20 8 22 23 24 25 7
+
+Ngoài_ra những chiếc xe_ben ngược chiều phóng bạt_mạng như muốn lao vào xe cấp_cứu .
+Cp Nq Nc Nn Aa Nn Vv Aa Cs Vv Vv Cs Nn Vv PU
+CC DET NSUBJ CLF AMOD OBJ ROOT ACOMP PREP PCOMP VMOD PREP POBJ NN PUNCT
+7 3 7 3 3 5 0 7 7 9 10 11 12 13 7
+
+Một thanh_niên mặc đồ dân_phòng chờ sẵn nơi đầu hẻm đón chúng_tôi .
+Num Nn Vv Nn Nn Vv Aa Nn Cs Nn Vv Pp PU
+NUM NSUBJ RCMOD OBJ NN ROOT ACOMP NP_ADVMOD PREP POBJ VMOD OBJ PUNCT
+2 6 2 3 4 0 6 6 8 9 6 11 6
+
+Xe dừng , các anh_chị_em CCV mỗi người một việc .
+Nn Vv PU Nq Nn Nn Nq Nn Num Nn PU
+NSUBJ ROOT PUNCT DET DEP NN DET NSUBJ NUM CONJ PUNCT
+2 0 2 5 10 5 8 10 10 2 2
+
+BS Hà chuẩn_bị y_cụ , ĐDV Kim_Chi xách theo vali cấp_cứu , ĐDV Huệ đem chiếc băng_ca đẩy vào nhà có nạn_nhân .
+Nn Nr Vv Nn PU Nn Nr Vv Vv Nn Vv PU Nn Nr Vv Nc Nn Vv Cs Nn Ve Nn PU
+NSUBJ NN ROOT OBJ PUNCT NSUBJ NN CONJ VMOD OBJ VMOD PUNCT NSUBJ NN CONJ OBJ CLF VMOD PREP POBJ RCMOD OBJ PUNCT
+3 1 0 3 3 8 6 3 8 8 10 8 15 13 8 15 16 15 18 19 20 21 3
+
+Người_bệnh là một bà cụ lớn_tuổi , bị bí tiểu bụng căng lên như cái trống_chầu .
+Nn Vc Num Nc Nn Aa PU Vv Aa Vv Nn Aa R Cs Nc Nn PU
+NSUBJ ROOT NUM NN CLF AMOD PUNCT RCMOD ACOMP VMOD ATTR AMOD ADJUNCT PREP POBJ CLF PUNCT
+2 0 11 11 4 11 11 11 8 9 2 11 12 12 14 15 2
+
+BS Hà vừa chẩn_đoán bệnh vừa an_ủi và động_viên tinh_thần .
+Nn Nr Cp Vv Nn Cp Vv Cp Vv Nn PU
+NSUBJ NN CC ROOT OBJ CC CONJ CC CONJ OBJ PUNCT
+4 1 4 0 4 4 4 7 7 9 4
+
+ĐDV Kim_Chi tiêm một mũi thuốc thông tiểu .
+Nn Nr Vv Num Nn Nn Vv Nn PU
+NSUBJ NN ROOT NUM OBJ NN RCMOD OBJ PUNCT
+3 1 0 5 3 5 6 7 3
+
+Thấy ổn , cùng với người_nhà , CCV chuyển bệnh_nhân ra băng_ca , đưa lên xe .
+Vv Aa PU Aa Cs Nn PU Nn Vv Nn Cs Nn PU Vv Cs Nn PU
+ADVCL ACOMP PUNCT ADJP_ADVMOD PREP POBJ PUNCT NSUBJ ROOT OBJ PREP POBJ PUNCT CONJ PREP POBJ PUNCT
+9 1 9 9 4 5 9 9 0 9 9 11 9 9 14 15 9
+
+Còi cứu_thương lại bắt_đầu hú lên .
+Nn Vv R Vv Vv R PU
+NSUBJ VMOD ADJUNCT ROOT VMOD ADJUNCT PUNCT
+4 1 4 0 4 5 4
+
+Chiếc xe lại phải len_lỏi qua những ngả đường để chuẩn_bị đưa về Bệnh_viện Chợ_Rẫy , quận 5 .
+Nc Nn R Vv Vv Vv Nq Nn Nn Cs Vv Vv Cs Nn Nr PU Nun Nr PU
+NSUBJ CLF ADJUNCT ROOT VMOD VMOD DET OBJ NN PREP PCOMP VMOD PREP POBJ NN PUNCT PARATAXIS NN PUNCT
+4 1 4 0 4 5 8 6 8 5 10 11 12 13 14 14 14 17 4
+
+Cụ già rên hừ_hừ .
+Nc Nn Vv Aa PU
+NSUBJ CLF ROOT ACOMP PUNCT
+3 1 0 3 3
+
+ĐDV Huê an_ủi và lấy y_cụ bó thật chặt vòng bụng để bà cụ không bị đau khi xe xóc .
+Nn Nr Vv Cp Vv Nn Vv R Aa Nn Nn Cs Nc Nn R Vv Aa Nt Nn Vv PU
+NSUBJ NN ROOT CC CONJ OBJ VMOD ADJUNCT ACOMP OBJ NN PREP NSUBJ CLF ADJUNCT PCOMP ACOMP NP_ADVMOD NSUBJ CCOMP PUNCT
+3 1 0 3 3 5 5 9 7 7 10 7 16 13 16 12 16 17 20 18 3
+
+Được chừng mươi phút đường xe , bà cụ đòi ói mửa .
+Vv R Nq Nu Nn Nn PU Nc Nn Vv Vv Vv PU
+VMOD ADJUNCT NUM OBJ NN NN PUNCT NSUBJ CLF ROOT VMOD CONJ PUNCT
+10 3 4 1 4 5 10 10 8 0 10 11 10
+
+Anh Huệ lấy bao nilông cho cụ nhưng không kịp nữa , cụ đã ói tràn ra sàn xe .
+Nn Nr Vv Nn Nn Cs Pp Cp R Aa R PU Pp R Vv Vv R Nn Nn PU
+NSUBJ NN ROOT OBJ NN PREP POBJ CC ADJUNCT ADJP_ADVMOD ADJUNCT PUNCT NSUBJ ADJUNCT CONJ VMOD ADJUNCT OBJ NN PUNCT
+3 1 0 3 4 3 6 3 10 15 10 15 15 15 3 15 16 16 18 3
+
+Mùi ói xông nồng_nặc .
+Nn Vv Vv Aa PU
+NSUBJ VMOD ROOT ACOMP PUNCT
+3 1 0 3 3
+
+Thấy tôi có_vẻ ... chịu_đựng , ĐDV Huệ cho biết : " Có người không chịu được ...
+Vv Pp R PU Vv PU Nn Nr Vv Vv PU PU Ve Nn R Vv R PU
+XCOMP NSUBJ ADJUNCT PUNCT CCOMP PUNCT NSUBJ NN ROOT VMOD PUNCT PUNCT CCOMP NSUBJ ADJUNCT CCOMP ADJUNCT PUNCT
+9 5 5 5 1 9 9 7 0 9 13 13 10 16 16 13 16 9
+
+Những ca cấp_cứu tai_nạn giao_thông tanh nồng mùi máu .
+Nq Nn Vv Nn Nn Aa Aa Nn Nn PU
+DET NSUBJ RCMOD OBJ NN ROOT CONJ OBJ NN PUNCT
+2 6 2 3 4 0 6 6 8 6
+
+Hoặc những ca sản_phụ khó sinh , trên đường chở đến bệnh_viện nước_ối tràn ra đầy băng_ca ...
+Cp Nq Nn Nn Aa Vv PU Cs Nn Vv Cs Nn Nn Vv R Aa Nn PU
+CC DET OBJ NSUBJ CCOMP VMOD PUNCT PREP POBJ XCOMP PREP POBJ NSUBJ ROOT ADJUNCT ACOMP OBJ PUNCT
+14 3 14 5 3 5 14 14 8 9 10 11 14 0 14 14 16 14
+
+Lâu rồi cũng quen ... " .
+Aa R R Vv PU PU PU
+ADJP_ADVMOD ADJUNCT ADJUNCT ROOT PUNCT PUNCT PUNCT
+4 1 4 0 4 4 4
+
+Lâu rồi sẽ quen .
+Aa Cp R Vv PU
+ADJP_ADVMOD CC ADJUNCT ROOT PUNCT
+4 4 4 0 4
+
+Các CCV cho biết mặc_dù có những tình_cảnh như thế nhưng mỗi khi qua được cơn nguy_kịch , nạn_nhân được cấp_cứu hồi_sức thì bao_nhiêu khó_chịu cũng trở_thành dễ_chịu .
+Nq Nn Vv Vv Cp Ve Nq Nn Cs Pp Cp Nq Nt Vv R Ncs Aa PU Nn Vv Vv Vv Cp Pp Nn R Vv Aa PU
+DET NSUBJ ROOT VMOD CC CCOMP DET OBJ PREP POBJ CC DET NP_ADVMOD XCOMP ADJUNCT OBJ CLF PUNCT NSUBJ CONJ VMOD CONJ CC DET NSUBJ ADJUNCT CONJ ACOMP PUNCT
+2 3 0 3 6 4 8 6 8 9 13 13 20 13 14 14 16 20 20 6 20 21 20 25 27 27 20 27 3
+
+Lái_xe Mai_Thanh_Hoàng kể lại lần đi xuống Củ_Chi cấp_cứu một hộ ở một xã vùng_sâu , xe cấp_cứu băng qua những con đường đất gập_ghềnh dưới cơn mưa như thác nước .
+Nn Nr Vv R Nn Vv Cs Nr Vv Num Nn Cs Num Nun Nn PU Nn Vv Vv Cs Nq Nc Nn Nn Aa Cs Ncs Vv Cs Nn Nn PU
+NSUBJ NN ROOT ADJUNCT NP_ADVMOD XCOMP PREP POBJ VMOD NUM OBJ PREP NUM POBJ NN PUNCT NSUBJ NN CCOMP PREP DET NN CLF POBJ AMOD PREP POBJ CLF PREP POBJ NN PUNCT
+3 1 0 3 19 5 6 7 6 11 9 11 14 12 14 19 19 17 3 19 24 24 22 20 24 19 26 27 27 29 30 3
+
+Dọc đường không có một ngọn đèn nào , lái_xe căng mắt lăn bánh .
+Aa Nn R Ve Num Nc Nn Pd PU Nn Aa Nn Vv Nn PU
+ADJP_ADVMOD OBJ ADJUNCT ROOT NUM OBJ CLF DET PUNCT NSUBJ ACOMP OBJ CONJ OBJ PUNCT
+4 1 4 0 6 4 6 6 4 13 13 11 4 13 4
+
+Ngồi trên xe ai cũng nóng_lòng như lửa đốt .
+Vv Cs Nn Pp R Aa Cs Nn Vv PU
+XCOMP PREP POBJ NSUBJ ADJUNCT ROOT PREP NSUBJ PCOMP PUNCT
+6 1 2 6 6 0 6 9 7 6
+
+Cuối_cùng tuy tới trễ nhưng cũng sơ_cứu kịp_thời cho nạn_nhân trước ánh mắt biết_ơn của gia_đình .
+Aa Cp Vv Aa Cp R Vv Aa Cs Nn Cs Nc Nn Vv Cs Nn PU
+ADJP_ADVMOD CC ROOT ACOMP CC ADJUNCT CONJ ACOMP PREP POBJ PREP POBJ CLF RCMOD PREP POBJ PUNCT
+3 3 0 3 3 7 3 7 7 9 7 11 12 12 12 15 3
+
+Mới_đây , lúc 1 giờ sáng 17_-_10_-_2003 tại ngôi nhà đường Âu_Dương_Lân , quận 8 , một phụ_nữ 56 tuổi ho đàm đã bốn ngày , mệt khó thở , đi chích thuốc về bỗng bất_tỉnh , liền gọi cấp_cứu .
+Nt PU Nt Num Nt Nt Nt Cs Nc Nn Nn Nr PU Nun Nr PU Num Nn Num Nn Vv Nn R Num Nu PU Aa Aa Vv PU Vv Vv Nn Vv R Aa PU R Vv Vv PU
+NP_ADVMOD PUNCT PARATAXIS NUM NN NN NN PREP NN CLF POBJ NN PUNCT PARATAXIS NN PUNCT NUM NSUBJ NUM NN ROOT OBJ ADJUNCT NUM NP_ADVMOD PUNCT CONJ CONJ VMOD PUNCT VMOD VMOD OBJ CONJ ADJUNCT CONJ PUNCT ADJUNCT CONJ VMOD PUNCT
+21 1 1 5 3 5 5 21 11 9 8 11 11 11 14 21 18 21 20 18 0 21 25 25 21 21 21 27 28 27 34 31 32 27 36 34 21 39 21 39 21
+
+Xe cấp_cứu tới kịp , nhanh_chóng sơ_cứu chở về bệnh_viện .
+Nn Vv Vv Aa PU Aa Vv Vv Cs Nn PU
+NSUBJ NN ROOT ACOMP PUNCT ACOMP CONJ VMOD PREP POBJ PUNCT
+3 1 0 3 3 7 3 7 8 9 3
+
+Sau khi bình_phục , chị ấy viết thư cảm_ơn y_BS khoa cấp_cứu .
+Cs Nt Vv PU Nn Pd Vv Nn Vv Nn Nn Vv PU
+PREP POBJ XCOMP PUNCT NSUBJ DET ROOT OBJ RCMOD OBJ NN VMOD PUNCT
+7 1 2 7 7 5 0 7 8 9 10 11 7
+
+Trò_chuyện với những CCV lưu_động , tôi hiểu rằng chính những bức thư cảm_ơn ấy thật_sự là " cấp_cứu và hồi_sức " cho anh_chị_em CCV .
+Vv Cs Nq Nn Vv PU Pp Vv Cs M Nq Nc Nn Vv Pd Aa Vc PU Vv Cp Vv PU Cs Nn Nn PU
+XCOMP PREP DET POBJ VMOD PUNCT NSUBJ ROOT MARK INTJ DET NSUBJ CLF VMOD DET ACOMP CCOMP PUNCT VMOD CC CONJ PUNCT PREP POBJ NN PUNCT
+8 1 4 2 4 8 8 0 17 12 12 17 12 12 12 17 8 19 17 19 19 19 19 23 24 8
+
+BS Nguyễn_Thị_Tuyết_Mai cho rằng cấp_cứu lưu_động kịp_thời , nhanh_chóng đã là khó , mà xử_lý tình_huống trước bệnh_nhân và người_nhà họ càng khó hơn .
+Nn Nr Vv Cs Vv Vv Aa PU Aa R Vc Aa PU Cp Vv Nn Cs Nn Cp Nn Pp R Aa R PU
+NSUBJ NN ROOT MARK VSUBJ VMOD ACOMP PUNCT CONJ ADJUNCT CCOMP ACOMP PUNCT CC VSUBJ OBJ PREP POBJ CC CONJ NN ADJUNCT CONJ ADJUNCT PUNCT
+3 1 0 11 11 5 5 7 7 11 3 11 11 11 23 15 15 17 18 18 20 23 11 23 3
+
+Thông_thường khi cơn đau hành_hạ , bệnh_nhân hay cáu_gắt , ít kiềm_chế được bản_thân , còn người_nhà họ vì xót cho bệnh_trạng của người_thân nên cũng dễ nổi_nóng vô_cớ .
+Aa Nt Ncs Vv Vv PU Nn R Vv PU Aa Vv R Nn PU Cp Nn Pp Cp Vv Cs Nn Cs Nn Cp R Aa Vv Aa PU
+ADJP_ADVMOD NP_ADVMOD NSUBJ CLF CCOMP PUNCT NSUBJ ADJUNCT ROOT PUNCT ACOMP CONJ ADJUNCT OBJ PUNCT CC NSUBJ NN CC CONJ PREP POBJ PREP POBJ CC ADJUNCT ACOMP CONJ ACOMP PUNCT
+9 9 5 3 2 9 9 9 0 9 12 9 12 12 9 9 20 17 20 9 20 21 22 23 20 28 28 20 28 9
+
+ĐDV Phan_Thế_Minh_Hùng cho biết hồi tháng 10_-_2003 vừa_qua , đến đường Kha_Vạn_Cân , quận Thủ_Đức cấp_cứu một ông say rượu bị trúng_thực .
+Nn Nr Vv Vv Nt Nt Nt Nt PU Vv Nn Nr PU Nun Nr Vv Num Nn Vv Nn Vv Vv PU
+NSUBJ NN ROOT VMOD NP_ADVMOD NN NN NN PUNCT XCOMP OBJ NN PUNCT PARATAXIS NN VMOD NUM OBJ RCMOD OBJ RCMOD VMOD PUNCT
+3 1 0 3 10 5 6 6 10 4 10 11 11 11 14 10 18 16 18 19 18 21 3
+
+Cả êkip bị gã say văng_tục chửi_thề không chừa một ai .
+Nw Nn Vv Nn Vv Vv Vv R Vv Num Pp PU
+DET NSUBJ ROOT NSUBJ VMOD CCOMP CONJ ADJUNCT VMOD NUM OBJ PUNCT
+2 3 0 6 4 3 6 9 6 11 9 3
+
+Lường trước những tình_huống như thế nên cả khoa đều ý_thức được thái_độ và tinh_thần làm_việc của mình .
+Vv Nn Nq Nn Cs Pp Cp Nw Nn R Vv R Nn Cp Nn Vv Cs Pp PU
+ROOT OBJ DET OBJ PREP POBJ CC DET NSUBJ ADJUNCT CONJ ADJUNCT OBJ CC CONJ VMOD PREP POBJ PUNCT
+0 1 4 1 4 5 1 9 11 11 1 11 11 13 13 13 13 17 1
+
+Hoà_nhã , bình_tĩnh , dịu_dàng với bệnh_nhân là phương_châm hoạt_động của CCV .
+Aa PU Aa PU Aa Cs Nn Vc Nn Vv Cs Nn PU
+ASUBJ PUNCT CONJ PUNCT CONJ PREP POBJ ROOT ATTR VMOD PREP POBJ PUNCT
+8 1 1 3 3 1 6 0 8 9 9 11 8
+
+Đó là chưa kể những cú điện_thoại giả_danh hoặc những lần trở_về xe không vì tìm không ra địa_chỉ của những nơi " nhà không số , phố không tên " .
+Pd Vc R Vv Nq Nn Nn Vv Cp Nq Nn Vv Nn Aa Cs Vv R R Nn Cs Nq Nn PU Nn R Nn PU Nn R Nn PU PU
+NSUBJ ROOT ADJUNCT XCOMP DET OBJ NN VMOD CC DET CONJ XCOMP OBJ AMOD MARK ADVCL ADJUNCT ADJUNCT OBJ PREP DET POBJ PUNCT NSUBJ ADJUNCT CCOMP PUNCT NSUBJ ADJUNCT CONJ PUNCT PUNCT
+2 0 4 2 6 4 6 6 6 11 6 11 12 13 16 12 16 17 16 19 22 20 26 26 26 22 26 30 30 26 26 2
+
+Nhưng rồi điệp_khúc " lâu rồi đời mình sẽ quen " là bài ca không quên của họ ...
+Cp Cp Nn PU Aa R Nn Pp R Vv PU Vc Nc Nn R Vv Cs Pp PU
+CC CC NSUBJ PUNCT ADJP_ADVMOD ADJUNCT NSUBJ NN ADJUNCT CCOMP PUNCT ROOT ATTR CLF ADJUNCT RCMOD PREP POBJ PUNCT
+12 1 12 10 10 5 10 7 10 3 10 0 12 13 16 13 13 17 12
+

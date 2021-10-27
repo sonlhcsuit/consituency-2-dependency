@@ -1,0 +1,255 @@
+Viết tiếp về vụ anh Trương_Xuân_Đại .
+Vv Vv Cs Nn Nn Nr PU
+ROOT VMOD PREP POBJ NN NN PUNCT
+0 1 1 3 4 5 1
+
+Ngay từ khi tờ báo có bài Số_phận của những người nói lên " sự_thật " phát_hành , nhiều bạn_đọc đã bày_tỏ sự chia_sẻ , ủng_hộ anh Trương_Xuân_Đại .
+M Cs Nt Nn Nn Ve Nn Nn Cs Nq Nn Vv R PU Nn PU Vv PU Aa Nn R Vv Ncs Vv PU Vv Nn Nr PU
+PCOMP PREP POBJ NSUBJ NN CCOMP NN OBJ PREP DET POBJ RCMOD ADJUNCT PUNCT OBJ PUNCT RCMOD PUNCT AMOD NSUBJ ADJUNCT ROOT OBJ RCMOD PUNCT CONJ OBJ NN PUNCT
+2 22 2 6 4 3 8 6 8 11 9 11 12 15 12 15 8 22 20 22 22 0 22 23 24 24 24 27 22
+
+Một bạn_đọc 67 tuổi ở Q. 11 đến gửi tặng anh Trương_Xuân_Đại 150.000 đồng , một cô gái tên Nhung ở Tân_Bình gửi tặng 100.000 đ , một thanh_niên tên Hà đến gửi 200.000 đ .
+Num Nn Num Nn Cs Nun Nr Vv Vv Vv Nn Nr Num Nu PU Num Nc Nn Nn Nr Cs Nr Vv Vv Num Nu PU Num Nn Nn Nr Vv Vv Num Nu PU
+NUM NSUBJ NUM NN PREP POBJ NN ROOT VMOD VMOD IOBJ NN NUM OBJ PUNCT NUM NN CLF NSUBJ NN PREP POBJ CONJ VMOD NUM OBJ PUNCT NUM NSUBJ NN NN CONJ VMOD NUM OBJ PUNCT
+2 8 4 2 2 5 6 0 8 9 10 11 14 10 8 19 19 17 23 19 19 21 8 23 26 24 23 29 32 29 30 23 32 35 33 8
+
+Sau đó nữa là rất nhiều bạn_đọc gọi đến bày_tỏ sự chia_sẻ , ủng_hộ .
+Cs Pd R Cp R Aa Nn Vv R Vv Ncs Vv PU Vv PU
+PREP POBJ ADJUNCT CC ADJUNCT AMOD NSUBJ ROOT ADJUNCT VMOD OBJ RCMOD PUNCT CONJ PUNCT
+8 1 1 8 6 7 8 0 8 8 10 11 12 12 8
+
+Ban biên_tập báo Tuổi_Trẻ cũng quyết_định gửi tặng nhóm công_nhân đã tố_cáo tiêu_cực ở đường liên cảng A5 10 triệu đồng .
+Nn Vv Nn Nn R Vv Vv Vv Nn Nn R Vv Nn Cs Nn Sv Nn Nr Num Nq Nu PU
+NSUBJ VMOD NN NN ADJUNCT ROOT VMOD VMOD IOBJ NN ADJUNCT RCMOD OBJ PREP POBJ NN SINO NN NUMBER NUM OBJ PUNCT
+6 1 1 3 6 0 6 7 8 9 12 9 12 13 14 15 16 15 20 21 8 6
+
+Đừng để người dân đặt cược cho niềm tin !
+R Vv Nc Nn Vv Vv Cs Ncs Vv PU
+ADJUNCT ROOT NSUBJ CLF CCOMP VMOD PREP POBJ CLF PUNCT
+2 0 5 3 2 5 6 7 8 2
+
+Qua báo_chí , bản_thân tôi đã được biết về việc tố_cáo những sai_phạm của công_trình đường liên cảng A5 mấy năm trước đây , nhưng nay mới biết việc_làm dũng_cảm và tốt_đẹp đó đã mang đến bao hệ_luỵ phiền_phức cho những người trong cuộc , những người mà theo tôi vô_cùng xứng_đáng với danh_hiệu hiệp_sĩ .
+Cs Nn PU Nn Pp R Vv Vv Cs Ncs Vv Nq Nn Cs Nn Nn Sv Nn Nr Nq Nu Cs Pd PU Cp Nt R Vv Nn Aa Cp Aa Pd R Vv R Nq Nn Aa Cs Nq Nn Cs Nn PU Nq Nn Cs Vv Pp R Aa Cs Nn Nn PU
+PREP POBJ PUNCT NSUBJ NN ADJUNCT ROOT VMOD PREP POBJ RCMOD DET OBJ PREP POBJ NN SINO NN NN DET NP_ADVMOD PREP POBJ PUNCT CC NP_ADVMOD ADJUNCT CONJ NSUBJ AMOD CC CONJ DET ADJUNCT CCOMP ADJUNCT DET OBJ AMOD PREP DET POBJ PREP POBJ PUNCT DET PARATAXIS MARK VMOD OBJ ADJUNCT CCOMP PREP POBJ NN PUNCT
+7 1 7 7 4 7 0 7 8 9 10 13 11 13 14 15 18 16 16 21 8 21 22 7 7 28 28 7 35 29 30 30 29 35 28 35 38 35 38 35 42 40 42 43 42 47 42 52 52 49 52 47 52 53 54 7
+
+Thế nhưng những hiệp_sĩ ấy giờ ra_sao ?
+Pp Cp Nq Nn Pd Nt Pp PU
+CCOMP CC DET NSUBJ DET NP_ADVMOD ROOT PUNCT
+7 7 4 7 4 7 0 7
+
+Người thì lang_thang phiêu_bạt , kẻ thì vợ bỏ , kẻ thì cày_ải trên những con đường đô_thị để lượm ve_chai , phải tá_túc trong những căn chòi tạm_bợ sống qua_ngày ...
+Nn Cp Vv Vv PU Nn Cp Nn Vv PU Nn Cp Vv Cs Nq Nc Nn Nn Cs Vv Nn PU Vv Vv Cs Nq Nc Nn Aa Vv Vv PU
+NSUBJ CC ROOT VMOD PUNCT DEP CC NSUBJ CONJ PUNCT NSUBJ CC CONJ PREP DET NN CLF POBJ PREP PCOMP OBJ PUNCT CONJ VMOD PREP DET POBJ CLF AMOD VMOD VMOD PUNCT
+3 3 0 3 3 9 9 9 3 9 13 13 9 13 18 18 16 14 13 19 20 13 13 23 24 27 25 27 27 24 30 3
+
+Ngẫm sao mà thương thế !
+Vv M Cp Vv M PU
+ROOT INTJ CC CONJ INTJ PUNCT
+0 1 1 1 4 1
+
+Đáng_lẽ phải được tôn_vinh thì trái_lại những con_người ấy đã bị đẩy xuống đáy cùng của cuộc_sống !
+R Vv Vv Vv Cp Cp Nq Nn Pd R Vv Vv D Nn Aa Cs Nn PU
+ADJUNCT ROOT VMOD VMOD CC CC DET NSUBJ DET ADJUNCT CONJ VMOD VMOD OBJ AMOD PREP POBJ PUNCT
+2 0 2 3 2 2 8 11 8 11 2 11 12 13 14 14 16 2
+
+Cũng may mà anh Đại đã thắng kiện , đó chắc là một niềm an_ủi và là một khẳng_định để anh và các đồng_nghiệp , người thân tin rằng các anh không đơn_độc trong việc theo_đuổi niềm tin về lẽ_phải của mình .
+R Aa Cp Nn Nr R Vv Vv PU Pd Aa Vc Num Ncs Vv Cp Vc Num Nn Cs Pp Cp Nq Nn PU Nn Aa Vv Cs Nq Pp R Aa Cs Ncs Vv Ncs Vv Cs Nn Cs Pp PU
+ADJUNCT ADJP_ADVMOD CC NSUBJ NN ADJUNCT ADVCL VMOD PUNCT NSUBJ ACOMP ROOT NUM ATTR CLF CC CONJ NUM ATTR PREP NSUBJ CC DET CONJ PUNCT CONJ AMOD PCOMP MARK DET NSUBJ ADJUNCT CCOMP PREP POBJ RCMOD OBJ CLF PREP POBJ PREP POBJ PUNCT
+2 7 7 7 4 7 12 7 12 12 12 0 14 12 14 12 12 19 17 19 28 21 24 21 24 24 26 20 33 31 33 33 28 33 34 35 36 37 37 39 37 41 12
+
+Lại nữa khi thanh_tra đã xác_định sai_phạm sao không xử_lý mà để " ngâm " lâu ngày đến vậy ?
+R R Nt Nn R Vv Nn Pp R Vv Cp Vv PU Vv PU Aa Nu M M PU
+ADJUNCT CC NP_ADVMOD NSUBJ ADJUNCT CCOMP OBJ OBJ ADJUNCT ROOT CC CONJ PUNCT VMOD PUNCT ADJP_ADVMOD OBJ INTJ INTJ PUNCT
+2 10 10 6 6 3 6 10 10 0 10 10 14 12 14 14 16 16 16 10
+
+Tôi không phải là người trong lĩnh_vực chuyên_môn nhưng có_thể hình_dung công_trình đường liên cảng A5 chắc là nhằm phục_vụ hoạt_động của các nhà đầu_tư trong Khu chế_xuất Tân_Thuận .
+Pp R Aa Vc Nn Cs Nn Nn Cp Aa Vv Nn Nn Sv Nn Nr Aa M Cs Vv Nn Cs Nq Ncs Vv Cs Nn Vv Nr PU
+NSUBJ ADJUNCT ACOMP ROOT ATTR PREP POBJ NN CC ACOMP CONJ NSUBJ NN SINO NN NN PCOMP INTJ CCOMP PCOMP OBJ PREP DET POBJ CLF PREP POBJ VMOD NN PUNCT
+4 3 4 0 4 5 6 7 4 11 4 19 12 15 13 13 19 17 11 19 20 21 24 22 24 24 26 27 27 4
+
+Vậy thì khi không khắc_phục ngay mà để con đường xuống_cấp thê_thảm , có phải là góp thêm phần làm xấu đi môi_trường đầu_tư của thành_phố hay không , và cũng đồng_nghĩa với việc mất đi bao_nhiêu cơ_hội làm_việc và cải_thiện cuộc_sống của người lao_động - đồng_bào hay không ?
+Pp Cp Nt R Vv R Cp Vv Nc Nn Vv Aa PU R Aa Vc Vv Vv Nn Vv Aa R Nn Vv Cs Nun Cp R PU Cp R Aa Cs Ncs Ve M Pp Nn Vv Cp Vv Nn Cs Nc Nn PU Nn Cp R PU
+CCOMP CC NSUBJ ADJUNCT XCOMP ADJUNCT CC CONJ NSUBJ CLF CCOMP ACOMP PUNCT ADJUNCT ACOMP ROOT VMOD VMOD OBJ RCMOD ACOMP ADJUNCT OBJ VMOD PREP POBJ CC CONJ PUNCT CC CONJ DEP PREP POBJ RCMOD INTJ DET OBJ RCMOD CC CONJ OBJ PREP NN CLF PUNCT POBJ CC CONJ PUNCT
+16 16 16 5 3 5 5 5 11 9 8 11 16 15 16 0 18 16 18 19 20 21 21 23 23 25 18 18 18 18 18 31 31 33 34 35 38 35 38 39 39 41 38 47 44 47 43 31 31 16
+
+Chúng_ta " hoan_nghênh và biểu_dương những việc_làm tốt của công_nhân xây_dựng trong việc thông_tin phản_ánh sai_phạm của công_trình đường liên cảng A5 " , nhưng chắc là không có hình_thức hoan_nghênh và biểu_dương nào thiết_thực hơn đối_với anh Đại và những đồng nghiệp là xử_lý ngay những sai_phạm đã rõ mười_mươi và có biện_pháp hữu_hiệu khắc_phục những sai_phạm đó .
+Pp PU Vv Cp Vv Nq Nn Aa Cs Nn Vv Cs Nn Vv Vv Nn Cs Nn Nn Sv Nn Nr PU PU Cp Aa M R Ve Nn Vv Cp Vv Pd Aa R Cs Nn Nr Cp Nq Sv Nn Vc Vv R Nq Nn R Vv Aa Cp Ve Nn Aa Vv Nq Nn Pd PU
+NSUBJ PUNCT ROOT CC CONJ DET OBJ AMOD PREP POBJ VMOD PREP POBJ XCOMP CONJ OBJ PREP POBJ NN SINO NN NN PUNCT PUNCT CC ADJP_ADVMOD INTJ ADJUNCT CONJ NSUBJ RCMOD CC CONJ DET AMOD ADJUNCT PREP POBJ NN CC DET SINO CONJ CCOMP VMOD ADJUNCT DET OBJ ADJUNCT RCMOD ACOMP CC CONJ OBJ AMOD RCMOD DET OBJ DET PUNCT
+3 3 0 3 3 7 3 7 7 9 10 7 12 13 14 14 16 17 18 21 19 19 3 3 3 29 26 29 3 44 30 31 31 30 30 30 30 37 38 38 43 43 38 29 44 45 48 45 50 48 50 44 44 53 54 54 58 56 58 3
+
+Có như vậy niềm tin vào lẽ_phải mới được khôi_phục và người dân sẽ không còn phải " đặt cược " cho niềm tin của mình .
+Ve Cs Pp Ncs Vv Cs Nn R Vv Vv Cp Nc Nn R R R Vv PU Vv Vv PU Cs Ncs Vv Cs Pp PU
+ROOT PREP POBJ NSUBJ CLF PREP POBJ ADJUNCT CONJ VMOD CC NSUBJ CLF ADJUNCT ADJUNCT ADJUNCT CONJ PUNCT VMOD VMOD PUNCT PREP POBJ CLF PREP POBJ PUNCT
+0 1 2 9 4 4 6 9 1 9 9 17 12 15 17 15 9 19 17 19 20 20 22 23 23 25 1
+
+Phải là một câu_chuyện đàng_hoàng !
+Vv Vc Num Nn Aa PU
+ROOT VMOD NUM ATTR AMOD PUNCT
+0 1 4 2 4 1
+
+Nhóm công_nhân dũng_cảm ấy gồm 20 người vậy mà hầu_như nay đã lang_bạt hết .
+Nn Nn Aa Pd Vv Num Nn Pp Cp R Nt R Vv Ve PU
+NSUBJ NN AMOD DET ROOT NUM OBJ CONJ CC ADJUNCT NP_ADVMOD ADJUNCT CONJ VMOD PUNCT
+5 1 1 1 0 7 5 5 8 13 13 13 8 13 5
+
+Chỉ còn anh Đại và bốn người khác .
+R Ve Nn Nr Cp Num Nn Aa PU
+ADJUNCT ROOT OBJ NN CC NUM CONJ AMOD PUNCT
+2 0 2 3 3 7 3 7 2
+
+Thân_phận , cuộc_sống của họ là bi_đát , và điều mỉa_mai cũng như làm chạnh_lòng tôi là có phải họ đã xả_thân vì đại_nghĩa để rồi gia_đình vợ_con ly_tán thất_nghiệp lâm vào cảnh đời tan_nát như thế sao !
+Nn PU Nn Cs Pp M Aa PU Cp Ncs VA R Cp Vv Vv Pp Vc R Aa Pp R Vv Cs Nn Cs R Nn Nn Vv Vv Vv Cs Nn Nn Aa Cs Pp M PU
+NSUBJ PUNCT CONJ PREP POBJ INTJ ROOT PUNCT CC NSUBJ RCMOD ADJUNCT CC CONJ VMOD OBJ CONJ ADJUNCT ACOMP NSUBJ ADJUNCT CCOMP PREP POBJ PREP ADJUNCT NSUBJ CONJ PCOMP CONJ CONJ PREP POBJ NN AMOD PREP POBJ INTJ PUNCT
+7 1 1 1 4 7 0 7 7 17 10 13 11 11 14 15 7 19 17 22 22 19 22 23 22 25 29 27 25 29 30 31 32 33 34 33 36 31 7
+
+Vì sao họ đã làm điều đó ?
+Cp Pp Pp R Vv Nn Pd PU
+CC OBJ NSUBJ ADJUNCT ROOT OBJ DET PUNCT
+5 5 5 5 0 5 6 5
+
+Ba năm trôi qua , chắc_hẳn đã hàng trăm ngàn lần câu hỏi đó tự đến với họ hoặc đến từ người_thân , bạn_bè đi kèm sự chua_chát ngậm_ngùi .
+Num Nu Vv R PU R R R Nq Nq Nn Nn Vv Pd Pp Vv Cs Pp Cp Vv Cs Nn PU Nn Vv Vv Ncs Aa Vv PU
+NUM NP_ADVMOD RCMOD ADJUNCT PUNCT ADJUNCT ADJUNCT ADJUNCT NUM CONJ NP_ADVMOD NSUBJ VMOD DET OBJ ROOT PREP POBJ CC CONJ PREP POBJ PUNCT CONJ VMOD VMOD OBJ AMOD CONJ PUNCT
+2 16 2 3 16 16 11 9 11 9 16 16 12 12 16 0 16 17 16 16 20 21 22 22 20 25 25 27 28 16
+
+Và hôm_nay , chúng_ta cũng cần hỏi câu hỏi này với chính mình .
+M Nt PU Pp R Vv Vv Nn Vv Pd Cs M Pp PU
+INTJ NP_ADVMOD PUNCT NSUBJ ADJUNCT ROOT VMOD OBJ VMOD DET PREP INTJ POBJ PUNCT
+6 6 6 6 6 0 6 7 8 8 7 13 11 6
+
+Nếu đây là một kết_thúc thì quả là một kết_thúc không có_hậu cho lòng người , cho xã_hội mà trong đó chúng_ta bảo với nhau , dạy_dỗ con_cái rằng cái thiện là cái cần bảo_vệ .
+Cp Pd Vc Num Nn Cp M Vc Num Nn R Aa Cs Nn Nn PU Cs Nn Cs Cs Pd Pp Vv Cs Nn PU Vv Nn Cs Ncs Aa Vc Nn Vv Vv PU
+CC NSUBJ ROOT NUM ATTR CC INTJ CONJ NUM ATTR ADJUNCT AMOD PREP POBJ NN PUNCT PREP POBJ MARK PREP POBJ NSUBJ CCOMP PREP POBJ PUNCT CONJ OBJ MARK NSUBJ CLF CCOMP ATTR RCMOD VMOD PUNCT
+3 3 0 5 3 3 8 3 10 8 12 10 12 13 14 12 12 17 23 23 20 23 18 23 24 23 23 27 32 32 30 27 32 33 34 3
+
+Vậy thì sự lầm_than hôm_nay của nhóm công_nhân bảo_vệ cái thiện kia minh_chứng cho điều gì ?
+Pp Cp Ncs Aa Nt Cs Nn Nn Vv Ncs Aa Pd Vv Cs Nn Pp PU
+CCOMP CC NN CLF NSUBJ PREP POBJ NN RCMOD OBJ CLF DET ROOT PREP PCOMP DEP PUNCT
+13 13 5 3 13 5 6 7 8 9 10 10 0 13 14 15 13
+
+Tôi mong rằng sẽ có cái hậu đến sau cái kết_quả " nhãn_tiền " mà ba năm nay họ đã lãnh_chịu .
+Pp Vv Cs R Ve Ncs Aa Vv Cs M Nn PU Aa PU Cs Num Nu Nt Pp R Vv PU
+NSUBJ ROOT MARK ADJUNCT XCOMP OBJ CLF RCMOD PREP INTJ POBJ PUNCT AMOD PUNCT MARK NUM NP_ADVMOD NN NSUBJ ADJUNCT CCOMP PUNCT
+2 0 5 5 2 5 6 6 8 11 9 11 11 11 21 17 21 17 21 21 11 2
+
+Và như thế đây sẽ là một câu_chuyện đàng_hoàng về những con_người quên thân vì xã_hội .
+M Cs Pp Pd R Vc Num Nn Aa Cs Nq Nn Vv Nn Cs Nn PU
+INTJ PREP POBJ NSUBJ ADJUNCT ROOT NUM ATTR AMOD PREP DET POBJ RCMOD OBJ PREP POBJ PUNCT
+6 6 2 6 6 0 8 6 8 8 12 10 12 13 13 15 6
+
+UBND TP đã chính_thức kết_luận hoan_nghênh và biểu_dương những việc_làm tốt của họ .
+X Nun R Aa Vv Vv Cp Vv Nq Nn Aa Cs Pp PU
+NSUBJ NN ADJUNCT ACOMP ROOT VMOD CC CONJ DET OBJ AMOD PREP POBJ PUNCT
+5 1 5 5 0 5 6 6 10 6 10 10 12 5
+
+Tuy_nhiên chính_quyền TP không nên dừng ở đó .
+Cp Nn Nun R Vv Vv Cs Pd PU
+CC NSUBJ NN ADJUNCT ROOT VMOD PREP POBJ PUNCT
+5 5 2 5 0 5 6 7 5
+
+Điều không_thể hiểu nổi là tại sao họ lại mất việc ?
+Nn R Vv R Vc Cp Pp Pp R Ve Nn PU
+NSUBJ ADJUNCT NN ADJUNCT ROOT CC DEP NSUBJ ADJUNCT CCOMP OBJ PUNCT
+5 3 1 3 0 10 10 10 10 5 10 5
+
+Lẽ_ra những công_dân công_nhân dũng_cảm này đã phải được tuyên_dương trong một buổi lễ long_trọng , bài_học về họ lẽ_ra đã phải được phát_tán lan rộng như một điển_hình tiên_tiến .
+Cp Nq Nn Nn Aa Pd R Vv Vv Vv Cs Num Nt Nn Aa PU Nn Cs Pp Cp R Vv Vv Vv Vv Aa Cs Num Nn Aa PU
+CC DET NSUBJ CONJ AMOD DET ADJUNCT ROOT VMOD VMOD PREP NUM POBJ NN AMOD PUNCT NSUBJ PREP POBJ CC ADJUNCT CONJ VMOD VMOD VMOD ACOMP PREP NUM POBJ AMOD PUNCT
+8 3 8 3 3 3 8 0 8 9 10 13 11 13 13 8 22 17 18 22 22 8 22 23 24 25 25 29 27 29 8
+
+Tôi mong_mỏi sự công_bằng được thực_hiện và trả lại cho họ .
+Pp Vv Ncs Aa Vv Vv Cp Vv R Cs Pp PU
+NSUBJ ROOT NSUBJ CLF CCOMP VMOD CC CONJ ADJUNCT PREP POBJ PUNCT
+2 0 5 3 2 5 6 6 8 8 10 2
+
+Báo TT có_thể là đầu_tàu , qua đó rộng_rãi độc_giả , nhất_là các doanh_nghiệp , có_thể lên_tiếng và đưa ra biện_pháp trợ_giúp .
+Nn Nn Aa Vc Nn PU Cs Pd Aa Nn PU Cp Nq Nn PU Aa Vv Cp Vv R Nn Vv PU
+NSUBJ NN ACOMP ROOT ATTR PUNCT PREP POBJ AMOD NSUBJ PUNCT CC DET PARATAXIS PUNCT ACOMP PARATAXIS CC CONJ ADJUNCT OBJ VMOD PUNCT
+4 1 4 0 4 5 17 7 10 17 10 10 14 10 10 17 5 17 17 19 19 21 4
+
+Hơn thế nữa một_vài biện_pháp hành_chính xuất_phát từ UBND TP sẽ là thêm những quả ngọt cho họ , dẫu đã ba năm trễ_tràng .
+Vcp Pp R Nq Nn Aa Vv Cs X Nun R M Vv Nq Nn Aa Cs Pp PU Cp R Num Nu Aa PU
+VMOD OBJ ADJUNCT DET NSUBJ AMOD RCMOD PREP POBJ NN ADJUNCT INTJ ROOT DET OBJ AMOD PREP POBJ PUNCT CC ADJUNCT NUM NP_ADVMOD AMOD PUNCT
+13 1 1 5 13 5 5 7 8 9 13 13 0 15 13 15 13 17 13 13 23 23 13 23 13
+
+" Nếu thấy tiêu_cực , Hãy cứ tố_cáo " .
+PU Cp Vv Nn PU R R Vv PU PU
+PUNCT CC ROOT OBJ PUNCT ADJUNCT ADJUNCT CONJ PUNCT PUNCT
+3 3 0 3 3 8 6 3 3 3
+
+Anh Trần_Mạnh_Hoài LBRK Giám_đốc Công_ty Xây_lắp & vật_tư xây_dựng , Bộ NN_&_PTNT RBRK : Là người trong nghề xây_dựng , tôi biết các đơn_vị thanh_tra rất khó_khăn khi muốn tìm ra cơ_sở kết_luận công_trình kém chất_lượng .
+Nn Nr LBRK Nn Nn Vv PU Nn Vv PU Nn X RBRK PU Vc Nn Cs Nn Vv PU Pp Vv Nq Nn Vv R Aa Nt Vv Vv R Nn Vv Nn Aa Nn PU
+NSUBJ NN PUNCT PARATAXIS NN RCMOD PUNCT CONJ VMOD PUNCT PARATAXIS DEP PUNCT PUNCT ROOT ATTR PREP POBJ VMOD PUNCT NSUBJ CONJ DET NSUBJ VMOD ADJUNCT CCOMP NP_ADVMOD XCOMP VMOD ADJUNCT OBJ RCMOD OBJ AMOD OBJ PUNCT
+15 1 1 1 4 5 6 6 8 5 5 11 1 15 0 15 16 17 18 15 22 15 24 27 24 27 22 27 28 29 30 30 32 33 34 35 15
+
+Cần phải có những công_nhân dũng_cảm như nhóm của anh Đại .
+Vv Vv Ve Nq Nn Aa Cs Nn Cs Nn Nr PU
+ROOT VMOD VMOD DET OBJ AMOD PREP POBJ PREP POBJ NN PUNCT
+0 1 2 5 3 5 5 7 8 9 10 1
+
+Tôi rất vui khi thấy việc tố_cáo tiêu_cực của các anh được làm sáng_tỏ và được pháp_luật bảo_vệ .
+Pp R Aa Nt Vv Ncs Vv Nn Cs Nq Pp Vv Vv Aa Cp Vv Nn Vv PU
+NSUBJ ADJUNCT ROOT NP_ADVMOD XCOMP NSUBJ RCMOD OBJ PREP DET POBJ CCOMP VMOD ACOMP CC CONJ NSUBJ CCOMP PUNCT
+3 3 0 3 4 12 6 7 6 11 9 5 12 13 12 12 18 16 3
+
+Làm một cái gì đó để hỗ_trợ các anh , một là để bù_đắp cho những người dũng_cảm ; hai là để tạo một tiền_lệ tốt cho các công_nhân khác :
+Vv Num Nn Pp Pd Cs Vv Nq Pp PU Num Vc Cs Vv Cs Nq Nn Aa PU Num Vc Cs Vv Num Nn Aa Cs Nq Nn Aa PU
+ROOT NUM OBJ DET DET PREP PCOMP IOBJ DET PUNCT NSUBJ PARATAXIS PREP PCOMP PREP DET POBJ AMOD PUNCT NSUBJ CONJ PREP PCOMP NUM OBJ AMOD PREP DET POBJ AMOD PUNCT
+0 3 1 3 3 3 6 7 8 3 12 3 12 13 14 17 15 17 12 21 12 21 22 25 23 25 23 29 27 29 1
+
+Nếu thấy hiện_tượng tiêu_cực hãy cứ tố_cáo , sẽ có những người chung tay .
+Cp Vv Nn Aa R R Vv PU R Ve Nq Nn Aa Nn PU
+CC ROOT OBJ AMOD ADJUNCT ADJUNCT CONJ PUNCT ADJUNCT CONJ DET OBJ AMOD OBJ PUNCT
+2 0 2 3 7 5 2 2 10 2 12 10 12 13 2
+
+Tôi sẵn_sàng nhận anh Đại và các công_nhân trong nhóm tố_cáo tiêu_cực ở đường liên cảng A5 vào công_ty làm_việc .
+Pp Aa Vv Nn Nr Cp Nq Nn Cs Nn Vv Nn Cs Nn Sv Nn Nr Vv Nn Vv PU
+NSUBJ ACOMP ROOT OBJ NN CC DET CONJ PREP POBJ RCMOD OBJ PREP POBJ SINO NN NN VMOD OBJ VMOD PUNCT
+3 3 0 3 4 4 8 4 8 9 10 11 12 13 16 14 14 3 18 18 3
+
+Đề_nghị anh Đại liên_hệ với chúng_tôi : Công_ty Xây_lắp & vật_tư xây_dựng , 93 Nguyễn_Công_Trứ , Q. 1 , TP. HCM .
+Vv Nn Nr Vv Cs Pp PU Nn Vv PU Nn Vv PU Nr Nr PU Nun Nr PU Nun Nr PU
+ROOT OBJ NN CCOMP PREP POBJ PUNCT PARATAXIS RCMOD PUNCT CONJ VMOD PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT
+0 4 2 1 4 5 6 6 8 9 9 11 8 8 14 15 15 17 17 17 20 1
+
+Anh Trần_Nhất_Thiện LBRK Giám_đốc Công_ty TNHH Triều_Phú RBRK : Công_ty chúng_tôi có_thể nhận hai vợ_chồng anh Đại vào làm_việc .
+Nn Nr LBRK Nn Nn X Nr RBRK PU Nn Pp Aa Vv Num Nn Nn Nr Vv Vv PU
+NSUBJ NN PUNCT PARATAXIS NN DEP NN PUNCT PUNCT NSUBJ NN ACOMP ROOT NUM OBJ NN NN VMOD VMOD PUNCT
+13 1 1 1 4 5 5 1 13 13 10 13 0 15 13 15 16 13 18 13
+
+Theo_dõi câu_chuyện này , tôi thấy những người thẳng_thắn như anh Đại xứng_đáng có một chỗ_đứng tốt hơn trong xã_hội .
+Vv Nn Pd PU Pp Vv Nq Nn Aa Cs Nn Nr Aa Ve Num Nn Aa R Cs Nn PU
+CCOMP OBJ DET PUNCT NSUBJ ROOT DET NSUBJ AMOD PREP POBJ NN CCOMP VMOD NUM OBJ AMOD ADJUNCT PREP POBJ PUNCT
+6 1 2 6 6 0 8 13 8 8 10 11 6 13 16 14 16 17 16 19 6
+
+So với việc anh đã dám hi_sinh công_việc của mình để làm một điều tốt cho xã_hội thì việc xã_hội cung_cấp việc_làm cho anh là một việc rất nhỏ .
+Vv Cs Nn Pp R Vv Vv Nn Cs Pp Cs Vv Num Ncs Aa Cs Nn Cp Nn Nn Vv Nn Cs Pp Vc Num Nn R Aa PU
+VMOD PREP POBJ NSUBJ ADJUNCT CCOMP VMOD OBJ PREP POBJ PREP PCOMP NUM OBJ CLF PREP POBJ CC NSUBJ NSUBJ CCOMP OBJ PREP POBJ ROOT NUM ATTR ADJUNCT AMOD PUNCT
+25 1 2 6 6 3 6 7 8 9 7 11 14 12 14 12 16 25 25 21 19 21 21 23 0 27 25 29 27 25
+
+Anh Thái LBRK ấp Tam_Tân , xã Tân_An_Hội , Củ_Chi RBRK : Tôi đã có ấn_tượng tốt với nhân_vật tên Đại này từ loạt bài trên báo Tuổi_Trẻ về đường liên cảng A5 , sau này vở kịch Đại tốt của sân_khấu Idecaf cũng có đề_cập đến .
+Nn Nr LBRK Nun Nr PU Nun Nr PU Nr RBRK PU Pp R Ve Nn Aa Cs Nn Nn Nr Pd Cs Nn Nn Cs Nn Nn Cs Nn Sv Nn Nr PU Cs Pd Nc Nn Nr Aa Cs Nn Nr R R Vv Vv PU
+NSUBJ NN PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT PARATAXIS PUNCT PUNCT NSUBJ ADJUNCT ROOT OBJ AMOD PREP POBJ NN NN DET PREP POBJ NN PREP POBJ NN PREP POBJ SINO NN NN PUNCT PREP POBJ NN CLF NSUBJ AMOD PREP POBJ NN ADJUNCT ADJUNCT CONJ VMOD PUNCT
+15 1 1 1 4 4 4 7 7 7 1 15 15 15 0 15 16 16 18 19 20 19 16 23 24 24 26 27 24 29 32 30 30 15 46 35 39 37 46 39 39 41 42 45 46 15 46 15
+
+Nay đọc báo , rất mừng thấy anh được pháp_luật bảo_vệ nhưng lại rất buồn khi biết anh gặp hoàn_cảnh khó_khăn .
+Nt Vv Nn PU R Vv Vv Pp Vv Nn Vv Cp R R Aa Nt Vv Pp Vv Nn Aa PU
+NP_ADVMOD XCOMP OBJ PUNCT ADJUNCT ROOT VMOD NSUBJ CCOMP NSUBJ CCOMP CC ADJUNCT ADJUNCT CCOMP NP_ADVMOD XCOMP NSUBJ CCOMP OBJ AMOD PUNCT
+6 6 2 6 6 0 6 9 7 11 9 6 14 15 6 15 16 19 17 19 20 6
+
+Nếu được , mời vợ_chồng anh Đại đến trang_trại của chúng_tôi ...
+Cp Vv PU Vv Nn Nn Nr Vv Nn Cs Pp PU
+CC ROOT PUNCT CONJ OBJ NN NN VMOD NP_ADVMOD PREP POBJ PUNCT
+2 0 2 2 4 5 6 4 8 9 10 2
+
+Công_nhân Trương_Xuân_Đại kiện báo Pháp_Luật TP HCM .
+Nn Nr Vv Nn Nn Nun Nr PU
+NSUBJ NN ROOT OBJ NN NN NN PUNCT
+3 1 0 3 4 4 6 3
+
+Luật_sư bảo_vệ quyền_lợi báo Pháp_Luật đề_nghị hoà_giải .
+Nn Vv Nn Nn Nn Vv Vv PU
+NSUBJ RCMOD OBJ NN NN ROOT VMOD PUNCT
+6 1 2 3 4 0 6 6
+

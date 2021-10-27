@@ -1,0 +1,305 @@
+" Đời thúng " giữa trùng_dương LBRK kỳ cuối RBRK : Phận người bán_mạng mưu_sinh .
+PU Nn Nn PU Cs Nn LBRK Nn Aa RBRK PU Nn Nn R Vv PU
+PUNCT PARATAXIS NN PUNCT PREP POBJ PUNCT PARATAXIS AMOD PUNCT PUNCT ROOT NN ADJUNCT RCMOD PUNCT
+2 12 2 2 2 5 12 12 8 12 12 0 12 15 13 12
+
+Cách đây hơn bốn năm tôi đã biết thế_nào là cơn thịnh_nộ của biển .
+Vv Pd R Num Nu Pp R Vv Pp Vc Ncs Vv Cs Nn PU
+VMOD OBJ ADJUNCT NUM OBJ NSUBJ ADJUNCT ROOT NSUBJ CCOMP ATTR CLF PREP POBJ PUNCT
+8 1 4 5 1 8 8 0 10 8 10 11 11 13 8
+
+Khi ấy vừa tốt_nghiệp đại_học , chưa tìm được việc_làm , tôi theo_chân những người đồng hương xuống biển tây mưu_sinh , xin đi làm thợ_gàu LBRK làm tà_lọt phụ việc cho chủ ghe RBRK .
+Nt Pd R Vv Nn PU R Vv R Nn PU Pp Vv Nq Nc Sv Nn Vv Nn Nn Vv PU Vv Vv Vv Nn LBRK Vv Nn Vv Nn Cs Nn Nn RBRK PU
+NP_ADVMOD DET ADJUNCT ROOT OBJ PUNCT ADJUNCT CONJ ADJUNCT OBJ PUNCT NSUBJ VMOD DET OBJ SINO CLF VMOD OBJ NN VMOD PUNCT CONJ VMOD VMOD OBJ PUNCT PARATAXIS OBJ RCMOD OBJ PREP POBJ NN PUNCT PUNCT
+4 1 4 0 4 4 8 4 8 8 4 23 23 15 13 17 15 13 18 19 18 23 4 23 24 25 26 26 28 29 30 30 32 33 26 4
+
+Ngày đầu_tiên đi biển tôi đã tưởng không bao_giờ còn gặp lại những người bạn thúng ...
+Nt An Vv Nn Pp R Vv R Pp R Vv R Nq Nc Nn Nn PU
+NP_ADVMOD AMOD XCOMP OBJ NSUBJ ADJUNCT ROOT ADJUNCT NP_ADVMOD ADJUNCT XCOMP ADJUNCT DET NN CLF OBJ PUNCT
+7 1 1 3 7 7 0 9 11 11 7 11 16 16 14 11 7
+
+Ký_ức cuồng_phong .
+Nn Nn PU
+ROOT NN PUNCT
+0 1 1
+
+Đó là vào mùa gió_chướng của năm 2000 , tôi được gửi đi cùng ghe với anh Sáu " xà_lách " tập làm thợ_gàu .
+Pd Vc Cs Nn Nn Cs Nt Num PU Pp Vv Vv Vv Aa Nn Cs Nn Nr PU Nn PU Vv Vv Nn PU
+NSUBJ ROOT PREP POBJ NN PREP POBJ NUM PUNCT NSUBJ CCOMP VMOD VMOD ACOMP OBJ PREP POBJ NN PUNCT NN PUNCT VMOD VMOD OBJ PUNCT
+2 0 11 3 4 4 6 7 11 11 2 11 12 13 14 14 16 17 17 17 17 12 22 23 2
+
+Ngay đêm đầu_tiên ấy tôi đã biết thế_nào là sự nghiệt_ngã của nghề thúng mực .
+R Nt An Pd Pp R Vv Pp Vc Ncs Aa Cs Nn Nn Nn PU
+ADJUNCT NP_ADVMOD AMOD DET NSUBJ ADJUNCT ROOT NSUBJ CCOMP ATTR CLF PREP POBJ NN NN PUNCT
+2 7 2 2 7 7 0 9 7 9 10 10 12 13 14 7
+
+Đúng 10 g đêm trời nổi gió ù_ù , kinh_nghiệm đi biển cho anh Sáu " xà_lách " biết sắp có dông lớn tới .
+Aa Num Nt Nt Nn Vv Nn Aa PU Nn Vv Nn Vv Nn Nr PU Nn PU Vv R Ve Nn Aa Vv PU
+ADJP_ADVMOD NUM OBJ NN NSUBJ ROOT OBJ ACOMP PUNCT NSUBJ RCMOD OBJ CONJ IOBJ NN PUNCT NN PUNCT VMOD ADJUNCT VMOD NSUBJ AMOD CCOMP PUNCT
+6 3 1 3 6 0 6 6 6 13 10 11 6 13 14 14 14 14 13 21 19 24 22 21 6
+
+Anh vội nhổ_neo , nổ máy để đi vớt các bạn thúng .
+Pp Aa Vv PU Vv Nn Cs Vv Vv Nq Nn Nn PU
+NSUBJ ACOMP ROOT PUNCT CONJ OBJ PREP PCOMP VMOD DET OBJ NN PUNCT
+3 3 0 3 3 5 5 7 8 11 9 11 3
+
+Mới chỉ vớt được ba thúng của Xuân , Chơ và Hồ_Duyến LBRK cả ba đều người Quảng_Bình nên thả thúng gần nhau RBRK thì cơn dông ập tới .
+R R Vv R Num Nn Cs Nr PU Nr Cp Nr LBRK Nw Num R Nn Nr Cp Vv Nn Aa Nn RBRK Cp Nc Nn Vv Vv PU
+ADJUNCT ADJUNCT ROOT ADJUNCT NUM OBJ PREP POBJ PUNCT CONJ CC CONJ PUNCT DET NSUBJ ADJUNCT NN NN CC PARATAXIS OBJ ACOMP OBJ PUNCT CC NSUBJ CLF CONJ VMOD PUNCT
+2 3 0 3 6 3 6 7 8 8 10 10 8 15 20 17 15 17 20 8 20 20 22 8 3 28 26 3 28 3
+
+Gió xoáy rít từng cơn nghe vù_vù , từng đợt sóng cao như mái nhà vỗ ập vào chiếc ghe như muốn nuốt_chửng tất_cả .
+Nn Vv Vv Pp Nn Vv Aa PU Pp Nn Nn Aa Cs Nn Nn Vv Vv Cs Nc Nn Cs Vv Vv Pp PU
+NSUBJ CSUBJ CONJ DET OBJ ROOT ACOMP PUNCT DET NSUBJ NN AMOD PREP POBJ NN CONJ VMOD PREP POBJ CLF PREP PCOMP VMOD OBJ PUNCT
+2 6 2 5 2 0 6 6 10 16 10 10 12 13 14 6 16 17 18 19 17 21 22 23 6
+
+Anh Sáu và ba bạn thúng may_mắn nhìn ra ngoài lo_lắng cho các bạn thúng khác còn chơi_vơi giữa cơn cuồng_phong .
+Nn Nr Cp Num Nn Nn Aa Vv R Nn Vv Cs Nq Nn Nn Aa R Aa Cs Nc Nn PU
+NSUBJ NN CC NUM CONJ NN AMOD ROOT ADJUNCT OBJ VMOD PREP DET POBJ NN AMOD ADJUNCT AMOD PREP POBJ CLF PUNCT
+8 1 1 5 1 5 5 0 8 8 8 11 14 12 14 14 18 14 18 19 20 8
+
+Dông_tố mỗi lúc một lớn , anh Sáu kìm tay_lái cho ghe xuôi theo từng đợt sóng .
+Nn Nq Nt Num Aa PU Nn Nr Vv Nn Vv Nn Vv Vv Pp Nn Nn PU
+NSUBJ DET ROOT CONJ AMOD PUNCT NSUBJ NN CONJ OBJ VMOD OBJ VMOD VMOD DET OBJ NN PUNCT
+3 3 0 3 4 3 9 7 3 9 9 11 11 13 16 14 16 3
+
+Thỉnh_thoảng từng chiếc thúng không rõ của ghe nào bay_rạt qua trước mũi ghe theo từng đợt sóng cất lên với tốc_độ ghê hồn , tôi thoáng nhìn_thấy gương_mặt người bạn thúng đó xanh_mét , miệng như muốn kêu cứu mà không nên lời , chiếc thúng đánh ầm xuống biển và mất_hút trong lòng đại_dương ...
+R R Nc Nn R Vv Cs Nn Pd Vv Cs Cs Nn Nn Vv Pp Nn Nn Vv R Cs Nn Aa Nn PU Pp Aa Vv Nn Nc Nn Nn Pd Aa PU Nn Cs Vv Vv Vv Cp R Vv Nn PU Nc Nn Vv Aa Cs Nn Cp Vv Cs Nn Nn PU
+ADJUNCT ADJUNCT NSUBJ CLF ADJUNCT RCMOD PREP POBJ DET ROOT PREP PREP POBJ NN VMOD DET OBJ NN VMOD ADJUNCT PREP POBJ AMOD OBJ PUNCT NSUBJ ACOMP CONJ NSUBJ NN CLF NN DET CCOMP PUNCT NSUBJ CONJ PCOMP VMOD VMOD CC ADJUNCT CONJ OBJ PUNCT NSUBJ CLF CONJ ACOMP PREP POBJ CC CONJ PREP POBJ NN PUNCT
+10 3 10 3 6 3 6 7 8 0 10 11 12 13 10 17 15 17 10 19 19 21 22 23 10 28 28 10 34 32 30 29 32 28 34 37 34 37 38 39 38 43 38 43 28 48 46 28 48 48 50 48 48 53 54 55 10
+
+Việc cứu_nạn từ lúc nửa_đêm cho đến sáng hôm sau cũng chỉ vớt được bảy bạn thúng , phân_nửa còn_lại vẫn biệt_tăm .
+Ncs Vv Cs Nt Nt M Cs Nt Nt Nn R R Vv R Num Nn Nn PU Nq Ve R Aa PU
+NSUBJ CLF PREP POBJ NN PCOMP CONJ POBJ NN NN ADJUNCT ADJUNCT ROOT ADJUNCT NUM OBJ NN PUNCT NSUBJ VMOD ADJUNCT CONJ PUNCT
+13 1 1 3 4 7 3 7 8 9 12 13 0 13 16 13 16 13 22 19 22 13 13
+
+Anh Sáu cho ghe chạy vào đảo tiếp thêm nhiên_liệu rồi lại quay ra tìm_kiếm .
+Nn Nr Vv Nn Vv Cs Nn Vv Vv Nn Cp R Vv R Vv PU
+NSUBJ NN ROOT OBJ VMOD PREP POBJ VMOD VMOD OBJ CC ADJUNCT CONJ ADJUNCT VMOD PUNCT
+3 1 0 3 3 5 6 5 8 8 3 13 3 13 13 3
+
+Từ hòn Nồm , sang hòn Dầu , bãi Ngang , bãi Mến ... ghe vớt thêm được năm bạn thúng đã ngất_ngư vì kiệt sức .
+Cs Nn Nr PU Cs Nn Nr PU Nn Nr PU Nn Nr PU Nn Vv Vv M Num Nn Nn R Aa Cs Vv Nn PU
+PREP POBJ NN PUNCT CONJ POBJ NN PUNCT CONJ NN PUNCT CONJ NN PUNCT NSUBJ ROOT VMOD INTJ NUM OBJ NN ADJUNCT AMOD MARK ADVCL OBJ PUNCT
+16 1 2 1 1 5 6 6 6 9 9 9 12 16 16 0 16 16 20 16 20 23 20 25 23 25 16
+
+Lúc ấy đã là 3 giờ chiều mà hai bạn thúng Bùi_Văn_Luyện quê Quảng_Bình và Trần_Văn_Nam quê Hà_Tĩnh vẫn chưa thấy bóng_dáng đâu .
+Nt Pd R Vc Num Nt Nt Cp Num Nn Nn Nr Nn Nr Cp Nr Nn Nr R R Vv Nn M PU
+NSUBJ DET ADJUNCT ADVCL NUM ATTR NN CC NUM NSUBJ NN NN NN NN CC CONJ NN NN ADJUNCT ADJUNCT ROOT OBJ INTJ PUNCT
+4 1 4 21 6 4 6 21 10 21 10 10 12 13 12 12 16 17 20 21 0 21 21 21
+
+Gần như tuyệt_vọng , anh Sáu cho ghe quay vào đảo .
+R Cs Vv PU Nn Nr Vv Nn Vv Cs Nn PU
+ADJUNCT PREP PCOMP PUNCT NSUBJ NN ROOT OBJ VMOD PREP POBJ PUNCT
+2 7 2 7 7 5 0 7 7 9 10 7
+
+Đến tối thì nhận được tin : " Thằng Luyện và thằng Nam bị bão đánh dạt vào hòn Sơn cách đấy hai giờ tàu chạy , đang được làng chài bên đó chăm_sóc ... " !
+Cs Nt Cp Vv M Nn PU PU Nr Vv Cp Nn Nr Vv Nn Vv Vv Cs Nn Nr Vv Pd Num Nu Nn Vv PU R Vv Nun Nn Nn Pd Vv PU PU PU
+PREP POBJ CC ROOT INTJ OBJ PUNCT PUNCT NSUBJ VMOD CC CONJ NN CCOMP NSUBJ CCOMP VMOD PREP POBJ NN RCMOD OBJ NUM OBJ NSUBJ CCOMP PUNCT ADJUNCT CONJ NSUBJ NN NN DET CCOMP PUNCT PUNCT PUNCT
+4 1 4 0 4 4 14 14 14 9 9 9 12 6 16 14 16 17 18 19 19 21 24 21 26 24 14 29 14 34 30 30 32 29 14 14 4
+
+Tôi thở_phào nhẹ_nhõm .
+Pp Vv Aa PU
+NSUBJ ROOT ACOMP PUNCT
+2 0 2 2
+
+Vài tuần sau tôi quyết_định " giải_nghệ " lên bờ tìm vào đất_liền ... !
+Nq Nu Nn Pp Vv PU Vv PU Vv Nn Vv Cs Nn PU PU
+DET NP_ADVMOD NN NSUBJ ROOT PUNCT VMOD PUNCT VMOD OBJ VMOD PREP POBJ PUNCT PUNCT
+2 5 2 5 0 7 5 7 5 9 9 11 12 5 5
+
+Sống nhờ biển , chết cũng về với biển !
+Vv Cs Nn PU Vv R Vv Cs Nn PU
+ROOT PREP POBJ PUNCT CONJ ADJUNCT VMOD PREP POBJ PUNCT
+0 1 2 1 1 7 5 7 8 1
+
+Anh Đặng_Hoàng_Lam , phó chủ_tịch xã đảo An_Sơn LBRK Kiên_Hải , Kiên_Giang RBRK , khẳng_định : " Đa_số trường_hợp thiệt_mạng hoặc mất_tích trên biển đều là dân đi thúng .
+Nn Nr PU Sv Nn Nun Nn Nr LBRK Nr PU Nr RBRK PU Vv PU PU Nq Nn Vv Cp Vv Cs Nn R Vc Nn Vv Nn PU
+NSUBJ NN PUNCT SINO NN NN NN NN PUNCT PARATAXIS PUNCT PARATAXIS PUNCT PUNCT ROOT PUNCT PUNCT DET NSUBJ RCMOD CC CONJ PREP POBJ ADJUNCT CCOMP ATTR RCMOD OBJ PUNCT
+15 1 1 5 6 1 6 6 6 6 10 10 6 15 0 26 26 19 26 19 20 20 20 23 26 15 26 27 28 15
+
+Trước năm 2000 , hầu_như tháng nào xã cũng nhận được tin báo bạn thúng tử_nạn trên biển .
+Cs Nt Num PU R Nu Pd Nun R Vv M Nn Vv Nn Nn Vv Cs Nn PU
+PREP POBJ NUM PUNCT ADJUNCT NP_ADVMOD DET NSUBJ ADJUNCT ROOT INTJ OBJ RCMOD NSUBJ NN CCOMP PREP POBJ PUNCT
+10 1 2 10 6 10 6 10 10 0 10 10 12 16 14 13 16 17 10
+
+Còn bây_giờ đã đỡ hơn vì nhiều chủ tàu đi thúng đã biết sắm máy_bộ_đàm cho người dưới thúng , có tai_nạn hoặc sự_cố là chủ tàu biết mà tới ứng_cứu ngay , nhưng chỉ với trường_hợp sự_cố nhỏ , còn với cuồng_phong hoặc dông giật thì mọi phương_tiện liên_lạc đều vô_dụng " .
+Cp Pd R Vv R Cs Aa Nn Nn Vv Nn R Vv Vv Nn Cs Nn Cs Nn PU Ve Nn Cp Nn Cp Nn Nn Vv Cp Vv Vv M PU Cp R Cs Nn Nn Aa PU Cp Cs Nn Cp Nn Vv Cp Nw Nn Vv R Aa PU PU
+CC NP_ADVMOD ADJUNCT ROOT ADJUNCT MARK AMOD NSUBJ NN RCMOD OBJ ADJUNCT ADVCL VMOD OBJ PREP POBJ PREP POBJ PUNCT CONJ OBJ CC CONJ CC NSUBJ NN CONJ CC CONJ VMOD INTJ PUNCT CC ADJUNCT PREP POBJ NN AMOD PUNCT CC PREP POBJ CC CONJ VMOD CC DET NSUBJ VMOD ADJUNCT CONJ PUNCT PUNCT
+4 4 4 0 4 13 8 13 8 9 10 13 4 13 14 14 16 17 18 4 4 21 22 22 21 28 26 21 28 28 30 31 30 30 36 30 36 37 38 21 21 52 42 43 43 45 52 49 52 49 52 21 4 4
+
+Trước cơn bão Linda số 5 LBRK 1997 RBRK , trên quần_đảo Nam_Du có hàng ngàn ngư_phủ đi thúng .
+Cs Nc Nn Nr Nn Nr LBRK Num RBRK PU Cs Nn Nr Ve R Nq Nn Vv Nn PU
+PREP NN CLF NN POBJ NN PUNCT PARATAXIS PUNCT PUNCT PREP POBJ NN ROOT ADJUNCT NUM OBJ RCMOD OBJ PUNCT
+14 5 2 5 1 5 5 5 5 14 14 11 12 0 16 17 14 17 18 14
+
+Sau cơn bão ấy số ngư_phủ theo nghề thúng giảm rất nhiều , không phải họ bỏ nghề mà là chết và mất_tích trong cơn bão .
+Cs Nc Nn Pd Nn Nn Vv Nn Nn Vv R Aa PU R Aa Pp Vv Nn Cp M Vv Cp Vv Cs Nc Nn PU
+PREP POBJ CLF DET NSUBJ NN RCMOD OBJ NN ROOT ADJUNCT ACOMP PUNCT ADJUNCT ADJP_ADVMOD NSUBJ CONJ OBJ CC INTJ CONJ CC CONJ PREP POBJ CLF PUNCT
+10 1 2 2 10 5 6 7 8 0 12 10 10 15 17 17 10 17 17 19 17 21 21 21 24 25 10
+
+Chỉ tính riêng trên hòn Lớn LBRK hòn Củ_Tron , xã đảo An_Sơn RBRK hiện chỉ còn khoảng 300 tay thúng .
+R Vv M Cs Nn Nr LBRK Nn Nr PU Nun Nn Nr RBRK Nt R Ve R Num Nc Nn PU
+ADJUNCT VMOD PCOMP PREP POBJ NN PUNCT PARATAXIS NN PUNCT PARATAXIS NN NN PUNCT NP_ADVMOD ADJUNCT ROOT ADJUNCT NUM OBJ CLF PUNCT
+2 17 4 2 4 5 5 5 8 8 8 11 11 5 17 17 0 19 20 17 20 17
+
+Nhiều chủ ghe hành_nghề lâu nãm trên đảo Củ_Tron cho biết mùa gió_chướng từ tháng tư đến tháng chín là mùa mực_ống , mùa mong_ước đổi_đời của những người bạn đi thúng , nhưng lại là mùa khủng_khiếp nhất của nghề thúng mực .
+Aa Nn Nn Vv Aa Nu Cs Nn Nr Vv Vv Nn Nn Cs Nt Nq Cs Nt Num Vc Nn Nn PU Nn Vv Vv Cs Nq Nc Nn Vv Nn PU Cp R Vc Nn Aa R Cs Nn Nn Nn PU
+AMOD NSUBJ NN RCMOD ADJP_ADVMOD OBJ PREP POBJ NN ROOT VMOD NSUBJ NN PREP POBJ DET CONJ POBJ NUM CCOMP ATTR NN PUNCT PARATAXIS RCMOD VMOD PREP DET POBJ CLF RCMOD OBJ PUNCT CC ADJUNCT CONJ ATTR AMOD ADJUNCT PREP POBJ NN NN PUNCT
+2 10 2 2 4 5 4 7 8 0 10 20 12 12 14 15 14 17 18 11 20 21 21 21 24 25 24 29 27 29 29 31 20 20 36 20 36 37 38 37 40 41 42 10
+
+Trời đang nắng gắt , nhưng chỉ nửa tiếng sau là dông_tố ập đến như muốn nhấn_chìm tất_cả , có đêm hai cơn dông tới cách nhau chỉ vài tiếng đồng_hồ .
+Nn R Aa Aa PU Cp R Nq Nu Nn Cp Nn Vv Vv Cs Vv Vv Pp PU Ve Nt Num Nc Nn Vv Vv Nn R Nq Nu Nn PU
+NSUBJ ADJUNCT ROOT ADJP_ADVMOD PUNCT CC ADJUNCT NUM NP_ADVMOD NN CC NSUBJ CONJ VMOD PREP PCOMP VMOD OBJ PUNCT CONJ OBJ NUM NSUBJ CLF CCOMP VMOD OBJ ADJUNCT NUM OBJ NN PUNCT
+3 3 0 3 3 3 8 9 13 9 13 13 3 13 13 15 16 17 13 13 20 23 25 23 21 25 26 29 30 26 30 3
+
+Những lúc như vậy các chủ ghe thường không kịp vớt thúng lên mà chỉ lo đối_phó với những con sóng cả để giữ thuyền không chìm , người trên thúng chỉ còn biết phó_mặc số_phận mình trong tay trời_đất .
+Nq Nt Cs Pp Nq Nn Nn R R Aa Vv Nn D Cp R Vv Vv Cs Nq Nc Nn Aa Cs Vv Nn R Vv PU Nn Cs Nn R R Vv Vv Nn Pp Cs Nn Nn PU
+DET NP_ADVMOD PREP POBJ DET NSUBJ NN ADJUNCT ADJUNCT ACOMP ROOT OBJ VMOD CC ADJUNCT CONJ VMOD PREP DET POBJ CLF AMOD PREP PCOMP OBJ ADJUNCT VMOD PUNCT NSUBJ PREP POBJ ADJUNCT ADJUNCT CONJ VMOD OBJ NN PREP POBJ NN PUNCT
+2 11 2 3 6 11 6 9 10 11 0 11 11 11 16 11 16 17 20 18 20 20 17 23 24 27 24 11 34 29 30 34 32 11 34 35 36 35 38 39 11
+
+Nhiều ngư_phủ cho tôi biết với kinh_nghiệm của họ , khi dông gió kéo tới họ tìm cách hạ buồm thật lẹ túm_tụm vào nhau , ba bốn thúng cột lại cùng nhau sẽ an_toàn , khó bị lật hơn .
+Aa Nn Vv Pp Vv Cs Nn Cs Pp PU Nt Nn Nn Vv Vv Pp Vv Nn Vv Nn R Aa Vv Cs Nn PU Num Num Nn Vv R Aa Nn R Aa PU Aa Vv Vv R PU
+AMOD NSUBJ ROOT OBJ VMOD PREP POBJ PREP POBJ PUNCT NP_ADVMOD NSUBJ CONJ CCOMP VMOD NSUBJ CCOMP OBJ RCMOD OBJ ADJUNCT ACOMP RCMOD PREP POBJ PUNCT NUM CONJ NSUBJ CSUBJ ADJUNCT ACOMP OBJ ADJUNCT PARATAXIS PUNCT CONJ VMOD VMOD ADJUNCT PUNCT
+2 3 0 3 3 17 6 7 8 17 17 14 12 11 14 17 5 17 18 19 22 19 18 23 24 18 29 27 30 35 30 30 32 35 18 35 35 37 38 37 3
+
+Sau những đêm dông như vậy , thúng thường tan_tác mỗi người một nơi , người may_mắn trôi vào các hòn đảo , đất_liền , có người trôi sang tận Thái_Lan hay Philippines ... , nhiều người đã nằm lại với biển sâu .
+Cs Nq Nu Nn Cs Pp PU Nn R Aa Nq Nn Num Nn PU Nn Aa Vv Cs Nq Nc Nn PU Nn PU Ve Nn Vv Cs Aa Nr Cp Nr PU PU Aa Nn R Vv R Cs Nn Aa PU
+PREP DET POBJ NN PREP POBJ PUNCT NSUBJ ADJUNCT ROOT DET NSUBJ NUM CONJ PUNCT NSUBJ AMOD CONJ PREP DET POBJ CLF PUNCT CONJ PUNCT CONJ NSUBJ CCOMP PREP PCOMP OBJ CC CONJ PUNCT PUNCT AMOD NSUBJ ADJUNCT CONJ ADJUNCT PREP POBJ AMOD PUNCT
+10 3 1 3 3 5 10 10 10 0 12 14 14 10 14 18 16 14 18 21 19 21 21 21 18 18 28 26 28 29 30 31 31 31 26 37 39 39 26 39 39 41 42 10
+
+Ông Nguyễn_Văn_Dũng ở bãi Ngự , Củ_Tron cho đến giờ này vẫn còn ân_hận vì cái chết mất xác của một bạn ghe tên Phạm_Hồng_Minh LBRK quê Bình_Thuận RBRK .
+Nn Nr Cs Nn Nr PU Nr M Cs Nt Pd R R Vv Cs Ncs Vv Ve Nn Cs Num Nn Nn Nn Nr LBRK Nn Nr RBRK PU
+NSUBJ NN PREP POBJ NN PUNCT PARATAXIS PCOMP PREP POBJ DET ADJUNCT ADJUNCT ROOT PREP POBJ CLF RCMOD OBJ PREP NUM POBJ NN NN NN PUNCT PARATAXIS NN PUNCT PUNCT
+14 1 1 3 4 4 4 9 14 9 10 14 12 0 14 15 16 16 18 16 22 20 22 22 24 24 24 27 24 14
+
+Ông Dũng kể lại : Hôm ấy tôi bị ốm nên giao cho con rể làm tài_công .
+Nn Nr Vv R PU Nt Pd Pp Vv Aa Cp Vv Cs Nn Nn Vv Nn PU
+NSUBJ NN ROOT ADJUNCT PUNCT NP_ADVMOD DET NSUBJ CCOMP ACOMP CC CONJ PREP POBJ NN VMOD OBJ PUNCT
+3 1 0 3 9 9 6 9 3 9 9 9 12 13 14 12 16 3
+
+Đêm ấy dông tới đột_ngột và lớn lắm , nhà ở trong đảo mà còn bị sập nữa_là huống_gì cái thúng cỏn_con ngoài biển .
+Nt Pd Nn Vv Aa Cp Aa R PU Nn Cs Cs Nn Cp R Vv Vv R Cp Nc Nn Aa Cs Nn PU
+NP_ADVMOD DET NSUBJ ROOT ACOMP CC CONJ ADJUNCT PUNCT NSUBJ PREP PREP POBJ CC ADJUNCT CONJ VMOD ADJUNCT CC CONJ CLF AMOD PREP POBJ PUNCT
+4 1 4 0 4 4 4 7 4 16 10 11 12 16 14 4 16 17 16 16 20 20 20 23 4
+
+Thuyền trưởng báo vào là thúng của Minh mất_tích , tôi tức_tốc cầm lái chạy ghe ra khơi tìm_kiếm .
+Nn Sv Vv R Cs Nn Cs Nr Vv PU Pp R Vv Nn Vv Nn Vv Nn Vv PU
+NSUBJ SINO ROOT ADJUNCT MARK NSUBJ PREP POBJ CCOMP PUNCT NSUBJ ADJUNCT CONJ OBJ VMOD OBJ VMOD OBJ VMOD PUNCT
+3 1 0 3 9 9 6 7 3 3 13 13 3 13 13 15 15 17 17 3
+
+Chạy cả ngày trời , khắp bốn hướng biển vẫn không tìm_thấy gì .
+Vv Nw Nu M PU Aa Num Nn Nn R R Vv M PU
+XCOMP DET OBJ INTJ PUNCT CONJ NUM OBJ NN ADJUNCT ADJUNCT ROOT INTJ PUNCT
+12 3 1 3 3 3 8 6 8 11 12 0 12 12
+
+Khoảng 4 giờ chiều thì Gặp một chiếc ghe_lưới , họ kêu lại và cho biết là đang giữ một chiếc thúng không có người .
+R Num Nt Nt Cp Vv Num Nc Nn PU Pp Vv R Cp Vv Vv Cs R Vv Num Nc Nn R Ve Nn PU
+ADJUNCT NUM NP_ADVMOD NN CC ROOT NUM OBJ CLF PUNCT NSUBJ CONJ ADJUNCT CC CONJ VMOD MARK ADJUNCT XCOMP NUM OBJ CLF ADJUNCT RCMOD OBJ PUNCT
+2 3 6 3 6 0 8 6 8 6 12 6 12 12 12 15 19 19 16 21 19 21 24 21 24 6
+
+Nhìn thúng , tôi nhận ra ngay là thúng của thằng Minh !
+Vv Nn PU Pp Vv R M Cs Nn Cs Nn Nr PU
+XCOMP OBJ PUNCT NSUBJ ROOT ADJUNCT INTJ MARK NSUBJ CCOMP POBJ NN PUNCT
+5 1 5 5 0 5 5 10 10 5 10 11 5
+
+Đám_tang Minh chỉ là một lễ truy_điệu của làng biển , không hình_hài , di_ảnh , anh_em bạn thúng mỗi người góp một_ít cùng với 4 triệu đồng chủ ghe phúng_điếu , tặng cho bốn đứa con nhỏ côi_cút , chưa đứa nào đủ tuổi để xuống ghe đi bạn .
+Nn Nr R Vc Num Nn Vv Cs Nun Nn PU R Nn PU Nn PU Nn Nn Nn Nq Nn Vv Nq Cp Cp Num Nq Nu Nn Nn Vv PU Vv Cs Num Nc Nn Aa Aa PU R Nn Pd Aa Nn Cs Vv Nn Vv Pp PU
+NSUBJ NN ADJUNCT ROOT NUM ATTR VMOD PREP POBJ NN PUNCT ADJUNCT CONJ PUNCT CONJ PUNCT DEP NN NN DET NSUBJ CCOMP OBJ CC CC NUMBER NUM CONJ NSUBJ NN CCOMP PUNCT CONJ PREP NUM POBJ CLF AMOD AMOD PUNCT ADJUNCT NSUBJ DET PARATAXIS OBJ PREP PCOMP OBJ VMOD OBJ PUNCT
+4 1 4 0 6 4 6 6 8 9 4 13 4 13 13 4 22 17 18 21 22 33 22 22 24 27 28 22 31 29 28 33 4 33 36 34 36 36 36 36 42 44 42 36 44 44 46 47 47 49 4
+
+Vợ Minh bị bạo_bệnh mất mới mấy tháng trước , Minh đi thúng chuyến này hi_vọng trúng mẻ mực_ống về lo cái ăn , cái học cho bốn đứa con_thơ , vậy mà ...
+Nn Nr Vv Nn Ve R Nq Nu Nn PU Nr Vv Nn Nn Pd Vv Vv Nn Nn Vv Vv Ncs Vv PU Ncs Vv Cs Num Nc Nn PU Pp Cp PU
+NSUBJ NN RCMOD OBJ ROOT ADJUNCT DET NP_ADVMOD NN PUNCT NSUBJ CONJ OBJ OBJ DET CONJ VMOD OBJ NN VMOD VMOD OBJ CLF PUNCT CONJ CLF PREP NUM POBJ NN PUNCT CONJ CC PUNCT
+5 1 1 3 0 8 8 5 8 5 12 5 12 12 14 12 16 17 18 17 20 21 22 22 22 25 21 29 27 29 12 12 5 5
+
+Nguyễn_Văn , một tay thúng lão_luyện ở Nam_Du , tưởng đã bỏ_mạng trong đêm gió_chướng năm 1999 cũng kể : Đêm ấy cơn dông ập đến bất_ngờ , tôi chỉ kịp dùng dao chặt hết các sợi câu và dây neo để chống_chọi với sóng_gió .
+Nr PU Num Nc Nn Aa Cs Nr PU Vv R Vv Cs Nt Nn Nt Num R Vv PU Nt Pd Nc Nn Vv Vv Aa PU Pp R Aa Vv Nn Vv M Nq Nn Vv Cp Nn Nn Cs Vv Cs Nn PU
+NSUBJ PUNCT NUM PARATAXIS CLF AMOD PREP POBJ PUNCT PARATAXIS ADJUNCT VMOD PREP POBJ NN NP_ADVMOD NUM ADJUNCT ROOT PUNCT NP_ADVMOD DET NSUBJ CLF CCOMP VMOD ACOMP PUNCT NSUBJ ADJUNCT ACOMP CONJ OBJ VMOD INTJ DET OBJ VMOD CC CONJ NN PREP PCOMP PREP POBJ PUNCT
+19 1 4 1 4 4 4 7 1 1 12 10 12 13 14 14 16 19 0 25 25 21 25 23 19 25 26 25 32 31 32 25 32 32 34 37 34 37 37 37 40 34 42 43 44 19
+
+Cơn dông quá lớn lại mưa tầm_tã khiến chiếc thúng chìm , tôi nghĩ khó thoát khỏi cái chết nên lấy dây cột chặt tay mình vào thúng để người_ta còn tìm_thấy xác .
+Nc Nn R Aa R Nn Aa Vv Nc Nn Vv PU Pp Vv Aa Vv Vv Ncs Vv Cp Vv Nn Vv Aa Nn Pp Cs Nn Cs Pp R Vv Nn PU
+NSUBJ CLF ADJUNCT CSUBJ ADJUNCT NSUBJ CCOMP ROOT NSUBJ CLF CCOMP PUNCT NSUBJ CONJ ACOMP VMOD VMOD OBJ CLF CC CONJ OBJ VMOD ACOMP OBJ NN PREP POBJ PREP NSUBJ ADJUNCT PCOMP OBJ PUNCT
+4 1 4 8 4 7 4 0 11 9 8 8 14 8 14 15 16 17 18 14 14 21 21 23 23 25 23 27 23 32 32 29 32 8
+
+Tôi tỉnh_dậy thì trời đã sáng , trên mình không còn mảnh vải che thân , đói và khát đến cùng_cực , khủng_khiếp hơn là nhìn_thấy xác của những bạn thúng trôi vật_vờ trên biển ...
+Pp Vv Cp Nn R Aa PU Cs Pp R Ve Nn Nn Vv Nn PU Aa Cp Aa M Aa PU Aa R Vc Vv Nn Cs Nq Nn Nn Vv Aa Cs Nn PU
+NSUBJ ROOT CC NSUBJ ADJUNCT CONJ PUNCT MARK NP_ADVMOD ADJUNCT CONJ OBJ NN RCMOD OBJ PUNCT ASUBJ CC CONJ INTJ CONJ PUNCT ASUBJ ADJUNCT CONJ VMOD NSUBJ PREP DET POBJ NN CCOMP ACOMP PREP POBJ PUNCT
+2 0 2 6 6 2 2 9 11 11 2 11 12 12 14 11 21 17 17 21 11 21 25 23 21 25 32 27 30 28 30 26 32 32 34 2
+
+Đến khoảng giữa trưa , Nguyễn_Văn gần như kiệt sức thì một chiếc ghe_lưới nhìn_thấy anh .
+Cs R Cs Nt PU Nr R Cs Vv Nn Cp Num Nc Nn Vv Pp PU
+PREP ADJUNCT PREP POBJ PUNCT NSUBJ ADJUNCT ROOT VMOD OBJ CC NUM NSUBJ CLF CONJ OBJ PUNCT
+8 3 1 3 8 8 8 0 8 9 8 13 15 13 8 15 8
+
+Khi được vớt lên ghe cũng là lúc anh thiếp đi , tỉnh lại đã thấy mình nằm trong trạm_xá .
+Nt Vv Vv Cs Nn R Vc Nt Pp Vv R PU Vv R R Vv Pp Vv Cs Nn PU
+NSUBJ XCOMP VMOD PREP POBJ ADJUNCT ROOT ATTR NSUBJ CCOMP ADJUNCT PUNCT XCOMP ADJUNCT ADJUNCT CONJ NSUBJ CCOMP PREP POBJ PUNCT
+7 1 2 3 4 7 0 7 10 8 10 7 16 13 16 7 18 16 18 19 7
+
+Theo giới đi thúng , " lì đòn " nhất vẫn là năm ngư_phủ ở xã Lý_Vĩnh , đảo Lý_Sơn , họ đã trôi trên biển suốt năm ngày_đêm trước khi được tàu hải_quân cứu sống hồi tháng 12_-_2004 .
+Vv Nn Vv Nn PU PU Aa Nn PU R R Vc Num Nn Cs Nun Nr PU Nn Nr PU Pp R Vv Cs Nn Aa Num Nu Cs Nt Vv Nn Nn Vv Vv Nt Nt Nt PU
+VMOD OBJ RCMOD OBJ PUNCT PUNCT ASUBJ OBJ PUNCT ADJUNCT ADJUNCT ROOT NUM ATTR PREP POBJ NN PUNCT PARATAXIS NN PUNCT NSUBJ ADJUNCT CONJ PREP POBJ ADJP_ADVMOD NUM OBJ PREP POBJ XCOMP NSUBJ NN CCOMP VMOD NP_ADVMOD NN NN PUNCT
+12 1 2 3 12 7 12 7 7 7 12 0 14 12 14 15 16 16 16 19 12 24 24 12 24 25 24 29 27 29 30 31 35 33 32 35 35 37 38 12
+
+Thường thì với thảm_cảnh một mình một thúng trên biển , ngư_phủ chỉ chịu_đựng được 48 giờ ...
+R Cp Cs Nn Num Nn Num Nn Cs Nn PU Nn R Vv R Num Nu PU
+NP_ADVMOD CC PREP POBJ NUM NSUBJ NUM CCOMP PREP POBJ PUNCT NSUBJ ADJUNCT ROOT ADJUNCT NUM OBJ PUNCT
+14 14 14 3 6 8 8 4 8 9 14 14 14 0 14 17 14 14
+
+Không_chỉ cuồng_phong , dông_tố , mà đời người đi thúng còn bị bủa_vây bao hiểm_nguy khi lênh_đênh một_mình trên biển .
+Cp Nn PU Nn PU Cp Nn Nn Vv Nn R Vv Vv Nq Nn Nt Vv R Cs Nn PU
+CC ROOT PUNCT CONJ PUNCT CC NSUBJ NN RCMOD OBJ ADJUNCT CONJ VMOD DET IOBJ NP_ADVMOD XCOMP ADJUNCT PREP POBJ PUNCT
+2 0 2 2 2 2 12 7 8 9 12 2 12 15 13 13 16 17 17 19 2
+
+Như trường_hợp Trần_Văn_Lợi , quê Quảng_Bình , đi ghe thúng đến tận Phú_Quốc câu mực .
+Cp Nn Nr PU Nn Nr PU Vv Nn Nn Vv Aa Nr Vv Nn PU
+CC NSUBJ NN PUNCT PARATAXIS NN PUNCT ROOT NP_ADVMOD CONJ VMOD ADJP_ADVMOD OBJ VMOD OBJ PUNCT
+8 8 2 2 2 5 2 0 8 9 8 11 12 8 14 8
+
+Đêm đó ghe đến hòn Rậm_Rì , trong đêm_tối mịt_mù giữa biển khơi cô_đơn , một chiếc ghe_cào băng_băng chạy tới , ngư_phủ Lợi thấy nguy_hiểm đứng_dậy cầm đèn_măngsông đưa lên cao và la lớn cho ghe_cào thấy nhưng đã quá muộn , chiếc ghe_cào đã vướng sợi dây neo và cuốn chiếc thúng cùng người ngư_phủ vào tận đáy biển sâu .
+Nt Pd Nn Vv Nn Nr PU Cs Nt Aa Cs Nn Nn Aa PU Num Nc Nn Aa Vv D PU Nn Nr Vv Nn Vv Vv Nn Vv Vv Nn Cp Vv Aa Cs Nn Vv Cp R R Aa PU Nc Nn R Vv Nn Nn Vv Cp Vv Nc Nn Cp Nc Nn Cs Aa Nn Nn Aa PU
+NP_ADVMOD DET NSUBJ ROOT NP_ADVMOD NN PUNCT PREP POBJ AMOD PREP POBJ NN AMOD PUNCT NUM NSUBJ CLF ACOMP CONJ VMOD PUNCT NSUBJ NN CONJ OBJ CONJ VMOD OBJ VMOD VMOD OBJ CC CONJ ACOMP PREP NSUBJ PCOMP CC ADJUNCT ADJUNCT ADJP_ADVMOD PUNCT NSUBJ CLF ADJUNCT CONJ OBJ NN VMOD CC CONJ OBJ CLF CC CONJ CLF PREP PCOMP OBJ NN AMOD PUNCT
+4 1 4 0 4 5 4 20 8 9 9 11 12 12 20 17 20 17 20 4 20 20 25 23 20 25 25 27 28 28 30 31 28 28 34 34 38 36 25 41 42 47 47 47 44 47 25 47 48 48 47 47 52 53 53 53 56 52 58 59 60 61 4
+
+Vợ Lợi vừa mới sinh đứa con đầu_lòng tròn một tháng tuổi ...
+Nn Nr R R Vv Nc Nn Aa Aa Num Nu Nn PU
+NSUBJ NN ADJUNCT ADJUNCT ROOT OBJ CLF AMOD AMOD NUM OBJ NN PUNCT
+5 1 4 5 0 5 6 6 6 11 9 11 5
+
+Nhiều ngư_phủ kể với tôi rằng chỉ cần một sự_cố nhỏ như đứt dây neo , rách buồm ... là sinh_mạng người đi thúng xem như " chỉ_mành_treo_chuông " .
+Aa Nn Vv Cs Pp Cs R Vv Num Nn Aa Cs Vv Nn Vv PU Vv Nn PU Vc Nn Nn Vv Nn Vv Cs PU ID PU PU
+AMOD NSUBJ ROOT PREP POBJ MARK ADJUNCT VSUBJ NUM OBJ AMOD PREP PCOMP OBJ VMOD PUNCT CONJ OBJ PUNCT CCOMP NSUBJ NN RCMOD OBJ CCOMP PREP PCOMP PCOMP PCOMP PUNCT
+2 3 0 3 4 20 8 20 10 8 10 10 12 13 14 13 13 17 13 3 25 21 22 23 20 25 26 26 26 3
+
+Trong những ngày lênh_đênh , tôi đã nghe nhiều ngư_phủ kể chuyện họ từng bắt_gặp những chiếc thúng vô_chủ mà trên đó là một cái xác chết khô đã nhiều ngày của người bạn thúng vô_danh , họ chết vì khát , vì đói , kể_cả bị nướng sống dưới ánh nắng như thiêu như đốt giữa đại_dương mênh_mông .
+Cs Nq Nu Vv PU Pp R Vv Aa Nn Vv Nn Pp R Vv Nq Nc Nn Aa Cs Cs Pd Vc Num M Nn Vv Aa R Aa Nu Cs Nc Nn Nn Aa PU Pp Vv Cs Vv PU Cs Vv PU M Vv Vv Vv Cs Nc Nn Cs Vv Cs Vv Cs Nn Aa PU
+PREP DET POBJ CCOMP PUNCT NSUBJ ADJUNCT ROOT AMOD NSUBJ CCOMP OBJ NSUBJ ADJUNCT CCOMP DET OBJ CLF AMOD MARK PREP POBJ CCOMP NUM INTJ ATTR RCMOD ACOMP ADJUNCT AMOD NN PREP NN CLF POBJ AMOD PUNCT NSUBJ CONJ PREP PCOMP PUNCT CONJ PCOMP PUNCT INTJ VMOD VMOD VMOD PREP POBJ CLF PREP PCOMP CONJ PCOMP PREP POBJ AMOD PUNCT
+8 3 1 3 8 8 8 0 10 11 8 11 15 15 11 17 15 17 17 23 23 21 17 26 26 23 26 27 31 31 26 26 35 33 32 35 8 39 8 39 40 40 40 43 44 44 44 47 48 48 50 51 51 53 53 55 51 57 58 8
+
+Chuyến xa_khơi lần này làm tôi chạnh_lòng nhớ về làng quê Hải_Trạch ven biển miền Trung , nhớ về cha tôi .
+Nn Aa Nn Pd Vv Pp Vv Vv Cs Nun Nn Nr Nn Nn Nn Nn PU Vv Cs Nn Pp PU
+NSUBJ AMOD NN DET ROOT IOBJ VMOD VMOD PREP POBJ NN NN NN NN NN NN PUNCT CONJ PREP POBJ NN PUNCT
+5 1 1 3 0 5 5 7 8 9 10 10 10 13 13 15 8 8 18 19 20 5
+
+Nhớ cái làng Đức_Trạch cách quê tôi một con sông có những ngôi nhà sau một chuyến biển đã vắng bóng người mà ngày còn nhỏ tôi hay thắc_mắc họ đã đi đâu .
+Vv M Nun Nr Vv Nn Pp Num Nc Nn Ve Nq Nc Nn Cs Num Nn Nn R Aa Nn Nn Cs Nt R Aa Pp R Vv Pp R Vv Pp PU
+ROOT INTJ OBJ NN RCMOD OBJ NN NUM OBJ CLF RCMOD DET OBJ CLF PREP NUM POBJ NN ADJUNCT AMOD OBJ NN MARK NP_ADVMOD ADJUNCT CCOMP NSUBJ ADJUNCT CCOMP NSUBJ ADJUNCT CCOMP OBJ PUNCT
+0 3 1 3 3 5 6 9 5 9 3 13 11 13 13 17 15 17 20 17 20 21 29 29 26 24 29 29 21 32 32 29 32 1
+
+Cha tôi bảo những ngư_phủ đã tử_nạn trên biển .
+Nn Pp Vv Nq Nn R Vv Cs Nn PU
+NSUBJ NN ROOT DET NSUBJ ADJUNCT CCOMP PREP POBJ PUNCT
+3 1 0 5 7 7 3 7 8 3
+
+Cha tôi cũng là một ngư_phủ nghèo , cả đời ông đã đem mạng sống của mình ra đánh_cược với biển_cả để nuôi bốn anh_em tôi vào đại_học , cao_đẳng .
+Nn Pp R Vc Num Nn Aa PU Nw Nn Pp R Vv Nn Vv Cs Pp R Vv Cs Nn Cs Vv Num Nn Pp Vv Nn PU Nn PU
+NSUBJ NN ADJUNCT ROOT NUM ATTR AMOD PUNCT DET NSUBJ NN ADJUNCT CONJ OBJ VMOD PREP POBJ ADJUNCT RCMOD PREP POBJ PREP PCOMP NUM OBJ NN VMOD OBJ PUNCT CONJ PUNCT
+4 1 4 0 6 4 6 4 10 13 10 13 4 13 14 14 16 14 14 19 20 19 22 25 23 25 23 27 28 28 4
+
+Trái_tim người ngư_phủ sao lớn quá , lớn hơn cả những ngọn sóng bạc_đầu ...
+Nn Nc Nn M Aa R PU Aa Vcp M Nq Nc Nn Aa PU
+NSUBJ NN CLF INTJ ROOT ADJUNCT PUNCT PARATAXIS VMOD INTJ DET OBJ CLF AMOD PUNCT
+5 1 2 5 0 5 5 5 8 12 12 9 12 12 5
+

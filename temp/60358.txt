@@ -1,0 +1,295 @@
+Còn thiếu một lời xin_lỗi .
+R Vv Num Nn Vv PU
+ADJUNCT ROOT NUM OBJ VMOD PUNCT
+2 0 4 2 4 2
+
+Khác với vẻ mặt khắc_khoải , điệu_bộ bức_xúc của những người đi đòi bồi_thường oan_sai tôi đã gặp , ông Lưu_Việt_Hồng LBRK xã Nhơn_Thạnh , thị_xã Bến_Tre , tỉnh Bến_Tre RBRK trình_bày câu_chuyện của mình với nụ cười rộng_mở và vẻ thanh_thản kỳ_lạ .
+Aa Cs Nn Nn Aa PU Nn Aa Cs Nq Nn Vv Vv Vv Aa Pp R Vv PU Nn Nr LBRK Nun Nr PU Nun Nr PU Nun Nr RBRK Vv Nn Cs Pp Cs Nn Vv Aa Cp Nn Aa Aa PU
+ADJP_ADVMOD PREP POBJ NN AMOD PUNCT CONJ AMOD PREP DET POBJ RCMOD VMOD VMOD ACOMP NSUBJ ADJUNCT CCOMP PUNCT NSUBJ NN PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT ROOT OBJ PREP POBJ PREP POBJ VMOD AMOD CC CONJ AMOD AMOD PUNCT
+32 1 2 3 3 3 3 7 7 11 9 11 12 13 14 18 18 11 32 32 20 20 20 23 23 23 26 26 26 29 20 0 32 33 34 32 36 37 37 37 37 41 41 32
+
+Ông bảo : " Bây_giờ nghĩ_lại tôi thấy ... cũng vui .
+Pp Vv PU PU Pd Vv Pp Vv PU R Aa PU
+NSUBJ ROOT PUNCT PUNCT NSUBJ XCOMP NSUBJ CCOMP PUNCT ADJUNCT ACOMP PUNCT
+2 0 8 8 8 8 8 2 8 11 8 2
+
+Cuộc_đời thì phải có những chuyện như vậy thôi .
+Nn Cp Vv Ve Nq Nn Cs Pp M PU
+NSUBJ CC ROOT VMOD DET OBJ PREP POBJ INTJ PUNCT
+3 3 0 3 6 4 6 7 6 3
+
+Nhưng lúc đó LBRK cách đây 15 năm RBRK thì tôi ức lắm ... " .
+Cp Nt Pd LBRK Vv Pd Num Nu RBRK Cp Pp Vv R PU PU PU
+CC NP_ADVMOD DET PUNCT PARATAXIS OBJ NUM OBJ PUNCT CC NSUBJ ROOT ADJUNCT PUNCT PUNCT PUNCT
+12 12 2 2 2 5 8 5 2 12 12 0 12 12 12 12
+
+Mười lăm năm trước , tổ_hợp xây_lắp và vận_chuyển Hồng_Hà của ông là một trong những đơn_vị hoạt_động kinh_tế thành_công nhất thị_xã Bến_Tre .
+Num Nq Nu Nn PU Nn Vv Cp Vv Nr Cs Pp Vc Num Cs Nq Nn Vv Nn Aa R Nun Nr PU
+NUMBER NUM NP_ADVMOD NN PUNCT NSUBJ RCMOD CC CONJ NN PREP POBJ ROOT ATTR PREP DET POBJ RCMOD OBJ ACOMP ADJUNCT NP_ADVMOD NN PUNCT
+2 3 13 3 13 13 6 7 7 6 6 11 0 13 14 17 15 17 18 18 20 20 22 13
+
+Lưu_Việt_Hồng đã thay_mặt tổ_hợp ký hợp_đồng thi_công công_trình đường 887 cho Phòng Giao_thông thị_xã Bến_Tre , lại ký được thêm hợp_đồng đầu_tư xây_dựng chợ rau_quả cho thị_xã .
+Nr R Vv Nn Vv Nn Vv Nn Nn Nr Cs Nn Nn Nun Nr PU R Vv R Vv Nn Vv Vv Nn Nn Cs Nun PU
+NSUBJ ADJUNCT ROOT OBJ VMOD OBJ RCMOD OBJ NN NN PREP POBJ NN NP_ADVMOD NN PUNCT ADJUNCT VMOD ADJUNCT VMOD OBJ RCMOD VMOD OBJ NN PREP POBJ PUNCT
+3 3 0 3 3 5 6 7 8 9 7 11 12 12 14 3 18 3 18 18 18 21 22 23 24 23 26 3
+
+Công_việc làm_ăn xuôi_chèo_mát_mái , ông Hồng đứng ra vay nợ tín_dụng lấy tiền đầu_tư xây_dựng hai công_trình .
+Nn Vv ID PU Nn Nr Vv R Vv Nn Nn Vv Nn Vv Vv Num Nn PU
+NSUBJ VMOD ROOT PUNCT NSUBJ NN CONJ ADJUNCT VMOD OBJ NN VMOD OBJ RCMOD VMOD NUM OBJ PUNCT
+3 1 0 3 7 5 3 7 7 9 10 9 12 13 14 17 15 3
+
+Tháng 12_-_1988 , đường lộ 887 hoàn_thành , được nghiệm_thu đúng tiêu_chuẩn , bàn_giao và đưa vào sử_dụng .
+Nt Nt PU Nn Nn Nr Vv PU Vv Vv Aa Nn PU Vv Cp Vv Cs Vv PU
+NP_ADVMOD NN PUNCT NSUBJ NN NN ROOT PUNCT CONJ VMOD ADJP_ADVMOD OBJ PUNCT CONJ CC CONJ PREP PCOMP PUNCT
+7 1 7 7 4 4 0 7 7 9 10 11 10 10 14 14 16 17 7
+
+Thế nhưng Phòng Giao_thông thị_xã Bến_Tre chỉ thanh_toán một nửa số tiền trong hợp_đồng kinh_tế , nửa còn_lại biến thành " nợ khó đòi " .
+Pp Cp Nn Nn Nun Nr R Vv Num Nq Nn Nn Cs Nn Nn PU Nq Ve Vv Vv PU Nn Aa Vv PU PU
+ROOT CC NSUBJ NN NP_ADVMOD NN ADJUNCT CONJ NUMBER NUM OBJ NN PREP POBJ NN PUNCT NSUBJ VMOD CONJ VMOD PUNCT OBJ AMOD VMOD PUNCT PUNCT
+0 1 8 3 3 5 8 1 10 11 8 11 11 13 14 8 19 17 8 19 22 20 22 23 22 1
+
+Thiếu vốn để tiếp_tục hoạt_động , đầu_tư , ông Hồng làm đơn kiện ra Trọng_tài kinh_tế tỉnh Bến_Tre .
+Aa Nn Cs Vv Vv PU Vv PU Nn Nr Vv Nn Vv R Nn Nn Nun Nr PU
+ADVCL OBJ PREP PCOMP VMOD PUNCT CONJ PUNCT NSUBJ NN ROOT OBJ RCMOD ADJUNCT OBJ NN NP_ADVMOD NN PUNCT
+11 1 1 3 4 5 5 11 11 9 0 11 12 13 13 15 15 17 11
+
+Quyết_định của trọng_tài kinh_tế yêu_cầu Phòng Giao_thông phải thanh_toán tiếp hợp_đồng .
+Nn Cs Nn Nn Vv Nn Nn Vv Vv Vv Nn PU
+NSUBJ PREP POBJ NN ROOT OBJ NN VMOD VMOD VMOD OBJ PUNCT
+5 1 2 3 0 5 6 5 8 9 9 5
+
+Nhưng nợ vẫn không đòi được .
+Cp Nn R R Vv R PU
+CC OBJ ADJUNCT ADJUNCT ROOT ADJUNCT PUNCT
+5 5 4 5 0 5 5
+
+Bốn ngày sau thời_điểm Phòng Giao_thông phải bị lập thủ_tục cưỡng_chế thi_hành quyết_định , đột_nhiên Lưu_Việt_Hồng thấy công_an và Viện_Kiểm_sát nhân_dân LBRK VKSND RBRK thị_xã Bến_Tre đến nhà mình , khám_xét và thi_hành lệnh bắt tạm giam vì tội " lạm_dụng tín_nhiệm chiếm_đoạt tài_sản xã_hội_chủ_nghĩa " .
+Num Nu Cs Nt Nn Nn Vv Vv Vv Nn Vv Vv Nn PU R Nr Vv Nn Cp Nn Nn LBRK X RBRK Nun Nr Vv Nn Pp PU Vv Cp Vv Nn Vv Aa Vv Cs Nn PU Vv Nn Vv Nn Nn PU PU
+NUM NP_ADVMOD PREP POBJ NSUBJ NN CCOMP VMOD VMOD OBJ RCMOD VMOD OBJ PUNCT ADJUNCT NSUBJ ROOT NSUBJ CC CONJ NN PUNCT PARATAXIS PUNCT NP_ADVMOD NN CCOMP NP_ADVMOD NN PUNCT CONJ CC CONJ OBJ RCMOD ACOMP VMOD PREP POBJ PUNCT RCMOD OBJ VMOD OBJ NN PUNCT PUNCT
+2 17 2 3 7 5 4 7 8 9 10 11 12 17 17 17 0 27 18 18 20 20 20 20 20 25 17 27 28 27 27 31 31 33 34 37 35 35 38 39 39 41 41 43 44 39 17
+
+Tám tháng trong trại tạm giam , ông Hồng đau thắt_ruột khi nghĩ đến công_trình chợ rau_quả trị_giá gần 2 tỉ đồng bị bỏ dở_dang , các hợp_đồng làm_ăn bỗng_nhiên trở_thành những món nợ khổng_lồ .
+Num Nu Cs Nn Aa Vv PU Nn Nr Vv ID Nt Vv Cs Nn Nn Nn Vv R Num Nq Nu Vv Vv Aa PU Nq Nn Vv R Vv Nq Nc Nn Aa PU
+NUM NP_ADVMOD PREP POBJ ACOMP RCMOD PUNCT NSUBJ NN ROOT VMOD NP_ADVMOD CCOMP PREP NN POBJ NN RCMOD ADJUNCT NUMBER NUM OBJ RCMOD VMOD ACOMP PUNCT DET NSUBJ VMOD ADJUNCT CONJ DET OBJ CLF AMOD PUNCT
+2 10 2 3 6 4 10 10 8 0 10 10 12 13 16 14 16 16 21 21 22 18 22 23 24 13 28 31 28 31 13 33 31 33 33 10
+
+Mỗi tuần vào thăm , vợ ông lại khóc hết_nước_mắt đem đến những tin_buồn mới : UBND xã Nhơn_Thạnh tổ_chức phát_mãi toàn_bộ giường_tủ , bàn_ghế , đồ_đạc trong nhà để đổi ra thành tiền trả nợ .
+Nq Nu Vv Vv PU Nn Pp R Vv ID Vv Cs Nq Nn Aa PU X Nun Nr Vv Vv Nw Nn PU Nn PU Nn Cs Nn Cs Vv R Vv Nn Vv Nn PU
+DET NP_ADVMOD XCOMP VMOD PUNCT NSUBJ NN ADJUNCT ROOT VMOD CONJ PREP DET POBJ AMOD PUNCT NSUBJ NN NN CCOMP VMOD DET OBJ PUNCT CONJ PUNCT CONJ PREP POBJ PREP PCOMP ADJUNCT VMOD OBJ RCMOD OBJ PUNCT
+2 3 9 3 9 9 6 9 0 9 9 11 14 12 14 14 20 17 18 14 20 23 21 23 23 25 25 23 28 21 30 31 31 33 34 35 9
+
+Uỷ_ban huy_động đoàn thu nợ gồm mấy chục người , mình trần tay lưới tới kéo năm ngày liền trên mấy ao cá nhà ông .
+Nn Vv Nn Vv Nn Vv Nq Nq Nn PU Nn Aa Nn Vv Vv Vv Num Nu Aa Cs Nq Nn Nn Nn Pp PU
+NSUBJ ROOT OBJ RCMOD OBJ RCMOD NUM CONJ OBJ PUNCT PARATAXIS AMOD CONJ VMOD VMOD VMOD NUM NP_ADVMOD AMOD PREP DET POBJ NN NN NN PUNCT
+2 0 2 3 4 3 9 7 6 9 9 11 11 13 2 15 18 16 18 16 22 20 22 22 24 2
+
+Cá_tai_tượng , cá trê phi , cá mẹ , cá con đều bị vớt sạch để ... trừ nợ .
+Nn PU Nn Nn Nn PU Nn Nn PU Nn Nn R Vv Vv Aa Cs PU Vv Nn PU
+NSUBJ PUNCT CONJ NN NN PUNCT CONJ NN PUNCT CONJ NN ADJUNCT ROOT VMOD ACOMP PREP PCOMP PCOMP OBJ PUNCT
+13 1 1 3 3 3 3 7 7 7 10 13 0 13 14 14 16 16 18 13
+
+Khi ông Hồng được ra trại , tổ_hợp Hồng_Hà đã tan_rã , 29.000 m2 đất vườn nhà ông cũng lần_lượt có chủ khác .
+Nt Nn Nr Vv Vv Nn PU Nn Nr R Vv PU Num Nu Nn Nn Nn Pp R R Ve Nn Aa PU
+NP_ADVMOD NSUBJ NN CCOMP VMOD OBJ PUNCT NSUBJ NN ADJUNCT ROOT PUNCT NUM NSUBJ NN NN NN NN ADJUNCT ADJUNCT CONJ OBJ AMOD PUNCT
+11 4 2 1 4 5 11 11 8 11 0 11 14 21 14 15 15 17 20 21 11 21 22 11
+
+Ao cá giờ_đây chỉ còn những đám bèo lềnh_bềnh cũng vào tay người khác .
+Nn Nn Pd R Ve Nq Nn Nn Aa R Vv Nn Nn Aa PU
+NSUBJ NN NP_ADVMOD ADJUNCT CSUBJ DET OBJ NN AMOD ADJUNCT ROOT OBJ NN AMOD PUNCT
+5 1 1 5 11 7 5 7 7 11 0 11 12 13 11
+
+Trong nhà không còn lấy một cái ghế .
+Cs Nn R Ve M Num Nc Nn PU
+PREP POBJ ADJUNCT ROOT INTJ NUM OBJ CLF PUNCT
+4 1 4 0 4 7 4 7 4
+
+Trên nền gạch của dãy nhà phụ , rõ mồn_một đường rãnh bị đào lên , xẻ ngay giữa nhà làm ranh_giới đất bàn_giao cho chủ mới ...
+Cs Nn Nn Cs Nn Nn Aa PU Aa Aa Nn Nn Vv Vv R PU Vv M Cs Nn Vv Nn Nn Vv Cs Nn Aa PU
+PREP POBJ NN PREP POBJ NN AMOD PUNCT ROOT ADJP_ADVMOD OBJ NN RCMOD VMOD ADJUNCT PUNCT CONJ PCOMP PREP POBJ VMOD OBJ NN VMOD PREP POBJ AMOD PUNCT
+9 1 2 2 4 5 5 9 0 9 9 11 11 13 14 14 14 19 17 19 17 21 22 21 24 25 26 9
+
+là một thương gia giỏi nhưng ông Hồng bảo mình không còn sức_lực để đứng lên , làm lại sau cú sốc ở tuổi 60 .
+Vc Num Nn Sv Aa Cp Nn Nr Vv Pp R Ve Nn Cs Vv R PU Vv R Cs Nn Vv Cs Nn An PU
+ROOT NUM ATTR SINO AMOD CC NSUBJ NN CONJ NSUBJ ADJUNCT CCOMP OBJ PREP PCOMP ADJUNCT PCOMP PCOMP ADJUNCT PREP POBJ VMOD PREP POBJ AMOD PUNCT
+0 3 1 3 3 1 9 7 1 12 12 9 12 13 14 15 14 14 18 18 20 21 21 23 24 1
+
+Bao_nhiêu ngày ông ngồi câm_lặng trong căn nhà trống , cay_đắng nhìn đất_đai , vườn_tược từ thời ông sơ , ông cố để lại nay lao_xao tiếng người lạ .
+Pp Nu Pp Vv Aa Cs Nc Nn Aa PU Aa Vv Nn PU Nn Cs Nt Nn Nn PU Nn Nn Vv R Nt Aa Nn Nn Aa PU
+DET NP_ADVMOD NSUBJ ROOT ACOMP PREP POBJ CLF AMOD PUNCT ACOMP CONJ NSUBJ PUNCT CONJ PREP POBJ NSUBJ NN PUNCT CONJ NN CCOMP ADJUNCT NP_ADVMOD CCOMP OBJ NN AMOD PUNCT
+2 4 4 0 4 4 6 7 7 4 12 4 26 13 13 13 16 23 18 18 18 21 17 23 26 12 26 27 28 4
+
+Ông rát_ruột nghĩ đến mấy đứa con nhỏ đã phải bỏ học đi làm_thuê vì trong nhà không còn hột gạo , đến trường bị bạn_bè chê_cười là con của " đồ lừa_đảo " .
+Pp ID Vv Cs Nq Nc Nn Aa R Vv Vv Vv Vv Vv Cs Cs Nn R Ve Nc Nn PU Cs Nn Vv Nn Vv Cs Nn Cs PU Nn Vv PU PU
+NSUBJ ACOMP ROOT PREP DET POBJ CLF AMOD ADJUNCT RCMOD VMOD VMOD VMOD VMOD MARK PREP POBJ ADJUNCT ADVCL OBJ CLF PUNCT CCOMP OBJ CONJ NSUBJ CCOMP PREP POBJ PREP PUNCT POBJ VMOD PUNCT PUNCT
+3 3 0 3 6 4 6 6 10 6 10 11 11 13 19 19 16 19 14 19 20 19 25 23 19 27 25 27 28 29 32 30 32 32 3
+
+Ông chua_xót thấy cảnh bà vợ hoảng_loạn tinh_thần Sau những ngày đội thu nợ rầm_rộ đến khuân_vác đồ_đạc , tát ao kéo lưới ...
+Pp Aa Vv Nn Nc Nn Vv Nn Cs Nq Nu Nn Vv Nn Aa Vv Vv Nn PU Vv Nn Vv Nn PU
+NSUBJ ACOMP ROOT OBJ NSUBJ CLF CCOMP OBJ PREP DET POBJ NSUBJ RCMOD OBJ ACOMP CCOMP VMOD OBJ PUNCT CONJ OBJ CONJ OBJ PUNCT
+3 3 0 3 7 5 4 7 7 11 9 16 12 13 16 11 16 17 17 17 20 20 22 3
+
+" Không cần khôi_phục tổ_hợp , làm kinh_tế nữa mà phải đòi lại danh_dự cho gia_đình " - ông Hồng quyết_định như vậy và dồn mọi sức_lực của mình vào hành_trình khiếu_nại .
+PU R Vv Vv Nn PU Vv Nn R Cp Vv Vv R Nn Cs Nn PU PU Nn Nr Vv Cs Pp Cp Vv Nw Nn Cs Pp Cs Nn Vv PU
+PUNCT ADJUNCT XCOMP VMOD OBJ PUNCT CONJ OBJ ADJUNCT CC CONJ VMOD ADJUNCT OBJ PREP POBJ PUNCT PUNCT NSUBJ NN ROOT PREP POBJ CC CONJ DET OBJ PREP POBJ PREP POBJ VMOD PUNCT
+21 3 21 3 4 4 4 7 7 3 3 11 12 12 12 15 21 21 21 19 0 21 22 21 21 27 25 27 28 25 30 31 21
+
+Ông được Toà_án nhân_dân tỉnh Bến_Tre ra quyết_định thu_hồi toàn_bộ tài_sản bị phát_mãi trái_phép giao lại cho vợ ông quản_lý để đảm_bảo thi_hành án .
+Pp Vv Nr Nn Nun Nr Vv Nn Vv Nw Nn Vv Vv Aa Vv R Cs Nn Pp Vv Cs Vv Vv Nn PU
+NSUBJ ROOT NSUBJ NN NP_ADVMOD NN CCOMP OBJ RCMOD DET OBJ RCMOD VMOD ADJP_ADVMOD VMOD ADJUNCT PREP NSUBJ NN PCOMP PREP PCOMP VMOD OBJ PUNCT
+2 0 7 3 3 5 2 7 8 11 9 11 12 13 9 15 15 20 18 17 20 21 22 23 2
+
+Nhưng thật_ra chỉ còn lại được mỗi căn nhà trống .
+Cp Cp R Ve R R M Nc Nn Aa PU
+CC CC ADJUNCT ROOT ADJUNCT ADJUNCT INTJ OBJ CLF AMOD PUNCT
+4 4 4 0 4 4 8 4 8 8 4
+
+Ông làm đơn kêu_oan lên VKSND tỉnh Bến_Tre , và ông chỉ nhận được lá thư khuyên hãy giải_quyết từng bước việc tiếp_tục đòi nợ Phòng Giao_thông thị_xã và trả nợ tín_dụng " để mọi việc được ổn_thoả " .
+Pp Vv Nn Vv Vv X Nun Nr PU Cp Pp R Vv M Nc Nn Vv R Vv Pp Nn Nn Vv Vv Nn Nn Nn Nun Cp Vv Nn Vv PU Cs Nw Nn Vv Aa PU PU
+NSUBJ ROOT OBJ VMOD VMOD OBJ NN NN PUNCT CC NSUBJ ADJUNCT CONJ INTJ OBJ CLF RCMOD ADJUNCT VMOD DET NP_ADVMOD OBJ RCMOD VMOD OBJ IOBJ NN NN CC CONJ OBJ VMOD PUNCT PREP DET NSUBJ PCOMP ACOMP PUNCT PUNCT
+2 0 2 2 4 5 6 7 2 2 13 13 2 13 13 15 15 19 17 21 19 19 22 23 24 24 26 26 23 23 30 31 19 19 36 37 34 37 19 2
+
+Bà vợ lại xếp mớ tiền_lẻ tích_cóp từ từng trái dừa , từng ngày làm_thuê của con để ông làm lộ_phí ra Hà_Nội .
+Nc Nn R Vv Nn Nn Vv Cs Pp Nn Nn PU Pp Nu Vv Cs Nn Cs Pp Vv Nn Vv Nr PU
+NSUBJ CLF ADJUNCT ROOT OBJ NN RCMOD PREP DET POBJ NN PUNCT DET CONJ VMOD PREP POBJ PREP NSUBJ PCOMP OBJ RCMOD OBJ PUNCT
+4 1 4 0 4 5 5 7 10 8 10 10 14 10 14 14 16 4 20 18 20 21 22 4
+
+Đi đến lần thứ hai ông gặp được bà Nguyễn_Thị_Định , người phụ_nữ lẫy_lừng của tỉnh Bến_Tre , lúc đó đang là phó chủ_tịch Hội_đồng Nhà_nước , chủ_tịch Hội Liên_hiệp phụ_nữ VN .
+Vv Cs Nn Nn An Pp Vv M Nn Nr PU Nc Nn Aa Cs Nun Nr PU Nt Pd R Vc Sv Nn Nn Nn PU Nn Nn Nn Nn Nr PU
+VMOD PREP POBJ NN AMOD NSUBJ ROOT INTJ NN NN PUNCT OBJ CLF AMOD PREP POBJ NN PUNCT DEP DET ADJUNCT PARATAXIS SINO NN ATTR NN PUNCT CONJ NN NN NN NN PUNCT
+7 1 2 3 4 7 0 7 12 12 12 7 12 12 12 15 16 12 22 19 22 12 24 25 22 25 25 25 28 29 30 31 7
+
+Bà Định nghe câu_chuyện cay_đắng của ông đã nghiên_cứu hồ_sơ và trao cho ông lá thư mà sau này ông gìn_giữ như bửu_bối .
+Nn Nr Vv Nn Aa Cs Pp R Vv Nn Cp Vv Cs Pp Nc Nn Cs Cs Pd Pp Vv Cs Nn PU
+NSUBJ NN ROOT OBJ AMOD PREP POBJ ADJUNCT CONJ OBJ CC CONJ PREP POBJ OBJ CLF MARK PREP POBJ NSUBJ CCOMP PREP POBJ PUNCT
+3 1 0 3 4 4 6 9 3 9 9 9 12 13 12 15 21 21 18 21 15 21 22 3
+
+" Nó như ánh_sáng cuối đường hầm , giữ lại cho tôi lòng tin vào công_lý , tin rằng sự_việc của mình cuối_cùng cũng sẽ được sáng_tỏ '' .
+PU Pp Cs Nn Cs Nn Nn PU Vv R Cs Pp Nn Vv Cs Nn PU Vv Cs Nn Cs Pp Aa R R Vv Vv PU PU
+PCOMP NSUBJ ROOT POBJ PREP POBJ NN PUNCT RCMOD ADJUNCT PREP POBJ OBJ VMOD PREP POBJ PUNCT PARATAXIS MARK NSUBJ PREP POBJ ADJP_ADVMOD ADJUNCT ADJUNCT CCOMP VMOD PCOMP PCOMP
+3 3 0 3 4 5 6 4 4 9 9 11 9 13 13 15 13 13 26 26 20 21 26 25 26 18 26 3 3
+
+Trong thư bà Định viết : " Tại sao Nhà_nước thiếu nợ của dân thì không ai nói gì , dân thiếu nợ Nhà_nước lại bắt_giam người_ta tám tháng ?
+Cs Nn Nn Nr Vv PU PU Cp Pp Nn Vv Nn Cs Nn Cp R Pp Vv Pp PU Nn Vv Nn Nn R Vv Pp Num Nu PU
+PREP POBJ NSUBJ NN ROOT PUNCT PUNCT CC DEP NSUBJ CCOMP OBJ PREP POBJ CC ADJUNCT NSUBJ CONJ OBJ PUNCT NSUBJ CONJ OBJ NSUBJ ADJUNCT CONJ OBJ NUM NP_ADVMOD PUNCT
+5 1 5 3 0 11 11 11 11 11 5 11 12 13 11 17 18 11 18 18 22 18 22 26 26 22 26 29 26 5
+
+Dân thiếu nợ bắt trả lãi , còn Nhà_nước thiếu nợ dân lại không tính lãi ?
+Nn Vv Nn Vv Vv Nn PU Cp Nn Vv Nn Nn R R Vv Nn PU
+NSUBJ ADVCL OBJ ROOT VMOD OBJ PUNCT CC NSUBJ CONJ OBJ NN ADJUNCT ADJUNCT CONJ OBJ PUNCT
+2 4 2 0 4 5 4 4 10 4 10 11 14 15 10 15 4
+
+Làm như thế là không công_bằng và mất lòng tin của dân ... " .
+Vv Cs Pp Vc R Aa Cp Ve Nn Nn Cs Nn PU PU PU
+VSUBJ PREP POBJ ROOT ADJUNCT ACOMP CC CONJ OBJ NN PREP POBJ PUNCT PUNCT PUNCT
+4 1 2 0 6 4 6 6 8 9 9 11 4 4 4
+
+Ngày 4_-_6_-_1999 , chín năm sau ngày bị bắt giam , Toà_án nhân_dân tỉnh Bến_Tre xử phiên sơ_thẩm , tuyên : Lưu_Việt_Hồng không phạm_tội " lạm_dụng tín_nhiệm chiếm_đoạt tài_sản xã_hội_chủ_nghĩa " .
+Nt Nt PU Num Nu Cs Nt Vv Vv Vv PU Nr Aa Nun Nr Vv Ncs Vv PU Vv PU Nr R Vv PU Vv Nn Vv Nn Nn PU PU
+NP_ADVMOD NN PUNCT NUM PARATAXIS PREP POBJ XCOMP VMOD VMOD PUNCT NSUBJ AMOD NP_ADVMOD NN ROOT OBJ CLF PUNCT CONJ PUNCT NSUBJ ADJUNCT CCOMP PUNCT VMOD OBJ VMOD OBJ NN PUNCT PUNCT
+16 1 1 5 1 5 6 7 8 9 16 16 12 12 14 0 16 17 16 16 24 24 24 20 24 24 26 26 28 29 24 16
+
+VKSND tỉnh Bến_Tre kháng_nghị .
+X Nun Nr Vv PU
+NSUBJ NP_ADVMOD NN ROOT PUNCT
+4 1 2 0 4
+
+Ngày 16_-_6_-_2000 , toà phúc_thẩm Toà_án tối_cao tại TP. HCM xét_xử , tuyên : Lưu_Việt_Hồng không phạm_tội .
+Nt Nt PU Nn Vv Nn Aa Cs Nun Nr Vv PU Vv PU Nr R Vv PU
+NP_ADVMOD NN PUNCT NSUBJ VMOD NN AMOD PREP POBJ NN ROOT PUNCT CONJ PUNCT NSUBJ ADJUNCT CCOMP PUNCT
+11 1 11 11 4 4 6 6 8 9 0 11 11 17 17 17 13 11
+
+Mục_tiêu phục_hồi danh_dự thế_là đã đạt được .
+Nn Vv Nn Cp R Vv R PU
+NSUBJ RCMOD OBJ CC ADJUNCT ROOT ADJUNCT PUNCT
+6 1 2 6 6 0 6 6
+
+Dù_cho một đời thương gia cuối_cùng đã phá_sản , dù_cho giữa căn nhà chỉ còn trơ cọc vẫn rành_rành cái ranh_giới cắt_xẻ ác_nghiệt nhưng lúc này nụ cười và sự thanh_thản đã trở_lại trên gương_mặt vợ_chồng ông .
+Cp Num Nn Vv Sv Aa R Vv PU Cp Cs Nc Nn R Ve Aa Nn R Aa Nc Nn Vv Aa Cp Nt Pd Nn Vv Cp Ncs Aa R Vv Cs Nn Nn Pp PU
+CC NUM NSUBJ NN SINO ADJP_ADVMOD ADJUNCT ROOT PUNCT CC PREP POBJ CLF ADJUNCT RCMOD ACOMP OBJ ADJUNCT CONJ OBJ CLF VMOD AMOD CC NP_ADVMOD DET NSUBJ VMOD CC CONJ CLF ADJUNCT CONJ PREP POBJ NN NN PUNCT
+8 3 8 3 4 8 8 0 8 8 19 11 12 15 12 15 15 19 8 19 20 20 20 8 33 25 33 27 27 27 30 33 8 33 34 35 36 8
+
+Thỉnh_thoảng có người hỏi_thăm , ông Hồng lại bảo : " Sự_việc xong rồi , chỉ còn thiếu một lời xin_lỗi " .
+R Ve Nn Vv PU Nn Nr R Vv PU PU Nn VA R PU R R Vv Num Nn Vv PU PU
+ADJUNCT ROOT NSUBJ CCOMP PUNCT NSUBJ NN ADJUNCT CONJ PUNCT PUNCT NSUBJ CCOMP ADJUNCT PUNCT ADJUNCT ADJUNCT CONJ NUM OBJ VMOD PUNCT PUNCT
+2 0 4 2 2 9 6 9 2 13 13 13 9 13 13 17 18 13 20 18 20 13 2
+
+Nghị_quyết 388 xuất_hiện và ông Hồng thấy ngay cơ_hội đòi lời xin_lỗi cho mình .
+Nn Nr Vv Cp Nn Nr Vv R Nn Vv Nn Vv Cs Pp PU
+NSUBJ NN ROOT CC NSUBJ NN CONJ ADJUNCT OBJ RCMOD OBJ VMOD PREP POBJ PUNCT
+3 1 0 3 7 5 3 7 7 9 10 11 10 13 3
+
+Ông gửi đơn yêu_cầu bồi_thường thiệt_hại về mặt dân_sự .
+Pp Vv Nn Vv Vv Nn Cs Nn Nn PU
+NSUBJ ROOT OBJ RCMOD VMOD OBJ PREP POBJ NN PUNCT
+2 0 2 3 4 5 6 7 8 2
+
+VKSND tối_cao chỉ_đạo VKSND tỉnh Bến_Tre giải_quyết .
+X Aa Vv X Nun Nr Vv PU
+NSUBJ AMOD ROOT OBJ NN NN VMOD PUNCT
+3 1 0 3 4 5 3 3
+
+Công_an tỉnh Bến_Tre thông_báo đồng_ý bồi_thường nhưng còn phải đợi sự phối_hợp giải_quyết của VKSND tỉnh .
+Nn Nun Nr Vv Vv Vv Cp R Vv Vv Ncs Vv Vv Cs X Nun PU
+NSUBJ NP_ADVMOD NN ROOT VMOD VMOD CC ADJUNCT CONJ VMOD OBJ CLF VMOD PREP POBJ NN PUNCT
+4 1 2 0 4 5 5 9 5 9 10 11 12 11 14 15 4
+
+Các cơ_quan khác nhận được đơn của ông Hồng cũng đều chuyển đến VKSND tỉnh Bến_Tre đề_nghị giải_quyết theo đúng thẩm_quyền .
+Nq Nn Aa Vv M Nn Cs Nn Nr R R Vv Cs X Nun Nr Vv Vv Vv Aa Nn PU
+DET NSUBJ AMOD RCMOD INTJ OBJ PREP POBJ NN ADJUNCT ADJUNCT VMOD PREP POBJ NP_ADVMOD NN ROOT VMOD VMOD ACOMP OBJ PUNCT
+2 17 2 2 4 4 6 7 8 11 17 17 17 13 14 15 0 17 18 19 20 17
+
+Nhưng đến nay một năm rưỡi đã trôi qua , ông Hồng chỉ nhận được hồi_âm duy_nhất là một giấy báo tin của VKSND tỉnh Bến_Tre : " Mong ông hãy theo_dõi sự giải_quyết của VKSND tối_cao " .
+Cp Cs Nt Num Nu Nq R Vv R PU Nn Nr R Vv M Nn Nn Vc Num Nn Vv Nn Cs X Nun Nr PU PU Vv Pp R Vv Ncs Vv Cs X Aa PU PU
+CC PREP POBJ NUM NSUBJ DET ADJUNCT ADVCL ADJUNCT PUNCT NSUBJ NN ADJUNCT ROOT INTJ OBJ NN RCMOD NUM ATTR RCMOD OBJ PREP POBJ NP_ADVMOD NN PUNCT PUNCT XCOMP NSUBJ ADJUNCT CCOMP OBJ CLF PREP POBJ AMOD PUNCT PUNCT
+14 14 2 5 8 5 8 14 8 14 14 11 14 0 14 14 16 16 20 18 20 21 20 23 24 25 29 29 20 32 32 29 32 33 33 35 36 29 14
+
+" Trên chỉ xuống , dưới lại chỉ lên , chẳng biết thế_nào nên tôi lại phải đâm_đơn ra toà " - ông Hồng cười .
+PU Cs Vv D PU Nn R Vv D PU R Vv Pp Cp Pp R Vv Vv Vv Nn PU PU Nn Nr Vv PU
+PUNCT NSUBJ CCOMP VMOD PUNCT NSUBJ ADJUNCT CONJ VMOD PUNCT ADJUNCT CONJ OBJ CC NSUBJ ADJUNCT CONJ VMOD VMOD OBJ PUNCT PUNCT NSUBJ NN ROOT PUNCT
+25 3 25 3 3 8 8 3 8 8 12 8 12 12 17 17 12 17 18 19 25 25 25 23 0 25
+
+Đơn khởi_kiện nộp lên toà_án tỉnh đã năm tháng mà chưa thấy hồi_âm .
+Nn Vv Vv Cs Nn Nun R Num Nu Cp R Vv Vv PU
+OBJ VMOD ROOT PREP POBJ NN ADJUNCT NUM NP_ADVMOD CC ADJUNCT CONJ VMOD PUNCT
+3 1 0 3 4 5 9 9 3 3 12 3 12 3
+
+Khoản tiền ông Hồng yêu_cầu bồi_thường là 7,9 tỉ đồng và đều được chứng_minh bằng giấy_tờ , văn_bản .
+Nn Nn Nn Nr Vv Vv Vc Num Nq Nu Cp R Vv Vv Cs Nn PU Nn PU
+NSUBJ NN NSUBJ NN CCOMP VMOD ROOT NUMBER NUM ATTR CC ADJUNCT CONJ VMOD PREP POBJ PUNCT CONJ PUNCT
+7 1 5 3 1 5 0 9 10 7 7 13 7 13 14 15 16 16 7
+
+Lật giở cho chúng_tôi xem từng tập chứng_từ , bất_chợt ông thở_dài : " Tôi làm kinh_tế cả đời nên có thói_quen thu_thập tài_liệu , cất_giữ chứng_từ .
+Vv Vv Cs Pp Vv Pp Nn Nn PU R Pp Vv PU PU Pp Vv Nn Nw Nn Cp Ve Nn Vv Nn PU Vv Nn PU
+XCOMP CONJ PREP NSUBJ PCOMP DET OBJ NN PUNCT ADJUNCT NSUBJ ROOT PUNCT PUNCT NSUBJ CCOMP OBJ DET NP_ADVMOD CC CONJ OBJ RCMOD OBJ PUNCT CONJ OBJ PUNCT
+12 1 1 5 3 7 5 7 12 12 12 0 16 16 16 12 16 19 16 16 16 21 22 23 23 23 26 12
+
+Có được chừng này hồ_sơ , dư sức chứng_minh yêu_cầu của mình là chính_đáng " .
+Ve M Nn Pd Nn PU Aa Nn Vv Nn Cs Pp M Aa PU PU
+ROOT INTJ OBJ DET NN PUNCT ADJP_ADVMOD OBJ VMOD NSUBJ PREP POBJ INTJ CCOMP PUNCT PUNCT
+0 1 1 3 3 1 1 7 7 14 10 11 14 9 1 1
+
+Ông bảo rằng những thiệt_hại không có chứng_từ chính là những mất_mát nặng_nề nhất .
+Pp Vv Cs Nq Nn R Ve Nn M Vc Nq Nn Aa R PU
+NSUBJ ROOT MARK DET NSUBJ ADJUNCT RCMOD OBJ INTJ CCOMP DET ATTR AMOD ADJUNCT PUNCT
+2 0 10 5 10 7 5 7 10 2 12 10 12 13 2
+
+Đó là ước_mơ trở_thành bác_sĩ , kỹ_sư của mấy đứa con nhỏ đã tan_tành khi việc học hết phổ_thông cũng đã quá tầm tay vì cha phá_sản và bị tống_giam .
+Pd Vc Nn Vv Nn PU Nn Cs Nq Nc Nn Aa R Aa Nt Nn Vv Ve Nn R R Vv Nn Nn Cs Nn Vv Cp Vv Vv PU
+NSUBJ ROOT ATTR RCMOD OBJ PUNCT CONJ PREP DET POBJ CLF AMOD ADJUNCT AMOD NP_ADVMOD NSUBJ RCMOD VMOD OBJ ADJUNCT ADJUNCT CCOMP OBJ NN MARK NSUBJ ADVCL CC CONJ VMOD PUNCT
+2 0 2 3 4 5 5 3 10 8 10 10 14 3 14 22 16 17 18 21 22 15 22 23 27 27 22 27 27 29 2
+
+Đó là mặc_cảm thất_bại và những đè_nén nặng_nề khi bỗng_chốc trắng_tay vì những nguyên_do không biết từ đâu ...
+Pd Vc Nn Vv Cp Nq Nn Aa Nt R Aa Cs Nq Nn R Vv Cs Pp PU
+NSUBJ ROOT ATTR VMOD CC DET CONJ AMOD NP_ADVMOD ADJUNCT CCOMP PREP DET POBJ ADJUNCT RCMOD PREP POBJ PUNCT
+2 0 2 3 3 7 3 7 7 11 9 11 14 12 16 14 16 17 2
+
+Nói thì nói vậy , nhưng ông Hồng vẫn nở nụ cười .
+Vv Cp Vv Pp PU Cp Nn Nr R Vv Nn Vv PU
+VSUBJ CC ROOT OBJ PUNCT CC NSUBJ NN ADJUNCT CONJ OBJ VMOD PUNCT
+3 3 0 3 3 3 10 7 10 3 10 11 3
+
+Ông thanh_thản nói : " Lời xin_lỗi rồi cũng sẽ đến thôi , dù chậm , Tôi tin là thế " .
+Pp Aa Vv PU PU Nn Vv Cp R R Vv M PU Cp Aa PU Pp Vv Cs Pp PU PU
+NSUBJ ACOMP ROOT PUNCT PUNCT NSUBJ VMOD CC ADJUNCT ADJUNCT CCOMP INTJ PUNCT CC ACOMP PUNCT NSUBJ CONJ PREP POBJ PUNCT PUNCT
+3 3 0 11 11 11 6 11 10 11 3 11 11 11 11 11 18 11 18 19 11 3
+

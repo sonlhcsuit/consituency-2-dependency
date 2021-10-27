@@ -1,0 +1,370 @@
+Sài_Gòn hàng_hiệu thể_thao .
+Nr Nn Nn PU
+ROOT NN NN PUNCT
+0 1 2 1
+
+Quần_soóc , áo thun Adidas , giày Nike , túi vợt Wilson , đồng_hồ Rolex , điện_thoại Nokia ...
+Nn PU Nn Nn Nr PU Nn Nr PU Nn Nn Nr PU Nn Nr PU Nn Nr PU
+ROOT PUNCT CONJ NN NN PUNCT CONJ NN PUNCT CONJ NN NN PUNCT CONJ NN PUNCT CONJ NN PUNCT
+0 1 1 3 3 3 3 7 7 7 10 11 10 10 14 14 14 17 1
+
+Chỉ còn mỗi da và ... mũi là chính_hiệu VN .
+R Ve M Nn Cp PU Nn Vc Aa Nr PU
+ADJUNCT VSUBJ INTJ OBJ CC PUNCT CONJ ROOT ACOMP OBJ PUNCT
+2 8 4 2 4 4 4 0 8 9 8
+
+Đó là " chân_dung " của khá nhiều người Sài_Gòn hôm_nay , trẻ cũng như sồn_sồn ...
+Pd Vc PU Nn PU Cs R Aa Nn Nr Nt PU Aa R Cp Aa PU
+NSUBJ ROOT PUNCT ATTR PUNCT PREP ADJUNCT AMOD POBJ NN NP_ADVMOD PUNCT AMOD ADJUNCT CC CONJ PUNCT
+2 0 4 2 4 4 8 9 6 9 9 9 9 15 13 13 2
+
+Khách_hàng .
+Nn PU
+ROOT PUNCT
+0 1
+
+Kh. học lớp 10 , thành_viên đội_tuyển bóng_rổ Trường NTMK .
+Nr Vv Nn An PU Nn Nn Nn Nn Nr PU
+NSUBJ ROOT OBJ AMOD PUNCT CONJ NN NN NN NN PUNCT
+2 0 2 3 2 2 6 7 7 9 2
+
+Vai mang túi_xách to_đùng như dân chuyên_nghiệp , Kh. bước vào cửa_hàng Nike trên đường Hai_Bà_Trưng và đi thẳng đến quầy giày .
+Nn Vv Nn Aa Cs Nn Aa PU Nr Vv Cs Nn Nr Cs Nn Nr Cp Vv Aa Cs Nn Nn PU
+NSUBJ CCOMP OBJ AMOD PREP POBJ AMOD PUNCT NSUBJ ROOT PREP POBJ NN PREP POBJ NN CC CONJ ACOMP PREP POBJ NN PUNCT
+2 10 2 3 3 5 6 10 10 0 10 11 12 12 14 15 10 10 18 18 20 21 10
+
+" Không có giày bóng_rổ à ? " .
+PU R Ve Nn Nn M PU PU PU
+PUNCT ADJUNCT ROOT OBJ NN INTJ PUNCT PUNCT PUNCT
+3 3 0 3 4 3 3 3 3
+
+Cô nhân_viên lắc_đầu " hết rồi em ạ " .
+Nc Nn Vv PU Ve R Pp M PU PU
+NSUBJ CLF ROOT PUNCT CCOMP ADJUNCT VOCATIVE INTJ PUNCT PUNCT
+3 1 0 5 3 5 5 7 5 3
+
+Tôi tranh_thủ chặn Kh. lại , " Em thích giày Nike à ? " .
+Pp Vv Vv Nr R PU PU Pp Vv Nn Nr M PU PU PU
+NSUBJ ROOT VMOD OBJ ADJUNCT PUNCT PUNCT NSUBJ CCOMP OBJ NN INTJ PUNCT PUNCT PUNCT
+2 0 2 3 3 9 9 9 2 9 10 9 9 9 2
+
+Kh. quay cái túi_xách về phía tôi trên đó có cái tên được viết bằng bút_bi khá to Allen_Iverson .
+Nr Vv Nc Nn Cs Nn Pp Cs Pd Ve Nc Nn Vv Vv Cs Nn R Aa Nr PU
+NSUBJ ROOT OBJ CLF PREP POBJ DET PREP POBJ CONJ OBJ CLF RCMOD VMOD PREP POBJ ADJUNCT AMOD NN PUNCT
+2 0 2 3 2 5 6 10 8 2 10 11 11 13 14 15 18 11 11 2
+
+" Em thích cầu_thủ LBRK bóng_rổ RBRK Mỹ này , anh ấy thường mang giày Nike " .
+PU Pp Vv Nn LBRK Nn RBRK Nr Pd PU Pp Pd R Vv Nn Nr PU PU
+PUNCT NSUBJ ROOT OBJ PUNCT PARATAXIS PUNCT NN DET PUNCT NSUBJ DET ADJUNCT CONJ OBJ NN PUNCT PUNCT
+3 3 0 3 4 4 4 4 4 3 14 11 14 3 14 15 3 3
+
+" Thế các bạn khác trong đội ? " .
+PU M Nq Pp Aa Cs Nn PU PU PU
+PUNCT INTJ DET ROOT AMOD PREP POBJ PUNCT PUNCT PUNCT
+4 4 4 0 4 4 6 4 4 4
+
+" Mỗi đứa một kiểu , nhưng chỉ toàn hàng_hiệu , không đôi nào dưới 1 triệu " .
+PU Nq Nn Num Nn PU Cp R Nw Nn PU R Nn Pd R Num Nq PU PU
+PUNCT DET NSUBJ NUM ROOT PUNCT CC ADJUNCT DET CONJ PUNCT ADJUNCT NSUBJ DET ADJUNCT NUMBER CONJ PUNCT PUNCT
+5 3 5 5 0 5 5 10 10 5 10 13 17 13 17 17 10 5 5
+
+" Chắc là cưng đôi giày hết cỡ ? " .
+PU Aa M Vv Nq Nn Ve Nn PU PU PU
+PUNCT ADJP_ADVMOD INTJ ROOT DET OBJ VMOD OBJ PUNCT PUNCT PUNCT
+4 4 2 0 6 4 4 7 4 4 4
+
+Kh. bật cười : " Hồi mua lần đầu thôi , lúc đó không dám chạy mạnh sợ hư , ngày nào chơi về cũng lau kỹ .
+Nr Vv Vv PU PU Nt Vv Nn An M PU Nt Pd R Vv Vv Aa Vv Aa PU Nt Pd Vv Vv R Vv Aa PU
+NSUBJ ROOT VMOD PUNCT PUNCT CCOMP XCOMP NP_ADVMOD AMOD INTJ PUNCT NP_ADVMOD DET ADJUNCT CONJ VMOD ACOMP CONJ ACOMP PUNCT NP_ADVMOD DET RCMOD VMOD ADJUNCT CONJ ACOMP PUNCT
+2 0 2 6 6 3 6 7 8 6 6 15 12 15 6 15 16 15 18 15 26 21 21 23 26 15 26 2
+
+Còn bây_giờ gần một năm rồi em chẳng thèm chùi rửa ! " .
+Cp Pd R Num Nu R Pp R Vv Vv Vv PU PU PU
+CC NP_ADVMOD ADJUNCT NUM NN ADJUNCT NSUBJ ADJUNCT ROOT VMOD CONJ PUNCT PUNCT PUNCT
+9 9 4 5 2 5 9 9 0 9 10 9 9 9
+
+Tôi chỉ tay vào quả bóng : " Em chơi loại bóng nào ? " .
+Pp Vv Nn Cs Nc Nn PU PU Pp Vv Nn Nn Pd PU PU PU
+NSUBJ ROOT OBJ PREP POBJ CLF PUNCT PUNCT NSUBJ CCOMP OBJ NN DET PUNCT PUNCT PUNCT
+2 0 2 2 4 5 10 10 10 2 10 11 11 10 10 2
+
+" Trường phát cho bóng Động_Lực thi_đấu nhưng bọn em hùn tiền mua riêng bóng Nike .
+PU Nn Vv Cs Nn Nr Vv Cp Nn Pp Vv Nn Vv Aa Nn Nr PU
+PUNCT NSUBJ ROOT PREP POBJ NN RCMOD CC NSUBJ DET CONJ OBJ RCMOD ACOMP OBJ NN PUNCT
+3 3 0 3 4 5 5 3 11 9 3 11 12 13 13 15 3
+
+Đắt gấp 3 - 4 lần nhưng nhìn_thấy cái biểu_tượng Nike trên trái bóng cũng ... oai " - Kh. trả_lời .
+Aa Vv Num PU Num Nn Cs Vv Nc Nn Nr Cs Nc Nn R PU Aa PU PU Nr Vv PU
+CCOMP VMOD NUM PUNCT CONJ OBJ MARK VSUBJ OBJ CLF NN PREP POBJ CLF ADJUNCT PUNCT CCOMP PUNCT PUNCT NSUBJ ROOT PUNCT
+21 1 6 3 3 2 1 17 8 9 9 9 12 13 17 17 1 21 21 21 0 21
+
+Cô bán hàng .
+Nn Vv Nn PU
+ROOT RCMOD OBJ PUNCT
+0 1 2 1
+
+T. đúng là cô nhân_viên may_mắn của đại_lý Adidas trên đường Hai_Bà_Trưng .
+Nr Aa M Nc Nn Aa Cs Nn Nr Cs Nn Nr PU
+NSUBJ AMOD INTJ ROOT CLF AMOD PREP POBJ NN PREP POBJ NN PUNCT
+4 4 2 0 4 4 4 7 8 8 10 11 4
+
+Chiếc áo có in tên Beckham giá 1.725.000 đồng nhập về gần bốn tháng nay đã bán được ... hai cái và đều trúng vào ca bán của T. .
+Nc Nn R Vv Nn Nr Nn Num Nu Vv Vv R Num Nu Nt R Vv R PU Num Nn Cp R Vv Cs Nn Vv Cs Nr PU
+NN CLF ADJUNCT RCMOD OBJ NN NSUBJ NUM NN RCMOD VMOD ADJUNCT DEP ADJP_ADVMOD DEP ADJUNCT ROOT ADJUNCT PUNCT NUM OBJ CC ADJUNCT CONJ PREP POBJ VMOD PREP POBJ PUNCT
+7 1 4 7 4 5 17 9 7 7 10 13 14 10 14 17 0 17 17 21 17 17 24 17 24 25 26 26 28 17
+
+" Khách_hàng nào mua áo đó ? " .
+PU Nn Pd Vv Nn Pd PU PU PU
+PUNCT NSUBJ DET ROOT OBJ DET PUNCT PUNCT PUNCT
+4 4 2 0 4 5 4 4 4
+
+" Một anh Việt kiều , anh ấy nói giá ở đây rẻ hơn , bên kia giá đến 150 USD .
+PU Num Nc Nr Sv PU Pp Pd Vv Nn Cs Pd Aa R PU Nn Pd Nn M Num Nu PU
+PUNCT NUM OBJ CLF SINO PUNCT NSUBJ DET ROOT NSUBJ PREP POBJ CCOMP ADJUNCT PUNCT NP_ADVMOD DET NSUBJ QUANTMOD NUM CONJ PUNCT
+9 3 9 3 4 9 9 7 0 13 10 11 9 13 13 21 16 21 20 21 13 9
+
+Khách_hàng thứ hai là một nhóm người .
+Nn Nn An Vc Num Nn Nn PU
+NSUBJ NN AMOD ROOT NUM ATTR NN PUNCT
+4 1 2 0 6 4 6 4
+
+Họ đến nhìn , hỏi , bàn_tán kỹ lắm rồi ... về .
+Pp Vv Vv PU Vv PU Vv Aa R Cp PU Vv PU
+NSUBJ ROOT VMOD PUNCT CONJ PUNCT CONJ ACOMP ADJUNCT CC PUNCT CONJ PUNCT
+2 0 2 2 2 5 5 7 8 7 7 7 2
+
+Ngày hôm sau họ lại đến và lần này thì mua .
+Nt Nt Nn Pp R Vv Cp Nn Pd Cp Vv PU
+NP_ADVMOD NN NN NSUBJ ADJUNCT ROOT CC NP_ADVMOD DET CC CONJ PUNCT
+6 1 2 6 6 0 6 11 8 11 6 6
+
+Nghe họ trao_đổi mới biết rằng họ góp tiền mua để làm_quà tặng ... con trai sếp nhân một dịp gì đấy ! " .
+Vv Pp Vv R Vv Cs Pp Vv Nn Vv Cs Vv Vv PU Nn Nn Nn Cs Num Nn Pp M PU PU PU
+XCOMP NSUBJ CCOMP ADJUNCT ROOT MARK NSUBJ CCOMP OBJ VMOD PREP PCOMP VMOD PUNCT OBJ NN NN PREP NUM POBJ DET INTJ PUNCT PUNCT PUNCT
+5 3 1 5 0 8 8 5 8 8 10 11 12 13 13 15 15 13 20 18 20 20 5 5 5
+
+Cũng ở một đại_lý của Adidas trên đường Lê_Lợi .
+R Cs Num Nn Cs Nr Cs Nn Nr PU
+ADJUNCT ROOT NUM POBJ PREP POBJ PREP POBJ NN PCOMP
+2 0 4 2 4 5 4 7 8 2
+
+Cô bán hàng có nụ cười duyên_dáng kể : " Bán hàng_hiệu nhiều chuyện vui và bất_ngờ lắm anh à .
+Nn Vv Nn Ve Nn Vv Aa Vv PU PU Vv Nn Aa Nn Aa Cp Aa R Pp M PU
+NSUBJ RCMOD OBJ RCMOD OBJ VMOD AMOD ROOT PUNCT PUNCT CSUBJ OBJ CCOMP OBJ AMOD CC CONJ ADJUNCT VOCATIVE INTJ PUNCT
+8 1 2 1 4 5 5 0 13 13 13 11 8 13 14 15 15 14 13 19 8
+
+Hôm trước có một ông khách đến bằng chiếc xe không có " đề " , ăn_mặc thì lùi_xùi ... đến tội_nghiệp , cứ tưởng là ông ta vô lộn chỗ .
+Nt Nn Ve Num Nc Nn Vv Cs Nc Nn R Ve PU Nn PU PU Vv Cp Aa PU M Aa PU R Vv Cs Pp Pp Vv Vv Nn PU
+NP_ADVMOD NN ROOT NUM NSUBJ CLF CCOMP PREP POBJ CLF ADJUNCT RCMOD PUNCT OBJ PUNCT PUNCT CONJ CC ACOMP PUNCT INTJ ADJP_ADVMOD PUNCT ADJUNCT CONJ MARK NSUBJ DET CCOMP VMOD OBJ PUNCT
+3 1 0 5 7 5 3 7 8 9 12 9 12 12 14 7 7 17 17 19 22 19 3 25 3 29 29 27 25 29 30 3
+
+Vào cửa_hàng ngó_nghiêng một hồi rồi mua ... tùm_lum thứ , toàn là hàng_hiệu , hết hơn 3 triệu đồng " .
+Vv Nn Vv Num Nt Cp Vv PU Aa Nn PU R Vc Nn PU Ve R Num Nq Nu PU PU
+ROOT OBJ CONJ NUM NP_ADVMOD CC CONJ PUNCT AMOD OBJ PUNCT ADJUNCT VMOD PARATAXIS PUNCT RCMOD ADJUNCT NUMBER NUM OBJ PUNCT PUNCT
+0 1 1 5 3 3 3 7 10 7 10 14 14 10 10 10 19 19 20 16 1 1
+
+" Rồi ông ta trả bằng đôla hay euro ? " - tôi hỏi đùa .
+PU Cp Pp Pp Vv Cs Nu Cp Nu PU PU PU Pp Vv Vv PU
+PUNCT CC NSUBJ DET CCOMP PREP POBJ CC CONJ PUNCT PUNCT PUNCT NSUBJ ROOT VMOD PUNCT
+14 5 5 3 14 5 6 7 7 5 14 14 14 0 14 14
+
+" Bằng tiền VN thôi .
+PU Cs Nn Nr M PU
+ROOT PREP POBJ NN INTJ PUNCT
+0 1 2 3 3 1
+
+Ông ta mua đồ để chạy bộ buổi sáng .
+Pp Pp Vv Nn Cs Vv Nn Nt Nt PU
+NSUBJ DET ROOT OBJ PREP PCOMP OBJ NP_ADVMOD NN PUNCT
+3 1 0 3 3 5 6 6 8 3
+
+Lại có nhiều khách_hàng tới mua hoài , không rõ họ xài cách nào cho hết .
+R Ve Aa Nn Vv Vv R PU R Aa Pp Vv Nn Pd M Ve PU
+ADJUNCT ROOT AMOD NSUBJ CCOMP VMOD ADJUNCT PUNCT ADJUNCT CONJ NSUBJ CCOMP NP_ADVMOD DET INTJ VMOD PUNCT
+2 0 4 5 2 5 6 2 10 2 12 10 12 13 16 12 2
+
+Mà toàn loại xịn " .
+Cp Nw Nn Aa PU PU
+CC DET ROOT AMOD PUNCT PUNCT
+3 3 0 3 3 3
+
+" Chắc là tiền dư nhiều quá phải kiếm cách xài cho mau hết hoặc là lấy cớ đến mua để được thấy cô bán hàng cười_duyên " .
+PU Aa M Nn Aa Aa R Vv Vv Nn Vv M Aa Ve Cp M Vv Nn Vv Vv Cs Vv Vv Nn Vv Nn Vv PU PU
+PUNCT ADJP_ADVMOD INTJ NSUBJ ADVCL ADJP_ADVMOD ADJUNCT ROOT VMOD OBJ RCMOD INTJ ACOMP VMOD CC INTJ CONJ OBJ RCMOD VMOD PREP PCOMP VMOD NSUBJ RCMOD OBJ CCOMP PUNCT PUNCT
+8 5 2 5 8 5 6 0 8 9 10 14 14 11 8 15 8 17 18 19 20 21 22 27 24 25 23 8 8
+
+" Xí ! " .
+PU E PU PU PU
+ROOT INTJ PUNCT PUNCT PUNCT
+0 1 1 1 1
+
+Ph. cũng có nụ cười rất duyên lại kèm hai lúm_đồng_tiền .
+Nr R Ve Nn Vv R Aa R Vv Num Nn PU
+NSUBJ ADJUNCT ROOT OBJ VMOD ADJUNCT AMOD ADJUNCT CONJ NUM OBJ PUNCT
+3 3 0 3 4 7 4 9 3 11 9 3
+
+Quầy hàng trang_phục thể_thao ở tầng 2 siêu_thị Diamond_Plaza trên đường Lê_Duẩn có nhiều hiệu : Babolat , Puma , Spalding , Speedo , Nike ... và khá đông khách .
+Nn Nn Nn Nn Cs Nn An Nn Nr Cs Nn Nr Ve Aa Nn PU Nr PU Nr PU Nr PU Nr PU Nr PU Cp R Aa Nn PU
+NSUBJ NN NN NN PREP POBJ AMOD NN NN PREP POBJ NN ROOT AMOD OBJ PUNCT PARATAXIS PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT CC ADJUNCT CONJ OBJ PUNCT
+13 1 1 3 1 5 6 6 8 8 10 11 0 15 13 15 15 17 17 19 19 21 21 23 23 17 13 29 13 29 13
+
+Bán hàng không kịp trở_tay nhưng Ph. vẫn tranh_thủ giải_thích cho tôi : " Spalding là hãng của Mỹ chuyên về trang_phục cho bóng_chày , Speedo là hãng trang_phục bơi nổi_tiếng của Úc .
+Vv Nn R Aa Vv Cp Nr R Vv Vv Cs Pp PU PU Nr Vc Nn Cs Nr Aa Cs Nn Cs Nn PU Nr Vc Nn Nn Nn Aa Cs Nr PU
+XCOMP OBJ ADJUNCT ACOMP VMOD CC NSUBJ ADJUNCT ROOT VMOD PREP POBJ PUNCT PUNCT NSUBJ CCOMP ATTR PREP POBJ PCOMP PREP POBJ PREP POBJ PUNCT NSUBJ CONJ ATTR NN NN AMOD PREP POBJ PUNCT
+9 1 4 1 4 9 9 9 0 9 10 11 16 16 16 10 16 17 18 21 17 21 22 23 16 27 16 27 28 29 28 28 32 9
+
+Các VĐV bơi_lội VN dự SEA_Games vừa_rồi cũng mua ở đây .
+Nq Nn Vv Nr Vv FW Nt R Vv Cs Pd PU
+DET NSUBJ VMOD NN RCMOD OBJ NN ADJUNCT ROOT PREP POBJ PUNCT
+2 9 2 2 2 5 6 9 0 9 10 9
+
+Vợt tennis Babolat bán_chạy nhất hiện_nay ở Sài_Gòn , còn Puma với Nike thì anh biết rồi đấy " .
+Nn FW Nr Vv R Nt Cs Nr PU Cp Nr Cp Nr Cp Pp Vv R M PU PU
+NSUBJ DEP NN ROOT ADJUNCT NP_ADVMOD PREP POBJ PUNCT CC DEP CC CONJ CC NSUBJ CONJ ADJUNCT INTJ PUNCT PUNCT
+4 1 1 0 4 4 4 7 4 4 16 11 11 16 16 4 16 16 4 4
+
+Ph. ngừng nói để tính hoá_đơn cho hai khách_hàng nữ thuộc loại U_-_40 .
+Nr Vv Vv Cs Vv Nn Cs Num Nn Nn Vv Nn Nr PU
+NSUBJ ROOT VMOD PREP PCOMP OBJ PREP NUM POBJ NN RCMOD OBJ NN PUNCT
+2 0 2 2 4 5 5 9 7 9 9 11 12 2
+
+Hai vị khách này mua nhiều trang_phục tennis và nhanh như kiểu mua ... tạp_hoá vậy .
+Num Nc Nn Pd Vv Aa Nn FW Cp Aa Cs Nn Vv PU Nn M PU
+NUM NSUBJ CLF DET ROOT AMOD OBJ DEP CC CONJ PREP POBJ RCMOD PUNCT OBJ INTJ PUNCT
+2 5 2 2 0 7 5 7 5 5 10 11 12 13 13 10 5
+
+Hoá_đơn tính tiền tròm_trèm 3 triệu được thanh_toán bằng những tờ 500.000 đồng mới cáu .
+Nn Vv Nn Aa Num Nq Vv Vv Cs Nq Nn Num Nu Aa Aa PU
+NSUBJ RCMOD OBJ AMOD NUMBER DEP ROOT VMOD PREP DET POBJ NUM NN AMOD ADJP_ADVMOD PUNCT
+7 1 2 1 6 4 0 7 8 11 9 13 11 11 14 7
+
+Có đi xem người_ta sắm hàng_hiệu thể_thao như thế này mới thấy tự_hào cho cái sự khấm_khá của dân VN .
+R Vv Vv Pp Vv Nn Nn Cs Pp Pd R Vv Aa Cs M Ncs Aa Cs Nn Nr PU
+ADJUNCT XCOMP VMOD NSUBJ CCOMP OBJ NN PREP POBJ DET ADJUNCT ROOT ACOMP PREP INTJ POBJ CLF PREP POBJ NN PUNCT
+2 12 2 5 3 5 6 5 8 9 12 0 12 13 16 14 16 16 18 19 12
+
+Th. lại không có cái may_mắn bán đắt như Ph .
+Nr R R Ve Ncs Aa Vv Aa Cs Nr PU
+NSUBJ ADJUNCT ADJUNCT ROOT OBJ CLF RCMOD ACOMP PREP POBJ PUNCT
+4 3 4 0 4 5 5 7 5 9 4
+
+Cửa_hàng cô đang làm_việc trên đường Hai_Bà_Trưng vắng như ... sân bóng_đá Thành_Long mấy ngày tổ_chức giải bóng_đá nữ vừa_qua : đoạn đường trước cửa_hàng đang được đào lên để đặt đường_ống .
+Nn Pp R Vv Cs Nn Nr Aa Cs PU Nn Nn Nr Nq Nu Vv Nn Nn Nn Nt PU Nn Nn Cs Nn R Vv Vv R Cs Vv Nn PU
+NSUBJ NSUBJ ADJUNCT CCOMP PREP POBJ NN ROOT PREP PCOMP POBJ NN NN DET NP_ADVMOD RCMOD OBJ NN NN NN PUNCT NSUBJ NN PREP POBJ ADJUNCT CONJ VMOD ADJUNCT PREP PCOMP OBJ PUNCT
+8 4 4 1 1 5 6 0 8 9 9 11 11 15 11 15 16 17 18 15 8 27 22 22 24 27 8 27 28 28 30 31 8
+
+Vào cái giờ quá đẹp cho chuyện mua_sắm LBRK 19 g RBRK mà cả bốn cô nhân_viên thong_thả ngồi xem Vui cùng Hugo .
+Cs M Nt R Aa Cs Nn Vv LBRK Num Nt RBRK Cp Nw Num Nc Nn Aa Vv Vv VA Cs Nr PU
+PREP INTJ POBJ ADJUNCT AMOD PREP POBJ VMOD PUNCT NUM PARATAXIS PUNCT CC DET NUM NSUBJ CLF ACOMP ROOT VMOD OBJ PREP POBJ PUNCT
+19 3 1 5 3 5 6 7 3 11 3 3 19 16 16 19 16 19 0 19 20 21 22 19
+
+Cửa_hàng thoáng_đãng với vô_số những là giày bóng_đá , giày chạy bộ , áo_quần thể_thao , các loại bóng_rổ , bóng_chuyền , bóng_đá , vợt cầu_lông , vợt tennis ... của hàng_loạt tên_tuổi Dunlop , Yonex , Reebok , Fila , Carton , Mitre , Ultra ... và giá_cả có phần mềm hơn các nhãn_hiệu nổi_tiếng khác .
+Nn Aa Cs Aa Nq M Nn Nn PU Nn Vv Nn PU Nn Nn PU Nq Nn Nn PU Nn PU Nn PU Nn Nn PU Nn FW PU Cs Nq Nn Nr PU Nr PU Nr PU Nr PU Nr PU Nr PU Nr PU Cp Nn Ve Nn Aa Vcp Nq Nn Aa Aa PU
+NSUBJ ROOT PREP AMOD POBJ INTJ NN NN PUNCT CONJ RCMOD OBJ PUNCT CONJ NN PUNCT DET CONJ NN PUNCT CONJ PUNCT CONJ PUNCT CONJ NN PUNCT CONJ DEP PUNCT PREP DET POBJ NN PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT CC NSUBJ CONJ OBJ AMOD VMOD DET OBJ AMOD AMOD PUNCT
+2 0 2 5 3 5 5 7 7 7 10 11 10 10 14 14 18 14 18 19 19 21 21 23 23 25 25 25 28 7 5 33 31 33 34 34 36 36 38 38 40 40 42 42 44 44 34 2 50 2 50 51 52 55 53 55 55 2
+
+Ở lối ra vào là tấm hình to_tướng của Michel_Owen .
+Cs Nn Vv Vv Vc Nc Nn Aa Cs Nr PU
+PREP POBJ RCMOD CONJ ROOT ATTR CLF AMOD PREP POBJ PUNCT
+5 1 2 3 0 5 6 6 6 9 5
+
+Cầu_thủ này đúng là xui_xẻo , ở bên Real_Madrid thì ngồi dự_bị suốt , còn sang VN lại chẳng có mấy khách_hàng mà trò_chuyện !
+Nn Pd Aa M Aa PU Vv Nn Nr Cp Vv Aa Aa PU Cp Vv Nr R R Ve Nq Nn M Vv PU
+NSUBJ DET ADJP_ADVMOD INTJ ROOT PUNCT PREP POBJ NN CC CONJ ACOMP ACOMP PUNCT CC XCOMP NP_ADVMOD ADJUNCT ADJUNCT CONJ DET OBJ INTJ VMOD PUNCT
+5 1 5 3 0 5 11 7 8 11 5 11 11 11 11 20 16 19 20 11 22 20 24 20 5
+
+Hàng_họ và cửa_hàng .
+Nn Cp Nn PU
+ROOT CC CONJ PUNCT
+0 1 1 1
+
+Có_thể phân các cửa_hàng bán trang_phục thể_thao ở TP. HCM ra các dạng như sau : đại_lý chính_thức LBRK như của Adidas , Nike trên đường Hai_Bà_Trưng , Lê_Lợi , Nguyễn_Trãi , trong siêu_thị Diamond ... RBRK ; đại_lý độc_quyền LBRK như của Prince ở Trang_Sports , của Wilson ở Thu_Sports đều trên đường Phạm_Hồng_Thái RBRK , các nhãn_hiệu khác LBRK như Sports_World ở đường Hai_Bà_Trưng RBRK và các quầy trang_phục thể_thao LBRK như ở siêu_thị Diamond RBRK .
+Aa Vv Nq Nn Vv Nn Nn Cs Nun Nr Vv Nq Nn Cs Nn PU Nn Aa LBRK Cp Cs Nr PU Nr Cs Nn Nr PU Nr PU Nr PU Cs Nn Nr PU RBRK PU Nn Aa LBRK Cp Cs Nr Cs Nr PU Cs Nr Cs Nr R Cs Nn Nr RBRK PU Nq Nn Aa LBRK Cp Nr Cs Nn Nr RBRK Cp Nq Nn Nn Nn LBRK Cp Cs Nn Nr RBRK PU
+ACOMP ROOT DET OBJ RCMOD OBJ NN PREP POBJ NN VMOD DET OBJ PREP POBJ PUNCT PARATAXIS AMOD PUNCT CC PARATAXIS POBJ PUNCT CONJ PARATAXIS POBJ NN PUNCT CONJ PUNCT CONJ PUNCT CONJ POBJ NN PCOMP PUNCT PUNCT CONJ AMOD PUNCT CC PARATAXIS POBJ PARATAXIS POBJ PCOMP PREP POBJ PARATAXIS POBJ ADJUNCT PREP POBJ NN PUNCT PUNCT DET CONJ AMOD PUNCT CC PARATAXIS PARATAXIS POBJ NN PUNCT CC DET CONJ NN NN PUNCT CC PARATAXIS POBJ NN PUNCT PUNCT
+2 0 4 2 4 5 6 4 8 9 2 13 11 13 14 15 15 17 17 17 17 21 22 22 17 25 26 27 27 29 29 25 25 33 34 25 17 17 17 39 39 39 39 43 43 45 43 43 48 43 50 53 51 53 54 39 39 59 39 59 59 59 59 59 64 65 59 59 70 59 70 71 70 70 70 75 76 70 2
+
+Ngoài_ra , còn có các cửa_hàng " tạp_pí_lù " tập_trung chủ_yếu ở đường Nguyễn_Thị_Minh_Khai , quanh công_viên văn_hoá Tao_Đàn ...
+Cp PU R Ve Nq Nn PU Aa PU Vv Aa Cs Nn Nr PU Nn Nn Nn Nr PU
+CC PUNCT ADJUNCT ROOT DET NSUBJ PUNCT AMOD PUNCT CCOMP ACOMP PREP POBJ NN PUNCT PARATAXIS NN NN NN PUNCT
+4 4 4 0 6 10 6 6 6 4 10 11 12 13 13 13 16 17 17 4
+
+Chơi thể_thao phải tốn_kém là lẽ tất_nhiên nhưng có_lẽ dân_chơi tennis là tốn hơn cả .
+Vv Nn Vv Vv Vc Nn Aa Cs R Nn FW Vc Vv Vcp Pp PU
+VSUBJ OBJ CSUBJ VMOD ROOT ATTR AMOD MARK ADJUNCT NSUBJ DEP CCOMP VMOD VMOD OBJ PUNCT
+3 1 5 3 0 5 6 5 12 12 10 5 12 13 14 5
+
+Vào sân tennis tôi được biết những chuyện vui như thua độ cái lẩu dê tức quá đập gãy cái vợt hơn 2 triệu đồng và chuyện săn vợt đắt nhất .
+Vv Nn FW Pp Vv Vv Nq Nn Aa Cs Vv Nn M Nn Nn VA R Vv Vv Nc Nn R Num Nq Nu Cp Nn Vv Nn Aa R PU
+XCOMP OBJ DEP NSUBJ ROOT VMOD DET OBJ AMOD PARATAXIS PCOMP OBJ INTJ OBJ NN CONJ ADJUNCT VMOD VMOD NN CLF ADJUNCT NUMBER NUM OBJ CC NN RCMOD OBJ AMOD ADJUNCT PUNCT
+5 1 2 5 0 5 8 6 8 8 10 11 14 11 14 11 16 16 18 25 20 24 24 25 19 8 8 27 28 29 30 5
+
+Quán_quân giá vợt tennis thuộc về Wilson với model Ncode giá 3,4 triệu đồng , á_quân là cây vợt Babolat_VS_Nanotube_Power với giá thiếu 1.000 đầy 3 triệu .
+Nn Nn Nn FW Vv Cs Nr Cs Nn Nr Nn Num Nq Nu PU Nn Vc Nc Nn Nr Cs Nn R Num Aa Num Nq PU
+NSUBJ NN NN DEP ROOT PREP POBJ PREP POBJ NN NN NUMBER NUM NN PUNCT NSUBJ CONJ ATTR CLF NN PREP POBJ ADJUNCT AMOD ADJP_ADVMOD NUMBER DEP PUNCT
+5 1 2 3 0 5 6 7 8 9 9 13 14 11 5 17 5 17 18 18 18 21 24 22 24 27 25 5
+
+Đấy là chưa kể theo lời của một ông chủ cửa_hàng thể_thao khá nổi_tiếng , chính tay ông đã bán ra trên thị_trường VN 144 cây vợt tennis hiệu W dành cho VIP có mạ vàng ở tay_cầm với giá 1.200 USD_[]_cây .
+Pd Vc R Vv Vv Nn Cs Num Nc Nn Nn Nn R Aa PU M Nn Pp R Vv R Cs Nn Nr Num Nc Nn FW Nn Nr Vv Cs Nr Ve Vv Nn Cs Nn Cs Nn Num Nu PU
+NSUBJ ROOT ADJUNCT VMOD VMOD OBJ PREP NUM NN CLF POBJ NN ADJUNCT AMOD PUNCT INTJ NSUBJ NN ADJUNCT CONJ ADJUNCT PREP POBJ NN NUM NN CLF DEP OBJ NN RCMOD PREP POBJ RCMOD VMOD OBJ PREP POBJ PREP POBJ NUM NN PUNCT
+2 0 4 2 4 5 6 11 11 9 7 11 14 11 2 17 20 17 20 2 20 20 22 23 29 29 26 29 20 29 29 31 32 29 34 35 35 37 29 39 42 40 2
+
+Cũng theo lời kể của ông chủ này , có một tay " công_tử ... Bến_Tre " mua một cây và đã ... đập gãy trong một lần thua độ chầu nhậu .
+R Vv Nn Vv Cs Nc Nn Pd PU Ve Num Nc PU Nn PU Nr PU Vv Num Nn Cp R PU Vv Vv Cs Num Nn Vv Nn Nn Vv PU
+ADJUNCT VMOD OBJ VMOD PREP POBJ CLF DET PUNCT ROOT NUM NSUBJ PUNCT CLF PUNCT NN PUNCT CCOMP NUM OBJ CC ADJUNCT PUNCT CONJ VMOD PREP NUM POBJ RCMOD OBJ NN VMOD PUNCT
+2 10 2 3 3 5 6 3 10 0 12 18 12 12 12 12 12 10 20 18 18 24 24 18 24 24 28 26 28 29 30 31 10
+
+Riêng chơi cầu_lông mà có nhiều tiền quá thì nên đi sắm ngay cặp vợt Babolat với giá thiếu 1.000 đủ 2 triệu để vợ_chồng đánh cho êm tay .
+M Vv Nn Cp Ve Aa Nn R Cp Vv Vv Vv R Nq Nn Nr Cs Nn Aa Num Aa Num Nq Cs Nn Vv Cs Aa Nn PU
+INTJ ROOT OBJ CC XCOMP ACOMP OBJ ADJUNCT CC XCOMP VMOD VMOD ADJUNCT DET OBJ NN PREP POBJ AMOD DEP QUANTMOD OBJ DET PREP NSUBJ PCOMP PREP PCOMP OBJ PUNCT
+2 0 2 2 2 5 6 6 2 2 10 11 12 15 12 15 15 17 18 19 20 21 22 15 26 24 26 27 28 2
+
+Bóng_đá lại là chuyện khác : môn thể_thao vua này chẳng vua tí nào trong cái khoản trang_phục hàng_hiệu .
+Nn R Vc Nn Aa PU Nn Nn Nn Pd R Aa Nq Pd Cs M Nn Nn Nn PU
+NSUBJ ADJUNCT ROOT ATTR AMOD PUNCT NSUBJ NN NN DET ADJUNCT PARATAXIS OBJ DET PREP INTJ POBJ NN NN PUNCT
+3 3 0 3 4 4 12 7 7 7 12 4 12 13 12 17 15 17 18 3
+
+Chỉ cần vài chục ngàn cho đôi giày dỏm có chữ Adidas hay biểu_tượng Nike , một bộ " quần_đùi_áo_số " làng_nhàng nữa là có_thể trịnh_trọng ra sân ngay .
+R Vv Nq Nq Nq Cs Nq Nn Aa Ve Nn Nr Cp Nn Nr PU Num Nc PU Nn PU Aa R Vc Aa Aa Vv Nn R PU
+ADJUNCT VSUBJ DEP CONJ CONJ PREP DET POBJ AMOD RCMOD OBJ NN CC CONJ NN PUNCT NUM CONJ PUNCT CLF PUNCT AMOD ADJUNCT ROOT ACOMP ACOMP VMOD OBJ ADJUNCT PUNCT
+2 24 2 3 4 3 8 6 8 8 10 11 11 11 14 8 18 8 18 18 18 18 8 0 27 27 24 27 27 24
+
+Bởi trong trò đá bóng thiên_hạ chỉ ăn nhau chuyện đá hay đá dở .
+Cs Cs Nn Vv Nn Nn R Vv Nn Nn Vv Aa Vv Aa PU
+PREP PREP POBJ RCMOD OBJ NSUBJ ADJUNCT ROOT OBJ OBJ RCMOD ACOMP CONJ ACOMP PUNCT
+8 1 2 3 4 8 8 0 8 8 10 11 11 13 8
+
+Anh có mang đôi giày Beckham giá 2,95 triệu đồng vào sân mà đá ... như hạch là bị " chúng " chửi ngay .
+Pp R Vv Nq Nn Nr Nn Num Nq Nu Vv Nn Cp Vv PU Cs Nn Vc Vv PU Pp PU Vv R PU
+NSUBJ ADJUNCT CCOMP DET OBJ NN NN NUMBER NUM NN VMOD OBJ CC CONJ PUNCT PREP POBJ ROOT XCOMP PUNCT NSUBJ PUNCT CCOMP ADJUNCT PUNCT
+3 3 18 5 3 5 5 9 10 7 3 11 3 3 14 14 16 0 18 21 23 21 19 23 18
+
+Thành_ra ở quầy thể_thao hàng_hiệu chỉ thấy toàn giày tennis , chạy bộ , bóng_rổ ... còn giày bóng_đá xịn chỉ lèo_tèo vài đôi để chờ dân chuyên_nghiệp đến mua .
+Cp Cs Nn Nn Nn R Vv Nw Nn FW PU Vv Nn PU Nn PU Cp Nn Nn Aa R Aa Nq Nn Cs Vv Nn Aa Vv Vv PU
+CC PREP POBJ NN NSUBJ ADJUNCT ROOT DET OBJ NN PUNCT CONJ OBJ PUNCT CONJ PUNCT CC NSUBJ NN AMOD ADJUNCT CONJ DET OBJ PREP PCOMP OBJ AMOD VMOD VMOD PUNCT
+7 7 2 3 7 7 0 9 7 9 10 10 12 12 12 15 7 22 18 18 22 7 24 22 24 25 26 27 26 29 7
+
+Cuối_cùng nếu bạn muốn sở_hữu một chiếc áo của Arsenal hay M.U mà không cần phải mua vé máy_bay sang Anh thì xin mách bạn hãy đến đường Huyền_Trân_Công_Chúa bên hông công_viên Tao_Đàn LBRK cũng đừng vì nghe đồn mà chạy xuống siêu_thị Supper_Bowl vì ở đó chỉ " đã từng " có bán các trang_phục chính_hiệu của M.U RBRK .
+Aa Cp Pp Vv Vv Num Nc Nn Cs Nr Cp Nr Cp R Vv Vv Vv Nn Nn Vv Nr Cp Vv Vv Pp R Vv Nn Nr Nn Nn Nn Nr LBRK R R Cs Vv Vv Cp Vv Vv Nn Nr Cs Cs Pd R PU R R PU R Vv Nq Nn Aa Cs Nr RBRK PU
+ADJP_ADVMOD CC NSUBJ ROOT VMOD NUM OBJ CLF PREP POBJ CC CONJ CC ADJUNCT CONJ VMOD VMOD OBJ NN RCMOD NP_ADVMOD CC CONJ VMOD OBJ ADJUNCT VMOD NP_ADVMOD NN NN NN NN NN CONJ ADJUNCT ADJUNCT PREP PCOMP VMOD CC CONJ VMOD NP_ADVMOD NN MARK PREP POBJ ADJUNCT PUNCT ADJUNCT CONJ PUNCT ADJUNCT ADVCL DET OBJ AMOD PREP POBJ PUNCT PUNCT
+4 4 4 0 4 7 5 7 7 9 10 10 4 15 4 15 16 17 18 18 20 4 4 23 24 27 24 27 28 28 30 30 32 23 36 37 41 37 38 41 34 41 42 43 54 54 46 50 50 54 50 50 50 41 56 54 56 56 58 4 4
+
+Sau khi bạn đã chọn chiếc áo có biểu_trưng M.U yêu_quí , muốn có tên cầu_thủ nào sau lưng thì cứ yêu_cầu , cỡ chừng hơn hai tiếng đồng_hồ sau là nhân_viên cửa_hàng in xong ngay .
+Cs Nt Pp R Vv Nc Nn Ve Nn Nr Vv PU Vv Ve Nn Nn Pd Cs Nn Cp R Vv PU R R R Num Nu Nn Nn M Nn Nn Vv VA M PU
+PREP POBJ NSUBJ ADJUNCT DEP OBJ CLF RCMOD OBJ NN RCMOD PUNCT ROOT VMOD OBJ NN DET PREP POBJ CC ADJUNCT CONJ PUNCT ADJUNCT ADJUNCT ADJUNCT NUM NP_ADVMOD NN NN INTJ NSUBJ NN CONJ VMOD INTJ PUNCT
+13 1 5 5 2 5 6 6 8 9 9 13 0 13 14 15 16 14 18 13 22 13 13 26 26 27 28 34 28 28 34 34 32 13 34 35 13
+
+Giá_cả cực_kỳ mềm : 75.000 đồng_[]_áo , còn nguyên bộ thì 98.000 đồng .
+Nn R Aa PU Num Nu PU Cp Aa Nn Cp Num Nu PU
+NSUBJ ADJUNCT ROOT PUNCT NUM PARATAXIS PUNCT CC AMOD NSUBJ CC NUM PARATAXIS PUNCT
+3 3 0 3 6 3 3 13 10 13 13 13 3 3
+
+Bảo_đảm hàng được may ở ... khu công_nghiệp hẳn_hoi .
+Vv Nn Vv Vv Cs PU Nn Nn Aa PU
+ROOT NSUBJ CCOMP VMOD PREP PCOMP POBJ NN ACOMP PUNCT
+0 3 1 3 4 5 5 7 4 1
+
+Và nếu bạn có lòng yêu đội_tuyển VN thì ngay bên cạnh đó là áo các tuyển_thủ thân_yêu của mình với giá cũng chẳng hề thua_kém giá áo M.U !
+M Cp Pp Ve Nn Vv Nn Nr Cp R Nn Nn Pd Vc Nn Nq Nn Aa Cs Pp Cs Nn R R M Vv Nn Nn Nr PU
+INTJ CC NSUBJ ROOT OBJ RCMOD OBJ NN CC ADJUNCT NP_ADVMOD NN NSUBJ CONJ ATTR DET NN AMOD PREP POBJ PREP POBJ ADJUNCT ADJUNCT INTJ RCMOD OBJ NN NN PUNCT
+4 4 4 0 4 5 6 7 4 11 14 11 14 4 14 17 15 17 17 19 15 21 24 26 26 22 26 27 28 4
+

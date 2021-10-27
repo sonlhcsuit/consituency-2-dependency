@@ -1,0 +1,295 @@
+" Hai_Lúa " mở ... phòng thí_nghiệm .
+PU Nn PU Vv PU Nn Vv PU
+PUNCT NSUBJ PUNCT ROOT PUNCT OBJ VMOD PUNCT
+2 4 2 0 4 4 6 4
+
+Từ lộ đi vỏ_lãi nửa tiếng đồng_hồ , qua mấy thửa ruộng sẽ vào đến một căn nhà gỗ giữa cánh đồng .
+Cs Nn Vv Nn Nq Nu Nn PU Vv Nq Nn Nn R Vv Cs Num Nc Nn Nn Cs Nn Nn PU
+PREP POBJ XCOMP NP_ADVMOD DET NP_ADVMOD NN PUNCT ROOT DET OBJ NN ADJUNCT CONJ PREP NUM NN CLF POBJ PREP POBJ NN PUNCT
+3 1 9 3 6 3 6 9 0 11 9 11 14 9 14 19 19 17 15 19 20 21 9
+
+Đó là phòng thí_nghiệm của anh Đỗ_Quý_Hạo LBRK huyện Hòn_Đất , Kiên_Giang RBRK .
+Pd Vc Nn Vv Cs Nn Nr LBRK Nun Nr PU Nr RBRK PU
+NSUBJ ROOT ATTR VMOD PREP POBJ NN PUNCT PARATAXIS NN PUNCT PARATAXIS PUNCT PUNCT
+2 0 2 3 3 5 6 6 6 9 9 9 6 2
+
+Khắp các bức vách đều trang_trí hình_thù của những loại virus gây bệnh trên cây khoai_lang , dưa_hấu , lúa ... do chính anh vẽ lại qua kính_hiển_vi .
+Aa Nq Nc Nn R Vv Nn Cs Nq Nn FW Vv Nn Cs Nn Nn PU Nn PU Nn PU Cs M Pp Vv R Cs Nn PU
+ASUBJ DET OBJ CLF ADJUNCT ROOT OBJ PREP DET POBJ DEP RCMOD OBJ PREP POBJ NN PUNCT CONJ PUNCT CONJ PUNCT MARK INTJ NSUBJ ADVCL ADJUNCT PREP POBJ PUNCT
+6 3 1 3 6 0 6 7 10 8 10 10 12 13 14 15 16 16 18 18 16 25 24 25 7 25 25 27 6
+
+Riêng con bọ_hà được anh phóng to_đùng , phía dưới ghi những biện_pháp phòng_chống loài " hảo " khoai này .
+M Nn Nn Vv Pp Vv Aa PU Nn Nn Vv Nq Nn Vv Nn PU Vv PU Nn Pd PU
+INTJ NSUBJ NN ROOT NSUBJ CCOMP ACOMP PUNCT NP_ADVMOD NN CONJ DET OBJ RCMOD OBJ PUNCT RCMOD PUNCT OBJ DET PUNCT
+2 4 2 0 6 4 6 4 11 9 4 13 11 13 14 17 15 17 17 15 4
+
+Anh bảo cứ mỗi lần xem mẫu bệnh qua kính_hiển_vi phát_hiện loài virus nào lạ , anh vẽ và ghi_chép đầy_đủ rồi mang thẳng đến khoa nông_nghiệp Trường đại_học Cần_Thơ hay đón xe lên tuốt TP. HCM vào gặp phân_viện trưởng Phân_viện Hoá_học các hợp_chất thiên_nhiên thuộc Viện Khoa_học công_nghệ VN , giáo_sư tiến_sĩ khoa_học LBRK GSTSKH RBRK Nguyễn_Công_Hào , để " thọ_giáo " .
+Pp Vv R Nq Nn Vv Nn Nn Cs Nn Vv Nn FW Pd Aa PU Pp Vv Cp Vv Aa Cp Vv Aa Cs Nn Nn Nn Nn Nr Cp Vv Nn Vv Aa Nun Nr Vv Vv Nn Sv Nn Nn Nq Nn Nn Vv Nn Nn Nn Nr PU Nn Nn Nn LBRK X RBRK Nr PU Cs PU Vv PU PU
+NSUBJ ROOT ADJUNCT DET NP_ADVMOD XCOMP OBJ NN PREP POBJ CONJ OBJ DEP DET AMOD PUNCT NSUBJ CCOMP CC CONJ ACOMP CC CONJ ACOMP PREP POBJ NN NN NN NN CC CONJ OBJ VMOD ACOMP NP_ADVMOD NN VMOD VMOD NN SINO OBJ NN DET NN NN RCMOD OBJ NN CONJ NN PUNCT PARATAXIS NN NN PUNCT PARATAXIS PUNCT NN PUNCT PREP PUNCT PCOMP PUNCT PUNCT
+2 0 5 5 18 5 6 7 6 9 6 11 12 12 12 18 18 2 18 18 20 20 20 23 23 25 26 26 28 29 23 23 32 32 34 35 36 34 38 42 40 39 42 45 42 45 42 47 48 49 48 42 42 53 54 53 53 53 53 39 39 63 61 63 2
+
+Đi làm sinh_viên dự_thính .
+Vv Vv Nn Vv PU
+ROOT VMOD OBJ VMOD PUNCT
+0 1 2 3 1
+
+" Đâu có họ_hàng , quen_biết gì , năm đó thất mùa , tôi đi mua sách đọc rồi tìm cho ra tác_giả để hỏi " - anh Hạo cười .
+PU R Ve Nn PU Vv M PU Nt Pd Vv Nn PU Pp Vv Vv Nn Vv Cp Vv M Vv Nn Cs Vv PU PU Nn Nr Vv PU
+PUNCT ADJUNCT CCOMP OBJ PUNCT CONJ INTJ PUNCT NP_ADVMOD DET RCMOD OBJ PUNCT NSUBJ CONJ VMOD OBJ VMOD CC CONJ INTJ VMOD OBJ PREP PCOMP PUNCT PUNCT NSUBJ NN ROOT PUNCT
+30 3 30 3 4 4 3 3 15 9 9 11 15 15 3 15 16 16 15 15 22 20 22 20 24 30 30 30 28 0 30
+
+Lần đầu anh lên Sài_Gòn , " xộc " thẳng vào viện anh bị chặn hỏi : " Anh ở đơn_vị nào đến liên_hệ công_tác ? " .
+Nn Aa Pp Vv Nr PU PU Vv PU Aa Cs Nn Pp Vv Vv Vv PU PU Pp Vv Nn Pd Vv Vv Nn PU PU PU
+NP_ADVMOD AMOD NSUBJ CCOMP NP_ADVMOD PUNCT PUNCT XCOMP PUNCT ACOMP PREP POBJ NSUBJ ROOT VMOD VMOD PUNCT PUNCT NSUBJ CCOMP DEP DET DEP VMOD OBJ PUNCT PUNCT PUNCT
+14 1 4 1 4 14 8 14 8 8 8 11 14 0 14 15 20 20 20 16 20 21 20 23 24 20 20 14
+
+" Tôi là nông_dân dưới Kiên_Giang , lên đây muốn gặp GSTS Nguyễn_Công_Hào " .
+PU Pp Vc Nn Nn Nr PU Vv Pd Vv Vv X Nr PU PU
+PUNCT NSUBJ ROOT ATTR NP_ADVMOD NN PUNCT CONJ OBJ VMOD VMOD OBJ NN PUNCT PUNCT
+3 3 0 3 4 5 3 3 8 8 10 11 12 3 3
+
+Sự nhiệt_tình của anh khiến GSTS Hào cảm_kích không_chỉ giúp anh tìm phương_pháp chữa_trị sâu_bệnh trên đồng_ruộng , mà từ đó anh còn trở_thành cộng_tác viên của GSTS trong những lần áp_dụng phòng_trừ sâu_bệnh mới trong canh_tác .
+Ncs Aa Cs Pp Vv X Nr Vv Cp Vv Pp Vv Nn Vv Nn Cs Nn PU Cp Cs Pd Pp R Vv Vv Sv Cs X Cs Nq Nn Vv Vv Nn Aa Cs Vv PU
+NSUBJ CLF PREP POBJ ROOT NSUBJ NN CCOMP CC CCOMP OBJ VMOD OBJ RCMOD OBJ PREP POBJ PUNCT CC PREP POBJ NSUBJ ADJUNCT CONJ OBJ SINO PREP POBJ PREP DET POBJ RCMOD VMOD OBJ AMOD PREP PCOMP PUNCT
+5 1 1 3 0 8 6 5 10 5 10 10 12 13 14 15 16 10 10 24 20 24 24 10 24 25 25 27 25 31 29 31 32 33 34 33 36 5
+
+" Cũng có nhiều nông_dân tìm đến tôi nhưng anh Hạo là người ham hiểu_biết , say_mê tìm_tòi và dám đưa những nghiên_cứu mới vào thực_hành trên đồng_ruộng ... " - GSTS khoa_học Nguyễn_Công_Hào tâm_đắc về " cộng_sự " của mình .
+PU R Ve Aa Nn Vv Vv Pp Cp Nn Nr Vc Nn Vv Vv PU Vv Vv Cp Vv Vv Nq Nn Aa Cs Vv Cs Nn PU PU PU X Nn Nr Vv Cs PU Nn PU Cs Pp PU
+PUNCT ADJUNCT CCOMP AMOD NSUBJ CCOMP VMOD OBJ CC NSUBJ NN CONJ ATTR RCMOD VMOD PUNCT CONJ VMOD CC CONJ VMOD DET OBJ AMOD PREP PCOMP PREP POBJ PUNCT PUNCT PUNCT NSUBJ NN NN ROOT PREP PUNCT POBJ PUNCT PREP POBJ PUNCT
+35 3 35 5 6 3 6 7 3 12 10 3 12 13 14 14 14 17 17 17 20 23 21 23 21 25 26 27 3 35 35 35 32 32 0 35 38 36 38 38 40 35
+
+Điều mà Ba_Hạo làm GSTS Hào cũng bất_ngờ là anh đã nghĩ cách kết_hợp biện_pháp sinh_học và thủ_công để diệt bọ_hà .
+Nn Cs Nr Vv X Nr R Aa Vc Pp R Vv Nn Vv Nn Nn Cp Nn Cs Vv Nn PU
+NSUBJ MARK NSUBJ CCOMP NSUBJ NN ADJUNCT CCOMP ROOT NSUBJ ADJUNCT CCOMP OBJ RCMOD OBJ NN CC CONJ PREP PCOMP OBJ PUNCT
+9 4 4 1 8 5 8 4 0 12 12 9 12 13 14 15 15 15 14 19 20 9
+
+Thay_vì đặt bẫy pheromon cho bọ_hà đực chui vào rồi chết để con cái không sinh_sản được nữa , anh " bày_trò " cầm pheromon LBRK được tẩm trong nút nhựa RBRK đi dạo trên đám ruộng mỗi buổi chiều để bọ_hà đực ngửi mùi chui lên khỏi mặt đất tụ lại , một mặt dùng tay giết , một mặt đánh_dấu để thuê người đào lấy khoai bị xâm_hại , triệt_tiêu ổ bệnh , không cần dùng đến thuốc hay hoá_chất .
+Cp Vv Nn FW Cs Nn Aa Vv Cs Cp Vv Cs Nn Aa R Vv R R PU Pp PU Vv PU Vv FW LBRK Vv Vv Cs Nn Nn RBRK Vv Vv Cs Nn Nn Nq Nu Nt Cs Nn Aa Vv Nn Vv D Vv Nn Nn Vv R PU Num Nn Vv Nn Vv PU Num Nn Vv Cs Vv Nn Vv Vv Nn Vv Vv PU Vv Nn Nn PU R Vv Vv M Nn Cp Nn PU
+CC XCOMP OBJ DEP MARK NSUBJ AMOD ADVCL PREP CC CONJ PREP NSUBJ AMOD ADJUNCT PCOMP ADJUNCT ADJUNCT PUNCT NSUBJ PUNCT ROOT PUNCT VMOD OBJ PUNCT PARATAXIS VMOD PREP POBJ NN PUNCT VMOD VMOD PREP POBJ NN DET NP_ADVMOD NN PREP NSUBJ AMOD PCOMP OBJ VMOD VMOD VMOD OBJ NN VMOD ADJUNCT PUNCT NUM DEP VMOD OBJ CONJ PUNCT NUM DEP CONJ PREP PCOMP OBJ RCMOD VMOD OBJ RCMOD VMOD PUNCT CONJ OBJ NN PUNCT ADJUNCT PARATAXIS VMOD INTJ OBJ CC CONJ PUNCT
+22 22 2 3 8 8 6 3 8 8 8 11 16 13 16 12 16 17 22 22 22 0 22 22 24 25 25 27 28 29 30 25 24 33 34 35 36 39 34 39 34 44 42 41 44 44 46 46 48 49 46 51 44 55 58 58 56 44 58 61 62 58 62 63 64 65 66 67 68 69 64 64 72 73 72 77 72 77 80 78 80 80 22
+
+Cũng như thế , anh " không giống ai " ở chỗ chẳng bao_giờ bón phân bằng cách đổ tất phân NPK xuống ruộng mà " đất và cây cũng như mình , cần gì thì bổ_sung đó chứ ăn nhiều một thứ cũng sinh bệnh thôi " - anh ví_von .
+R Cs Pp PU Pp PU R Vv Pp PU Cs Nn R Pp Vv Nn Cs Nn Vv Nw Nn FW Cs Nn Cp PU Nn Cp Nn R Cs Pp PU Vv Pp Cp Vv Pd Cp Vv Aa Num Nn R Vv Nn M PU PU Pp Vv PU
+ADJUNCT PREP POBJ PUNCT NSUBJ PUNCT ADJUNCT ROOT OBJ PUNCT PREP POBJ ADJUNCT OBJ RCMOD OBJ PREP POBJ RCMOD DET OBJ DEP PREP POBJ CC PUNCT NSUBJ CC CONJ ADJUNCT CONJ POBJ PUNCT CONJ OBJ CC XCOMP OBJ CC XCOMP ACOMP NUM OBJ ADJUNCT CONJ OBJ INTJ PUNCT PUNCT NSUBJ CONJ PUNCT
+8 8 2 8 8 8 8 0 8 8 8 11 14 15 12 15 15 17 18 21 19 21 19 23 8 8 31 27 27 31 8 31 31 31 34 31 31 37 31 31 40 43 40 45 40 45 45 31 31 51 31 8
+
+Không phải đơn_giản mà một nông_dân trình_độ lớp 7 như anh có_thể nói vanh_vách về các công_thức hoá_học cũng như tên khoa_học những virus gây bệnh cho cây .
+R Aa Aa Cs Num Nn Nn Nn An Cs Pp Aa Vv Aa Cs Nq Nn Nn R Cp Nn Nn Nq FW Vv Nn Cs Nn PU
+ADJUNCT ADJP_ADVMOD ROOT MARK NUM NSUBJ NN NN AMOD PREP POBJ ACOMP CCOMP ACOMP PREP DET POBJ NN ADJUNCT CC CONJ NN DET NN RCMOD OBJ PREP POBJ PUNCT
+2 3 0 13 6 13 6 7 8 6 10 13 3 13 13 17 15 17 20 17 17 21 24 21 24 25 25 27 3
+
+Đó là kết_quả chuỗi ngày anh tầm_sư_học_đạo tại các trường ĐH , các viện .
+Pd Vc Nn Nn Nu Pp ID Cs Nq Nn Nn PU Nq Nn PU
+NSUBJ ROOT ATTR NP_ADVMOD NN NSUBJ CCOMP PREP DET POBJ NN PUNCT DET CONJ PUNCT
+2 0 2 3 4 7 4 7 10 8 10 10 14 10 2
+
+Năm 2000 anh còn bạo_phổi lên Trường ĐH Nông_lâm TP. HCM làm đơn xin làm sinh_viên dự_thính một lớp chuyên_ngành .
+Nt Num Pp R Aa Vv Nn Nn Nn Nun Nr Vv Nn Vv Vv Nn Vv Num Nn Nn PU
+NP_ADVMOD NUM NSUBJ ADJUNCT ACOMP ROOT OBJ NN NN NP_ADVMOD NN VMOD OBJ RCMOD VMOD OBJ VMOD NUM NN NN PUNCT
+6 1 6 6 6 0 6 7 8 8 10 6 12 13 14 15 16 19 16 19 6
+
+" Nhà_trường chưa trả_lời , thấy lâu tôi cứ vào học hết khoá ba tháng .
+PU Nn R Vv PU Vv Aa Pp R Vv Vv R Nn Num Nu PU
+PUNCT NSUBJ ADJUNCT ROOT PUNCT XCOMP ACOMP NSUBJ ADJUNCT CONJ VMOD ADJUNCT OBJ NUM NP_ADVMOD PUNCT
+4 4 4 0 4 10 6 10 10 4 10 13 11 15 13 4
+
+Về cây trồng thì cũng biết thực_tế nhiều rồi , chỉ chưa học lý_thuyết thôi " - anh nói .
+Cs Nn Vv Cp R Vv Nn Aa R PU R R Vv Nn M PU PU Pp Vv PU
+PREP POBJ VMOD CC ADJUNCT XCOMP OBJ ACOMP ADJUNCT PUNCT ADJUNCT ADJUNCT CONJ OBJ INTJ PUNCT PUNCT NSUBJ ROOT PUNCT
+6 1 2 6 6 19 6 6 6 6 12 13 6 13 13 19 19 19 0 19
+
+Hồi trước mỗi lần lấy mẫu bệnh phải mang đến các trường ĐH phân_tích , quả là bất_tiện với anh .
+Nt Nn Nq Nn Vv Nn Nn Vv Vv Cs Nq Nn Nn Vv PU M M Aa Cs Pp PU
+DEP NN DET DEP XCOMP OBJ NN ROOT VMOD PREP DET POBJ NN VMOD PUNCT INTJ INTJ CONJ PREP POBJ PUNCT
+8 1 4 8 4 5 6 0 8 9 12 10 12 9 8 18 18 8 18 19 8
+
+Thế là anh nhờ các thầy hướng_dẫn cách " đọc " bệnh của cây qua kính_hiển_vi .
+Pp Vc Pp Vv Nq Nn Vv Nn PU Vv PU Nn Cs Nn Cs Nn PU
+NSUBJ ROOT NSUBJ CCOMP DET OBJ VMOD OBJ PUNCT RCMOD PUNCT OBJ PREP POBJ PREP POBJ PUNCT
+2 0 4 2 6 4 4 7 10 8 10 10 12 13 10 15 2
+
+Năm 2002 anh bỏ hơn chục triệu đồng lên Sài_Gòn mang về chiếc kính_hiển_vi , một_số lọ hoá_chất ... để nghiên_cứu côn_trùng và bệnh cây .
+Nt Num Pp Vv R Nq Nq Nu Vv Nr Vv Vv Nc Nn PU Nq Nn Nn PU Cs Vv Nn Cp Nn Nn PU
+NP_ADVMOD NUM NSUBJ ROOT ADJUNCT NUM CONJ OBJ CONJ NP_ADVMOD VMOD VMOD OBJ CLF PUNCT DET CONJ NN PUNCT PREP PCOMP OBJ CC CONJ NN PUNCT
+4 1 4 0 6 8 6 4 4 9 9 11 12 13 13 17 13 17 13 12 20 21 22 22 24 4
+
+" Phòng_mạch " chữa bệnh cho cây ra_đời từ đấy .
+PU Nn PU Vv Nn Cs Nn Vv Cs Pd PU
+PUNCT NSUBJ PUNCT RCMOD OBJ PREP POBJ ROOT PREP POBJ PUNCT
+2 8 2 2 4 4 6 0 8 9 8
+
+Hễ thấy hiện_tượng lạ , anh đem mẫu vào xem qua kính_hiển_vi , ghi_chép và theo_dõi để hỏi thêm các nhà khoa_học .
+Cp Vv Nn Aa PU Pp Vv Nn Cs Vv Cs Nn PU Vv Cp Vv Cs Vv Vv Nq Ncs Nn PU
+CC XCOMP OBJ AMOD PUNCT NSUBJ ROOT OBJ PREP PCOMP PREP POBJ PUNCT CONJ CC CONJ PREP PCOMP VMOD DET OBJ CLF PUNCT
+7 7 2 3 7 7 0 7 7 9 10 11 7 7 14 14 14 17 18 21 18 21 7
+
+Nông_dân xung_quanh gặp việc bất_thường trên đồng_ruộng là ới " bác_sĩ " Hạo đến bắt_mạch cho cây ngay ...
+Nn Nn Vv Ncs Aa Cs Nn Cp Vv PU Nn PU Nr Vv Vv Cs Nn R PU
+NSUBJ NN ROOT OBJ CLF PREP POBJ CC CONJ PUNCT OBJ PUNCT NN VMOD VMOD PREP POBJ ADJUNCT PUNCT
+3 1 0 3 4 4 6 3 3 11 9 11 11 9 14 15 16 15 3
+
+Cũng từ phòng thí_nghiệm này , Ba_Hạo đã tự chế loại phân_bón lá và sử_dụng chế_phẩm EM LBRK Effective_Microrganism_SM RBRK để chống bệnh thối mầm khoai_lang sau thu_hoạch .
+R Cs Nn Vv Pd PU Nr R Pp Vv Nn Nn Nn Cp Vv Nn FW LBRK FW RBRK Cs Vv Nn Vv Nn Nn Cs Nn PU
+ADJUNCT PREP POBJ VMOD DET PUNCT NSUBJ ADJUNCT OBJ ROOT OBJ NN NN CC CONJ OBJ DEP PUNCT PARATAXIS PUNCT PREP PCOMP OBJ RCMOD OBJ NN PREP POBJ PUNCT
+2 10 2 3 3 10 10 10 10 0 10 11 11 10 10 15 16 16 16 16 15 21 22 23 24 25 24 27 10
+
+Một ước_mơ về ... khoailangbahao.com .
+Num Nn Cs PU Nr PU
+NUM ROOT PREP PCOMP POBJ PUNCT
+2 0 2 3 3 2
+
+" Hai_Lúa " thời hiện_đại có khác : Ba_Hạo tậu vi_tính về thuê người dạy và thường tối nào cũng ngồi lướt web .
+PU Nn PU Nt Aa R Aa PU Nr Vv Nn Vv Vv Nn Vv Cp R Nt Pd R Vv Vv FW PU
+PUNCT NSUBJ PUNCT NP_ADVMOD AMOD ADJUNCT ROOT PUNCT NSUBJ CCOMP OBJ VMOD VMOD OBJ VMOD CC ADJUNCT NP_ADVMOD DET ADJUNCT CONJ VMOD OBJ PUNCT
+2 7 2 2 4 7 0 10 10 7 10 10 12 13 14 10 21 21 18 21 10 21 22 7
+
+Các website liên_quan đến nông_nghiệp , thị_trường giá_cả và trang web của ĐH Cần_Thơ là những địa_chỉ thân_thuộc đối_với anh .
+Nq FW Vv Cs Nn PU Nn Nn Cp Nn FW Cs Nn Nr Vc Nq Nn Aa Cs Pp PU
+DET NSUBJ RCMOD PREP POBJ PCOMP POBJ NN CC CONJ DEP PREP POBJ NN ROOT DET ATTR AMOD PREP POBJ PUNCT
+2 15 2 3 4 4 4 7 2 2 10 10 12 13 0 17 15 17 18 19 15
+
+Được mời giới_thiệu sản_phẩm khoai tại hội_thảo " Singapore_trade_&_investment_mission_to_VN " tổ_chức tại khách_sạn Sheraton LBRK TP. HCM RBRK ngày 28_-_9_-_2004 , anh xúc_động : " Hồi mình còn nhỏ nhà cũng trồng khoai_lang , đến mùa luộc chín đem ra gốc đa đầu làng bán , nhiều hôm ế cả nhà được một bữa no khoai .
+Vv Vv Vv Nn Nn Cs Nn PU Nr PU Vv Cs Nn Nr LBRK Nun Nr RBRK Nt Nt PU Pp Vv PU PU Nt Pp R Aa Nn R Vv Nn PU Cs Nn Vv Aa Vv Vv Nn Nn Cs Nun Vv PU Aa Nu Aa Nw Nn Vv Num Nn Aa Nn PU
+XCOMP VMOD VMOD OBJ NN PREP POBJ PUNCT NN PUNCT RCMOD PREP POBJ NN PUNCT PARATAXIS NN PUNCT NP_ADVMOD NN PUNCT NSUBJ ROOT PUNCT PUNCT NP_ADVMOD NSUBJ ADJUNCT CCOMP NSUBJ ADJUNCT CCOMP OBJ PUNCT PREP POBJ CONJ ACOMP CONJ VMOD NP_ADVMOD NN PREP POBJ VMOD PUNCT AMOD NP_ADVMOD CCOMP DET NSUBJ CONJ NUM OBJ AMOD OBJ PUNCT
+23 1 2 3 4 3 6 7 7 7 7 11 12 13 13 13 16 13 11 19 23 23 0 32 32 32 29 29 26 32 32 23 32 32 37 35 32 37 37 39 40 41 41 43 40 37 48 52 48 51 52 37 54 52 54 55 23
+
+Nhà mình nghèo , cây bút chấm mực mòn tới nỗi cào rách cả giấy mà chẳng dám hé môi xin tiền mua .
+Nn Pp Aa PU Nc Nn Vv Nn Vv Cs Nn Vv Aa Nw Nn Cp R Vv Vv Nn Vv Nn Vv PU
+NSUBJ NN ROOT PUNCT NSUBJ CLF RCMOD OBJ CONJ PREP POBJ RCMOD ACOMP DEP OBJ CC ADJUNCT CONJ VMOD OBJ VMOD OBJ RCMOD PUNCT
+3 1 0 3 9 5 5 7 3 9 10 11 12 13 13 9 18 9 18 19 18 21 22 3
+
+Hết lớp 7 trường làng , bố_mẹ mình chắc_mẩm " nó chẳng hơn gì tôi với ông " .
+Ve Nn An Nn Nn PU Nn Pp Vv PU Pp R Aa M Pp Cp Pp PU PU
+VMOD OBJ AMOD NN NN PUNCT NSUBJ NN ROOT PUNCT NSUBJ ADJUNCT CCOMP INTJ OBJ CC CONJ PUNCT PUNCT
+9 1 2 2 4 9 9 7 0 13 13 13 9 13 13 15 15 9 9
+
+Cả nhà đi kinh_tế mới vào tận Kiên_Giang tưởng khá_giả hơn , nào_ngờ cũng gắn đời với khoai lúa .
+Nw Nn Vv Nn Aa Cs Aa Nr Vv Aa R PU Cp R Vv Nn Cs Nn Nn PU
+DET NSUBJ CSUBJ OBJ AMOD PREP PCOMP OBJ ROOT ACOMP ADJUNCT PUNCT CC ADJUNCT CONJ OBJ PREP POBJ CONJ PUNCT
+2 3 9 3 4 3 6 7 0 9 10 9 9 15 9 15 15 17 18 9
+
+Trời thương mấy mùa sau trúng đậm , có tiền để mua thêm đất .
+Nn Vv Nq Nn Nn Vv Aa PU Ve Nn Cs Vv Vv Nn PU
+NSUBJ ROOT DET NSUBJ NN CONJ ACOMP PUNCT CONJ OBJ PREP PCOMP VMOD OBJ PUNCT
+2 0 4 6 4 2 6 6 6 9 10 11 12 12 2
+
+Diện_tích tăng lên , sản_lượng khoai hằng năm mình thu về cả ngàn tấn .
+Nn Vv R PU Nn Nn R Nu Pp Vv R Nw Nq Nu PU
+NSUBJ ROOT ADJUNCT PUNCT NSUBJ NN ADJUNCT NP_ADVMOD NSUBJ CCOMP ADJUNCT QUANTMOD NUM CONJ PUNCT
+2 0 2 2 14 5 8 5 10 5 10 13 14 2 2
+
+Chắc mình phải làm website cho khoai_lang của mình , chẳng_hạn : khoailangbahao._com._vn để tiếp_thị đến khách_hàng nước_ngoài nữa chứ " .
+Aa Nn Vv Vv FW Cs Nn Cs Pp PU M PU Nr Cs Vv Cs Nn Nn R M PU PU
+ADJP_ADVMOD NSUBJ ROOT VMOD OBJ PREP POBJ PREP POBJ PUNCT INTJ PUNCT PARATAXIS PREP PCOMP PREP POBJ NN ADJUNCT INTJ PUNCT PUNCT
+3 3 0 3 4 5 6 7 8 5 13 13 5 4 14 15 16 17 15 15 3 3
+
+Điều_khiển chiếc vỏ_lãi dọc tuyến kênh 11 LBRK ấp Hiệp_Lợi , xã Mỹ_Hiệp_Sơn RBRK khoảng vài cây_số , anh chỉ tay ra đám điên_điển cao lút đầu người nói : " Vụ lúa này tôi bỏ để trồng điên_điển cải_tạo đất .
+Vv Nc Nn Aa Nn Nn An LBRK Nun Nr PU Nun Nr RBRK R Nq Nu PU Pp Vv Nn Cs Nn Nn Aa Vv Nn Nn Vv PU PU Nn Nn Pd Pp Vv Cs Vv Nn Vv Nn PU
+XCOMP OBJ CLF ADJP_ADVMOD OBJ NN AMOD PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT ADJUNCT NUM OBJ PUNCT NSUBJ ROOT OBJ PREP POBJ NN AMOD VMOD OBJ NN CONJ PUNCT PUNCT DEP NN DET NSUBJ CCOMP PREP PCOMP OBJ VMOD OBJ PUNCT
+20 1 2 1 4 5 6 6 6 9 9 9 12 6 16 17 1 20 20 0 20 20 22 23 23 25 26 27 20 36 36 36 32 32 36 29 36 37 38 38 40 20
+
+Hồi mới sạ xuống , bà_con xung_quanh xì_xầm không biết ông Ba_Hạo còn bày_trò gì nữa đây .
+Nt R Vv D PU Nn Nn Vv R Vv Nn Nr R Vv M R M PU
+NP_ADVMOD ADJUNCT XCOMP VMOD PUNCT NSUBJ NN ROOT ADJUNCT VMOD NSUBJ NN ADJUNCT CCOMP INTJ ADJUNCT INTJ PUNCT
+8 3 1 3 8 8 6 0 10 8 14 11 14 10 14 14 14 8
+
+Điên_điển hồi giờ cứ mùa nước là tự lên ai cần trồng , vậy mà tôi bỏ gần 5 triệu để mua giống , thuê nhân_công trồng 5 ha .
+Nn Nn Nt Cp Nn Nn Cp Pp Vv Pp Vv Vv PU Pp Cp Pp Vv R Num Nq Cs Vv Nn PU Vv Nn Vv Num Nu PU
+NSUBJ NP_ADVMOD NN CC NP_ADVMOD NN CC OBJ ROOT NSUBJ CONJ VMOD PUNCT CONJ CC NSUBJ CONJ ADJUNCT NUMBER DEP PREP PCOMP OBJ PUNCT CONJ OBJ VMOD NUM OBJ PUNCT
+9 9 2 9 9 5 9 9 0 11 9 11 9 9 14 17 14 20 20 17 20 21 22 22 22 25 25 29 27 9
+
+Rễ cây điên_điển có nốt sần cố_định đạm , còn thân cây là nguồn phân_xanh rất tốt cho đất .
+Nn Nn Nn Ve Nn Aa Vv Nn PU Cp Nn Nn Vc Nn Nn R Aa Cs Nn PU
+NSUBJ NN NN ROOT OBJ AMOD RCMOD OBJ PUNCT CC NSUBJ NN CONJ ATTR NN ADJUNCT AMOD PREP POBJ PUNCT
+4 1 2 0 4 5 5 7 4 4 13 11 4 13 14 17 14 17 18 4
+
+Khai_thác lâu năm đất cũng bạc_màu nên phải bồi_bổ cho nó " .
+Vv Aa Nu Nn R Aa Cp Vv Vv Cs Pp PU PU
+VSUBJ ACOMP OBJ NSUBJ ADJUNCT ROOT CC CONJ VMOD PREP POBJ PUNCT PUNCT
+6 1 2 6 6 0 6 6 8 9 10 6 6
+
+Dân trong vùng Mỹ_Hiệp_Sơn trồng loại khoai Nhật cho năng_suất cao cũng do anh đem về trồng thí_nghiệm đầu_tiên trên ruộng nhà ...
+Nn Cs Nn Nr Vv Nn Nn Nr Vv Nn Aa R Cs Pp Vv Vv Vv Vv An Cs Nn Nn PU
+NSUBJ PREP POBJ NN ROOT OBJ NN NN RCMOD OBJ AMOD ADJUNCT MARK NSUBJ ADVCL VMOD VMOD VMOD ACOMP PREP POBJ NN PUNCT
+5 1 2 3 0 5 6 6 6 9 10 15 15 15 5 15 16 17 17 17 20 21 5
+
+Mỗi năm từ những ruộng khoai , lúa , dưa mang về cho gia_đình anh số tiền hơn nửa tỉ đồng .
+Nq Nu Cs Nq Nn Nn PU Nn PU Nn Vv Vv Cs Nn Pp Nn Nn R Nq Nq Nu PU
+DET NP_ADVMOD PREP DET POBJ NN PUNCT CONJ PUNCT CONJ ROOT CONJ PREP POBJ DET OBJ NN ADJUNCT NUM CONJ NN PUNCT
+2 11 11 5 3 5 6 6 8 8 0 11 11 13 14 11 16 19 21 19 16 11
+
+Theo kế_hoạch , vụ đông xuân 2004 - 2005 anh sẽ đầu_tư gần 400 triệu đồng vào cả ba loại lúa , khoai , dưa_hấu trên diện_tích đất 26 ha và nắm chắc cũng lời được trên 300 triệu đồng .
+Vv Nn PU Nn Nt Nt Num PU Num Pp R Vv R Num Nq Nu Cs Nw Num Nn Nn PU Nn PU Nn Cs Nn Nn Num Nu Cp Vv Aa R Vv R R Num Nq Nu PU
+VMOD OBJ PUNCT NP_ADVMOD NN CONJ NUM PUNCT CONJ NSUBJ ADJUNCT ROOT ADJUNCT NUMBER NUM OBJ PREP DET NUM POBJ NN PUNCT CONJ PUNCT CONJ PREP POBJ NN NUM NN CC CONJ ADJP_ADVMOD ADJUNCT VMOD ADJUNCT ADJUNCT NUMBER NUM OBJ PUNCT
+12 1 12 12 4 5 4 7 7 12 12 0 15 15 16 12 12 20 20 17 20 21 21 23 23 12 26 27 30 27 12 12 32 35 32 35 39 39 40 35 12
+
+" Hơn người_ta không_chỉ ở năng_suất mà tôi bán cũng được_giá hơn " - anh nói .
+PU Aa Pp Cp Cs Nn Cp Pp Vv R Vv R PU PU Pp Vv PU
+PUNCT CCOMP OBJ PCOMP PREP POBJ CC NSUBJ CSUBJ ADJUNCT CCOMP ADJUNCT PUNCT PUNCT NSUBJ ROOT PUNCT
+16 11 2 5 2 5 11 9 11 11 16 11 16 16 16 0 16
+
+Chuẩn_bị vụ mùa hay đến ngày thu_hoạch , Ba_Hạo lại cắp samsonite đi khắp các vùng cung_cấp nguyên_liệu khoai và dưa_hấu để " biết mà làm , không để đụng_hàng_dội_chợ " .
+Vv Nn Nn Cp Cs Nt Vv PU Nr R Vv FW Vv Aa Nq Nn Vv Nn Nn Cp Nn Cs PU Vv Cp Vv PU R Vv ID PU PU
+VMOD OBJ CONJ CC CONJ POBJ VMOD PUNCT NSUBJ ADJUNCT ROOT OBJ VMOD ADJP_ADVMOD DET OBJ VMOD OBJ NN CC CONJ PREP PUNCT PCOMP CC CONJ PUNCT ADJUNCT CONJ DEP PUNCT PUNCT
+11 1 2 1 1 5 6 11 11 11 0 11 11 13 16 14 13 17 18 19 19 18 24 22 24 24 24 29 24 29 24 11
+
+Nhờ nắm chắc giá_cả thị_trường , mùa khoai vừa thu_hoạch , lái_buôn gọi Ba_Hạo " nhoi " LBRK nhiều RBRK cả lên và tự định_giá 1.300 đồng_[]_kg .
+Cs Vv Aa Nn Nn PU Nn Nn R Vv PU Nn Vv Nr PU Aa PU LBRK Aa RBRK M R Cp Pp Vv Num Nu PU
+PREP PCOMP ACOMP OBJ NN PUNCT NSUBJ NN ADJUNCT ROOT PUNCT NSUBJ CONJ OBJ PUNCT ACOMP PUNCT PUNCT PARATAXIS PUNCT INTJ ADJUNCT CC OBJ CONJ NUM OBJ PUNCT
+10 1 2 2 4 10 10 7 10 0 10 13 10 13 16 13 16 16 16 16 13 13 13 25 13 27 25 10
+
+Năm nay đầu_trên_xóm_dưới lắc_đầu ngao_ngán bỏ luôn vụ dưa_hấu .
+Nt Nt ID Vv Vv Vv R Nn Nn PU
+NP_ADVMOD NN NSUBJ ROOT VMOD VMOD ADJUNCT OBJ NN PUNCT
+4 1 4 0 4 5 6 6 8 4
+
+Người_ta bảo Ba_Hạo gan lớn mới dám trồng dưa_hấu vụ này bởi mùa dưa rồi dân Mỹ_Hiệp_Sơn khóc dở sống dở với bệnh " đầu lân " .
+Pp Vv Nr Aa Aa R Vv Vv Nn Nn Pd Cs Nn Nn R Nn Nr Vv Aa Vv Aa Cs Nn PU Nn Nn PU PU
+NSUBJ ROOT NSUBJ CCOMP ADJP_ADVMOD ADJUNCT VMOD VMOD OBJ NP_ADVMOD DET MARK NP_ADVMOD NN ADJUNCT NSUBJ NN ADVCL ACOMP CONJ ACOMP PREP POBJ PUNCT NN NN PUNCT PUNCT
+2 0 4 2 4 7 4 7 8 8 10 18 18 13 13 18 16 8 18 18 20 20 22 23 23 25 23 2
+
+" Nhờ mình phòng_bệnh từ đầu chứ khi nhiễm virus chỉ có trời cứu " - anh tự_tin cho biết .
+PU Cp Pp Vv Cs Nn Cp Nt Vv FW R Ve Nn Vv PU PU Pp Aa Vv Vv PU
+PUNCT CC NSUBJ CCOMP PREP POBJ CC NP_ADVMOD XCOMP OBJ ADJUNCT CONJ NSUBJ CCOMP PUNCT PUNCT NSUBJ ACOMP ROOT VMOD PUNCT
+19 4 4 19 4 5 4 12 8 9 12 4 14 12 19 19 19 19 0 19 19
+
+Không_những tự_tin thuê đất trồng thêm dưa_hấu mà anh còn đang tính lên TP. HCM mua máy_bộ_đàm và ống_nhòm về điều_khiển nhân_công .
+Cp Aa Vv Nn Vv Vv Nn Cp Pp R R Vv Vv Nun Nr Vv Nn Cp Nn Vv Vv Nn PU
+CC ACOMP ROOT OBJ VMOD VMOD OBJ CC NSUBJ ADJUNCT ADJUNCT CONJ VMOD NP_ADVMOD NN VMOD OBJ CC CONJ VMOD VMOD OBJ PUNCT
+3 3 0 3 3 5 5 3 12 11 12 3 12 13 14 13 16 17 17 16 20 21 3
+
+" Ruộng rộng , đi không nổi đâu .
+PU Nn Aa PU Vv R R M PU
+PUNCT NSUBJ ROOT PUNCT CONJ ADJUNCT CONJ INTJ PUNCT
+3 3 0 3 3 5 6 6 3
+
+Có ống_nhòm sẽ xem được nhân_công thao_tác đúng hay sai " .
+Ve Nn R Vv R Nn Vv Aa Cp Aa PU PU
+VSUBJ OBJ ADJUNCT ROOT ADJUNCT NSUBJ CCOMP ACOMP CC CONJ PUNCT PUNCT
+4 1 4 0 4 7 4 7 8 8 4 4
+
+Ba_Hạo hết làm chuyện lạ này lại đến chuyện lạ khác .
+Nr R Vv Nn Aa Pd R M Nn Aa Aa PU
+NSUBJ ADJUNCT ROOT OBJ AMOD DET ADJUNCT INTJ NN AMOD AMOD PUNCT
+3 3 0 3 4 4 4 4 4 9 9 3
+
+Dây khoai anh không cho leo dài mà khoảng hai , ba gang tay là cho người ngắt đọt để cây lấy sức nuôi củ .
+Nn Nn Pp R Vv Vv Aa Cp R Num PU Num Nu Nn Cp Vv Nn Vv Nn Cs Nn Vv Nn Vv Nn PU
+DEP NN NSUBJ ADJUNCT ROOT VMOD ACOMP CC ADJUNCT NUM PUNCT CONJ NP_ADVMOD NN CC CONJ OBJ VMOD OBJ PREP NSUBJ PCOMP OBJ RCMOD OBJ PUNCT
+5 1 5 5 0 5 6 5 10 13 10 10 16 13 16 5 16 16 18 18 22 20 22 23 24 5
+
+Anh bảo : " Dày lá , to thân ít củ chứ được gì " .
+Pp Vv PU PU Aa Nn PU Aa Nn Aa Nn Cp Vv Pp PU PU
+NSUBJ ROOT PUNCT PUNCT ASUBJ OBJ PUNCT CONJ OBJ CCOMP OBJ CC CONJ OBJ PUNCT PUNCT
+2 0 10 10 10 5 5 5 8 2 10 10 10 13 10 2
+
+Bình_quân năng_suất 40 tấn khoai [] ha đang được anh phấn_đấu đưa lên 50 tấn_[]_ha bằng bí_quyết trồng khoai sạch của mình trong vụ này .
+Aa Nn Num Nu Nn PU Nu R Vv Pp Vv Vv M Num Nu Cs Nn Vv Nn Aa Cs Pp Cs Nn Pd PU
+AMOD NSUBJ NUM NN NN PUNCT CONJ ADJUNCT ROOT NSUBJ CCOMP VMOD INTJ NUM OBJ PREP POBJ RCMOD OBJ AMOD PREP POBJ PREP POBJ DET PUNCT
+2 9 4 2 4 4 4 9 0 11 9 11 12 15 12 11 16 17 18 19 19 21 11 23 24 9
+
+Và anh đang mơ về chuyện đăng_ký với các thương_lái , những nhà xuất_khẩu để cung_cấp khoai sạch mang thương_hiệu " khoai_lang Ba_Hạo " cho thị_trường .
+M Pp R Vv Cs Nn Vv Cs Nq Nn PU Nq Ncs Vv Cs Vv Nn Aa Vv Nn PU Nn Nr PU Cs Nn PU
+INTJ NSUBJ ADJUNCT ROOT PREP POBJ RCMOD PREP DET POBJ PUNCT DET CONJ CLF PREP PCOMP OBJ AMOD RCMOD OBJ PUNCT NN NN PUNCT PREP POBJ PUNCT
+4 4 4 0 4 5 6 7 10 8 10 13 10 13 7 15 16 17 17 19 22 20 22 22 16 25 4
+

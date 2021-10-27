@@ -1,0 +1,250 @@
+Khám_phá động cổ Tiên_Sơn .
+Vv Nn Aa Nr PU
+ROOT OBJ AMOD NN PUNCT
+0 1 2 2 1
+
+Bất_ngờ một hang động nằm im hàng ngàn năm trên dãy núi đá_vôi thuộc xã Vĩnh_An , huyện Vĩnh_Lộc LBRK Thanh_Hoá RBRK được các bạn trẻ trong xã phát_hiện .
+Aa Num Nn Nn Vv Aa R Nq Nu Cs Nn Nn Nn Vv Nun Nr PU Nun Nr LBRK Nr RBRK Vv Nq Nn Aa Cs Nun Vv PU
+ADJP_ADVMOD NUM NSUBJ CONJ RCMOD ADJP_ADVMOD ADJUNCT NUM NP_ADVMOD PREP POBJ NN NN RCMOD NP_ADVMOD NN PUNCT PARATAXIS NN PUNCT PARATAXIS PUNCT ROOT DET NSUBJ AMOD PREP POBJ CCOMP PUNCT
+23 3 23 3 3 5 8 9 5 5 10 11 12 12 14 15 15 15 18 18 18 18 0 25 29 25 25 27 23 23
+
+Lập_tức những thông_tin về một hang động tầm_cỡ quốc_gia được lan_truyền làm xôn_xao cả cái làng quê nghèo vào bậc nhất huyện này .
+R Nq Nn Cs Num Nn Nn Nn Nn Vv Vv Vv Vv Nw M Nun Nn Aa Cs Nn An Nun Pd PU
+ADJUNCT DET NSUBJ PREP NUM POBJ CONJ NN NN CSUBJ VMOD ROOT VMOD DET INTJ OBJ NN AMOD PREP POBJ AMOD NN DET PUNCT
+12 3 10 3 6 4 6 6 8 12 10 0 12 16 16 13 16 16 18 19 20 20 16 12
+
+Và sáng 5_-_11 , chúng_tôi đã tìm về động cổ Tiên_Sơn ...
+Cp Nt Nt PU Pp R Vv Vv Nn Aa Nr PU
+CC NP_ADVMOD NN PUNCT NSUBJ ADJUNCT ROOT VMOD NP_ADVMOD AMOD NN PUNCT
+7 7 2 7 7 7 0 7 8 9 9 7
+
+Ngỡ_ngàng tiên_cảnh .
+Aa Nn PU
+ROOT OBJ PUNCT
+0 1 1
+
+Từ cửa hang bước vào mươi bước , nơi bắt_đầu nhạt_nhoà bóng_tối , chúng_tôi đã phải đứng sững lại trước một vẻ đẹp huyền_bí của nham_thạch trong hình " Phật_Bà đang ngự trên toà_sen " lung_linh sắc đá .
+Cs Nn Nn Vv D Nq Nn PU Nn Vv Aa Nn PU Pp R Vv Vv Aa R Cs Num Nn Aa Aa Cs Nn Cs Nn PU Nr R Vv Cs Nn PU Aa Nn Nn PU
+PREP POBJ NN XCOMP VMOD DET OBJ PUNCT NP_ADVMOD RCMOD ACOMP OBJ PUNCT NSUBJ ADJUNCT ROOT VMOD ACOMP ADJUNCT PREP NUM POBJ AMOD AMOD PREP POBJ PREP POBJ PUNCT NSUBJ ADJUNCT DEP PREP POBJ PUNCT AMOD OBJ NN PUNCT
+4 1 2 16 4 7 4 16 16 9 10 11 16 16 16 0 16 17 17 17 22 20 22 22 22 25 22 27 28 32 32 28 32 33 28 28 36 37 16
+
+Anh Nguyễn_Văn_Bình - trưởng đài truyền_hình huyện - bảo anh_em phóng_viên quây hết đèn ăcqui xách tay tập_trung rọi vào " tượng Phật " .
+Nn Nr PU Nn Nn Vv Nun PU Vv Nn Nn Vv Ve Nn Nn Vv Nn Vv Vv Cs PU Nn Nn PU PU
+NSUBJ NN PUNCT PARATAXIS NN VMOD NN PUNCT ROOT NSUBJ CONJ CCOMP VMOD OBJ NN RCMOD OBJ VMOD VMOD PREP PCOMP POBJ NN PCOMP PUNCT
+9 1 1 1 4 5 5 1 0 12 10 9 12 12 14 14 16 12 18 19 20 20 22 20 9
+
+Tôi đang mải nhìn thì ông Vang , người được UBND xã Vĩnh_An giao bảo_vệ khu hang động , dẫn đường , đã giục tới_tấp : " Mỗi nơi xem một_tí , nếu không thì đi cả ngày không thấu hang đâu " .
+Pp R Vv Vv Cp Nn Nr PU Nn Vv X Nun Nr Vv Vv Nn Nn Nn PU Vv Nn PU R Vv Aa PU PU Nq Nn Vv Nq PU Cp R Cp Vv Nw Nt R Aa Nn M PU PU
+NSUBJ ADJUNCT ROOT VMOD CC NSUBJ NN PUNCT NSUBJ PARATAXIS NSUBJ NN NN CCOMP VMOD OBJ NN CONJ PUNCT CONJ OBJ PUNCT ADJUNCT CONJ ADJP_ADVMOD PUNCT PUNCT DET NP_ADVMOD CCOMP NP_ADVMOD PUNCT CC CONJ CC CONJ DET NP_ADVMOD ADJUNCT ACOMP OBJ INTJ PUNCT PUNCT
+3 3 0 3 3 24 6 6 10 6 14 11 12 10 14 15 16 17 10 10 20 6 24 3 24 30 30 29 30 24 30 30 34 30 34 34 38 36 40 36 40 40 30 3
+
+Tiến thêm một đoạn , chúng_tôi đành phải dừng lại để ngước mắt nhìn thẳng lên trần đá đang thả xuống vô_vàn hình nhũ lớn bé bao quanh như bông hoa đá lấp_lánh sắc_màu huyền_ảo .
+Vv Vv Num Nn PU Pp Vv Vv Vv R Cs Vv Nn Vv Aa D Nn Nn R Vv D R Nn Nn Aa Aa Vv Nn Cs Nc Nn Nn Aa Nn Aa PU
+XCOMP VMOD NUM OBJ PUNCT NSUBJ ROOT CONJ VMOD ADJUNCT PREP PCOMP OBJ VMOD ACOMP VMOD OBJ NN ADJUNCT RCMOD VMOD ADJUNCT OBJ NN AMOD CONJ RCMOD OBJ PREP NN CLF POBJ AMOD OBJ AMOD PUNCT
+7 1 4 1 7 7 0 7 7 9 9 11 12 12 14 14 16 17 20 17 20 23 20 23 23 25 23 27 23 32 30 29 32 33 34 7
+
+Tiếp đến tầng hai là vùng hang khá rộng lô_nhô tảng đá , được gọi là " thiên_cung " .
+Vv Vv Nn An Cs Nn Nn R Aa Aa Nn Nn PU Vv Vv Cs PU Nn PU PU
+ROOT VMOD OBJ AMOD PREP NN POBJ ADJUNCT AMOD AMOD OBJ NN PUNCT PARATAXIS VMOD PREP PUNCT POBJ PUNCT PUNCT
+0 1 2 3 3 7 5 9 7 7 10 11 7 7 14 15 18 16 18 1
+
+Mỗi tảng đá , thật kỳ_lạ , hiện mỗi hình_thù khác lạ của muôn loài vật khiến mọi người ai cũng phải thốt lên lời trầm_trồ .
+Nq Nn Nn PU R Aa PU Vv Nq Nn Aa Aa Cs Nq Nn Nn Vv Nw Nn Pp R Vv Vv R Nn Vv PU
+DET NSUBJ NN PUNCT ADJUNCT ADJP_ADVMOD PUNCT ROOT DET OBJ AMOD CONJ PREP DET POBJ CONJ RCMOD DET DEP NSUBJ ADJUNCT CCOMP VMOD ADJUNCT OBJ VMOD PUNCT
+2 8 2 8 6 8 8 0 10 8 10 11 10 15 13 15 10 19 22 22 22 17 22 23 23 25 8
+
+Đẹp nhất trong " thiên_cung " phải kể đến " giếng tiên " .
+Aa R Cs PU Nn PU Vv Vv Cs PU Nn Nn PU PU
+ASUBJ ADJUNCT PREP PUNCT POBJ PUNCT ROOT VMOD PREP PCOMP POBJ NN PCOMP PUNCT
+7 1 1 5 3 5 0 7 8 9 9 11 9 7
+
+Đó là một cái giếng nho_nhỏ , nước trong_vắt được " tu " từ những " vú " đá trên thăm_thẳm trần cao rơi nhẹ và đều xuống .
+Pd Vc Num Nc Nn Aa PU Nn Aa Vv PU Vv PU Cs Nq PU Nn PU Nn Cs Aa Nn Aa Vv Aa Cp Aa R PU
+NSUBJ ROOT NUM NN CLF AMOD PUNCT ATTR AMOD RCMOD PUNCT VMOD PUNCT PREP DET PUNCT POBJ PUNCT NN PREP PCOMP OBJ AMOD RCMOD ACOMP CC CONJ ADJUNCT PUNCT
+2 0 8 8 4 8 8 2 8 8 12 10 12 12 17 17 14 17 17 17 20 21 22 17 24 25 25 24 2
+
+Không ai bảo , nhưng mỗi người đều vốc một ngụm " nước tiên " uống hoặc ngửa mặt hứng những giọt nước để hưởng cái mát lạnh tuyệt_diệu của thiên_nhiên .
+R Pp Vv PU Cp Nq Nn R Vv Num Nn PU Nn Nn PU Vv Cp Vv Nn Vv Nq Nn Nn Cs Vv M Aa Aa Aa Cs Nn PU
+ADJUNCT NSUBJ ROOT PUNCT CC DET NSUBJ ADJUNCT CONJ NUM OBJ PUNCT NN NN PUNCT VMOD CC CONJ OBJ VMOD DET OBJ NN PREP PCOMP INTJ ACOMP ADJP_ADVMOD ADJP_ADVMOD PREP POBJ PUNCT
+2 3 0 3 3 7 9 9 3 11 9 11 11 13 11 9 9 9 18 18 22 20 22 20 24 27 25 27 27 27 30 3
+
+Chúng_tôi đang tận_hưởng khoái_cảm thì ông Vang lại giục : " Xin rời giếng tiên " !
+Pp R Vv Nn Cp Nn Nr R Vv PU PU Vv Vv Nn Nn PU PU
+NSUBJ ADJUNCT ROOT OBJ CC NSUBJ NN ADJUNCT CONJ PUNCT PUNCT CCOMP VMOD OBJ NN PUNCT PUNCT
+3 3 0 3 3 9 6 9 3 12 12 9 12 13 14 12 3
+
+Mọi người theo ông chỉ_dẫn nghiêng mình lách qua một ô đá có hình cánh cửa để lạc vào " thiên_la_địa_võng " của muôn_vàn nhũ_đá khác .
+Nw Nn Vv Pp Vv Vv Pp Vv R Num Nn Nn Ve Nn Nn Nn Cs Vv Cs PU ID PU Cs Nq Nn Aa PU
+DET NSUBJ ROOT OBJ VMOD VMOD OBJ VMOD ADJUNCT NUM OBJ NN RCMOD OBJ NN NN PREP PCOMP PREP PUNCT POBJ PUNCT PREP DET POBJ AMOD PUNCT
+2 3 0 3 3 5 6 6 8 11 8 11 11 13 14 15 8 17 18 21 19 21 21 25 23 25 3
+
+Bất_ngờ mọi ánh đèn bị hút vào tận dưới sâu hút lòng " thuỷ_cung " .
+Aa Nw Nc Nn Vv Vv D Aa Nn Aa Aa Nn PU Nn PU PU
+ADJP_ADVMOD DET NSUBJ CLF ROOT VMOD VMOD ADJP_ADVMOD OBJ AMOD ADJP_ADVMOD NN PUNCT NN PUNCT PUNCT
+5 3 5 3 0 5 6 6 8 9 10 9 14 12 14 5
+
+Anh Bình nói : " Hôm trước tôi và anh_em phải dùng thang dây tụt xuống 15 m mới có_thể vào quay cung vua thuỷ_tề " .
+Nn Nr Vv PU PU Nt Nn Pp Cp Nn Vv Vv Nn Nn Vv D Num Nu R Aa Vv Vv Nn Nn Nn PU PU
+NSUBJ NN ROOT PUNCT PUNCT NP_ADVMOD NN NSUBJ CC CONJ CCOMP VMOD OBJ CONJ VMOD VMOD NUM OBJ ADJUNCT ACOMP VMOD VMOD OBJ NN NN PUNCT PUNCT
+3 1 0 11 11 11 6 11 8 8 3 11 12 13 12 15 18 15 21 21 15 21 22 23 24 11 3
+
+Ở dưới đó có những tấm đàn_đá , hễ gió trời thoảng qua cũng có_thể phát ra tiếng nhạc lạ_tai .
+Cs Cs Pd Ve Nq Nc Nn PU Cp Nn Nn Vv R R Aa Vv R Nn Nn Aa PU
+PREP DEP POBJ ROOT DET OBJ CLF PUNCT CC NSUBJ NN PARATAXIS ADJUNCT ADJUNCT ACOMP CONJ ADJUNCT OBJ NN AMOD PUNCT
+4 3 1 0 6 4 6 6 12 12 10 6 12 16 16 12 16 16 18 18 4
+
+Những nhũ_đá hình con tôm , con cua , con cá còn mềm_nhũn có_thể đưa tay bấm vào được .
+Nq Nn Nn Nc Nn PU Nc Nn PU Nc Nn R Aa Aa Vv Nn Vv D R PU
+DET ROOT NN NN CLF PUNCT CONJ CLF PUNCT CONJ CLF ADJUNCT AMOD ACOMP XCOMP OBJ VMOD VMOD ADJUNCT PUNCT
+2 0 2 3 4 4 4 7 7 7 10 13 2 15 13 15 15 17 17 2
+
+Ngước nhìn lên vòm cung lại gặp những nhũ_đá khác như được dát vàng , bạc long_lanh màu_sắc khiến " cung vua " luôn sống_động .
+Vv Vv D Nn Nn R Vv Nq Nn Aa Cs Vv Vv Nn PU Nn Aa Nn Vv PU Nn Nn PU R Aa PU
+XCOMP VMOD VMOD OBJ NN ADJUNCT ROOT DET OBJ AMOD PREP PCOMP VMOD OBJ PUNCT CONJ AMOD OBJ VMOD PUNCT NSUBJ NN PUNCT ADJUNCT CCOMP PUNCT
+7 1 2 3 4 7 0 9 7 9 9 11 12 13 14 14 14 17 13 25 25 21 25 25 19 7
+
+Rồi những " bồn tắm tiên " , " bãi tắm tiên " lần_lượt hiện lên trong hoa_văn đẹp_mắt của những tảng đá màu trắng_toát .
+Cp Nq PU Nn Vv Nn PU PU PU Nn Vv Nn PU R Vv R Cs Nn Aa Cs Nq Nn Nn Nn Aa PU
+CC DET PUNCT NSUBJ RCMOD OBJ PUNCT PUNCT PUNCT CONJ RCMOD OBJ PUNCT ADJUNCT ROOT ADJUNCT PREP POBJ AMOD PREP DET POBJ NN NN AMOD PUNCT
+15 4 4 15 4 5 4 4 4 4 10 11 4 15 0 15 15 17 18 18 22 20 22 22 24 15
+
+Leo tiếp lên chừng 15 m rồi đi thẳng , chúng_tôi liền gặp vô_số cửa hang hiện ra bốn phía .
+Vv Vv R R Num Nu Cp Vv Aa PU Pp R Vv Aa Nn Nn Vv R Num Nn PU
+XCOMP VMOD ADJUNCT ADJUNCT NUM OBJ CC CONJ ADJP_ADVMOD PUNCT NSUBJ ADJUNCT ROOT AMOD OBJ NN RCMOD ADJUNCT NUM NP_ADVMOD PUNCT
+13 1 1 5 6 1 1 1 8 13 13 13 0 15 13 15 15 17 20 17 13
+
+Đáng chú_ý nhất là cửa hang dẫn vào khoảng rộng có những con sư_tử bằng đá xám đang chầu quanh một " ông tiên " cao lớn , đầu tóc trắng cước đứng bên một cột đá cao_vút như trụ chống trời .
+Vv Vv R Vc Nn Nn Vv Cs Nn Aa Ve Nq Nc Nn Cs Nn Aa R Vv Nn Num PU Nc Nn PU Aa Aa PU Nn Nn Aa Nn Vv Nn Num Nn Nn Aa Cs Nn Vv Nn PU
+VSUBJ VMOD ADJUNCT ROOT ATTR CONJ RCMOD PREP POBJ AMOD RCMOD DET NSUBJ CLF PREP POBJ AMOD ADJUNCT CCOMP NP_ADVMOD NUM PUNCT NN CLF PUNCT AMOD CONJ PUNCT NN CONJ AMOD OBJ RCMOD NP_ADVMOD NUM NN NN AMOD PREP POBJ RCMOD OBJ PUNCT
+4 1 1 0 4 5 5 7 8 9 9 13 19 13 13 15 16 19 11 19 29 29 29 23 29 29 26 29 20 29 29 31 29 33 36 34 36 36 38 39 40 41 4
+
+Phía sau cột đá sừng_sững lại hiện những cửa hang khác , sâu hun_hút mà ánh đèn ăcqui không đủ sức chiếu sáng .
+Nn Nn Nn Nn Aa R Vv Nq Nn Nn Aa PU Aa Aa Cs Nc Nn Nn R Aa Nn Vv Aa PU
+NSUBJ NN NN NN AMOD ADJUNCT ROOT DET OBJ NN AMOD PUNCT AMOD ADJP_ADVMOD MARK NSUBJ CLF NN ADJUNCT CCOMP OBJ RCMOD ACOMP PUNCT
+7 1 1 3 3 7 0 9 7 9 10 9 9 13 20 20 16 16 20 9 20 21 22 7
+
+Vậy là gần trọn một ngày ăn bánh_chưng , bánh_mì , uống " nước tiên " , chúng_tôi cũng mới chỉ vào động cổ khoảng 500 m .
+Pp Vc R Aa Num Nu Vv Nn PU Nn PU Vv PU Nn Nn PU PU Pp R R R Vv Nn Aa R Num Nu PU
+NSUBJ ROOT ADJUNCT AMOD NUM NP_ADVMOD XCOMP OBJ PUNCT OBJ PUNCT CONJ PUNCT OBJ NN PUNCT PUNCT NSUBJ ADJUNCT ADJUNCT ADJUNCT CCOMP OBJ AMOD ADJUNCT NUM OBJ PUNCT
+2 0 4 6 6 22 6 7 7 7 7 7 12 12 14 12 22 22 20 22 20 2 22 23 27 27 22 2
+
+Mọi người ai cũng muốn đi thêm nữa nhưng những chiếc đèn ăcqui cầm tay không còn đủ sức cho cuộc thám_hiểm , vì như ông Vang tuyên_bố : " Vào không muốn ra .
+Nw Nn Pp R Vv Vv Vv R Cp Nq Nc Nn Nn Vv Nn R Ve Aa Nn Cs Ncs Vv PU Cp Cs Nn Nr Vv PU PU Vv R Vv Vv PU
+DET DEP NSUBJ ADJUNCT ROOT VMOD VMOD ADJUNCT CC DET NSUBJ CLF NN RCMOD OBJ ADJUNCT CONJ ACOMP OBJ PREP POBJ CLF PUNCT CONJ PREP NSUBJ NN PCOMP PUNCT PUNCT VSUBJ ADJUNCT CCOMP VMOD PUNCT
+2 5 5 5 0 5 6 6 5 11 17 11 11 11 14 17 5 17 18 19 20 21 5 5 24 28 26 25 33 33 33 33 28 33 5
+
+Nhưng liệu cơm mà gắp mắm , nếu ăcqui hết điện thì có bò bốn chân cũng khó tìm được cửa hang " .
+Cp Vv Nn Cp Vv Nn PU Cp Nn Ve Nn Cp M Vv Num Nn R Aa Vv R Nn Nn PU PU
+CC ROOT OBJ CC CONJ OBJ PUNCT CC NSUBJ CONJ OBJ CC INTJ CONJ NUM NP_ADVMOD ADJUNCT CONJ VMOD ADJUNCT OBJ NN PUNCT PUNCT
+2 0 2 2 2 5 2 10 10 2 10 10 14 10 16 14 18 14 18 19 19 21 2 2
+
+Từ chuyến " du_lịch trong xã " .
+Cs Nn PU Vv Cs Nun PU PU
+ROOT POBJ PUNCT RCMOD PREP POBJ PUNCT PCOMP
+0 1 4 2 4 5 4 1
+
+Khi dư_luận xôn_xao về vẻ đẹp kỳ_thú của hang động mà người dân địa_phương gọi là Tiên_Sơn động , nhiều người tò_mò muốn biết ai là người đầu_tiên phát_hiện , khám_phá hang động cổ_xưa này .
+Nt Nn Vv Cs Nn Aa Aa Cs Nn Nn Cs Nc Nn Nn Vv Cs Nr Nn PU Aa Nn Aa Vv Vv Pp Vc Nn An Vv PU Vv Nn Nn Aa Pd PU
+NP_ADVMOD NSUBJ CCOMP PREP POBJ AMOD AMOD PREP POBJ CONJ MARK NN CLF NSUBJ CCOMP PREP NN POBJ PUNCT AMOD NSUBJ ACOMP ROOT VMOD NSUBJ CCOMP ATTR AMOD RCMOD PUNCT CONJ OBJ CONJ AMOD DET PUNCT
+23 3 1 3 4 5 5 5 8 9 15 14 12 15 9 15 18 16 23 21 23 23 0 23 26 24 26 27 27 29 29 29 32 32 32 23
+
+Người đó chính là bí_thư xã_đoàn Trần_Song_Toàn .
+Nn Pd M Vc Nn Nn Nr PU
+NSUBJ DET INTJ ROOT OBJ NN NN PUNCT
+4 1 4 0 4 5 5 4
+
+Toàn đã kể lại câu_chuyện khá bất_ngờ : " Tháng 7_-_2003 Đoàn xã tổ_chức cho anh_em đi du_lịch nhưng hiềm nỗi " yếu " tiền nên tôi bảo anh_em đi đâu cho xa , nghe nói xã ta cũng có hang động hàng ngàn năm nay trên núi Thung_Vình , thử đi dã_ngoại trên đó xem sao .
+Nr R Vv R Nn R Aa PU PU Nt Nt Nn Nun Vv Cs Nn Vv Vv Cp Vv Nn PU Aa PU Nn Cp Pp Vv Nn Vv Pp M Aa PU Vv Vv Nun Pp R Ve Nn Nn R Nq Nu Nt Cs Nn Nr PU Vv Vv Aa Cs Pd Vv Pp PU
+NSUBJ ADJUNCT ROOT ADJUNCT OBJ ADJUNCT AMOD PUNCT PUNCT NP_ADVMOD NN NSUBJ NN CCOMP PREP POBJ VMOD VMOD CC CONJ OBJ PUNCT CCOMP PUNCT OBJ CC NSUBJ CONJ NSUBJ CCOMP OBJ INTJ ACOMP PUNCT CONJ VMOD NSUBJ NN ADJUNCT CCOMP OBJ CONJ ADJUNCT NUM NN NN PREP POBJ NN PUNCT CONJ VMOD ACOMP PREP POBJ VMOD OBJ PUNCT
+3 3 0 3 3 7 5 14 14 14 10 14 12 5 14 15 14 17 14 14 20 23 21 23 23 20 28 20 30 28 30 33 30 28 28 35 40 37 40 36 40 41 44 45 41 45 41 47 48 28 28 51 52 52 54 52 56 3
+
+Không ngờ chuyến đi đã gây thích_thú cho mọi người vì cảnh_trí thiên_nhiên ban_tặng mà dân xã Vĩnh_An chưa bao_giờ được thấy " .
+R Vv Nn Vv R Vv VA Cs Nw Nn Cs Nn Nn Vv Cs Nn Nun Nr R Pp Vv Vv PU PU
+ADJUNCT ROOT NSUBJ VMOD ADJUNCT CCOMP ACOMP PREP DET POBJ PREP POBJ NN RCMOD MARK NSUBJ NN NN ADJUNCT NP_ADVMOD CCOMP VMOD PUNCT PUNCT
+2 0 6 3 6 2 6 6 10 8 8 11 12 13 21 21 16 17 20 21 12 21 2 2
+
+Sau chuyến " du_lịch trong xã " , Toàn kể lại những chuyện biết được trong hang cho lãnh_đạo xã nghe khiến cả bí_thư , chủ_tịch không khỏi ngạc_nhiên .
+Cs Nn PU Vv Cs Nun PU PU Nr Vv R Nq Nn Vv R Cs Nn Cs Nn Nun Vv Vv Nw Nn PU Nn R Vv Vv PU
+PREP POBJ PUNCT RCMOD PREP POBJ PUNCT PUNCT NSUBJ CSUBJ ADJUNCT DET OBJ XCOMP ADJUNCT PREP POBJ PREP POBJ NN VMOD ROOT DET NSUBJ PUNCT CONJ ADJUNCT CCOMP VMOD PUNCT
+22 1 2 2 4 5 2 22 10 22 10 13 10 13 14 14 16 10 18 19 10 0 24 28 24 24 28 22 28 22
+
+Tiếp đó , xã tổ_chức đoàn cán_bộ lên kiểm_tra thấy hang động còn đẹp hơn nhiều những lời nghe kể , đẹp sánh ngang động Phong_Nha ở Quảng_Bình .
+Vv Pd PU Nun Vv Nn Nn Vv Vv Vv Nn Nn R Aa Vcp Aa Nq Nn Vv Vv PU Aa Vv Aa Nn Nr Cs Nr PU
+VMOD OBJ PUNCT NSUBJ ROOT OBJ NN VMOD VMOD VMOD NSUBJ CONJ ADJUNCT CCOMP VMOD ACOMP DET OBJ RCMOD VMOD PUNCT CONJ VMOD ACOMP OBJ NN PREP POBJ PUNCT
+5 1 5 5 0 5 6 5 8 9 14 11 14 10 14 15 18 16 18 19 14 14 22 23 24 25 25 27 5
+
+Thế là chủ_tịch xã tức_tốc vù xe_máy lên đài truyền_hình huyện báo với trưởng đài Nguyễn_Văn_Bình .
+Pp Vc Nn Nun R Aa Nn Vv Nn Vv Nun Vv Cs Sv Nn Nr PU
+NSUBJ ROOT NSUBJ NN ADJUNCT CCOMP OBJ VMOD OBJ VMOD NN VMOD PREP SINO POBJ NN PUNCT
+2 0 6 3 6 2 6 6 8 9 9 8 12 15 13 15 2
+
+Được tin , anh Bình vẫn chưa tin vì chuyện quá lạ .
+Vv Nn PU Nn Nr R R Vv Cs Nn R Aa PU
+XCOMP OBJ PUNCT NSUBJ NN ADJUNCT ADJUNCT ROOT MARK NSUBJ ADJUNCT ADVCL PUNCT
+8 1 8 8 4 7 8 0 12 12 12 8 8
+
+Anh liền tổ_chức chuyến công_tác đột_xuất , đi cùng phóng_viên , xâm_nhập Tiên_Sơn động .
+Pp R Vv Nn Vv Aa PU Vv Cs Nn PU Vv Nr Nn PU
+NSUBJ ADJUNCT ROOT OBJ RCMOD ACOMP PUNCT CONJ PREP POBJ PUNCT VMOD NN OBJ PUNCT
+3 3 0 3 4 5 3 3 8 9 8 8 14 12 3
+
+Sáng 1_-_8_-_2003 bắt_đầu cuộc khám_phá của nhóm phóng_viên truyền_hình huyện do anh Bình dẫn_đầu .
+Nt Nt Vv Ncs Vv Cs Nn Nn Vv Nun Cs Nn Nr Vv PU
+NP_ADVMOD NN ROOT OBJ CLF PREP POBJ NN VMOD NN MARK NSUBJ NN CCOMP PUNCT
+3 1 0 3 4 4 6 7 8 8 14 14 12 4 3
+
+Lúc ấy chưa có đường vào hang vì cửa hang nằm giữa vách đá cheo_leo cách chân núi khoảng 20 m .
+Nt Pd R Ve Nn Vv Nn Cs Nn Nn Vv Cs Nn Nn Aa Vv Nn Nn R Num Nu PU
+NP_ADVMOD DET ADJUNCT ROOT OBJ RCMOD OBJ MARK NSUBJ NN ADVCL PREP POBJ NN AMOD CONJ NP_ADVMOD NN ADJUNCT NUM OBJ PUNCT
+4 1 4 0 4 5 6 11 11 9 4 11 12 13 13 11 16 17 20 21 16 4
+
+Anh Bình đề_xuất đoàn xã " thiết_kế " dây thừng buộc hai đầu vách đá để bám dây trèo lên .
+Nn Nr Vv Nn Nun PU Vv PU Nn Nn Vv Num Nn Nn Nn Cs Vv Nn Vv D PU
+NSUBJ NN ROOT NSUBJ NN PUNCT CCOMP PUNCT OBJ NN RCMOD NUM OBJ NN NN PREP PCOMP OBJ VMOD VMOD PUNCT
+3 1 0 7 4 7 3 7 7 9 9 13 11 13 14 11 16 17 17 19 3
+
+Chính anh Bình sửng_sốt nói : " Tôi đã từng đi động Thiên_Cung ở Hạ_Long , nếu so_sánh thì động Tiên_Sơn không thua_kém gì " .
+M Nn Nr Vv Vv PU PU Pp R R Vv Nn Nn Cs Nr PU Cp Vv Cp Nn Nr R Vv M PU PU
+INTJ NSUBJ NN ROOT VMOD PUNCT PUNCT NSUBJ ADJUNCT ADJUNCT CCOMP OBJ NN PREP POBJ PUNCT CC CONJ CC NSUBJ NN ADJUNCT CONJ INTJ PUNCT PUNCT
+2 4 2 0 4 11 11 11 10 11 5 11 12 12 14 11 18 11 18 23 20 23 18 23 11 4
+
+Nhưng lời đánh_giá đó vẫn còn dè_dặt vì khám_phá đến 12 giờ trưa thì hết ăcqui , phải ra ngay để thay ăcqui mới .
+Cp Nn Vv Pd R R Aa Cs Vv Cs Num Nt Nt Cp Ve Nn PU Vv Vv R Cs Vv Nn Aa PU
+CC NSUBJ VMOD DET ADJUNCT ADJUNCT ROOT MARK ADVCL PREP NUM POBJ NN CC CONJ OBJ PUNCT CONJ VMOD ADJUNCT PREP PCOMP OBJ AMOD PUNCT
+7 7 2 2 6 7 0 9 7 9 12 10 12 9 9 15 15 15 18 19 19 21 22 23 7
+
+Hôm sau đoàn khám_phá dùng hai máy phát điện loại 1,5 kW nhưng cũng không đủ sức chiếu sáng khắp hang cùng kỳ_bí của động cổ .
+Nt Nn Nn Vv Vv Num Nn Vv Nn Nn An Nu Cp R R Aa Nn Vv Aa Aa Nn Cp Aa Cs Nn Aa PU
+NP_ADVMOD NN NSUBJ VMOD ROOT NUM NN NN OBJ OBJ AMOD NN CC ADJUNCT ADJUNCT CONJ OBJ RCMOD ACOMP ACOMP OBJ CC CONJ PREP POBJ AMOD PUNCT
+5 1 5 3 0 10 10 7 8 5 10 10 5 15 16 5 16 17 18 18 20 21 21 23 24 25 5
+
+Mãi tới lần thứ ba , sau khi mượn được máy phát điện 5 kW của kho_bạc huyện , nhóm phóng_viên mới có_thể quay được những băng_hình ưng_ý .
+R Cs Nn Nn An PU Cs Nt Vv R Nn Vv Nn Num Nu Cs Nn Nun PU Nn Nn R Aa Vv R Nq Nn Vv PU
+ADJUNCT PREP POBJ NN AMOD PUNCT PREP POBJ XCOMP ADJUNCT NN NN OBJ NUM OBJ PREP POBJ NN PUNCT NSUBJ NN ADJUNCT ACOMP ROOT ADJUNCT DET OBJ RCMOD PUNCT
+2 24 2 3 4 24 24 7 8 9 15 11 12 15 9 15 16 17 24 24 20 24 24 0 24 27 24 27 24
+
+Anh Bình nhớ lại : " Quay xong vẫn không muốn ra vì cái hang lạ cứ như hút mình vào trong đó " .
+Nn Nr Vv R PU PU Vv Aa R R Vv Vv Cs Nc Nn Aa R Cs Vv Nn D Cs Pd PU PU
+NSUBJ NN ROOT ADJUNCT PUNCT PUNCT XCOMP ACOMP ADJUNCT ADJUNCT CONJ VMOD MARK ADVCL CLF AMOD ADJUNCT PREP PCOMP OBJ VMOD PREP POBJ PUNCT PUNCT
+3 1 0 3 7 7 3 7 10 11 7 11 14 11 14 14 18 14 18 19 19 21 22 7 3
+
+Cảnh_báo !
+VN PU
+ROOT PUNCT
+0 1
+
+Động Tiên_Sơn chỉ ở cách thành nhà Hồ LBRK 1397 RBRK - di_tích văn_hoá đặc_sắc của khu_vực Đông_Nam_Á - khoảng 2 km ; cách khu tượng đá Đa_Bút nổi_tiếng với những pho tượng võ_quan đứng canh ngôi mộ bà Hoàng_Thị_Ngọc_Diễm LBRK vợ chúa Trịnh_Tùng RBRK .
+Nn Nr R Vv Vv Nn Nn Nr LBRK Num RBRK PU Nn Nn Aa Cs Nn Nr PU R Num Nu PU Vv Nn Nn Nn Nr Aa Cs Nq Nc Nn Nn Vv Vv Nc Nn Nn Nr LBRK Nn Nn Nr RBRK PU
+NSUBJ NN ADJUNCT ROOT VMOD OBJ NN NN PUNCT PARATAXIS PUNCT PUNCT PARATAXIS NN AMOD PREP POBJ NN PUNCT ADJUNCT NUM OBJ PUNCT CONJ OBJ NN NN NN AMOD PREP DET NN CLF POBJ RCMOD VMOD NN CLF OBJ NN PUNCT PARATAXIS NN NN PUNCT PUNCT
+4 1 4 0 4 5 6 7 7 7 7 7 7 13 13 13 16 17 7 21 22 5 5 5 24 25 26 26 26 29 34 34 32 30 34 35 39 37 36 39 39 39 42 43 39 4
+
+Đây là địa_bàn có hơn 100 quần_thể di_tích lịch_sử - văn_hoá của huyện " di_tích " Vĩnh_Lộc , nổi_tiếng dày mật_độ di_tích nhất tỉnh Thanh .
+Pd Vc Nn Ve R Num Nn Nn Nn PU Nn Cs Nun PU Nn PU Nr PU Aa Aa Nn Nn R Nun Nr PU
+NSUBJ ROOT ATTR RCMOD ADJUNCT NUM OBJ NN NN PUNCT CONJ PREP POBJ PUNCT NN PUNCT NN PUNCT PARATAXIS ADJP_ADVMOD OBJ NN ADJUNCT OBJ NN PUNCT
+2 0 2 3 6 7 4 7 8 9 9 8 12 13 13 13 13 13 13 19 20 21 20 20 24 2
+
+Nhưng tất_cả sẽ trở_thành một bài_học đau_xót nếu ngay bây_giờ chính_quyền hai xã Vĩnh_An , Vĩnh_Minh không ra_tay ngăn_chặn những " lò " khai_thác đá đang ngày_đêm thi nhau nổ mìn trên dãy Thung_Vình vì một lý_do đơn_giản : tương_truyền , hang động Tiên_Sơn xuyên dài sang phía đầu dãy núi Thung_Vình thuộc xã Vĩnh_Minh ? ! .
+Cp Pp R Vv Num Nn Aa Cp M Pd Nn Num Nun Nr PU Nr R Vv Vv Nq PU Nn PU Vv Nn R Nt Vv Nn Vv Nn Cs Nn Nr Cs Num Nn Aa PU Vv PU Nn Nn Nr Vv Aa Vv Nn Nn Nn Nn Nr Vv Nun Nr PU PU PU
+CC NSUBJ ADJUNCT ROOT NUM OBJ AMOD CC INTJ NP_ADVMOD NSUBJ NUM NN NN PUNCT CONJ ADJUNCT CONJ VMOD DET PUNCT OBJ PUNCT RCMOD OBJ ADJUNCT NP_ADVMOD CCOMP OBJ VMOD OBJ PREP POBJ NN MARK NUM ADVCL AMOD PUNCT CCOMP PUNCT NSUBJ CONJ NN CCOMP ADJP_ADVMOD VMOD OBJ NN NN NN NN RCMOD NP_ADVMOD NN PUNCT PUNCT PUNCT
+4 4 4 0 6 4 6 4 10 18 18 13 11 13 14 14 18 4 18 22 22 19 22 22 24 27 28 22 28 28 30 30 32 33 37 37 30 37 40 37 45 45 42 42 40 45 45 47 48 48 50 50 50 53 54 40 40 4
+

@@ -1,0 +1,225 @@
+Theo chân người lao_động đến Malaysia : Đời_thường người xa xứ .
+Vv Nn Nc Nn Vv Nr PU Aa Nn Vv Nn PU
+ROOT OBJ NN CLF VMOD NP_ADVMOD PUNCT ACOMP OBJ RCMOD OBJ PUNCT
+0 1 2 3 1 5 1 1 8 9 10 1
+
+Tại Malaysia , trong 1 triệu lao_động nước_ngoài đang làm_việc , có đến 80.000 lao_động VN .
+Cs Nr PU Cs Num Nq Nn Nn R Vv PU Ve M Num Nn Nr PU
+PREP POBJ PUNCT PREP NUMBER NUM POBJ NN ADJUNCT RCMOD PUNCT ROOT QUANTMOD NUM OBJ NN PUNCT
+12 1 12 12 6 7 4 7 10 7 12 0 14 15 12 15 12
+
+Họ mang theo không_chỉ nỗi nhớ nhà , nhớ quê mà cả lòng người xa xứ ...
+Pp Vv Vv Cp Ncs Vv Nn PU Vv Nn Cp Nw Nn Nn Vv Nn PU
+NSUBJ ROOT VMOD CC OBJ RCMOD OBJ PUNCT CONJ OBJ CC DET CONJ NN RCMOD OBJ PUNCT
+2 0 2 5 3 5 6 6 6 9 5 13 5 13 14 15 2
+
+Nơi hò_hẹn .
+Nn Vv PU
+ROOT VMOD PUNCT
+0 1 1
+
+Hoạt_động 24_[]_24 giờ , bến_xe trung_tâm Kuala_Lumpur đặc_biệt đông người vào thứ bảy và chủ_nhật , cứ 15 - 20 phút từng chiếc xe 25 - 50 chỗ rời bến .
+Vv Nq Nu PU Nn Nn Nr Aa Aa Nn Cs Nt Num Cp Nt PU R Num PU Num Nu R Nc Nn Num PU Num Nn Vv Nn PU
+XCOMP DET NP_ADVMOD PUNCT NSUBJ NN NP_ADVMOD ROOT ADJP_ADVMOD OBJ PREP POBJ NUM CC CONJ PUNCT ADJUNCT NUM PUNCT CONJ NP_ADVMOD ADJUNCT NN CLF NUM PUNCT CONJ NSUBJ CONJ OBJ PUNCT
+8 3 1 8 8 5 5 0 8 9 9 11 12 12 12 8 21 21 18 18 29 28 28 23 28 25 25 29 8 29 8
+
+Những chuyến xe tốc_hành nối_đuôi nhau chạy về hướng Tampoi , Nilai , Kualang ...
+Nq Nn Nn Aa Vv Nn Vv Cs Nn Nr PU Nr PU Nr PU
+DET NSUBJ NN AMOD ROOT OBJ VMOD PREP POBJ NN PUNCT CONJ PUNCT CONJ PUNCT
+2 5 2 2 0 5 5 7 8 9 10 10 12 12 5
+
+Hành_khách trên đó rất đông là lao_động LBRK LĐ RBRK VN .
+Nn Cs Pd R Aa M Nn LBRK Nn RBRK Nr PU
+NSUBJ PREP POBJ ADJUNCT ROOT INTJ OBJ PUNCT PARATAXIS PUNCT NN PUNCT
+5 1 2 5 0 5 5 7 7 7 7 5
+
+Chúng_tôi có_mặt tại chợ_phiên Nilai vào tối thứ ba LBRK mỗi tuần họp một lần , từ 18 - 22 g RBRK .
+Pp Aa Cs Nn Nr Cs Nt Nt Num LBRK Nq Nu Vv Num Nn PU Cs Num PU Num Nt RBRK PU
+NSUBJ ROOT PREP POBJ NN PREP POBJ NN NUM PUNCT DET NP_ADVMOD PARATAXIS NUM OBJ PUNCT PARATAXIS NN PUNCT CONJ POBJ PUNCT PUNCT
+2 0 2 3 4 2 6 7 8 2 12 13 2 15 13 15 15 21 18 18 17 2 2
+
+Hàng_quán nhộn_nhịp đủ loại thượng_vàng_hạ_cám , tiếng rao hàng thủ_công xen_lẫn tiếng máy cassette .
+Nn Aa Aa Nn ID PU Nn Vv Nn Vv Vv Nn Nn FW PU
+NSUBJ ROOT ADJP_ADVMOD OBJ DEP PUNCT NSUBJ RCMOD OBJ VMOD CONJ OBJ NN DEP PUNCT
+2 0 2 3 4 2 11 7 8 9 2 11 12 13 2
+
+Ở đây đối_tượng chủ_yếu là người Hoa kinh_doanh , phục_vụ LĐ nước_ngoài đang làm_việc tại các công_xưởng .
+Cs Pd Nn Aa Vc Nn Nr Vv PU Vv Nn Nn R Vv Cs Nq Nn PU
+PREP POBJ NSUBJ ACOMP ROOT ATTR NN RCMOD PUNCT CONJ OBJ NN ADJUNCT RCMOD PREP DET POBJ PUNCT
+5 1 5 5 0 5 6 6 8 8 8 11 14 11 14 17 15 5
+
+Từng nhóm LĐ VN " đổ_bộ " xuống chợ tìm đồng hương giao_lưu và có cả LĐ tranh_thủ chạy_chợ tìm mối kinh_doanh trước khi " kết_bạn bốn_phương " .
+R Nn Nn Nr PU Vv PU Cs Nn Vv Sv Nn Vv Cp Ve Nw Nn Vv Vv Vv Nn Vv Cs Nt PU Vv Nn PU PU
+ADJUNCT NSUBJ NN NN PUNCT ROOT PUNCT PREP POBJ PCOMP SINO OBJ VMOD CC CONJ DET OBJ RCMOD VMOD VMOD OBJ VMOD PREP POBJ PUNCT CCOMP OBJ PUNCT PUNCT
+2 6 2 3 6 0 6 6 8 8 12 10 10 6 6 17 15 17 18 19 20 21 20 23 26 24 26 26 6
+
+Một nhóm LĐ đang chuẩn_bị làm_quen , " đằng trai " mạnh_dạn tìm cách tự giới_thiệu : " Đồng hương Nghệ_An ơi , Hà_Tĩnh , Đồng_Tháp đây nè " .
+Num Nn Nn R Vv Vv PU PU Nn Nn PU Aa Vv Nn Pp Vv PU PU Sv Nn Nr E PU Nr PU Nr M M PU PU
+NUM NSUBJ NN ADJUNCT ROOT VMOD PUNCT PUNCT NSUBJ NN PUNCT ACOMP CONJ OBJ OBJ RCMOD PUNCT PUNCT SINO NN CCOMP INTJ PUNCT NSUBJ PUNCT NN INTJ INTJ PUNCT PUNCT
+2 5 2 5 0 5 5 9 13 9 9 13 5 13 16 14 21 21 20 21 16 21 21 21 24 24 24 24 21 5
+
+Nhóm khác rụt_rè hơn , phải lấy sản_vật địa_phương vừa tiếp_thị vừa lấy cớ làm_quen bằng mì gói , thuốc_lá , thuốc_lào , sách báo cũ , rượu_đế ...
+Nn Aa Aa R PU Vv Vv Nn Nn Cp Vv Cp Vv Nn Vv Cs Nn Nn PU Nn PU Nn PU Nn Nn Aa PU Nn PU
+NSUBJ AMOD ROOT ADJUNCT PUNCT CONJ VMOD OBJ CONJ CC VMOD CC CONJ OBJ RCMOD PREP POBJ NN PUNCT CONJ PUNCT CONJ PUNCT CONJ CONJ AMOD PUNCT CONJ PUNCT
+3 1 0 3 3 3 6 7 8 11 7 11 11 13 14 15 16 17 17 17 20 20 22 22 24 24 24 24 3
+
+Nguyễn_Thanh_Tùng LBRK Đồng_Tháp RBRK và Cao_Văn_Hùng LBRK Hải_Phòng RBRK dẫn chúng_tôi vào chợ , trong vòng vài giờ họ thay_đổi đến hai lần quần_áo thời_trang vì " bộ_đồ không bắt_mắt " .
+Nr LBRK Nr RBRK Cp Nr LBRK Nr RBRK Vv Pp Vv Nn PU Cs Nn Nq Nu Pp Vv M Num Nn Nn Nn Cs PU Nn R Aa PU PU
+NSUBJ PUNCT PARATAXIS PUNCT CC CONJ PUNCT PARATAXIS PUNCT ROOT OBJ VMOD OBJ PUNCT PREP POBJ DET NN NSUBJ CONJ QUANTMOD NUM OBJ NN NN MARK PUNCT NSUBJ ADJUNCT ADVCL PUNCT PUNCT
+10 1 1 1 1 1 6 6 6 0 10 10 12 10 20 15 18 16 20 10 22 23 20 23 24 30 30 30 30 20 30 10
+
+Con đường từ chợ_phiên vào nơi ở của LĐ VN dài chỉ nửa kilômet mà có đến bốn điểm hò_hẹn của những đôi trai_gái như : chợ_phiên , dịch_vụ Internet đầu thị_trấn , công_viên trước cửa vào khu lưu_xá LĐ và khu_vực cạnh chùa của người Hoa .
+Nc Nn Cs Nn Cs Nn Vv Cs Nn Nr Aa R Nq Nu Cp Ve M Num Nn Vv Cs Nq Nq Nn Cs PU Nn PU Nn FW Cs Nun PU Nn Cs Nn Vv Nn Vv Nn Cp Nn Nn Nn Cs Nn Nr PU
+NSUBJ CLF PREP POBJ CONJ POBJ VMOD PREP POBJ NN ROOT ADJUNCT NUM OBJ CC CONJ QUANTMOD NUM OBJ VMOD PREP DET DET POBJ PARATAXIS PCOMP POBJ PUNCT CONJ DEP PREP POBJ PUNCT CONJ PREP POBJ RCMOD OBJ VMOD NN CC CONJ NN NN PREP POBJ NN PUNCT
+11 1 1 3 3 5 6 6 8 9 0 13 14 11 11 11 18 19 16 19 19 24 24 21 19 25 25 27 27 29 29 31 29 29 34 35 36 37 38 38 34 34 42 43 44 45 46 11
+
+Ở khu_vực này có 1.000 nữ LĐ nhà_máy , trong đó 300 LĐ nữ VN thuộc các công_ty Coopimex , Tracimexco và Lod .
+Cs Nn Pd Ve Num Sv Nn Nn PU Cs Pd Num Nn Nn Nr Vv Nq Nn Nr PU Nr Cp Nr PU
+PREP POBJ DET ROOT NUM SINO OBJ NN PUNCT PREP POBJ NUM NSUBJ NN NN PARATAXIS DET OBJ NN PUNCT CONJ CC CONJ PUNCT
+4 1 2 0 7 7 4 7 7 16 10 13 16 13 13 7 18 16 18 19 19 21 21 4
+
+Vào giờ tan ca , hàng trăm LĐ các nơi đổ về ...
+Cs Nt Vv Nn PU R Nq Nn Nq Nn Vv Vv PU
+PREP POBJ RCMOD OBJ PUNCT ADJUNCT NUM NSUBJ DET NP_ADVMOD ROOT VMOD PUNCT
+11 1 2 3 11 7 8 11 10 8 0 11 11
+
+Khác với Nilan , Johor là nơi tập_trung lượng LĐ VN đông nhất ở Malaysia , ước_chừng hàng chục ngàn LĐ với trên 2.000 LĐ nữ , nếu theo phép_tính " tình_cảm " thì có 20.000 LĐ nam đổ về đây như đi hội vào ngày thứ bảy , chủ_nhật .
+Aa Cs Nr PU Nr Vc Nn Vv Nn Nn Nr Aa R Cs Nr PU Vv R Nq Nq Nn Cs R Num Nn Nn PU Cp Vv Nn PU Nn PU Cp Ve Nr Nn Nn Vv Vv Pd Cs Vv Nn Cs Nt Nt Num PU Nt PU
+CCOMP PREP POBJ PUNCT NSUBJ ROOT NP_ADVMOD RCMOD OBJ NN NN AMOD ADJUNCT PREP POBJ PUNCT PARATAXIS ADJUNCT NUM CONJ OBJ PREP ADJUNCT NUM POBJ NN PUNCT CC CONJ OBJ PUNCT NN PUNCT CC CONJ NN OBJ NN RCMOD VMOD NP_ADVMOD PREP PCOMP OBJ PREP POBJ NN NUM PUNCT CONJ PUNCT
+6 1 2 6 6 0 6 7 8 9 10 9 12 12 14 12 12 19 21 19 17 21 24 25 22 25 6 29 6 29 30 30 30 29 29 37 35 37 37 39 40 40 42 43 40 45 46 47 47 47 6
+
+Tại Tampoi , con đường dọc hành_lang vào thị_trấn kéo dài hàng trăm mét là nơi tụ_hội hẹn_hò và tìm bạn của LĐ VN .
+Cs Nr PU Nc Nn Aa Nn Vv Nun Vv Aa R Nq Nu Vc Nn Vv Vv Cp Vv Nn Cs Nn Nr PU
+PREP POBJ PUNCT NSUBJ CLF AMOD OBJ RCMOD OBJ RCMOD ACOMP ADJUNCT NUM OBJ ROOT ATTR RCMOD CONJ CC CONJ OBJ PREP POBJ NN PUNCT
+15 1 15 15 4 4 6 7 8 4 10 13 14 10 0 15 16 17 17 17 20 16 22 23 15
+
+Nếu đánh_lẻ thì vài lon nước_ngọt , một_ít bánh_trái , còn như đi làm_quen tập_thể thì khiêng theo cả thùng nước_ngọt , mọi người trải chiếu hoặc chọn chỗ để hàn_huyên hoặc kéo vào các điểm karaoke quanh khu_vực .
+Cp Vv Cp Nq Nn Nn PU Nq Nn PU Cp Cp Vv Vv Aa Cp Vv Vv Nw Nn Nn PU Nw Nn Vv Nn Cp Vv Nn Cs Vv Cp Vv Cs Nq Nn FW Nn Nn PU
+CC ROOT CC DET CONJ NN PUNCT DET CONJ PUNCT CC CC CONJ VMOD ACOMP CC CONJ VMOD DET OBJ NN PUNCT DET NSUBJ CONJ OBJ CC CONJ OBJ PREP PCOMP CC CONJ PREP DET POBJ DEP NN NN PUNCT
+2 0 2 5 2 5 5 9 5 2 2 11 2 13 14 13 13 17 20 18 20 13 24 25 13 25 25 25 28 29 30 28 28 33 36 34 36 36 38 2
+
+Ở đây có hẳn những phòng hát karaoke cho LĐ VN , cứ 2 sen_[]_bài , tiếng Việt .
+Cs Pd Vv M Nq Nn Vv FW Cs Nn Nr PU R Num Nu PU Nn Nr PU
+PREP POBJ ROOT INTJ DET OBJ RCMOD OBJ PREP POBJ NN PUNCT ADJUNCT NUM PARATAXIS PUNCT PARATAXIS NN PUNCT
+3 1 0 6 6 3 6 7 6 9 10 6 15 15 6 15 15 17 3
+
+Bà chủ quán Malaysia gốc Hoa nói với chúng_tôi " Tampoi rất ưa đĩa Việt , A_Muối có bán cho tui 5 RM_[]_đĩa LBRK 20.000 đồng_[]_đĩa RBRK " .
+Nc Nn Nn Nr Nn Nr Vv Cs Pp PU Nr R Vv Nn Nr PU Nr R Vv Cs Pp Num Nu LBRK Num Nu RBRK PU PU
+NN CLF NSUBJ NN CONJ NN ROOT PREP POBJ PUNCT NSUBJ ADJUNCT CCOMP OBJ NN PUNCT NSUBJ ADJUNCT CONJ PREP POBJ NUM OBJ PUNCT NUM PARATAXIS PUNCT PUNCT PUNCT
+3 1 7 3 3 5 0 7 8 13 13 13 7 13 14 13 19 19 13 19 20 23 19 23 26 23 23 13 7
+
+Chợt nhớ trước khi đi có LĐ đã nhờ chúng_tôi mang một_ít đĩa nhạc trẻ qua làm_quà .
+R Vv Cs Nt Vv Ve Nn R Vv Pp Vv Nq Nn Nn Aa Vv Vv PU
+ADJUNCT ROOT PREP POBJ XCOMP CCOMP NSUBJ ADJUNCT CCOMP OBJ VMOD DET OBJ NN AMOD VMOD VMOD PUNCT
+2 0 6 3 4 2 9 9 6 9 9 13 11 13 14 11 16 2
+
+Thèm được nghe tiếng Việt , thèm gặp đồng hương và nhu_cầu tình_cảm khiến LĐ VN lội hàng trăm kilômet tìm đến nhau .
+Vv Vv Vv Nn Nr PU Vv Vv Sv Nn Cp Nn Nn Vv Nn Nr Vv R Nq Nu Vv Vv Nn PU
+ROOT VMOD VMOD OBJ NN PUNCT CONJ VMOD SINO OBJ CC NSUBJ NN CONJ NSUBJ NN CCOMP ADJUNCT NUM OBJ VMOD VMOD OBJ PUNCT
+0 1 2 3 4 1 1 7 10 8 1 14 12 1 17 15 14 19 20 17 17 21 22 1
+
+Một đêm ở Mour .
+Num Nu Vv Nr PU
+NUM ROOT RCMOD NP_ADVMOD PUNCT
+2 0 2 3 2
+
+Được phép của ban quản_lý KTX , ngay thị_trấn " Moa " LBRK Mour RBRK chúng_tôi xin trọ một đêm tại phòng của năm cô gái thuộc Công_ty điện_tử ST .
+Vv Nn Cs Nn Vv Nn PU M Nun PU Nr PU LBRK Nr RBRK Pp Vv Vv Num Nu Cs Nn Cs Num Nc Nn Vv Nn Nn Nr PU
+XCOMP OBJ PREP POBJ VMOD NN PUNCT INTJ NP_ADVMOD PUNCT NN PUNCT PUNCT PARATAXIS PUNCT NSUBJ ROOT VMOD NUM NP_ADVMOD PREP POBJ PREP NUM POBJ CLF RCMOD OBJ NN NN PUNCT
+17 1 2 3 4 4 17 9 17 9 9 9 9 9 9 17 0 17 20 18 18 21 22 25 23 25 25 27 28 28 17
+
+Vừa tới nơi đã nghe người phụ_trách khu_vực nữ LĐ , chị Azit , kéo ngay một LĐ VN để mắng_vốn với người đại_diện công_ty : " Tối_qua , một cô gái đi ra ngoài KTX không xin phép ... " .
+R Vv Nn R Vv Nn Vv Nn Sv Nn PU Nn Nr PU Vv R Num Nn Nr Cs Vv Cs Nc Nn Nn PU PU Nt PU Num Nc Nn Vv R Cs Nn R Vv Nn PU PU PU
+ADJUNCT XCOMP NP_ADVMOD ADJUNCT ROOT NSUBJ RCMOD OBJ SINO NN PUNCT PARATAXIS NN PUNCT CCOMP ADJUNCT NUM OBJ NN PREP PCOMP PREP NN CLF POBJ PUNCT PUNCT NP_ADVMOD PUNCT NUM NSUBJ CLF CSUBJ ADJUNCT PREP POBJ ADJUNCT CCOMP OBJ PUNCT PUNCT PUNCT
+2 5 2 5 0 15 6 7 10 8 6 6 12 6 5 15 18 15 18 15 20 21 25 23 22 38 38 38 38 31 33 31 38 33 33 35 38 21 38 38 38 5
+
+Năm LĐ khác cùng người của công_ty trao_đổi nhiều lời qua_lại bằng tiếng Malaysia không làm người quản_lý nguôi giận ...
+Num Nn Aa Cp Nn Cs Nn Vv Aa Nn Vv Cs Nn Nr R Vv Nn Vv Vv Vv PU
+NUM NSUBJ AMOD CC CONJ PREP POBJ CSUBJ AMOD OBJ VMOD PREP POBJ NN ADJUNCT ROOT NSUBJ VMOD CCOMP VMOD PUNCT
+2 8 2 2 2 5 6 16 10 8 10 8 12 13 16 0 19 17 16 19 16
+
+Cuối_cùng là viết giấy cam_kết và xin_lỗi .
+Aa Vc Vv Nn Vv Cp Vv PU
+ASUBJ ROOT XCOMP OBJ VMOD CC CONJ PUNCT
+2 0 2 3 4 3 3 2
+
+Đêm " Moa " lạnh dù ban_ngày nắng gắt , từ đây chỉ cách rừng vài kilômet , gió thổi ù_ù .
+Nt PU Nr PU Aa Cp Nt Nn Aa PU Cs Pd R Vv Nn Nq Nu PU Nn Vv Aa PU
+NSUBJ PUNCT NN PUNCT ROOT CC NP_ADVMOD NSUBJ CONJ PUNCT PREP POBJ ADJUNCT CONJ OBJ DET OBJ PUNCT NSUBJ CONJ ACOMP PUNCT
+5 3 1 3 0 5 9 9 5 9 14 11 14 9 14 17 14 14 20 14 20 5
+
+Năm cô gái phòng 321 được chia hai ca làm_việc : ca 23 g và ca 7 g .
+Num Nc Nn Nn Nr Vv Vv Num Nn Vv PU Nn Num Nt Cp Nn Num Nt PU
+NUM NN CLF NSUBJ NN ROOT VMOD NUM OBJ VMOD PUNCT PARATAXIS NUM NN CC CONJ NUM NN PUNCT
+4 4 2 6 4 0 6 9 7 9 9 9 14 12 12 12 18 16 6
+
+Chỉ còn hai người ở nhà nên chúng_tôi kéo nhau qua căn phòng khác để trò_chuyện .
+R Ve Num Nn Vv Nn Cp Pp Vv Nn Vv Nc Nn Aa Cs Vv PU
+ADJUNCT ROOT NUM NSUBJ CCOMP OBJ CC NSUBJ CONJ OBJ VMOD OBJ CLF AMOD PREP PCOMP PUNCT
+2 0 4 5 2 5 2 9 2 9 9 11 12 12 9 15 2
+
+Những cô gái ở độ tuổi 18 - 25 rất trẻ mà có_vẻ buồn quá .
+Nq Nc Nn Cs Nn Nn Num PU Num R Aa Cp R Aa R PU
+DET NSUBJ CLF PREP POBJ CONJ NUM PUNCT CONJ ADJUNCT ROOT CC ADJUNCT CONJ ADJUNCT PUNCT
+2 11 2 2 4 5 5 7 7 11 0 11 14 11 14 11
+
+Công_việc ở nhà_máy khá nhẹ_nhàng LBRK làm điện_tử , ngày tám tiếng RBRK với các cô đang tuổi bẻ_gãy_sừng_trâu này .
+Nn Cs Nn R Aa LBRK Vv Nn PU Nt Num Nu RBRK Cs Nn Nn R Nn ID Pd PU
+NSUBJ PREP POBJ ADJUNCT ROOT PUNCT PARATAXIS OBJ PUNCT PARATAXIS NUM NN PUNCT PREP POBJ CONJ ADJUNCT NN DEP DET PUNCT
+5 1 2 5 0 5 5 7 5 5 12 10 5 5 14 15 18 15 18 15 5
+
+Tan ca , về tụm với nhau , ôm cái tivi là hết ...
+Vv Nn PU Vv Vv Cs Nn PU Vv Nc Nn Vc Ve PU
+CSUBJ OBJ PUNCT CONJ VMOD PREP POBJ PUNCT CONJ OBJ CLF ROOT VMOD PUNCT
+12 1 1 1 4 5 6 4 4 9 10 0 12 12
+
+Thời_gian rảnh chẳng biết để làm gì .
+Nn Aa R Vv Cs Vv Pp PU
+NSUBJ AMOD ADJUNCT ROOT PREP PCOMP OBJ PUNCT
+4 1 4 0 4 5 6 4
+
+Đứa nào có bạn thì " chát_chít " ... ngoài phố một_chút rồi về .
+Nn Pd Ve Nn Cp PU Vv PU PU Cs Nn Nq Cp Vv PU
+NSUBJ DET RCMOD OBJ CC PUNCT ROOT PUNCT PUNCT PREP POBJ NP_ADVMOD CC CONJ PUNCT
+7 1 1 3 7 7 0 7 7 7 10 7 7 7 7
+
+Nhớ nhà , hôm trước có một đứa trong phòng nhận tin ba mất , ngất_xỉu liên_tục , cả phòng ôm nhau khóc mấy ngày " - Bùi_Thanh_Hiền LBRK quê Bắc_Giang RBRK nói .
+Vv Nn PU Nt Nn Ve Num Nn Cs Nn Vv Nn Nn Ve PU Vv Aa PU Nw Nn Vv Nn Vv Nq Nu PU PU Nr LBRK Nn Nr RBRK Vv PU
+CCOMP OBJ PUNCT NP_ADVMOD NN CONJ NUM NSUBJ PREP POBJ CCOMP OBJ NSUBJ CCOMP PUNCT CONJ ACOMP PUNCT DET NSUBJ CONJ OBJ VMOD DET NP_ADVMOD PUNCT PUNCT NSUBJ PUNCT PARATAXIS NN PUNCT ROOT PUNCT
+33 1 1 6 4 1 8 11 8 9 6 11 14 12 11 11 16 6 20 21 6 21 21 25 23 33 33 33 28 28 30 28 0 33
+
+Bắt_đầu là những câu_chuyện về gia_đình , bạn_bè , hàng_xóm cũ ... dường_như đã thành một thói_quen .
+Vv Vc Nq Nn Cs Nn PU Nn PU Nn Aa PU R R Vv Num Nn PU
+VSUBJ CSUBJ DET ATTR PREP POBJ PCOMP POBJ PCOMP POBJ AMOD PCOMP ADJUNCT ADJUNCT ROOT NUM OBJ PUNCT
+2 15 4 2 4 5 5 5 5 5 10 5 14 15 0 17 15 15
+
+Nhưng rồi chẳng còn chuyện gì để nói LBRK các bạn bảo thế RBRK nên chuyện mỗi người thành chuyện chung của mọi người .
+Cp Cp R Ve Nn Pp Cs Vv LBRK Nq Nn Vv Pp RBRK Cp Nn Nq Nn Vv Nn Aa Cs Nw Nn PU
+CC CC ADJUNCT ROOT OBJ DET PREP PCOMP PUNCT DET NSUBJ PARATAXIS OBJ PUNCT CC NSUBJ DET NN CONJ OBJ AMOD PREP DET POBJ PUNCT
+4 4 4 0 4 5 5 7 4 11 12 4 12 4 4 19 18 16 4 19 20 20 24 22 4
+
+Khi đổi đề_tài qua chuyện tình_cảm , ai cũng rôm_rả nhưng cũng không được bao_lâu .
+Nt Vv Nn Vv Nn Nn PU Pp R Aa Cp R R Vv Aa PU
+DEP XCOMP OBJ VMOD OBJ NN PUNCT NSUBJ ADJUNCT ROOT CC ADJUNCT ADJUNCT CONJ ADJP_ADVMOD PUNCT
+10 1 2 2 4 5 10 10 10 0 10 13 14 10 14 10
+
+Rạng sáng , chúng_tôi lên_đường đến một điểm KTX nữ khác , tại đây tập_trung gần 50 LĐ nữ của Công_ty XKLĐ Tracimexco .
+VA Nt PU Pp Vv Vv Num Nn Nn Nn Aa PU Cs Pd Vv R Num Nn Nn Cs Nn X Nr PU
+VMOD OBJ PUNCT NSUBJ ROOT VMOD NUM NP_ADVMOD NN NN AMOD PUNCT PREP POBJ CONJ ADJUNCT NUM OBJ NN PREP POBJ DEP NN PUNCT
+5 1 5 5 0 5 8 6 8 9 9 5 15 13 5 17 18 15 18 18 20 21 21 5
+
+Người môi_giới Malaysia đưa chúng_tôi đến thăm chỗ ở của LĐ , tình_cờ chứng_kiến một sự_việc đau_lòng khi hai nhân_viên bảo_vệ khu nhà đang chuẩn_bị đạp tung một cánh cửa phòng của nữ LĐ VN .
+Nc Nn Nr Vv Pp Vv Vv Nn Vv Cs Nn PU Aa Vv Num Nn Aa Nt Num Nn Vv Nn Nn R Vv Vv Vv Num Nn Nn Nn Cs Sv Nn Nr PU
+NSUBJ CLF NN ROOT OBJ VMOD VMOD OBJ VMOD PREP POBJ PUNCT ADJP_ADVMOD CONJ NUM OBJ AMOD NP_ADVMOD NUM NSUBJ RCMOD OBJ NN ADJUNCT CCOMP VMOD VMOD NUM OBJ NN NN PREP SINO POBJ NN PUNCT
+4 1 1 0 4 4 6 7 8 8 10 4 14 4 16 14 16 17 20 25 20 21 22 25 18 25 26 29 26 29 30 31 34 32 34 4
+
+Cánh cửa bị phá trong tích_tắc và một LĐ nam VN được bảo_vệ áp_giải ra khỏi phòng .
+Nn Nn Vv Vv Cs Nn Cp Num Nn Nn Nr Vv Nn Vv Vv Vv Nn PU
+NSUBJ NN ROOT VMOD PREP POBJ CC NUM NSUBJ NN NN CONJ NSUBJ CCOMP VMOD VMOD OBJ PUNCT
+3 1 0 3 4 5 3 9 12 9 9 3 14 12 14 15 16 3
+
+Đó là chuyện buồn nhất trong đêm ở Mour ...
+Pd Vc Nn Aa R Cs Nt Vv Nr PU
+NSUBJ ROOT ATTR AMOD ADJUNCT PREP POBJ RCMOD NP_ADVMOD PUNCT
+2 0 2 3 4 3 6 7 8 2
+

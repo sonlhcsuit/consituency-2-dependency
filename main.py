@@ -1,6 +1,9 @@
+import re
+
 from src.app import merge_conllu
 from src.app import ConlluFile, ConlluSentence
 import os
+from src.app import train, mst_transpose
 from typing import List
 
 # folders = ["Dev", "Train", "Test"]
@@ -13,10 +16,26 @@ DEV = os.path.join(os.getcwd(), "data", "Converted", "Train")
 files = os.listdir(DEV)
 files = sorted(files)
 file = files[0]
-print(files)
-
 # for file in files:
-# 	conllu_file: List[ConlluSentence] = ConlluFile.from_file(os.path.join(DEV, file))
-# 	for sentence in conllu_file:
-# 		if not sentence.check_dependency_order():
-# 			print(file, sentence.get_index())
+#     try:
+#         if len(result) > 0:
+#             mst_transpose(os.path.join(DEV, file),)
+#             break
+#     except Exception as e :
+#         print(e )
+#         print(file)
+#         pass
+# print(files)
+# train()
+# tran
+for file in files:
+    try:
+        conllu_file = ConlluFile(os.path.join(DEV, file))
+        filename = re.findall("[0-9]+", file)
+        if len(filename) > 0:
+            conllu_file.transpose_mst(os.path.join(os.getcwd(), "temp", f"{filename[0]}.txt"))
+    except Exception as e:
+        print(e)
+        print(file)
+    # if not sentence.check_dependency_order():
+    # 	print(file, sentence.get_index())

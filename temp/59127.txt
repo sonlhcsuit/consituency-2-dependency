@@ -1,0 +1,220 @@
+Áo trắng xuống_đường LBRK kỳ 1 RBRK : Xé hiến_chương Vũng_Tàu và buộc Nguyễn_Khánh từ_chức .
+Nn Aa Vv LBRK Nt An RBRK PU Vv Nn Nr Cp Vv Nr Vv PU
+NSUBJ AMOD PARATAXIS PUNCT PARATAXIS AMOD PUNCT PUNCT ROOT OBJ NN CC CONJ OBJ VMOD PUNCT
+3 1 9 3 3 5 3 9 0 9 10 9 9 13 13 9
+
+Dưới mắt những học_trò tuổi 16 - 20 vào những năm 1968 - 1970 thì rõ_ràng Sài_Gòn quê_hương mình đang bị người Mỹ chiếm_đóng .
+Cs Nn Nq Nn Nn Num PU Num Cs Nq Nu Num PU Num Cp Aa Nr Nn Pp R Vv Nn Nr Vv PU
+PREP POBJ DET NN NN NUM PUNCT CONJ PREP DET POBJ NUM PUNCT CONJ CC ADJP_ADVMOD NN NSUBJ NN ADJUNCT ROOT NSUBJ NN CCOMP PUNCT
+21 1 4 2 4 5 6 6 21 11 9 11 12 12 21 21 18 21 18 21 0 24 22 21 21
+
+Ngày ấy , dưới mắt thế_hệ chúng_tôi ...
+Nt Pd PU Cs Nn Nn Pp PU
+ROOT DET PUNCT PREP POBJ NN NN PUNCT
+0 1 1 1 4 5 6 1
+
+Đại_lộ Trần_Hưng_Đạo đóng dày_đặc các cơ_quan và khách_sạn của quân_đội Mỹ ; đường Tự_Do LBRK Đồng_Khởi ngày_nay RBRK , đường Trịnh_Minh_Thế LBRK Nguyễn_Tất_Thành , Q_. 4 nay RBRK nhan_nhản những quán bar với các cô gái váy ngắn dành cho lính Mỹ .
+Nn Nr Vv Aa Nq Nn Cp Nn Cs Nn Nr PU Nn Nn LBRK Nr Nt RBRK PU Nn Nr LBRK Nr PU Nun Num Nt RBRK Aa Nq Nn FW Cs Nq Nc Nn Nn Aa Vv Cs Nn Nr PU
+NSUBJ NN ROOT ACOMP DET OBJ CC CONJ PREP POBJ NN PUNCT NP_ADVMOD NN PUNCT PARATAXIS NP_ADVMOD PUNCT PUNCT CONJ NN PUNCT PARATAXIS PUNCT PARATAXIS NUM NP_ADVMOD PUNCT CONJ DET OBJ DEP PREP DET NN CLF POBJ AMOD RCMOD PREP POBJ NN PUNCT
+3 1 0 3 6 3 6 6 6 9 10 3 29 13 13 13 16 13 13 13 20 20 20 23 23 25 23 20 3 31 29 31 31 37 37 35 33 37 31 39 40 41 3
+
+Nhưng cuộc tổng tiến_công Tết Mậu_Thân 1968 của quân giải_phóng vào các đô_thị miền Nam đã gây một ảnh_hưởng lớn trong nhận_thức của giới trẻ Sài_Gòn về chính_nghĩa dân_tộc và nô_lệ ngoại_bang , về người lính cách_mạng và người lính tay_sai .
+Cp Ncs Sv Vv Nt Nr Num Cs Nn Nn Cs Nq Nn Nn Nn R Vv Num Nn Aa Cs Nn Cs Nn Aa Nr Cs Nn Nn Cp Nn Nn PU Cs Nc Nn Nn Cp Nc Nn Nn PU
+CC NN SINO CLF NSUBJ NN PARATAXIS PREP POBJ NN PREP DET POBJ NN NN ADJUNCT ROOT NUM OBJ AMOD PREP POBJ PREP POBJ AMOD NP_ADVMOD PREP POBJ NN CC CONJ NN PUNCT CONJ NN CLF POBJ CC NN CLF CONJ PUNCT
+17 5 4 2 17 5 5 5 8 9 5 13 11 13 14 17 0 19 17 19 19 21 22 23 24 24 22 27 28 28 28 31 27 27 37 35 34 37 41 39 37 17
+
+Những người đảng_viên trẻ và những người đoàn_viên thanh_niên cộng_sản - thông_qua sự lãnh_đạo của Thành_uỷ và Thành_đoàn thanh_niên Sài_Gòn - Gia_Định hoạt_động bí_mật trong các trường trung_-_đại_học ở Sài_Gòn , đã nắm_bắt lấy thời_cơ cách_mạng đó , ra_sức phát_triển lực_lượng trong sinh_viên học_sinh LBRK SVHS RBRK thông_qua việc tập_hợp SVHS vào các phong_trào công_tác xã_hội , hoạt_động văn_nghệ - báo_chí .
+Nq Nc Nn Aa Cp Nq Nc Nn Nn Nn PU Vv Ncs Vv Cs Nn Cp Nn Nn Nr PU Nr Vv Aa Cs Nq Nn Nn Cs Nr PU R Vv Vv Nn Nn Pd PU Vv Vv Nn Cs Nn Nn LBRK X RBRK Vv Ncs Vv X Cs Nq Nn Nn Nn PU Nn Nn PU Nn PU
+DET NSUBJ CLF AMOD CC DET CONJ CLF NN NN PUNCT VMOD OBJ CLF PREP POBJ CC CONJ NN NP_ADVMOD PUNCT CONJ ROOT ACOMP PREP DET POBJ NN PREP POBJ PUNCT ADJUNCT CONJ VMOD OBJ NN DET PUNCT CONJ VMOD OBJ PREP POBJ CONJ PUNCT PARATAXIS PUNCT PARATAXIS OBJ RCMOD OBJ PREP DET POBJ NN NN PUNCT CONJ NN PUNCT CONJ PUNCT
+2 23 2 2 2 7 2 7 7 7 23 23 12 13 13 15 16 16 18 18 20 20 0 23 23 27 25 27 28 29 23 33 23 33 34 35 35 33 33 39 40 41 42 43 43 43 43 40 48 49 50 50 54 52 54 55 54 54 58 59 59 23
+
+Vào thời_kỳ đó , như một qui_luật , những biến_chuyển về chính_trị - xã_hội của một đất_nước thường được báo_hiệu qua phản_ứng của giới trí_thức , nhất_là SVHS .
+Cs Nn Pd PU Cs Num Nn PU Nq Nn Cs Nn PU Nn Cs Num Nn R Vv Vv Cs Nn Cs Nn Nn PU Cp X PU
+PREP POBJ DET PUNCT PREP NUM POBJ PUNCT DET NSUBJ PREP POBJ PUNCT CONJ PREP NUM POBJ ADJUNCT ROOT VMOD PREP POBJ PREP POBJ NN PUNCT CC PARATAXIS PUNCT
+19 1 2 19 19 7 5 19 10 19 10 11 12 12 10 17 15 19 0 19 20 21 22 23 24 24 24 24 19
+
+Bởi những người học_trò chưa vào đời này được tiếp_cận với nhiều thông_tin , tri_thức , có năng_lượng hoạt_động dồi_dào , lại là con_em của nhiều tầng_lớp đồng_bào trong xã_hội , nên những phản_ứng của SVHS thường có tác_dụng châm ngòi - dây_chuyền cho những phản_ứng của toàn xã_hội .
+Cp Nq Nc Nn R Vv Nn Pd Vv Vv Cs Aa Nn PU Nn PU Ve Nn Vv Aa PU R Vc Nn Cs Aa Nn Nn Cs Nn PU Cp Nq Nn Cs X R Ve Nn Vv Nn PU Nn Cs Nq Nn Cs Nw Nn PU
+CC DET NSUBJ CLF ADJUNCT RCMOD OBJ DET ROOT VMOD PREP AMOD POBJ PUNCT CONJ PUNCT CONJ OBJ VMOD AMOD PUNCT ADJUNCT CONJ ATTR PREP AMOD POBJ NN PREP POBJ PUNCT CC DET NSUBJ PREP POBJ ADJUNCT CONJ OBJ RCMOD OBJ PUNCT PARATAXIS PREP DET POBJ PREP DET POBJ PUNCT
+9 3 9 3 6 3 6 3 0 9 10 13 11 13 13 9 9 17 18 18 17 23 17 23 24 27 25 27 27 29 9 9 34 38 34 35 38 9 38 39 40 39 39 43 46 44 46 49 47 9
+
+Các đảng_phái chống cộng và cả các cơ_quan của Mỹ đội_lốt hoạt_động văn_hoá như CPS LBRK chương_trình phát_triển sinh_hoạt học_đường RBRK cũng tổ_chức nhiều đoàn_thể nhằm lôi_kéo SVHS vào vòng ảnh_hưởng thân Mỹ và chống cộng của họ , nhưng ảnh_hưởng không đáng_kể .
+Nq Nn Vv Nn Cp Nw Nq Nn Cs Nr Vv Vv Nn Cs X LBRK Nn Vv Nn Nn RBRK R Vv Aa Nn Cs Vv X Cs Nn Vv VA Nr Cp Vv Nn Cs Pp PU Cp Vv R Aa PU
+DET NSUBJ RCMOD OBJ CC DET DET CONJ PREP POBJ RCMOD VMOD OBJ PARATAXIS POBJ PUNCT PARATAXIS RCMOD OBJ NN PUNCT ADJUNCT ROOT AMOD OBJ PREP PCOMP OBJ PREP POBJ VMOD RCMOD OBJ CC CONJ OBJ PREP POBJ PUNCT CC RCMOD ADJUNCT ACOMP PUNCT
+2 23 2 3 2 8 8 2 8 9 8 11 12 8 14 15 15 17 18 19 15 23 0 25 23 23 26 27 27 29 30 30 32 32 32 35 30 37 30 30 30 43 41 23
+
+Đáng_kể chính là Đảng Cộng_sản và Đoàn thanh_niên cộng_sản đã tập_hợp được đông_đảo SVHS theo ngọn cờ đấu_tranh chống Mỹ , giải_phóng đất_nước , xuyên_suốt quá_trình 20 năm 1955 - 1975 ở miền Nam .
+Aa M Vc Nn Aa Cp Nn Nn Nn R Vv R Aa X Vv Nc Nn Vv Vv Nr PU Vv Nn PU Aa Nn Num Nu Num PU Num Cs Nn Nn PU
+ASUBJ INTJ ROOT NSUBJ AMOD CC CONJ NN NN ADJUNCT CCOMP ADJUNCT AMOD OBJ VMOD OBJ CLF RCMOD VMOD OBJ PUNCT CONJ OBJ PUNCT ADJP_ADVMOD OBJ NUM NN PARATAXIS PUNCT CONJ PREP POBJ NN PUNCT
+3 3 0 11 4 4 4 7 7 11 3 11 14 11 11 15 16 16 18 19 18 18 22 15 15 25 28 26 28 29 29 15 32 33 3
+
+Hiến_chương Vũng_Tàu .
+Nn Nr PU
+ROOT NN PUNCT
+0 1 1
+
+Năm 1963 , quân_đội Sài_Gòn do tướng Dương_Văn_Minh lãnh_đạo đã đảo_chính lật_đổ chế_độ độc_tài Ngô_Đình_Diệm .
+Nt Num PU Nn Nr Cs Nn Nr Vv R Vv Vv Nn Nn Nr PU
+NP_ADVMOD NUM PUNCT NSUBJ NN MARK NSUBJ NN CCOMP ADJUNCT ROOT VMOD OBJ NN NN PUNCT
+11 1 11 11 4 9 9 7 4 11 0 11 12 13 13 11
+
+Song do ông Minh không chịu làm vừa_lòng Mỹ , người Mỹ đã bật_đèn_xanh cho tướng Nguyễn_Khánh lật_đổ ông .
+Cp Cp Nn Nr R Vv Vv Aa Nr PU Nn Nr R ID Cs Nn Nr Vv Pp PU
+CC CC NSUBJ NN ADJUNCT ROOT VMOD ACOMP OBJ PUNCT NSUBJ NN ADJUNCT CONJ PREP NSUBJ NN PCOMP OBJ PUNCT
+6 6 6 3 6 0 6 7 7 6 14 11 14 6 14 18 16 15 18 6
+
+Tướng người thấp , mập và để một chòm râu dưới cằm nên Nguyễn_Khánh được giới báo_chí đặt cho biệt_danh " tướng râu dê " .
+Nn Nn Aa PU Aa Cp Vv Num Nn Nn Cs Nn Cp Nr Vv Nn Nn Vv M Nn PU Nn Nn Nn PU PU
+NSUBJ ROOT AMOD PUNCT CONJ CC CONJ NUM OBJ NN PREP POBJ CC NSUBJ CONJ NSUBJ NN CCOMP INTJ OBJ PUNCT NN NN NN PUNCT PUNCT
+2 0 2 3 3 2 2 9 7 9 9 11 2 15 2 18 16 15 18 18 20 20 22 23 20 2
+
+Với tham_vọng quyền_lực , Nguyễn_Khánh đã tổ_chức một hội_nghị cấp chính_phủ ở Vũng_Tàu để thông_qua một sắc_luật gọi là " Hiến_chương Vũng_Tàu " , vào ngày 16_-_8_-_1964 , trong đó có điểm chính là dành cho Nguyễn_Khánh quyền làm quốc_trưởng suốt đời .
+Cs Nn Nn PU Nr R Vv Num Nn Nn Nn Cs Nr Cs Vv Num Nn Vv Cs PU Nn Nr PU PU Cs Nt Nt PU Cs Pd Ve Nn Aa Vc Vv Cs Nr Nn Vv Nn Aa Nn PU
+PREP POBJ NN PUNCT NSUBJ ADJUNCT ROOT NUM OBJ NN NN PREP POBJ PREP PCOMP NUM OBJ RCMOD PREP PCOMP POBJ NN PCOMP PUNCT PREP POBJ NN PUNCT PREP POBJ PARATAXIS NSUBJ AMOD CCOMP VMOD PREP POBJ OBJ RCMOD OBJ ADJP_ADVMOD OBJ PUNCT
+7 1 2 7 7 7 0 9 7 9 10 9 12 9 14 17 15 17 18 19 19 21 19 9 9 25 26 9 31 29 9 34 32 31 34 35 36 35 38 39 39 41 7
+
+Trước nguy_cơ tái_diễn chế_độ độc_tài kiểu Ngô_Đình_Diệm , các lực_lượng cách_mạng và các đoàn_thể đấu_tranh cho dân_chủ , hoà_bình ở các đô_thị miền Nam phải phối_hợp , ra_sức đấu_tranh , ngăn_chặn , phá vỡ âm_mưu này .
+Cs Nn Vv Nn Aa Nn Nr PU Nq Nn Nn Cp Nq Nn Vv Cs Nn PU Nn Cs Nq Nn Nn Nn Vv Vv PU Vv Vv PU Vv PU Vv Vv Nn Pd PU
+PREP POBJ RCMOD OBJ AMOD NN NN PUNCT DET NSUBJ NN CC DET CONJ RCMOD PREP POBJ PUNCT CONJ PREP DET POBJ NN NN ROOT VMOD PUNCT VMOD VMOD PUNCT CONJ PUNCT CONJ VMOD OBJ DET PUNCT
+25 1 2 3 4 4 6 25 10 25 10 10 14 10 14 15 16 17 17 14 22 20 22 23 0 25 26 26 28 28 28 31 31 33 33 35 25
+
+Và thất_bại của ông " trung_tướng chủ_tịch " .
+M Nn Cs Nc PU Nn Nn PU PU
+INTJ ROOT PREP POBJ PUNCT NN CONJ PUNCT PUNCT
+2 0 2 3 6 4 6 6 2
+
+Sáng 21_-_8_-_1964 , hàng ngàn SVHS tập_hợp tại trụ_sở Tổng_hội Sinh_viên Sài_Gòn , số 4 Duy_Tân LBRK nay là đường Phạm_Ngọc_Thạch RBRK rồi kéo tới toà nhà số 5 Thống_Nhất LBRK nay là đường Lê_Duẩn RBRK - dinh của " thủ_tướng Nguyễn_Khánh " - đòi bãi_bỏ lệnh giới_nghiêm .
+Nt Nt PU R Nq X Vv Cs Nn Nn Nn Nr PU Nn Nr Nn LBRK Nt Vc Nn Nr RBRK Cp Vv Cs Nn Nn Nn Nr Nr LBRK Nt Vc Nn Nr RBRK PU Nn Cs PU Nn Nr PU PU Vv Vv Nn Vv PU
+NP_ADVMOD NN PUNCT ADJUNCT NUM NSUBJ ROOT PREP POBJ NN NN NN PUNCT PARATAXIS NN NN PUNCT NP_ADVMOD PARATAXIS ATTR NN PUNCT CC CONJ PREP NN NN POBJ NN NN PUNCT NP_ADVMOD PARATAXIS ATTR NN PUNCT PUNCT PARATAXIS PREP PUNCT POBJ NN PUNCT PUNCT VMOD VMOD OBJ VMOD PUNCT
+7 1 7 5 6 7 0 7 8 9 10 10 9 9 14 14 16 19 16 19 20 16 7 7 24 28 28 25 28 28 30 33 30 33 34 30 28 28 38 41 39 41 41 28 24 45 46 47 7
+
+Ngày 25_-_8_-_1964 , quá một ngày theo hạn_định của SVHS đặt ra cho Nguyễn_Khánh phải trả_lời về tình_trạng khẩn_trương , về chế_độ kiểm_duyệt báo_chí và xét lại bản Hiến_chương Vũng_Tàu LBRK 16_-_8 RBRK .
+Nt Nt PU Vv Num Nu Vv Nn Cs X Vv R Cs Nr Vv Vv Cs Nn Aa PU Cs Nn Vv Nn Cp Vv R Nc Nn Nr LBRK Nt RBRK PU
+ROOT NN PUNCT PARATAXIS NUM OBJ VMOD OBJ PREP POBJ RCMOD ADJUNCT MARK NSUBJ CCOMP VMOD PREP POBJ AMOD PUNCT CONJ POBJ RCMOD OBJ CC CONJ ADJUNCT NN CLF NN PUNCT OBJ PUNCT PUNCT
+0 1 1 1 6 4 4 7 8 9 8 11 15 15 11 15 16 17 18 17 17 21 22 23 16 16 26 32 28 32 32 26 32 1
+
+Ngày này , cách đó đúng một năm nữ_sinh Quách_Thị_Trang đã ngã xuống trước bùng_binh chợ Bến_Thành trong một cuộc biểu_tình bị cảnh_sát Diệm_Nhu đàn_áp dã_man .
+Nt Pd PU Vv Pd Aa Num Nu Nn Nr R Vv R Cs Nn Nn Nr Cs Num Ncs Vv Vv Nn Nr Vv Aa PU
+NP_ADVMOD DET PUNCT PARATAXIS OBJ ACOMP NUM OBJ NSUBJ NN ADJUNCT ROOT ADJUNCT PREP POBJ NN NN PREP NUM POBJ CLF RCMOD NSUBJ NN CCOMP ACOMP PUNCT
+12 1 1 1 4 4 8 6 12 9 12 0 12 12 14 15 16 12 20 18 20 20 25 23 22 25 12
+
+Sáng hôm đó cả rừng người , ước_tính hàng trăm ngàn người gồm SVHS , phụ_nữ thanh_niên sau lễ tưởng_niệm Quách_Thị_Trang đã từ bùng_binh chợ Bến_Thành tuần_hành thẳng tới dinh Nguyễn_Khánh .
+Nt Nt Pd Nw Nn Nn PU Vv R Nq Nq Nn Vv X PU Nn Nn Cs Nn Vv Nr R Cs Nn Nn Nr Vv Aa Cs Nn Nr PU
+NP_ADVMOD NN DET DET NSUBJ NN PUNCT PARATAXIS ADJUNCT NUM CONJ OBJ RCMOD DEP PUNCT OBJ NN PREP POBJ RCMOD OBJ ADJUNCT PREP POBJ NN NN ROOT ACOMP PREP POBJ NN PUNCT
+27 1 2 5 27 5 5 5 10 12 10 8 12 16 16 13 16 27 18 19 20 27 27 23 24 25 0 27 27 29 30 27
+
+Cổng số 5 , cánh sắt nan_hoa đang đóng chặt .
+Nn Nn An PU Nn Nn Nn R Vv Aa PU
+NSUBJ NN AMOD PUNCT PARATAXIS NN NN ADJUNCT ROOT ACOMP PUNCT
+9 1 2 1 1 5 5 9 0 9 9
+
+Những người lính gác giữ vẻ mặt lạnh_lùng nhìn đoàn biểu_tình bằng cặp mắt lo_lắng , dù muốn chạy cũng không còn đường chạy vì vòng_vây đã siết chặt .
+Nq Nc Nn Vv Vv Nn Nn Aa Vv Nn Vv Cs Nq Nn Vv PU Cp Vv Vv R R Ve Nn Vv Cs Nn R Vv Aa PU
+DET NSUBJ CLF VMOD ROOT OBJ NN AMOD CONJ OBJ VMOD PREP DET POBJ RCMOD PUNCT CC XCOMP VMOD ADJUNCT ADJUNCT CONJ OBJ VMOD MARK NSUBJ ADJUNCT ADVCL ACOMP PUNCT
+2 5 2 2 0 5 6 6 5 9 10 9 14 12 14 18 18 15 18 21 22 18 22 23 28 28 28 22 28 5
+
+10 g 04 , Nghiêm_Xuân_Hồng , " bộ trưởng phủ thủ_tướng " , nhân_danh " trung_tướng chủ_tịch " ra tiếp đoàn , nhưng vừa tới cổng đã bị hàng ngàn tiếng la_ó : " Vô đi , vô đi , yêu_cầu Nguyễn_Khánh ra đây ! " .
+Num Nt Num PU Nr PU PU Nn Sv Nn Nn PU PU Vv PU Nn Nn PU Vv Vv Nn PU Cp R Vv Nn R Vv R Nq Nn Vv PU PU Vv R PU Vv R PU Vv Nr Vv Pd PU PU PU
+NUM NP_ADVMOD NN PUNCT NSUBJ PUNCT PUNCT NN SINO PARATAXIS NN PUNCT PUNCT ROOT PUNCT OBJ CONJ PUNCT VMOD VMOD OBJ PUNCT CC ADJUNCT XCOMP OBJ ADJUNCT CONJ ADJUNCT NUM OBJ RCMOD PUNCT PUNCT XCOMP ADJUNCT PUNCT CONJ ADJUNCT PUNCT CONJ NSUBJ CCOMP NP_ADVMOD PUNCT PUNCT PUNCT
+2 14 2 14 14 5 5 10 8 5 10 5 5 0 14 14 16 14 14 19 20 14 14 25 28 25 28 14 30 31 28 31 35 35 32 35 35 35 38 35 35 43 41 43 35 35 14
+
+Một đại_diện của đoàn biểu_tình bước tới thông_báo cho Nghiêm_Xuân_Hồng biết ông không đủ tư_cách nói_chuyện và đòi Nguyễn_Khánh phải trả_lời tức_khắc đối_với những điều đã nêu ra trong kiến_nghị ngày 21_-_8 .
+Num Nn Cs Nn Vv Vv Vv Vv Vv Nr Vv Pp R Aa Nn Vv Cp Vv Nr Vv Vv R Cs Nq Nn R Vv R Cs Nn Nt Nt PU
+NUM NSUBJ PREP POBJ VMOD ROOT VMOD VMOD VMOD IOBJ VMOD NSUBJ ADJUNCT CCOMP OBJ RCMOD CC CONJ NSUBJ CCOMP VMOD ADJUNCT PREP DET POBJ ADJUNCT RCMOD ADJUNCT PREP POBJ NP_ADVMOD NN PUNCT
+2 6 2 3 4 0 6 7 8 9 9 14 14 11 14 15 6 6 20 18 20 21 21 25 23 27 25 27 27 29 30 31 6
+
+Hồng đang phân_trần thì một học_sinh nhào tới sau lưng nắm hai cánh_tay xoay người Hồng nửa vòng vừa đẩy vào trong cửa vừa la lớn : " Vô ! Vô ! " .
+Nr R Vv Cp Num Nn Vv Vv Cs Nn Vv Num Nn Vv Nn Nr Nq Nn Cp Vv Cs Cs Nn Cp Vv Aa PU PU Vv PU Vv PU PU PU
+NSUBJ ADJUNCT ROOT CC NUM NSUBJ CONJ VMOD PREP POBJ CONJ NUM OBJ CONJ OBJ NN DET OBJ CC CONJ PREP PREP POBJ CC CONJ ACOMP PUNCT PUNCT CCOMP PUNCT CONJ PUNCT PUNCT PUNCT
+3 3 0 3 6 7 3 7 8 9 7 13 11 11 14 15 18 14 20 14 20 21 22 20 20 25 29 29 25 29 29 31 29 3
+
+Nguyễn_Khánh phải ra_mặt và lập_tức bị bao_vây .
+Nr Vv Vv Cp R Vv Vv PU
+NSUBJ ROOT VMOD CC ADJUNCT CONJ VMOD PUNCT
+2 0 2 2 6 2 6 2
+
+Đại_diện đoàn biểu_tình đọc tuyên_cáo xong , cái mirco cầm tay được chuyển tới nhiều người , nêu những câu chất_vấn về tình_trạng khẩn_trương , vấn_đề giới_nghiêm , kiểm_duyệt báo_chí , trả_thù những người chống Diệm ở một_số địa_phương , về sự phi_pháp và phản dân_chủ của Hiến_chương Vũng_Tàu ...
+Nn Nn Vv Vv Nn VA PU Nc FW Vv Nn Vv Vv Cs Aa Nn PU Vv Nq Nn Vv Cs Nn Aa PU Nn Vv PU Vv Nn PU Vv Nq Nn Vv Nr Cs Nq Nn PU Cs Ncs Aa Cp Vv Nn Cs Nn Nr PU
+NSUBJ NN VMOD ROOT OBJ VMOD PUNCT NSUBJ CLF RCMOD OBJ CONJ VMOD PREP AMOD POBJ PUNCT CONJ DET OBJ VMOD PREP POBJ AMOD PCOMP POBJ RCMOD PUNCT CONJ OBJ PUNCT CONJ DET OBJ RCMOD OBJ PREP DET POBJ PUNCT CONJ POBJ AMOD CC CONJ OBJ PREP POBJ NN PUNCT
+4 1 2 0 4 4 4 12 8 8 10 4 12 13 16 14 12 12 20 18 20 20 22 23 22 22 26 27 27 29 29 29 34 32 34 35 35 39 37 22 22 41 42 43 43 45 42 47 48 4
+
+Một_số tư_liệu trong bài viết này , chúng_tôi có sử_dụng : Ký_sự của các tác_giả Nguyễn_Nguyên , Phúc_Tiến , Nguyễn_Hữu_Đức , Hàng_Chức_Nguyên trong cuốn Trui_rèn trong lửa đỏ của NXB Văn_Nghệ và Thành_đoàn TNCS Hồ_Chí_Minh 1985 .
+Nq Nn Cs Ncs Vv Pd PU Pp R Vv PU Nn Cs Nq Nn Nr PU Nr PU Nr PU Nr Cs Nn Vv Cs Nn Aa Cs Nn Nn Cp Nn X Nr Num PU
+DET OBJ PREP POBJ CLF DET PUNCT NSUBJ ADJUNCT ROOT PUNCT PARATAXIS PREP DET POBJ NN PUNCT CONJ PUNCT CONJ PUNCT CONJ PREP POBJ RCMOD PREP POBJ AMOD PREP POBJ NN CC CONJ DEP NN NP_ADVMOD PUNCT
+2 10 2 3 4 4 10 10 10 0 10 10 12 15 13 15 16 16 18 18 20 20 12 23 24 25 26 27 24 29 30 30 30 33 33 33 10
+
+Ghi_chép theo lời kể của một_số anh_chị cán_bộ Đoàn và cán_bộ phong_trào thanh_niên , sinh_viên , học_sinh Sài_Gòn .
+Vv Vv Nn Vv Cs Nq Nn Nn Nn Cp Nn Nn Nn PU Nn PU Nn Nr PU
+ROOT VMOD OBJ VMOD PREP DET POBJ NN NN CC CONJ NN NN PUNCT CONJ PUNCT CONJ NP_ADVMOD PUNCT
+0 1 2 3 3 7 5 7 8 8 8 11 12 13 13 15 15 12 1
+
+Nguyễn_Khánh từ trên mui xe nhảy xuống đất , bước tới bước lui .
+Nr Cs Cs Nn Nn Vv D Nn PU Vv D Vv D PU
+NSUBJ PREP PREP POBJ NN ROOT VMOD OBJ PUNCT CONJ VMOD CONJ VMOD PUNCT
+6 6 2 3 4 0 6 7 6 6 10 10 12 6
+
+Nét mặt đầy cay_đắng , mồ_hôi đầm_đìa , Nguyễn_Khánh ấp_a_ấp_úng : Tôi mà độc_tài à , nếu tôi độc_tài thì mọi người cứ_việc đả_đảo tôi .
+Nn Nn Aa Aa PU Nn Vv PU Nr Vv PU Pp Cp Aa M PU Cp Pp Aa Cp Nw Nn R Vv Pp PU
+NSUBJ NN ADVCL ADJP_ADVMOD PUNCT NSUBJ CONJ PUNCT NSUBJ ROOT PUNCT NSUBJ CC CCOMP INTJ PUNCT CC NSUBJ CONJ CC DET NSUBJ ADJUNCT CONJ OBJ PUNCT
+3 1 10 3 3 7 3 10 10 0 14 14 14 10 14 14 19 19 14 19 22 24 24 19 24 10
+
+Lập_tức một sinh_viên giật lấy micro : Nếu không độc_tài thì sao mọi người lại phải biểu_tình chống độc_tài ?
+R Num Nn Vv R Nn PU Cp R Aa Cp Pp Nw Nn R Vv Vv Vv Aa PU
+ADJUNCT NUM NSUBJ ROOT ADJUNCT OBJ PUNCT CC ADJUNCT CCOMP CC DEP DET NSUBJ ADJUNCT CONJ VMOD VMOD ACOMP PUNCT
+4 3 4 0 4 4 10 10 10 4 10 16 14 16 16 10 16 17 18 4
+
+Không_thể chối_bỏ bằng lời_nói mà phải bằng hành_động .
+R Vv Cs Nn Cp Vv Cs Nn PU
+ADJUNCT ROOT PREP POBJ CC CONJ PREP POBJ PUNCT
+2 0 2 3 2 2 6 7 2
+
+Anh_chị_em có đồng_ý không ?
+Nn R Vv R PU
+NSUBJ ADJUNCT ROOT ADJUNCT PUNCT
+3 3 0 3 3
+
+Từng chập những tiếng hô rền vang một góc trời : " Đả_đảo độc_tài quân_phiệt ! " .
+R Nu Nq Nn Vv Aa Aa Num Nn Nn PU PU Vv Nn Aa PU PU PU
+ADJUNCT NSUBJ DET NN VMOD ROOT ADJP_ADVMOD NUM OBJ NN PUNCT PUNCT XCOMP OBJ AMOD PUNCT PUNCT PUNCT
+2 6 4 2 4 0 6 9 6 9 13 13 6 13 14 13 13 6
+
+Cả Nguyễn_Khánh cũng một tay vung lên , một tay cầm micro : " Đả_đảo " .
+Nw Nr R Num Nn Vv R PU Num Nn Vv FW PU PU Vv PU PU
+DET DEP ADJUNCT NUM NSUBJ ROOT ADJUNCT PUNCT NUM NSUBJ CONJ OBJ PUNCT PUNCT XCOMP PUNCT PUNCT
+2 6 5 5 6 0 6 6 10 11 6 11 15 15 11 15 6
+
+Rõ_ràng ông ta thất_thần quýnh_quáng trước áp_lực quần_chúng .
+Aa Pp Pp Vv Aa Cs Nn Nn PU
+DEP NSUBJ DET ROOT CONJ PREP POBJ NN PUNCT
+4 4 2 0 4 5 6 7 4
+
+Ba tiếng đồng_hồ sau khi Khánh lầm_lũi quay vào dinh , một đại_diện ra đọc tuyên_cáo : Khánh huỷ_bỏ bản Hiến_chương Vũng_Tàu và từ_chức chủ_tịch Việt_Nam cộng_hoà .
+Num Nu Nn Cs Nt Nr Aa Vv Cs Nn PU Num Nn Vv Vv Nn PU Nr Vv Nc Nn Nr Cp Vv Nn Nr Aa PU
+NUM NP_ADVMOD NN PREP POBJ NSUBJ ACOMP CCOMP PREP POBJ PUNCT NUM NSUBJ ROOT VMOD OBJ PUNCT NSUBJ PARATAXIS OBJ CLF NN CC CONJ OBJ NN AMOD PUNCT
+2 14 2 2 4 8 8 5 8 9 14 13 14 0 14 15 16 19 16 19 20 20 19 19 24 25 26 14
+
+Lúc đó là 14 g 55 .
+Nt Pd Vc Num Nt Num PU
+NSUBJ DET ROOT NUM NP_ADVMOD NN PUNCT
+3 1 0 5 3 5 3
+
+Đoàn biểu_tình từ phủ chủ_tịch diễu_hành về quảng_trường Diên_Hồng .
+Nn Vv Cs Nn Nn Vv Cs Nn Nr PU
+NSUBJ VMOD PREP POBJ NN ROOT PREP POBJ NN PUNCT
+6 1 6 3 4 0 6 7 8 6
+
+Dọc đường , có cả trăm ngàn đồng_bào từ khắp nơi tự_giác đến tăng_cường cho đoàn , sẵn_sàng gây sức_ép nếu Nguyễn_Khánh còn ngoan_cố .
+Aa Nn PU Ve Nw Nq Nq Nn Cs Aa Nn Aa Vv Vv Cs Nn PU Aa Vv Nn Cp Nr R Aa PU
+ADJP_ADVMOD OBJ PUNCT ROOT QUANTMOD NUM CONJ NSUBJ PREP PCOMP OBJ ACOMP CCOMP VMOD PREP POBJ PUNCT CONJ VMOD OBJ CC NSUBJ ADJUNCT CONJ PUNCT
+4 1 4 0 6 8 6 13 8 9 10 13 4 13 14 15 13 13 18 19 4 24 24 4 4
+
+Trận đánh 25_-_8_-_1964 kết_thúc thắng_lợi .
+Nn Vv Nt Vv Vv PU
+NSUBJ VMOD NP_ADVMOD ROOT VMOD PUNCT
+4 1 1 0 4 4
+
+Mỹ không ngờ được sự đột_biến , lực_lượng chính_trị thanh_niên , SVHS và các giới ở phút chót đã quật nhào Nguyễn_Khánh , đương_kim nguyên_thủ quốc_gia của chế_độ Sài_Gòn .
+Nr R Vv R Ncs Aa PU Nn Nn Nn PU X Cp Nq Nn Cs Nt Nn R Vv Vv Nr PU Aa Nn Nn Cs Nn Nr PU
+NSUBJ ADJUNCT ROOT ADJUNCT OBJ CLF PUNCT NSUBJ NN NN PUNCT CONJ CC DET CONJ PREP POBJ NN ADJUNCT CONJ VMOD OBJ PUNCT PARATAXIS OBJ NN PREP POBJ NN PUNCT
+3 3 0 3 3 5 3 20 8 9 10 10 12 15 12 20 16 17 20 3 20 20 22 22 24 25 25 27 28 3
+

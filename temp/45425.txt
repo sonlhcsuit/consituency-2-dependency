@@ -1,0 +1,355 @@
+Đổi lòng hoạn_thư : Từ cuộc điện không lời thoại .
+Vv Nn Nn PU Cs Nc Nn R Nn Vv PU
+ROOT OBJ NN PUNCT PREP NN CLF ADJUNCT POBJ VMOD PUNCT
+0 1 2 1 1 9 6 9 5 9 1
+
+Lần đầu_tiên công_ty thám_tử được tiếp một khách_hàng có thái_độ vui_vẻ , nhẹ_nhàng như chị Thư .
+Nn An Nn Nn Vv Vv Num Nn Ve Nn Aa PU Aa Cs Nn Nr PU
+NP_ADVMOD AMOD NSUBJ NN ROOT VMOD NUM OBJ RCMOD OBJ AMOD PUNCT CONJ PREP POBJ NN PUNCT
+5 1 5 3 0 5 8 6 8 9 10 11 11 10 14 15 5
+
+Bởi chuyện của Thư cũng rất nhẹ_nhàng và chẳng nên chuyện tí nào .
+Cp Nn Cs Nr R R Aa Cp R Vv Nn Nq Pd PU
+CC NSUBJ PREP POBJ ADJUNCT ADJUNCT ROOT CC ADJUNCT CONJ OBJ OBJ DET PUNCT
+7 7 2 3 6 7 0 7 10 7 10 10 12 7
+
+Phía sau chuẩn_mực .
+Nn Nn Nn PU
+ROOT NN NN PUNCT
+0 1 1 1
+
+Đó là cách đây ba hôm , khoảng 8 g 30 tối , hai vợ_chồng Thư đang đọc sách và xem tivi thì chuông điện_thoại reo .
+Pd Vc Vv Pd Num Nu PU R Num Nt Num Nt PU Num Nn Nr R Vv Nn Cp Vv Nn Cp Nn Nn Vv PU
+NSUBJ ROOT CCOMP OBJ NUM NP_ADVMOD PUNCT ADJUNCT NUM PARATAXIS NN NN PUNCT NUM NSUBJ NN ADJUNCT CCOMP OBJ CC CONJ OBJ CC NSUBJ NN CCOMP PUNCT
+2 0 2 3 6 3 6 9 10 6 10 10 3 15 18 15 18 3 18 18 18 21 3 26 24 3 2
+
+Vì ngồi gần nên Thư cầm máy .
+Cp Vv Aa Cp Nr Vv Nn PU
+CC ROOT ACOMP CC NSUBJ CONJ OBJ PUNCT
+2 0 2 2 6 2 6 2
+
+Nhưng khi chị thưa thì đầu dây bên kia có tiếng " dạ " đứt_quãng rồi im_lặng không trả_lời .
+Cp Nt Pp Vv Cp Nn Nn Nn Pd Ve Nn PU E PU Vv Cp Aa R Vv PU
+CC DEP NSUBJ CCOMP CC NSUBJ NN NN DET ROOT OBJ PUNCT INTJ PUNCT RCMOD CC CONJ ADJUNCT VMOD PUNCT
+10 10 4 2 10 10 6 6 8 0 10 11 11 11 11 10 10 19 17 10
+
+Giọng khó đoán nam hay nữ , trẻ hay già .
+Nn Aa Vv Nn Cp Nn PU Aa Cp Aa PU
+NSUBJ ROOT VMOD OBJ CC CONJ PUNCT CONJ CC CONJ PUNCT
+2 0 2 3 4 4 4 4 8 8 2
+
+Có_lẽ họ không nhầm máy vì sau mấy lần Thư hỏi thì người đó mới dập máy .
+R Pp R Vv Nn Cs Cs Nq Nn Nr Vv Cp Nn Pd R Vv Nn PU
+ADJUNCT NSUBJ ADJUNCT ROOT OBJ MARK PREP DET POBJ NSUBJ ADVCL CC NSUBJ DET ADJUNCT CONJ OBJ PUNCT
+4 4 4 0 4 11 11 9 7 11 4 11 16 13 16 11 16 4
+
+Chỉ thế thôi .
+R Pp M PU
+ADJUNCT ROOT INTJ PUNCT
+2 0 2 2
+
+Thư muốn các thám_tử theo_dõi xem anh Nhu , chồng chị , có bồ_bịch hay quan_hệ bí_ẩn nào không .
+Nr Vv Nq Nn Vv Vv Nn Nr PU Nn Pp PU Ve Nn Cp Nn Aa Pd R PU
+NSUBJ ROOT DET NSUBJ CCOMP VMOD NSUBJ NN PUNCT PARATAXIS NN PUNCT CCOMP OBJ CC CONJ AMOD DET ADJUNCT PUNCT
+2 0 4 5 2 5 13 7 7 7 10 7 6 13 14 14 16 16 13 2
+
+Thư đoán là không , bởi 20 năm từ khi yêu nhau đến khi thành vợ_chồng , Nhu chưa bao_giờ có tình_ý thậm_chí thái_độ cợt_nhả với người đàn_bà nào .
+Nr Vv Cs R PU Cs Num Nu Cs Nt Vv Nn Cs Nt Vv Nn PU Nr R Pp Ve Nn R Nn Vv Cs Nc Nn Pd PU
+NSUBJ ROOT PREP ADJUNCT PUNCT MARK NUM NP_ADVMOD PREP POBJ XCOMP OBJ CONJ POBJ XCOMP OBJ PUNCT NSUBJ ADJUNCT OBJ PCOMP OBJ ADJUNCT CONJ VMOD PREP POBJ CLF DET PUNCT
+2 0 2 21 21 21 8 21 8 9 10 11 9 13 14 15 21 21 20 21 3 21 24 22 24 24 26 27 27 2
+
+Nhu là một nhà khoa_học có chí , có tài , nổi_tiếng chung_thuỷ , chỉn_chu , nghiêm_túc và mẫn_cán trong gia_đình , cơ_quan và khu_phố .
+Nr Vc Num Ncs Nn Ve Nn PU Ve Nn PU Aa Aa PU Aa PU Aa Cp Aa Cs Nn PU Nn Cp Nun PU
+NSUBJ ROOT NUM ATTR CLF RCMOD OBJ PUNCT CONJ OBJ PUNCT AMOD ADJP_ADVMOD PUNCT CONJ PUNCT CONJ CC CONJ PREP POBJ PUNCT CONJ CC CONJ PUNCT
+2 0 4 2 4 4 6 6 6 9 4 4 12 13 13 15 15 17 17 12 20 21 21 23 23 2
+
+Vợ_chồng chị cũng chưa từng một lần mặt_nặng_mày_nhẹ với nhau .
+Nn Pp R R R Num Nn ID Cs Nn PU
+NSUBJ NN ADJUNCT ADJUNCT ADJUNCT NUM NP_ADVMOD ROOT PREP POBJ PUNCT
+8 1 4 7 4 7 8 0 8 9 8
+
+Hạnh_phúc ấy Thư xứng_đáng được hưởng vì chị là một cán_bộ nhà_nước , có trình_độ .
+Nn Pd Nr Aa Vv Vv Cs Pp Vc Num Nn Nn PU Ve Nn PU
+OBJ DET NSUBJ ROOT VMOD VMOD MARK NSUBJ ADVCL NUM ATTR NN PUNCT PARATAXIS OBJ PUNCT
+4 1 4 0 4 5 9 9 6 11 9 11 11 11 14 4
+
+Gái Hà_Nội nhưng chữ công_dung_ngôn_hạnh ít người bì kịp .
+Nn Nr Cp Nn ID Aa Nn Vv Aa PU
+NP_ADVMOD NN CC OBJ DEP AMOD NSUBJ ROOT ACOMP PUNCT
+8 1 8 8 4 7 8 0 8 8
+
+Dường_như chị đến công_ty thám_tử là để tham_quan .
+R Pp Vv Nn Nn M Cs Vv PU
+ADJUNCT NSUBJ ROOT OBJ NN PCOMP PREP PCOMP PUNCT
+3 3 0 3 4 7 3 7 3
+
+Thám_tử Toàn được giao ảnh , địa_chỉ nhà , cơ_quan anh Nhu để theo_dõi .
+Nn Nr Vv Vv Nn PU Nn Nn PU Nn Nn Nr Cs Vv PU
+NSUBJ NN ROOT VMOD OBJ PUNCT CONJ NN PUNCT CONJ NN NN PREP PCOMP PUNCT
+3 1 0 3 4 5 5 7 8 8 8 11 4 13 3
+
+Toàn thật nhàn vì Nhu cứ ăn sáng ở nhà với vợ xong mới đến cơ_quan .
+Nr R Aa Cs Nr R Vv Nt Cs Nn Cs Nn VA Cp Vv Nn PU
+NSUBJ ADJUNCT ROOT MARK NSUBJ ADJUNCT ADVCL OBJ PREP POBJ PREP POBJ VMOD CC CONJ OBJ PUNCT
+3 3 0 7 7 7 3 7 7 9 7 11 7 7 7 15 3
+
+Hết bốn tiếng buổi sáng thì gọi cơm hộp , uống nước văn_phòng và làm đến 6 g chiều thì đi thẳng một_mạch về nhà .
+Ve Num Nu Nt Nt Cp Vv Nn Nn PU Vv Nn Nn Cp Vv Cs Num Nt Nt Cp Vv Aa Nn Vv Nn PU
+VMOD NUM OBJ NN NN CC ROOT OBJ NN PUNCT CONJ OBJ NN CC CONJ PREP NUM POBJ NN CC CONJ ACOMP OBJ RCMOD OBJ PUNCT
+7 3 1 3 4 7 0 7 8 7 7 11 12 7 7 15 18 16 18 15 15 21 22 23 24 7
+
+Tám ngày liền như vậy , hợp_đồng của Thư tưởng như chấm_dứt thì buổi chiều định_mệnh ập đến .
+Num Nu Aa Cs Pp PU Nn Cs Nr Vv Cs Vv Cp Nt Nt Aa Vv Vv PU
+NUM NP_ADVMOD AMOD PREP POBJ PUNCT NSUBJ PREP POBJ ROOT PREP PCOMP CC NSUBJ NN AMOD CONJ VMOD PUNCT
+2 10 2 2 4 10 10 7 8 0 10 11 10 17 14 14 10 17 10
+
+Ban_đầu là một đoàn khách của cơ_quan Nhu đến .
+Nn Cp Num Nn Nn Cs Nn Nr Vv PU
+NP_ADVMOD CC NUM NSUBJ NN PREP POBJ NN ROOT PUNCT
+9 9 4 9 4 4 6 7 0 9
+
+Nhu đi cùng đoàn tiếp khách .
+Aa Vv Aa Nn Vv Nn PU
+NSUBJ ROOT ACOMP OBJ RCMOD OBJ PUNCT
+2 0 2 3 4 5 2
+
+Nửa bữa , Nhu xin_phép về trước .
+Nq Nn PU Nr Vv Vv Nn PU
+DET NP_ADVMOD PUNCT NSUBJ ROOT VMOD NP_ADVMOD PUNCT
+2 5 5 5 0 5 6 5
+
+Toàn theo Nhu đến ngã ba và định bỏ_về thì anh giật_mình : Nhu không rẽ về nhà .
+Nr Vv Nr Vv Nn Num Cp Vv Vv Cp Pp Vv PU Nr R Vv Vv Nn PU
+NSUBJ ROOT OBJ VMOD OBJ NUM CC CONJ VMOD CC NSUBJ CONJ PUNCT NSUBJ ADJUNCT CCOMP VMOD OBJ PUNCT
+2 0 2 2 4 5 2 2 8 2 12 2 16 16 16 12 16 17 2
+
+Người đàn_ông đó bất_ngờ phóng như_ma_đuổi , len_lách vào các ngõ tắt , đường ngang với thái_độ bất thường .
+Nc Nn Pd Aa Vv ID PU Vv Cs Nq Nn Aa PU Nn Aa Cs Nn Sv Aa PU
+NSUBJ CLF DET ACOMP ROOT ACOMP PUNCT CONJ PREP DET POBJ AMOD PUNCT CONJ AMOD PREP POBJ SINO AMOD PUNCT
+5 1 1 5 0 5 5 5 8 11 9 11 11 11 14 8 16 19 17 5
+
+Nơi Nhu dừng xe là một quán nước gần công_viên Lênin .
+Nn Nr Vv Nn Vc Num Nn Nn Aa Nn Nr PU
+NSUBJ NSUBJ CCOMP OBJ ROOT NUM ATTR NN AMOD OBJ NN PUNCT
+5 3 1 3 0 7 5 7 7 9 10 5
+
+Chừng 5 phút thì một cô gái trẻ , ăn_mặc gọn_gàng , bịt khăn , đội mũ đi vượt lên phía trước và hơi ngoái đầu ra_hiệu với Nhu .
+R Num Nu Cp Num Nc Nn Aa PU Vv Aa PU Vv Nn PU Vv Nn Vv Vv Vv Nn Nn Cp R Vv Nn Vv Cs Nr PU
+ADJUNCT NUM NP_ADVMOD CC NUM NSUBJ CLF AMOD PUNCT PARATAXIS ACOMP PUNCT CONJ OBJ PUNCT CONJ OBJ ROOT VMOD VMOD OBJ NN CC ADJUNCT CONJ OBJ VMOD PREP POBJ PUNCT
+2 3 18 18 6 18 6 6 6 6 10 10 10 13 13 13 16 0 18 19 20 21 18 25 18 25 25 27 28 18
+
+Nhu phóng xe lên , rồi cả hai hối_hả tiến ra ngoại_ô .
+Nr Vv Nn R PU Cp Nw Num Aa Vv Vv Nn PU
+NSUBJ ROOT OBJ ADJUNCT PUNCT CC DET NSUBJ ACOMP CONJ VMOD OBJ PUNCT
+2 0 2 2 2 2 8 10 10 2 10 11 2
+
+Đánh xe chạy thẳng vào nhà_nghỉ một_cách thành_thạo và họ dẫn nhau lên cầu_thang .
+Vv Nn Vv Aa Cs Nn Nn Aa Cp Pp Vv Nn Vv Nn PU
+ROOT OBJ RCMOD ACOMP PREP POBJ OBJ AMOD CC NSUBJ CONJ OBJ VMOD OBJ PUNCT
+0 1 2 3 3 5 3 7 1 11 1 11 11 13 1
+
+Toàn lập_tức chạy vào đăng_ký thuê phòng .
+Nr R Vv Vv Vv Vv Nn PU
+NSUBJ ADJUNCT ROOT VMOD VMOD VMOD OBJ PUNCT
+3 3 0 3 4 5 6 3
+
+Anh phát_hiện : chiếc chìa_khoá cô gái cầm theo mang số 205 .
+Pp Vv PU Nc Nn Nc Nn Vv Vv Vv Nn Num PU
+NSUBJ ROOT PUNCT NSUBJ CLF NSUBJ CLF CCOMP VMOD CCOMP OBJ NUM PUNCT
+2 0 10 10 4 8 6 4 8 2 10 11 2
+
+Lửa hận .
+Nn Nn PU
+ROOT NN PUNCT
+0 1 1
+
+Bình_thường thì các thám_tử tránh thông_báo tức_thời địa_chỉ của đối_tượng cho thân_chủ trong những vụ ngoại_tình như thế này .
+Aa Cp Nq Nn Vv Vv R Nn Cs Nn Cs Nn Cs Nq Ncs Vv Cs Pp Pd PU
+ADJP_ADVMOD CC DET NSUBJ ROOT VMOD ADJUNCT OBJ PREP POBJ PREP POBJ PREP DET POBJ CLF PREP POBJ DET PUNCT
+5 5 4 5 0 5 6 6 8 9 6 11 6 15 13 15 15 17 18 5
+
+Nhưng vì Toàn tin Thư là người dịu_hiền , có văn_hoá và đủ bản_lĩnh kiểm_soát hành_vi , cảm_xúc của mình nên đã báo cho Thư .
+Cp Cp Nr Vv Nr Vc Nn Aa PU Ve Nn Cp Aa Nn Vv Nn PU Nn Cs Pp Cp R Vv Cs Nr PU
+CC CC NSUBJ ROOT NSUBJ CCOMP ATTR AMOD PUNCT CONJ OBJ CC CONJ OBJ RCMOD OBJ PUNCT CONJ PREP POBJ CC ADJUNCT CONJ PREP POBJ PUNCT
+4 4 4 0 6 4 6 7 8 8 10 10 10 13 14 15 16 16 16 19 4 23 4 23 24 4
+
+Thư hơi hụt giọng nhưng vẫn ôn_tồn hứa với Toàn sẽ không đến nhà_nghỉ đó và cũng không nặng_lời với chồng .
+Nr R Aa Nn Cp R Aa Vv Cs Nr R R Vv Nn Pd Cp R R Aa Cs Nn PU
+NSUBJ ADJUNCT ROOT OBJ CC ADJUNCT ACOMP CONJ PREP POBJ ADJUNCT ADJUNCT CCOMP OBJ DET CC ADJUNCT ADJUNCT CONJ PREP POBJ PUNCT
+3 3 0 3 3 8 8 3 8 9 12 13 8 13 14 13 18 19 13 19 20 3
+
+Thế nhưng , Toàn chưa kịp quay xe về thì Thư đã có_mặt ở cửa nhà_nghỉ .
+Pp Cp PU Nr R Aa Vv Nn Vv Cp Nr R Aa Cs Nn Nn PU
+ROOT CC PUNCT NSUBJ ADJUNCT ACOMP CONJ OBJ VMOD CC NSUBJ ADJUNCT CONJ PREP POBJ NN PUNCT
+0 1 1 7 6 7 1 7 7 7 13 13 7 13 14 15 1
+
+Chị đi một_mình và tiến thẳng vào lễ_tân xin thuê phòng .
+Pp Vv R Cp Vv Aa Vv Nn Vv Vv Nn PU
+NSUBJ ROOT ADJUNCT CC CONJ ACOMP VMOD OBJ VMOD VMOD OBJ PUNCT
+2 0 2 2 2 5 5 7 7 9 10 2
+
+Thư lên phòng 205 gõ_cửa và nói vọng vào với Nhu là vợ đến .
+Nr Vv Nn Num Vv Cp Vv Vv Cs Cs Nr Cs Nn Vv PU
+NSUBJ ROOT OBJ NUM VMOD CC CONJ VMOD PREP PREP POBJ MARK NSUBJ CCOMP PUNCT
+2 0 2 3 2 5 5 7 7 7 10 14 14 7 2
+
+Cô gái lao vào trốn trong buồng tắm .
+Nc Nn Vv Vv Vv Cs Nn Vv PU
+NSUBJ CLF ROOT VMOD VMOD PREP POBJ VMOD PUNCT
+3 1 0 3 4 5 6 7 3
+
+Nhu mặt_cắt_không_còn_hạt_máu đổ gục cả thân_xác to_lớn xuống chân vợ .
+Nr ID Vv Vv Nw Nn Aa Vv Nn Nn PU
+NSUBJ DEP ROOT VMOD DET OBJ AMOD VMOD OBJ NN PUNCT
+3 3 0 3 6 4 6 4 8 9 3
+
+Thư kéo ghế ngồi điềm_tĩnh đến lạnh người .
+Nr Vv Nn Vv Aa M Aa Nn PU
+NSUBJ ROOT OBJ CONJ ACOMP INTJ ADJP_ADVMOD OBJ PUNCT
+2 0 2 2 4 7 5 7 2
+
+Mắt Thư sắc buốt như dao , mặt tím thâm lại trong hai hàm răng nghiến bạnh quai_hàm .
+Nn Nr Aa Aa Cs Nn PU Nn Aa Aa R Cs Num Nn Nn Vv Aa Nn PU
+NSUBJ NN ROOT CONJ PREP POBJ PUNCT NSUBJ CONJ CONJ ADJUNCT PREP NUM POBJ NN RCMOD ACOMP OBJ PUNCT
+3 1 0 3 3 5 3 9 3 9 9 9 14 12 14 14 16 17 3
+
+Cái duyên_dáng , nhu_mì bỗng tiêu_tan thay bằng những tiếng rít ghê như rắn .
+Ncs Aa PU Aa R Vv Vv Cs Nq Nn Vv Aa Cs Nn PU
+NSUBJ AMOD PUNCT CONJ ADJUNCT ROOT CONJ PREP DET POBJ VMOD AMOD PREP POBJ PUNCT
+6 1 2 2 6 0 6 7 10 8 10 10 12 13 6
+
+Chị gọi cô gái trong buồng tắm ra , nói ăn_mặc chỉnh_tề và ngồi xuống cạnh Nhu .
+Pp Vv Nc Nn Cs Nn Vv Vv PU Vv Vv Aa Cp Vv Vv Nn Nr PU
+NSUBJ ROOT OBJ CLF PREP POBJ VMOD VMOD PUNCT CONJ XCOMP ACOMP CC CONJ VMOD OBJ NN PUNCT
+2 0 2 3 3 5 6 2 2 2 10 11 11 11 14 15 16 2
+
+Thư yêu_cầu hai người viết giấy nhận tội quan_hệ bất_chính , vi_phạm Luật hôn_nhân gia_đình .
+Nr Vv Num Nn Vv Nn Vv Nn Vv Aa PU Vv Nn Nn Nn PU
+NSUBJ ROOT NUM NSUBJ CCOMP OBJ RCMOD OBJ RCMOD ACOMP PUNCT CONJ OBJ NN CONJ PUNCT
+2 0 4 5 2 5 6 7 8 9 9 9 12 13 14 2
+
+Họ khai : cô gái tên Liên , 25 tuổi , chưa chồng , gia_đình ở Hà_Nội , trình_độ đại_học , đang làm_việc tại một cơ_quan hành_chính .
+Pp Vv PU Nc Nn Nn Nr PU Num Nn PU R Nn PU Nn Cs Nr PU Nn Nn PU R Vv Cs Num Nn Aa PU
+NSUBJ ROOT PUNCT NSUBJ CLF CCOMP NN PUNCT NUM CONJ PUNCT ADJUNCT CONJ PUNCT CONJ PREP POBJ PUNCT CONJ NN PUNCT ADJUNCT CONJ PREP NUM POBJ AMOD PUNCT
+2 0 6 6 4 2 6 6 10 6 10 13 10 13 13 15 16 15 15 19 19 23 19 23 26 24 26 2
+
+Họ đã quan_hệ với nhau năm năm nay và hoàn_toàn vì tình_yêu .
+Pp R Vv Cs Nn Num Nu Nt Cp Aa Cs Nn PU
+NSUBJ ADJUNCT ROOT PREP POBJ NUM NP_ADVMOD NN CC PCOMP CONJ POBJ PUNCT
+3 3 0 3 4 7 3 7 3 11 3 11 3
+
+Cả hai cam_kết chấm_dứt quan_hệ vĩnh_viễn .
+Nw Num Vv Vv Nn Aa PU
+DET NSUBJ ROOT VMOD OBJ ACOMP PUNCT
+2 3 0 3 4 4 3
+
+Họ cùng phải ký và điểm_chỉ vào bản nhận tội .
+Pp Aa Vv Vv Cp Vv Cs Nc Vv Nn PU
+NSUBJ ACOMP ROOT VMOD CC CONJ PREP POBJ RCMOD OBJ PUNCT
+3 3 0 3 4 4 4 7 8 9 3
+
+Xong việc Thư đạo_diễn cho hai người ôm nhau tình_tứ , cúi đầu nhận tội và cùng ký giấy , điểm_chỉ để Thư chụp ảnh .
+VA Nn Nr Vv Cs Num Nn Vv Nn Aa PU Vv Nn Vv Nn Cp Aa Vv Nn PU Vv Cs Nr Vv Nn PU
+VMOD OBJ NSUBJ ROOT MARK NUM NSUBJ CCOMP OBJ ACOMP PUNCT CONJ OBJ VMOD OBJ CC ACOMP CONJ OBJ PUNCT CONJ PREP NSUBJ PCOMP OBJ PUNCT
+4 1 4 0 8 7 8 4 8 8 8 8 12 12 14 12 18 12 18 18 18 4 24 22 24 4
+
+Gấp tờ giấy , cất máy_ảnh , Thư điềm_nhiên xuống lễ_tân trả tiền và tươi_cười nói là người mình hẹn không đến được .
+Vv Nn Nn PU Vv Nn PU Nr Aa Vv Nn Vv Nn Cp Aa Vv Cs Nn Pp Vv R Vv R PU
+XCOMP OBJ NN PUNCT CONJ OBJ PUNCT NSUBJ ACOMP ROOT OBJ VMOD OBJ CC ACOMP CONJ MARK NSUBJ NSUBJ CCOMP ADJUNCT CCOMP ADJUNCT PUNCT
+10 1 2 1 1 5 10 10 10 0 10 10 12 10 16 10 22 22 20 18 22 16 22 10
+
+Thám_tử Toàn ở phòng bên cạnh chứng_kiến từ đầu đến cuối và không_thể phản_ứng gì .
+Nn Nr Cs Nn Nn Nn Vv Cs Nn Cs Nn Cp R Vv M PU
+NSUBJ NN PREP POBJ NN NN ROOT PREP POBJ CONJ POBJ CC ADJUNCT CONJ INTJ PUNCT
+7 1 1 3 4 5 0 7 8 8 10 7 14 7 14 7
+
+Nhưng mọi chuyện không dừng ở đó .
+Cp Nw Nn R Vv Cs Pd PU
+CC DET NSUBJ ADJUNCT ROOT PREP POBJ PUNCT
+5 3 5 5 0 5 6 5
+
+Một người đàn_ông đến công_ty thám_tử hỏi xem có phải vợ mình đã thuê công_ty này theo_dõi ông ta không !
+Num Nc Nn Vv Nn Nn Vv Vv R Aa Nn Pp R Vv Nn Pd Vv Pp Pp R PU
+NUM NSUBJ CLF ROOT OBJ NN VMOD VMOD ADJUNCT ACOMP NSUBJ NN ADJUNCT CCOMP OBJ DET VMOD OBJ DET ADJUNCT PUNCT
+2 4 2 0 4 5 4 7 10 8 14 11 14 10 14 15 14 17 18 10 4
+
+Nếu không thì ông ta thuê thám_tử theo_dõi vợ .
+Cp R Cp Pp Pp Vv Nn Vv Nn PU
+CC ADJUNCT CC NSUBJ DET ROOT OBJ VMOD OBJ PUNCT
+6 6 6 6 4 0 6 6 8 6
+
+Lý_do : vợ biết ông ta ngoại_tình và đang chuẩn_bị kế_hoạch trả_thù tình_địch rất đáng sợ .
+Nn PU Nn Vv Pp Pp Vv Cp R Vv Nn Vv Nn R Vv Vv PU
+PARATAXIS PUNCT NSUBJ ROOT NSUBJ DET CCOMP CC ADJUNCT CONJ OBJ RCMOD OBJ ADJUNCT RCMOD VMOD PUNCT
+4 4 4 0 7 5 4 4 10 4 10 11 12 15 11 15 4
+
+Người đàn_ông này chính là Nhu , chồng Thư .
+Nc Nn Pd M Vc Nr PU Nn Nr PU
+NSUBJ CLF DET INTJ ROOT ATTR PUNCT PARATAXIS NN PUNCT
+5 1 1 5 0 5 6 6 8 5
+
+Nhu kể : sau sự_cố đó cuộc_sống gia_đình vẫn bình_yên .
+Nr Vv PU Cs Nn Pd Nn Nn R Aa PU
+NSUBJ ROOT PUNCT PREP POBJ DET NSUBJ NN ADJUNCT CCOMP PUNCT
+2 0 10 10 4 5 10 7 10 2 2
+
+Câu_chuyện không hề rò_rỉ ra ngoài .
+Nn R M Vv Vv Nn PU
+NSUBJ ADJUNCT INTJ ROOT VMOD OBJ PUNCT
+4 4 4 0 4 5 4
+
+Nhưng Thư không_thể lấy lại được thăng_bằng và Nhu biết vợ mình đang âm_thầm tìm cách trả_thù Liên .
+Cp Nr R Vv R R Nn Cp Nr Vv Nn Pp R Aa Vv Nn Vv Nr PU
+CC NSUBJ ADJUNCT ROOT ADJUNCT ADJUNCT OBJ CC NSUBJ CONJ NSUBJ NN ADJUNCT ACOMP CCOMP OBJ RCMOD OBJ PUNCT
+4 4 4 0 6 4 4 4 10 4 15 11 15 15 10 15 16 17 4
+
+Anh ta thật_sự hoảng_sợ .
+Pp Pp Aa Vv PU
+NSUBJ DET ACOMP ROOT PUNCT
+4 1 4 0 4
+
+Nhất_là Liên lại sắp lấy chồng ...
+Cp Nr R R Vv Nn PU
+CC NSUBJ ADJUNCT ADJUNCT ROOT OBJ PUNCT
+5 5 4 5 0 5 5
+
+Nguyên_tắc của công_ty là tuyệt_đối giữ bí_mật cho khách_hàng và không bao_giờ chống lại khách_hàng .
+Nn Cs Nn Vc Aa Vv Nn Cs Nn Cp R Pp Vv R Nn PU
+NSUBJ PREP POBJ ROOT ACOMP VMOD OBJ PREP POBJ CC ADJUNCT OBJ CONJ ADJUNCT OBJ PUNCT
+4 1 2 0 6 4 6 6 8 6 12 13 6 13 13 4
+
+Vì vậy Toàn cũng không xác_nhận Thư đến thuê thám_tử và cũng không ký hợp_đồng với Nhu .
+Cp Pp Nr R R Vv Nr Vv Vv Nn Cp R R Vv Nn Cs Nr PU
+CC ROOT NSUBJ ADJUNCT ADJUNCT CONJ NSUBJ CCOMP VMOD OBJ CC ADJUNCT ADJUNCT CONJ OBJ PREP POBJ PUNCT
+2 0 6 5 6 2 8 6 8 9 6 13 14 6 14 15 16 2
+
+Cuộc thương_thảo chấm_dứt .
+Ncs Vv Vv PU
+NSUBJ CLF ROOT PUNCT
+3 1 0 3
+
+Nhưng là người trực_tiếp nhìn_thấy bản_chất không che_giấu của Thư , Toàn luôn nghi_ngại sự ghê_gớm của con_người này và cảm_thấy trong ánh mắt người đàn_bà này đang nung_nấu một sự thù_hận rất hung_gở .
+Cp Vc Nn Aa Vv Nn R Vv Cs Nr PU Nr R Vv Ncs Aa Cs Nn Pd Cp Vv Cs Nc Nn Nc Nn Pd R Vv Num Ncs Vv R Aa PU
+CC ROOT ATTR ACOMP RCMOD OBJ ADJUNCT RCMOD PREP POBJ PUNCT NSUBJ ADJUNCT CONJ OBJ CLF PREP POBJ DET CC CONJ PREP NN CLF POBJ CLF DET ADJUNCT CCOMP NUM OBJ CLF ADJUNCT AMOD PUNCT
+2 0 2 5 3 5 8 6 6 9 2 14 14 2 14 15 15 17 18 14 14 29 25 23 22 25 25 29 21 31 29 31 34 31 2
+
+Nếu có một hậu_quả không lành nào đó xảy_ra , Toàn sẽ thấy mình có lỗi bởi anh đã cho Thư biết địa_chỉ của nhà_nghỉ mà Nhu - Liên đang ở .
+Cp Ve Num Nn R Aa Pd Pd Vv PU Nr R Vv Pp Ve Nn Cs Pp R Vv Nr Vv Nn Cs Nn Cs Nr PU Nr R Vv PU
+CC ROOT NUM NSUBJ ADJUNCT AMOD DET DET CCOMP PUNCT NSUBJ ADJUNCT CONJ NSUBJ CCOMP OBJ MARK NSUBJ ADJUNCT ADVCL IOBJ VMOD OBJ PREP POBJ MARK NSUBJ PUNCT CONJ ADJUNCT CCOMP PUNCT
+2 0 4 9 6 4 4 4 2 2 13 13 2 15 13 15 20 20 20 16 20 20 22 23 24 31 31 27 27 31 25 2
+
+Anh đã để Thư phải tận_mắt chứng_kiến sự phản_bội và đặc_biệt chị ta có trong tay tờ giấy nhận tội ngoại_tình của hai người ...
+Pp R Vv Nr Vv Aa Vv Ncs Vv Cp Aa Pp Pp Ve Cs Nn Nn Nn Vv Nn Vv Cs Num Nn PU
+NSUBJ ADJUNCT ROOT NSUBJ CCOMP ACOMP VMOD OBJ CLF CC ADJP_ADVMOD NSUBJ DET CONJ PREP POBJ OBJ CONJ RCMOD OBJ VMOD PREP NUM POBJ PUNCT
+3 3 0 5 3 7 5 7 8 3 14 14 12 3 14 15 14 17 17 19 20 20 24 22 3
+
+Công_ty thám_tử chấp_nhận cho Toàn đơn_phương theo_dõi Thư để hoá_giải nguy_cơ xấu .
+Nn Nn Vv Vv Nr Aa Vv Nr Cs Vv Nn Aa PU
+NSUBJ NN ROOT VMOD IOBJ ACOMP VMOD OBJ PREP PCOMP OBJ AMOD PUNCT
+3 1 0 3 4 7 4 7 7 9 10 11 3
+
+Ngày_mai Toàn phải là người tháo ngòi nổ của quả bom này sao cho không một ai phải mang thương_tích .
+Nt Nr Vv Vc Nn Vv Nn Vv Cs Nc Nn Pd M Cs R Num Pp Vv Vv Nn PU
+NP_ADVMOD NSUBJ ROOT VMOD ATTR RCMOD OBJ VMOD PREP POBJ CLF DET PCOMP PREP ADJUNCT NUM NSUBJ PCOMP VMOD OBJ PUNCT
+3 3 0 3 4 5 6 7 7 9 10 10 14 6 16 17 18 14 18 19 3
+

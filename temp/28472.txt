@@ -1,0 +1,380 @@
+Không_chỉ ở Dầu_Giây mà ở rất nhiều nơi nạn mãi_lộ vẫn đang hoành_hành .
+Cp Cs Nr Cp Cs R Aa Nn Nn Nn R R Vv PU
+PCOMP PREP POBJ CC CONJ ADJUNCT AMOD POBJ NSUBJ NN ADJUNCT CONJ ROOT PUNCT
+2 13 2 2 2 7 8 5 13 9 13 11 0 13
+
+Nhiều tài_xế tha_thiết " mời các lãnh_đạo hãy bỏ xe biển số xanh theo xe_đò hay đi thử một chuyến xe_tải như tài_xế chúng_tôi xem sao .
+Aa Nn Aa PU Vv Nq Nn R Vv Nn Nn Nn Aa Vv Nn Cp Vv Vv Num Nn Nn Cs Nn Pp Vv Pp PU
+AMOD NSUBJ ACOMP PUNCT ROOT DET NSUBJ ADJUNCT CCOMP OBJ NN NN AMOD VMOD OBJ CC CONJ VMOD NUM OBJ NN PREP POBJ NN VMOD OBJ PUNCT
+2 5 5 5 0 7 9 9 5 9 10 11 11 9 14 9 9 17 20 17 20 17 22 23 17 25 5
+
+Thường ở những tỉnh tụi tôi đi qua phải chung_chi ít_nhất hai trạm , riêng tỉnh Đồng_Nai có đến năm trạm thường_xuyên gây áp_lực " ... .
+R Cs Nq Nun Nn Pp Vv Vv Vv Vv Aa Num Nn PU M Nun Nr Ve M Num Nn Aa Vv Nn PU PU PU
+ADJUNCT PREP DET POBJ NSUBJ DET CCOMP VMOD ROOT VMOD QUANTMOD NUM OBJ PUNCT INTJ NSUBJ NN CONJ QUANTMOD NUM OBJ ACOMP RCMOD OBJ PUNCT PUNCT PUNCT
+2 9 4 2 7 5 4 7 0 9 12 13 10 9 16 18 16 9 20 21 18 23 21 23 9 9 9
+
+Đường lên Lâm_Đồng : " điểm đen " ở km 95 .
+Nn Vv Nr PU PU Nn Aa PU Cs Nu An PU
+ROOT RCMOD NP_ADVMOD PUNCT PUNCT NSUBJ AMOD PUNCT PREP POBJ AMOD PUNCT
+0 1 2 1 6 1 6 6 6 9 10 1
+
+Rạng sáng 3_-_4 , khi bị mấy CSGT và cò xe rượt_đuổi trong rừng cao_su ở Dầu_Giây , chúng_tôi cùng chiếc xe_gắn_máy đã bị lọt xuống một cái hố giữa trời đêm tối đen .
+Aa Nt Nt PU Nt Vv Nq X Cp Nn Nn Vv Cs Nn Nn Cs Nr PU Pp Cp Nc Nn R Vv Vv D Num Nc Nn Cs Nn Nt Nt Aa PU
+AMOD NP_ADVMOD NN PUNCT NP_ADVMOD XCOMP DET NSUBJ CC CONJ NN CCOMP PREP POBJ NN PREP POBJ PUNCT NSUBJ CC CONJ CLF ADJUNCT ROOT VMOD VMOD NUM OBJ CLF PREP POBJ NN NN AMOD PUNCT
+2 24 2 24 24 5 8 12 8 8 10 6 12 13 14 14 16 24 24 19 19 21 24 0 24 25 28 26 28 25 30 31 32 33 24
+
+Lật lại vụ án CSGT nhận mãi_lộ tập_thể tại trạm 20 .
+Vv R Nc Nn X Vv Nn Aa Cs Nn An PU
+ROOT ADJUNCT OBJ CLF NSUBJ CCOMP OBJ AMOD PREP POBJ AMOD PUNCT
+0 1 1 3 6 3 6 7 6 9 10 1
+
+Trạm 20 đóng tại km 91 , quốc_lộ 20 , huyện Định_Quán , Đồng_Nai .
+Nn An Vv Cs Nu An PU Nn Nr PU Nun Nr PU Nr PU
+NSUBJ AMOD ROOT PREP POBJ AMOD PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT PARATAXIS PUNCT
+3 1 0 3 4 5 5 5 8 8 8 11 11 11 3
+
+Đêm 12_-_8_–_1994 trên tuyến quốc_lộ 20 ngay trước trạm 20 , CSGT Hoàng_Minh_Sơn và Trần_Đức_Thịnh theo thói_quen chặn một chiếc xe_tải đang lưu_thông trên quốc_lộ 20 để lấy 200.000 đồng .
+Nt Nt Cs Nn Nn Nr M Cs Nn An PU X Nr Cp Nr Vv Nn Vv Num Nc Nn R Vv Cs Nn Nr Cs Vv Num Nu PU
+NP_ADVMOD NN PREP POBJ NN NN PCOMP PREP POBJ AMOD PUNCT NSUBJ NN CC CONJ VMOD OBJ ROOT NUM OBJ CLF ADJUNCT RCMOD PREP POBJ NN PREP PCOMP NUM OBJ PUNCT
+18 1 18 3 4 5 8 4 8 9 18 18 12 13 13 18 16 0 20 18 20 23 20 23 24 25 18 27 30 28 18
+
+Những tờ giấy_bạc còn nóng trên tay , hai người sững_sờ khi thấy lơ_xe , chủ hàng đồng_loạt giơ thẻ trinh_sát đặc_nhiệm của Tổng cục Cảnh_sát LBRK Bộ Nội_vụ RBRK .
+Nq Nn Nn R Aa Cs Nn PU Num Nn Aa Nt Vv Nn PU Nn Nn R Vv Nn Nn Aa Cs Sv Nn Nn LBRK Nn Nn RBRK PU
+DET NSUBJ NN ADJUNCT ROOT PREP POBJ PUNCT NUM NSUBJ CONJ NP_ADVMOD XCOMP NSUBJ PUNCT CONJ NN ADJUNCT CCOMP OBJ NN AMOD PREP SINO NN NN PUNCT POBJ NN PUNCT PUNCT
+2 5 2 5 0 5 6 5 10 11 5 11 12 19 14 14 16 19 13 19 20 21 20 25 28 28 28 23 28 28 5
+
+Cả trạm 20 bị khám_xét .
+Nw Nn An Vv Vv PU
+DET NSUBJ AMOD ROOT VMOD PUNCT
+2 4 2 0 4 4
+
+Trong tủ cá_nhân của 12 CSGT , đội đặc_nhiệm lập biên_bản tạm giữ 160 triệu đồng , hơn 160 chỉ vàng ...
+Cs Nn Nn Cs Num X PU Nn Aa Vv Nn Aa Vv Num Nq Nu PU R Num Nu Nn PU
+PREP POBJ NN PREP NUM POBJ PUNCT NSUBJ AMOD ROOT OBJ ACOMP RCMOD DEP RCMOD OBJ PUNCT ADJUNCT NUM CONJ NN PUNCT
+10 1 2 2 6 4 10 10 8 0 10 13 11 15 16 13 16 19 20 16 20 10
+
+Đội đặc_nhiệm đọc lệnh bắt khẩn_cấp Sơn , Thịnh và di_lý 12 CSGT cùng toàn_bộ tang_vật thu_giữ về trạm tạm giam Bộ để điều_tra mở_rộng .
+Nn Aa Vv Nn Vv Aa Nr PU Nr Cp Vv Num X Cp Nw Nn Vv Cs Nn Aa Vv Nn Cs Vv Vv PU
+NSUBJ AMOD ROOT OBJ RCMOD ACOMP OBJ PUNCT CONJ CC CONJ NUM OBJ CC DET CONJ VMOD PREP POBJ ACOMP RCMOD NN PREP PCOMP VMOD PUNCT
+3 1 0 3 4 5 5 7 7 3 3 13 11 13 16 13 16 11 18 21 19 19 11 23 24 3
+
+Lần_lượt trong hơn một tháng sau , bảy CSGT đã bị cơ_quan cảnh_sát điều_tra Bộ Nội_vụ khởi_tố về tội tham_ô tài_sản XHCN .
+R Cs R Num Nu Nn PU Num X R Vv Nn Nn Vv Nn Nn Vv Cs Nn Vv Nn X PU
+ADJUNCT PREP ADJUNCT NUM POBJ NN PUNCT NUM NSUBJ ADJUNCT ROOT NSUBJ NN VMOD NN NN CCOMP PREP POBJ RCMOD OBJ DEP PUNCT
+11 11 4 5 2 5 11 9 11 11 0 17 12 13 13 15 11 17 18 19 20 21 11
+
+Khi điều_tra mở_rộng vụ án , Ban chuyên_án phát_hiện trạm 20 tổ_chức nhận mãi_lộ có hệ_thống và mang tính tập_thể .
+Nt Vv Vv Nc Nn PU Nn Nn Vv Nn An Vv Vv Nn Ve Nn Cp Vv Nn Aa PU
+NP_ADVMOD XCOMP VMOD OBJ CLF PUNCT NSUBJ NN ROOT NSUBJ AMOD CCOMP VMOD OBJ VMOD OBJ CC CONJ OBJ AMOD PUNCT
+9 1 2 2 4 9 9 7 0 12 10 9 12 13 13 15 15 15 18 19 9
+
+Quá_trình tiêu_cực , nhũng_nhiễu kéo dài liên_tục gần hai năm mới bị phát_hiện .
+Nn Aa PU Vv Vv Aa Aa R Num Nu R Vv Vv PU
+NSUBJ AMOD PUNCT CONJ RCMOD ADJP_ADVMOD ADJP_ADVMOD ADJUNCT NUM OBJ ADJUNCT ROOT VMOD PUNCT
+12 1 2 2 1 5 6 9 10 7 12 0 12 12
+
+Nhưng sau đó , vụ án đã không được đưa ra xét_xử .
+Cp Cs Pd PU Nc Nn R R Vv Vv R Vv PU
+CC PREP POBJ PUNCT NSUBJ CLF ADJUNCT ADJUNCT ROOT VMOD ADJUNCT VMOD PUNCT
+9 9 2 9 9 5 8 9 0 9 10 10 9
+
+Sai_phạm tại trạm 20 được các cơ_quan chức_năng ở Đồng_Nai thống_nhất chuyển sang xử_lý nội_bộ .
+Nn Cs Nn An Vv Nq Nn Nn Cs Nr Vv Vv Cs Vv Nn PU
+NSUBJ PREP POBJ AMOD ROOT DET NSUBJ NN PREP POBJ CCOMP VMOD PREP PCOMP OBJ PUNCT
+5 1 2 3 0 7 11 7 7 9 5 11 12 13 14 5
+
+Phải_chăng liều thuốc chưa đủ đô nên sai_phạm ở đây lại tiếp_diễn ?
+Cp Nn Nn R Aa Nn Cp Nn Cs Pd R Vv PU
+CC NSUBJ NN ADJUNCT ROOT OBJ CC NSUBJ PREP POBJ ADJUNCT CONJ PUNCT
+5 5 2 5 0 5 5 12 8 9 12 5 5
+
+Bên trên , hai CSGT và các cò xe vẫn tiếp_tục cuộc săn_lùng .
+Nn Nn PU Num X Cp Nq Nn Nn R Vv Ncs Vv PU
+NP_ADVMOD NN PUNCT NUM NSUBJ CC DET CONJ NN ADJUNCT ROOT OBJ CLF PUNCT
+11 1 11 5 11 5 8 5 8 11 0 11 12 11
+
+Trước tình_thế đó , chúng_tôi đã gọi điện_thoại di_động về cơ_quan xin ứng_cứu .
+Cs Nn Pd PU Pp R Vv Nn Nn Cs Nn Vv Vv PU
+PREP POBJ DET PUNCT NSUBJ ADJUNCT ROOT OBJ NN PREP POBJ VMOD VMOD PUNCT
+7 1 2 7 7 7 0 7 8 7 10 7 12 7
+
+Toà_soạn đã lập_tức liên_hệ một đồng nghiệp ở Đồng_Nai đến " giải_cứu " .
+Nn R R Vv Num Sv Nn Cs Nr Vv PU Vv PU PU
+NSUBJ ADJUNCT ADJUNCT ROOT NUM SINO OBJ PREP POBJ VMOD PUNCT VMOD PUNCT PUNCT
+4 3 4 0 7 7 4 7 8 4 10 10 10 4
+
+Tới gần 5 g sáng cùng ngày , anh_em đã đưa chúng_tôi trở_về an_toàn .
+Cs R Num Nt Nt Aa Nt PU Nn R Vv Pp Vv Aa PU
+PREP ADJUNCT NUM POBJ NN AMOD NN PUNCT NSUBJ ADJUNCT ROOT OBJ VMOD ACOMP PUNCT
+11 3 4 1 4 7 4 11 11 11 0 11 11 13 11
+
+Sau hơn một ngày nghỉ dưỡng_sức , tối ngày 5 , rạng sáng 6_-_4 chúng_tôi lại lên_đường đến địa_bàn thứ hai cũng " nổi_tiếng " về chặn xe tại khu_vực km 95 quốc_lộ 20 , địa_bàn La_Ngà , huyện Định_Quán , Đồng_Nai LBRK khu_vực quản_lý của trạm kiểm_soát giao_thông 20 RBRK .
+Cs R Num Nu Vv Vv PU Nt Nt Num PU Aa Nt Nt Pp R Vv Vv Nn Nn An R PU Aa PU Cs Vv Nn Cs Nn Nu An Nn Nr PU Nn Nr PU Nun Nr PU Nr LBRK Nn Vv Cs Nn Vv Nn An RBRK PU
+PREP ADJUNCT NUM POBJ XCOMP VMOD PUNCT NP_ADVMOD NN NUM PUNCT AMOD NP_ADVMOD NN NSUBJ ADJUNCT ROOT VMOD OBJ NN AMOD ADJUNCT PUNCT AMOD PUNCT PREP PCOMP OBJ PREP POBJ NN AMOD NN NN PUNCT PARATAXIS NN PUNCT PARATAXIS NN PUNCT PARATAXIS PUNCT PARATAXIS VMOD PREP POBJ RCMOD OBJ AMOD PUNCT PUNCT
+17 3 4 1 4 5 17 17 8 9 17 13 17 13 17 17 0 17 18 19 20 24 24 19 24 24 26 27 19 29 30 31 31 33 33 33 36 36 36 39 39 39 30 30 44 44 46 47 48 47 30 17
+
+Nơi đây cũng chỉ rừng và rừng , không một bóng nhà .
+Nn Pd R R Nn Cp Nn PU R Num Nn Nn PU
+NP_ADVMOD DET ADJUNCT ADJUNCT ROOT CC CONJ PUNCT ADJUNCT NUM CONJ NN PUNCT
+5 1 4 5 0 5 5 5 10 11 5 11 5
+
+Xe_tải và ôtô đi về liên_tục , lâu_lâu mới lác_đác vài chiếc xe_máy chở hàng chạy về hướng Lâm_Đồng .
+Nn Cp Nn Vv Vv Aa PU R R Aa Nq Nc Nn Vv Nn Vv D Nn Nr PU
+NSUBJ CC CONJ ROOT CONJ ACOMP PUNCT ADJUNCT ADJUNCT AMOD DET NSUBJ CLF CONJ OBJ VMOD VMOD NP_ADVMOD NN PUNCT
+4 1 1 0 4 4 4 10 8 12 12 14 12 4 14 14 16 17 18 4
+
+Những đoạn đường CSGT chọn đứng cách rất xa khu dân_cư .
+Nq Nn Nn X Vv Vv Vv R Aa Nun Nn PU
+DET NSUBJ NN NSUBJ CCOMP VMOD ROOT ADJUNCT ACOMP OBJ NN PUNCT
+2 7 2 5 2 5 0 9 7 7 10 7
+
+Để tiếp_cận họ , chúng_tôi phải đi bộ gần 1,5 km men theo bìa rừng .
+Cs Vv Pp PU Pp Vv Vv Nn R Num Nu Vv Vv Nn Nn PU
+PREP PCOMP OBJ PUNCT NSUBJ ROOT VMOD OBJ ADJUNCT NUM OBJ VMOD VMOD OBJ NN PUNCT
+6 1 2 6 6 0 6 7 10 11 7 7 12 13 14 6
+
+22 g 04 , hai CSGT còn khá ít tuổi đón_đầu các xe từ TP. HCM , các tỉnh ngoài lên , họ soi đèn_pin đưa vào cùng lúc ba xe gỗ khá lớn và dài , các xe đều bị quá_tải .
+Num Nt Num PU Num X R R Aa Nn Vv Nq Nn Cs Nun Nr PU Nq Nun Nn Vv PU Pp Vv Nn Vv R Aa Nt Num Nn Nn R Aa Cp Aa PU Nq Nn R Vv Aa PU
+NUM NP_ADVMOD NN PUNCT NUM NSUBJ ADJUNCT ADJUNCT AMOD OBJ ROOT DET OBJ PREP POBJ NN PUNCT DET CONJ NN RCMOD PUNCT NSUBJ CONJ OBJ VMOD ADJUNCT ADJP_ADVMOD OBJ NUM OBJ NN ADJUNCT AMOD CC CONJ PUNCT DET NSUBJ ADJUNCT CONJ ACOMP PUNCT
+2 11 2 11 6 11 8 9 6 9 0 13 11 21 14 15 15 19 15 19 13 11 24 11 24 24 26 26 28 31 26 31 34 31 34 34 24 39 41 41 24 41 11
+
+Các tài_xế vội_vã chạy xuống dúi vào tay anh CSGT mảnh giấy nhỏ .
+Nq Nn Aa Vv D Vv Cs Nn Nc X Nn Nn Aa PU
+DET NSUBJ ACOMP ROOT VMOD VMOD PREP POBJ NN CLF OBJ NN AMOD PUNCT
+2 4 4 0 4 4 6 7 8 9 6 11 11 4
+
+Hai phút - chiếc xe gỗ đầu_tiên qua , hai phút sau xe khác lại tới .
+Num Nu PU Nc Nn Nn An Vv PU Num Nu Nn Nn Aa R Vv PU
+NUM NP_ADVMOD PUNCT NSUBJ CLF NN AMOD ROOT PUNCT NUM NP_ADVMOD NN NSUBJ AMOD ADJUNCT CONJ PUNCT
+2 8 8 8 4 4 4 0 8 11 16 11 16 13 16 8 8
+
+Theo các tài_xế , xe gỗ muốn đi qua địa_bàn này nếu " xin đường " trước với giá chót cũng phải 200.000 đ_[]_xe .
+Vv Nq Nn PU Nn Nn Vv Vv Vv Nn Pd Cp PU Vv Nn PU Nn Cs Nn Nn R Vv Num Nu PU
+ROOT DET OBJ PUNCT NSUBJ NN CCOMP VMOD VMOD NP_ADVMOD DET CC PUNCT XCOMP OBJ PUNCT OBJ PREP POBJ NN ADJUNCT RCMOD NUM OBJ PUNCT
+0 3 1 1 7 5 1 7 8 9 10 14 14 1 14 14 14 14 18 19 22 19 24 22 1
+
+Tuy_nhiên , bác tài xe gỗ biển số đầu 49 , đuôi chín nút cho biết : " Tụi tôi là thứ dữ đó , ba_rê hết từ kiểm_lâm đến cảnh_sát kinh_tế nhưng cũng phải chung_đường 500.000 đ_[]_xe cho CSGT để đỡ bị phiền_phức " .
+Cp PU Nc Nn Nn Nn Nn Nn Nn Num PU Nn Num Nn Vv Vv PU PU Nn Pp Vc Nn Aa Pd PU Vv M Cs Nn Cs Nn Nn Cp R Vv Vv Num Nu Cs X Cs Vv Vv Aa PU PU
+CC PUNCT NN CLF NSUBJ NN NN NN NN NUM PUNCT CONJ NUM NN ROOT VMOD PUNCT PUNCT NSUBJ DET CCOMP ATTR AMOD DET PUNCT CONJ INTJ PREP POBJ CONJ POBJ NN CC ADJUNCT CONJ VMOD NUM OBJ PREP POBJ PREP PCOMP VMOD ACOMP PUNCT PUNCT
+15 15 5 3 15 5 5 7 7 9 9 9 14 12 0 15 21 21 21 19 16 21 22 22 21 21 26 26 28 28 30 31 21 35 21 35 38 36 36 39 36 41 42 43 21 15
+
+22 g 40 đêm 5_-_4 . chúng_tôi lại lẩn vào một khu rừng cao_su kế_tiếp .
+Num Nt Num Nt Nt PU Pp R Vv Cs Num Nun Nn Nn Vv PU
+NUM NP_ADVMOD NN NN NN PUNCT NSUBJ ADJUNCT ROOT PREP NUM POBJ NN NN VMOD PUNCT
+2 9 2 2 2 9 9 9 0 9 12 10 12 13 12 9
+
+Nơi đây có đến ba chiếc đèn_pin của CSGT chia nhau thành hai nhóm đón hai chiều xe lên xuống .
+Nn Pd Ve M Num Nc Nn Cs X Vv Nn Vv Num Nn Vv Num Nn Nn Vv Vv PU
+NP_ADVMOD NN ROOT QUANTMOD NUM NSUBJ CLF PREP POBJ CCOMP OBJ VMOD NUM OBJ VMOD NUM OBJ NSUBJ CCOMP CONJ PUNCT
+3 1 0 5 6 10 6 6 8 3 10 10 14 12 10 17 15 19 17 19 3
+
+Các CSGT với ba chiếc môtô dựng chìa ra lòng_đường , đèn_đóm tắt ngúm , đứng chặn ở đầu hai đoạn dốc nơi đoạn đường qua km 95 và gần km 97 .
+Nq X Cp Num Nc Nn Vv Vv R Nn PU Nn Vv Vv PU Vv Vv Cs Cs Num Nn Nn Nn Nn Nn Vv Nu An Cp Aa Nu An PU
+DET NSUBJ CC NUM NN CLF RCMOD VMOD ADJUNCT OBJ PUNCT CONJ RCMOD VMOD PUNCT ROOT VMOD PREP PREP NUM POBJ NN NN PARATAXIS NN RCMOD OBJ AMOD CC CONJ OBJ AMOD PUNCT
+2 16 2 12 12 5 12 7 8 8 12 2 12 13 16 0 16 17 18 21 19 21 24 21 24 24 26 27 26 26 30 31 16
+
+Họ đi tới đi lui liên_tục , giơ lên giơ xuống chiếc đèn_pin vào các xe trờ_tới .
+Pp Vv R Vv R Aa PU Vv R Vv R Nc Nn Cs Nq Nn Vv PU
+NSUBJ ROOT ADJUNCT CONJ ADJUNCT DEP PUNCT CONJ ADJUNCT CONJ ADJUNCT OBJ CLF PREP DET POBJ RCMOD PUNCT
+2 0 2 2 4 4 2 2 8 8 10 10 12 10 16 14 16 2
+
+Trong quá_trình đi thực_tế , chúng_tôi đã thu_thập được rất nhiều những mảnh giấy ghi_chép các khoản tiền mãi_lộ của tài_xế nộp về cho chủ xe .
+Cs Nn Vv Nn PU Pp R Vv R R Aa Nq Nn Nn Vv Nq Nn Nn Nn Cs Nn Vv Cs Cs Nn Nn PU
+PREP POBJ XCOMP OBJ PUNCT NSUBJ ADJUNCT ROOT ADJUNCT ADJUNCT AMOD DET OBJ NN RCMOD DET OBJ NN NN PREP NSUBJ PCOMP PREP PREP POBJ NN PUNCT
+8 1 2 3 8 8 8 0 8 11 13 13 8 13 13 17 15 17 18 18 22 20 22 23 24 25 8
+
+Ngày 1_-_4_–_2004 : xe chở thép tấm đi Phú_Mỹ chi cho công_an trạm 2 : 50.000 đồng , công_an quốc_lộ 51 : 150.000 đồng , công_an Bà_Rịa 150.000 đồng , công_an Tân_Thành : 100.000 đồng .
+Nt Nt PU Nn Vv Nn Nn Vv Nr Vv Cs Nn Nn An PU Num Nu PU Nn Nn Nr PU Num Nu PU Nn Nr Num Nu PU Nn Nr PU Num Nu PU
+NP_ADVMOD NN PUNCT NSUBJ RCMOD OBJ NN VMOD NP_ADVMOD ROOT PREP POBJ NN AMOD PUNCT NUM PARATAXIS PUNCT CONJ NN NN PUNCT NUM PARATAXIS PUNCT CONJ NP_ADVMOD NUM PARATAXIS PUNCT CONJ NP_ADVMOD PUNCT NUM PARATAXIS PUNCT
+10 1 10 10 4 5 6 5 8 0 10 11 12 13 12 17 12 12 12 19 20 19 24 19 19 19 26 29 26 26 26 31 31 35 31 10
+
+Đơn_cử vài trường_hợp : - Ngày 2_-_4_–_2004 : xe biển số 54N_-_... chở hàng sắt đi Vedan chi cho công_an trạm 4 : 50.000 đồng , công_an ngã ba Vũng_Tàu : 70.000 đồng , công_an quốc_lộ 51 : 150.000 đồng .
+Vv Nq Nn PU PU Nt Nt PU Nn Nn Nn Nr Vv Nn Nn Vv Nr Vv Cs Nn Nn An PU Num Nu PU Nn Nn Num Nr PU Num Nu PU Nn Nn Nr PU Num Nu PU
+ROOT DET OBJ PUNCT PUNCT NP_ADVMOD NN PUNCT NSUBJ NN NN NN RCMOD OBJ NN VMOD OBJ PARATAXIS PREP POBJ NN AMOD PUNCT NUM PARATAXIS PUNCT CONJ NP_ADVMOD NUM NN PUNCT NUM PARATAXIS PUNCT CONJ NN NN PUNCT NUM PARATAXIS PUNCT
+0 3 1 3 3 18 6 18 18 9 10 10 9 13 14 13 16 3 18 19 20 21 20 25 20 20 20 27 28 28 27 33 27 27 27 35 36 35 40 35 1
+
+3_-_4_–_2004 : xe chở sắt dài Tân_Tạo đi Phú_Mỹ chi công_an trạm 1 : 50.000 đồng , công_an trạm 3 : 50.000 đồng , công_an Vũng_Tàu : 50.000 đồng , công_an quốc_lộ 51 : 150.000 đồng .
+Nt PU Nn Vv Nn Aa Nr Vv Nr Vv Nn Nn An PU Num Nu PU Nn Nn An PU Num Nu PU Nn Nr PU Num Nu PU Nn Nn Nr PU Num Nu PU
+NP_ADVMOD PUNCT NSUBJ RCMOD OBJ AMOD NN CONJ OBJ ROOT IOBJ NN AMOD PUNCT NUM PARATAXIS PUNCT CONJ NN AMOD PUNCT NUM PARATAXIS PUNCT CONJ NP_ADVMOD PUNCT NUM PARATAXIS PUNCT CONJ NN NN PUNCT NUM NN PUNCT
+10 10 10 3 4 5 3 7 8 0 10 11 12 11 16 11 11 11 18 19 18 23 18 18 18 25 25 29 25 25 25 31 32 31 36 31 10
+
+Ngày 9_-_4_–_2004 : Sắt dài đi Vedan công_an trạm 2 : 50.000 đồng , công_an Đồng_Nai 100.000 đồng , công_an Long_Thành 150.000 đồng .
+Nt Nt PU Nn Aa Vv Nr Nn Nn An PU Num Nu PU Nn Nr Num Nu PU Nn Nr Num Nu PU
+ROOT NN PUNCT NSUBJ AMOD RCMOD OBJ OBJ NN AMOD PUNCT NUM PARATAXIS PUNCT CONJ NP_ADVMOD NUM PARATAXIS PUNCT CONJ NP_ADVMOD NUM PARATAXIS PUNCT
+0 1 1 1 4 4 6 1 8 9 8 13 8 8 8 15 18 15 15 15 20 23 20 1
+
+Và rất nhiều giấy ghi_chép khác ghi rõ hàng_hoá chở , số_lượng chở thường từ 35 - 52 tấn hàng .
+M R Aa Nn Vv Aa Vv Aa Nn Vv PU Nn Vv R Cs Num PU Num Nu Nn PU
+INTJ ADJUNCT AMOD NSUBJ VMOD AMOD ROOT ACOMP OBJ VMOD PUNCT CONJ VMOD ADJUNCT QUANTMOD NUM PUNCT CONJ NN NN PUNCT
+7 3 4 7 4 4 0 7 7 9 9 9 12 16 16 19 16 16 12 19 7
+
+Thậm_chí có chủ nghiệp_đoàn xe còn cẩn_thận lưu_giữ các giấy_tờ , sổ_sách của nhiều tài_xế qua 10 năm trở_lại đây đã chung_chi cho công_an các trạm nào , tuyến nào bao_nhiêu .
+R Ve Nn Nn Nn R Aa Vv Nq Nn PU Nn Cs Aa Nn Cs Num Nu Vv Pd R Vv Cs Nn Nq Nn Pd PU Nn Pd Pp PU
+ADJUNCT ROOT NSUBJ NN NN ADJUNCT ACOMP CCOMP DET OBJ PUNCT CONJ PREP AMOD NSUBJ PREP NUM POBJ RCMOD OBJ ADJUNCT PCOMP PREP POBJ DET NN DET PUNCT CONJ DET OBJ PUNCT
+2 0 8 3 4 8 8 2 10 8 10 10 10 15 22 22 18 16 18 19 22 13 22 23 26 24 26 26 26 29 22 2
+
+Trong gần 40 phút chúng_tôi chứng_kiến , tại tuyến trên , viên CSGT soi đèn cho cả_thảy 27 chiếc xe lớn nhỏ từ Lâm_Đồng về phải dừng lại .
+Cs R Num Nu Pp Vv PU Cs Nn Nn PU Nc X Vv Nn Cs Nw Num Nc Nn Aa Aa Cs Nr Vv Vv Vv R PU
+PREP ADJUNCT NUM POBJ NSUBJ ROOT PUNCT PREP POBJ NN PUNCT NSUBJ CLF CCOMP OBJ PREP QUANTMOD NUM NSUBJ CLF AMOD CONJ PREP POBJ RCMOD PCOMP VMOD ADJUNCT PUNCT
+6 3 4 1 6 0 14 14 8 9 14 14 12 6 14 14 18 19 26 19 19 21 25 23 19 16 26 27 6
+
+Tài_xế nhanh_nhẹn , nhoáng xuống đưa và biến vào trong bóng đêm với tiếng rền của máy xe .
+Nn Aa PU Vv D Vv Cp Vv Cs Cs Nn Nt Cs Nn Aa Cs Nn Nn PU
+NSUBJ ROOT PUNCT CONJ VMOD VMOD CC CONJ PREP PREP POBJ NN PREP POBJ AMOD PREP POBJ NN PUNCT
+2 0 2 2 4 4 4 4 8 9 10 11 8 13 14 14 16 17 2
+
+Các tài_xế cho biết khung " giá " phải chung tại đây cho các loại xe_khách , tải nhỏ bình_thường có chở hàng 50.000 đồng_[]_xe , các xe quá_tải giá 150.000 - 200.000 đ_[]_xe .
+Nq Nn Vv Vv Nn PU Nn PU Vv Vv Cs Pd Cs Nq Nn Nn PU Nn Aa Aa R Vv Nn Num Nu PU Nq Nn Aa Nn Num PU Num Nu PU
+DET NSUBJ ROOT VMOD NSUBJ PUNCT NN PUNCT RCMOD VMOD PREP POBJ PREP DET POBJ NN PUNCT CONJ AMOD CONJ ADJUNCT RCMOD OBJ NUM CCOMP PUNCT DET NSUBJ AMOD CONJ NUM PUNCT CONJ NN PUNCT
+2 3 0 3 25 5 5 5 5 9 10 11 5 15 13 15 16 16 15 19 22 15 22 25 4 25 28 30 28 25 34 31 31 30 3
+
+Anh Sáu , tài_xế xe_khách từ Đà_Lạt , khẳng_định : " Nhà_xe chúng_tôi quen rồi , chung đều mỗi đêm 50.000 đ_[]_xe , nếu không chung bị làm biên_bản ngay vì các lỗi xe rơ bánh_lái , vỏ mòn hoặc nhiều lỗi khác dù không chở dư khách " .
+Nn Nr PU Nn Nn Cs Nr PU Vv PU PU Nn Pp VA R PU Vv Aa Nq Nu Num Nu PU Cp R Vv Vv Vv Nn M Cs Nq Nn Nn Aa Nn PU Nn Vv Cp Aa Nn Aa Cp R Vv Aa Nn PU PU
+NSUBJ NN PUNCT PARATAXIS NN PREP POBJ PUNCT ROOT PUNCT PUNCT NSUBJ NN CCOMP ADJUNCT PUNCT CONJ ACOMP DET NP_ADVMOD NUM OBJ PUNCT CC ADJUNCT CONJ CONJ VMOD OBJ INTJ PREP DET POBJ NN AMOD OBJ PUNCT CONJ VMOD CC AMOD CONJ AMOD CC ADJUNCT CONJ ACOMP OBJ PUNCT PUNCT
+9 1 1 1 4 5 6 1 0 14 14 14 12 9 14 14 14 17 20 17 22 17 14 26 26 14 26 27 28 28 28 33 31 33 34 35 34 34 38 33 42 33 42 27 46 27 46 47 14 9
+
+Đến khoảng 23 g 30 cả hai toán rút về ngay ngã ba đường quẹo đi Đà_Lạt LBRK cũng trong khu_vực La_Ngà RBRK .
+Cs R Num Nt Num Nw Num Nn Vv Vv M Nn Num Nn Vv Vv Nr LBRK R Cs Nn Nr RBRK PU
+PREP ADJUNCT NUM POBJ NN DET NUM NSUBJ ROOT VMOD INTJ NP_ADVMOD NUM NN RCMOD VMOD NP_ADVMOD PUNCT ADJUNCT PARATAXIS POBJ NN PUNCT PUNCT
+9 3 4 1 4 8 8 9 0 9 9 9 12 12 12 15 16 12 20 12 20 21 12 9
+
+Lúc này , theo chủ một cây_xăng ở gần đó : " Vừa mới 5 phút trước , " mấy ổng " nghe " có động " - công_an của bộ xuống kiểm_tra LBRK ? RBRK chắc là sẽ dừng xe và chỉ lập biên_bản thôi " .
+Nt Pd PU Vv Nn Num Nn Cs Aa Pd PU PU R R Num Nu Nn PU PU Nq Pp PU Vv PU Ve Nn PU PU Nn Cs Nn Vv Vv LBRK PU RBRK Aa M R Vv Nn Cp R Vv Nn M PU PU
+NP_ADVMOD DET PUNCT ROOT OBJ NUM NN PREP PCOMP OBJ PUNCT PUNCT ADJUNCT CONJ NUM NP_ADVMOD NN PUNCT PUNCT DET NSUBJ PUNCT CCOMP PUNCT VMOD OBJ PUNCT PUNCT NSUBJ PREP POBJ PARATAXIS VMOD PUNCT PUNCT PUNCT ADJP_ADVMOD INTJ ADJUNCT CONJ OBJ CC ADJUNCT CONJ OBJ INTJ PUNCT PUNCT
+4 1 4 0 4 7 5 7 8 9 4 4 16 13 16 23 16 23 21 21 23 21 4 25 23 25 26 25 32 29 30 25 32 32 32 32 40 37 40 23 40 40 44 40 44 44 4 4
+
+Đúng như ông chủ cây_xăng thông_tin , chúng_tôi ghi_nhận từ khoảng 0 g - 3 g sáng ngày 6_-_4_–_2004 các xe bị thổi vào liên_tục , hàng chục biên_bản được lập , xử_phạt rất nghiêm_túc .
+Aa Cs Nc Nn Nn Vv PU Pp Vv Cs R Num Nt PU Num Nt Nt Nt Nt Nq Nn Vv Vv Vv Aa PU R Nq Nn Vv Vv PU Vv R Aa PU
+ADJP_ADVMOD PREP NN CLF NSUBJ PCOMP PUNCT NSUBJ ROOT PREP ADJUNCT NUM POBJ PUNCT NUM CONJ NN NN NN DET NSUBJ CCOMP VMOD VMOD ACOMP PUNCT ADJUNCT NUM NSUBJ CONJ VMOD PUNCT VSUBJ ADJUNCT CONJ PUNCT
+9 1 5 3 6 2 9 9 0 22 13 13 10 13 16 13 16 16 18 21 22 9 22 23 24 22 28 29 30 22 30 30 35 35 30 9
+
+Xuân_Lộc , ngã ba Vũng_Tàu , quốc_lộ 51 : chỉ nhận " giấy " ?
+Nr PU Nn Num Nr PU Nn Nr PU R Vv PU Nn PU PU
+PARATAXIS PUNCT CONJ NUM NN PUNCT CONJ NN PUNCT ADJUNCT ROOT PUNCT OBJ PUNCT PUNCT
+11 1 1 3 3 3 3 7 11 11 0 13 11 13 11
+
+Trước đó , sáng 28_-_3_–_2004 chúng_tôi rong_ruổi theo chiếc xe 43H-016 ... ì_ạch trên đường vì quá_tải .
+Cs Pd PU Nt Nt Pp Vv Vv Nc Nn Nr PU Aa Cs Nn Cs Aa PU
+PREP POBJ PUNCT PARATAXIS NN NSUBJ ROOT VMOD OBJ CLF NN PUNCT AMOD PREP POBJ MARK ADVCL PUNCT
+7 1 2 2 4 7 0 7 8 9 9 9 9 13 14 17 13 7
+
+Tài_xế thừa_nhận xe mình chở gấp năm lần trọng_lượng cho_phép LBRK xe chở sắt cây dài cộng thêm một chiếc xe_cơ_giới RBRK .
+Nn Vv Nn Pp Vv Vv Num Nn Nn Vv LBRK Nn Vv Nn Nn Aa Vv Vv Num Nc Nn RBRK PU
+NSUBJ ROOT NSUBJ NN CCOMP VMOD NUM OBJ NN VMOD PUNCT NSUBJ PARATAXIS OBJ NN AMOD RCMOD VMOD NUM OBJ CLF PUNCT PUNCT
+2 0 5 3 2 5 8 6 8 9 8 13 8 13 14 14 14 17 20 17 20 8 2
+
+Ra tới Tazon , Bình_Thuận , anh mới than : " Tôi đi chỉ từ TP. HCM ra Đồng_Nai thôi mà phải xuống chung đến bốn nhóm CSGT lưu_động .
+Vv Cs Nr PU Nr PU Pp R Vv PU PU Pp Vv R Cs Nun Nr Vv Nr M Cp Vv Vv Vv M Num Nn X Vv PU
+ROOT PREP POBJ PUNCT PARATAXIS PUNCT NSUBJ ADJUNCT CONJ PUNCT PUNCT NSUBJ CCOMP ADJUNCT PREP POBJ NN VMOD NP_ADVMOD INTJ CC CONJ VMOD VMOD QUANTMOD NUM OBJ NN VMOD PUNCT
+0 1 2 3 3 1 9 9 1 13 13 13 9 15 13 15 16 13 18 13 13 13 22 23 26 27 24 27 28 1
+
+Vừa đến cầu Đồng_Nai chung 100.000 đ , ra đến Khu công_nghiệp Biên_Hoà dính 100.000 đ , qua đoạn Dầu_Giây dính 200.000 đ , đến Giá_Rai - Xuân_Lộc bị thu tiếp 100.000 đ " .
+R Vv Nn Nr Vv Num Nu PU Vv Cs Nun Nn Nr Vv Num Nu PU Vv Nn Nr Vv Num Nu PU Vv Nr PU Nr Vv Vv Vv Num Nu PU PU
+ADJUNCT XCOMP NP_ADVMOD NN ROOT NUM OBJ PUNCT XCOMP PREP POBJ NN NN CONJ NUM OBJ PUNCT XCOMP NP_ADVMOD NN CONJ NUM OBJ PUNCT XCOMP NP_ADVMOD PUNCT PARATAXIS CONJ VMOD VMOD NUM OBJ PUNCT PUNCT
+2 5 2 3 0 7 5 5 14 9 10 11 11 5 16 14 14 21 18 19 14 23 21 21 29 25 26 26 21 29 30 33 30 5 5
+
+" Săn_lùng " PV qua điện_thoại và đề_nghị " thông_cảm " .
+PU Vv PU Nn Cs Nn Cp Vv PU Vv PU PU
+PUNCT ROOT PUNCT OBJ PREP POBJ CC CONJ PUNCT VMOD PUNCT PUNCT
+2 0 2 2 2 5 2 2 10 8 10 2
+
+Ngay sau khi xảy_ra sự_việc phóng_viên LBRK PV RBRK thực_hiện tuyến bài bị rượt_đuổi rạng sáng 3_-_4_–_2004 tại Dầu_Giây , thì 6 giờ sáng cùng ngày điện_thoại cầm tay của PV đã nghe đổ chuông liên_tục .
+R Cs Nt Vv Nn Nn LBRK Nn RBRK Vv Nn Nn Vv Vv Aa Nt Nt Cs Nr PU Cp Num Nt Nt Aa Nt Nn Vv Nn Cs Nn R Vv Vv Nn Aa PU
+ADJUNCT PREP POBJ CCOMP OBJ NSUBJ PUNCT PARATAXIS PUNCT RCMOD OBJ NN ROOT VMOD AMOD NP_ADVMOD NN PREP POBJ PUNCT CC NUM NP_ADVMOD NN AMOD OBJ NSUBJ RCMOD OBJ PREP POBJ ADJUNCT CONJ VMOD OBJ ACOMP PUNCT
+2 13 2 3 4 13 6 6 6 6 10 11 0 13 16 14 16 14 18 13 13 23 33 23 23 25 33 27 28 27 30 33 13 33 34 34 13
+
+Trong điện_thoại hiện lên số di_động 091.3.85_... , một người tự_xưng tên Lê_Hùng - đội trưởng đội tuần_tra kiểm_soát giao_thông địa_bàn Dầu_Giây , Trảng_Bom , Thống_Nhất , Đồng_Nai - đề_nghị được gặp_mặt PV .
+Cs Nn Vv R Nn Nn Nr PU Num Nn Vv Nn Nr PU Nn Sv Nn Vv Vv Nn Nn Nr PU Nr PU Nr PU Nr PU Vv Vv Vv Nn PU
+PREP POBJ ROOT ADJUNCT OBJ NN NN PUNCT NUM NSUBJ RCMOD OBJ NN PUNCT NN SINO PARATAXIS RCMOD VMOD OBJ NP_ADVMOD NN PUNCT CONJ PUNCT CONJ PUNCT PARATAXIS PUNCT CONJ VMOD VMOD OBJ PUNCT
+3 1 0 3 3 5 5 3 10 30 10 11 12 12 17 15 12 17 18 19 20 21 22 22 24 24 22 22 12 3 30 31 32 3
+
+Tuy không nói_chuyện được với PV sau rất nhiều lần gọi , nhưng các cuộc gọi từ số máy này vẫn cứ gọi tới liên_tiếp không dưới 10 lần .
+Cp R Vv R Cs Nn Cs R Aa Nn Vv PU Cp Nq Ncs Vv Cs Nn Nn Pd R R Vv Cs Aa R R Num Nn PU
+CC ADJUNCT ROOT ADJUNCT PREP POBJ PREP ADJUNCT AMOD POBJ CCOMP PUNCT CC DET NSUBJ CLF PREP POBJ NN DET ADJUNCT ADJUNCT CONJ PREP ACOMP ADJUNCT ADJUNCT NUM OBJ PUNCT
+3 3 0 3 3 5 3 9 10 7 10 3 3 15 23 15 15 17 18 18 22 23 3 23 23 28 26 29 23 3
+
+Sau đó , liên_hệ lại thì chủ máy nói : " Xin gặp V.H. khó quá , tại sao H. không chịu gặp ?
+Cs Pd PU Vv R Cp Nn Nn Vv PU PU Vv Vv Nr Aa R PU Cp Pp Nr R Vv Vv PU
+PREP POBJ PUNCT ROOT ADJUNCT CC NSUBJ NN CONJ PUNCT PUNCT XCOMP VMOD OBJ ACOMP ADJUNCT PUNCT CC DEP NSUBJ ADJUNCT CCOMP VMOD PUNCT
+4 1 4 0 4 4 9 7 4 22 22 22 12 13 13 15 22 22 22 22 22 9 22 4
+
+Nghe nói V.H. có lên Dầu_Giây làm_việc vào tối thứ sáu , rạng sáng thứ bảy phải không ?
+Vv Vv Nr R Vv Nr Vv Cs Nt Nt Num PU Aa Nt Nt Num Aa R PU
+ROOT VMOD NSUBJ ADJUNCT CCOMP NP_ADVMOD VMOD PREP POBJ NN NUM PUNCT AMOD CONJ NN NUM DEP ADJUNCT PUNCT
+0 1 5 5 2 5 5 7 8 9 10 9 14 9 14 15 5 17 1
+
+Có gì thì nói để chủ_yếu mình giáo_dục , khuyên_răn thôi .
+Ve Pp Cp Vv Cs Aa Pp Vv PU Vv M PU
+ROOT OBJ CC CONJ PREP ADJP_ADVMOD NSUBJ PCOMP PUNCT CONJ INTJ PUNCT
+0 1 1 1 4 8 8 5 8 8 8 1
+
+Cho anh gặp_mặt H. nhé " .
+Vv Pp Vv Nr M PU PU
+ROOT IOBJ VMOD OBJ INTJ PUNCT PUNCT
+0 1 1 3 3 1 1
+
+Ngày 4_-_4_–_2004 một người xưng là lãnh_đạo một đội CSGT khác cũng gọi trực_tiếp vào số máy của PV cho rằng việc anh_em rượt_đuổi và cho người truy_tìm PV như thế là bậy quá , sai hoàn_toàn rồi .
+Nt Nt Num Nn Vv Cs Nn Num Nn X Aa R Vv Aa Cs Nn Nn Cs Nn Vv Cs Nn Nn Vv Cp Vv Nn Vv Nn Cs Pp Vc Aa R PU Aa Aa R PU
+NP_ADVMOD NN NUM NSUBJ RCMOD PREP POBJ NUM NN DEP AMOD ADJUNCT ROOT ACOMP PREP POBJ NN PREP POBJ CONJ MARK NSUBJ NSUBJ CCOMP CC CONJ IOBJ VMOD OBJ PREP POBJ CCOMP ACOMP ADJUNCT PUNCT CONJ ADJP_ADVMOD ADJUNCT PUNCT
+13 1 4 13 4 5 6 9 7 9 9 13 0 13 13 15 16 16 18 13 32 32 24 22 24 24 26 26 28 28 30 20 32 33 33 33 36 33 13
+
+Hãy thông_cảm vì lúc đó anh_em run và mất bình_tĩnh .
+R Vv Cs Nt Pd Nn Vv Cp Ve Aa PU
+ADJUNCT ROOT MARK NP_ADVMOD DET NSUBJ ADVCL CC CONJ ACOMP PUNCT
+2 0 7 7 4 7 2 7 7 9 2
+
+Sau đó , trên chiếc Honda 67 hướng từ Bình_Thuận về HCM và quay ngược lại , dừng_chân tại Xuân_Lộc , giả_vờ bị hư xe , chúng_tôi tấp vào một căn nhà bên đường xin nước , và chứng_kiến cảnh CSGT trên chiếc xe_jeep biển số 60C_-_0779 liên_tục nhận " giấy " .
+Cs Pd PU Cs Nc FW Num Nn Cs Nr Vv Nr Cp Vv Aa R PU Vv Cs Nr PU Vv Vv Aa Nn PU Pp Vv Cs Num Nc Nn Nn Nn Vv Nn PU Cp Vv Nn X Cs Nc Nn Nn Nn Nr Aa Vv PU Nn PU PU
+PREP POBJ PUNCT PREP NN CLF NUM POBJ PREP POBJ CONJ NP_ADVMOD CC RCMOD ACOMP ADJUNCT PUNCT XCOMP PREP POBJ PUNCT CONJ VMOD ACOMP OBJ PUNCT NSUBJ ROOT PREP NUM POBJ NN NN NN VMOD OBJ PUNCT CC CONJ OBJ NSUBJ PREP NN CLF POBJ NN NN ACOMP CCOMP PUNCT OBJ PUNCT PUNCT
+28 1 28 28 8 5 5 4 14 9 9 11 14 8 14 14 28 28 18 19 18 18 22 23 24 28 28 0 28 31 29 31 31 33 28 35 28 28 28 39 49 41 45 43 42 45 45 49 40 51 49 51 28
+
+Có hai CSGT , một ngoài xe , một trong xe với bộ_dạng rất thảnh_thơi , trong lúc đó thì các tài_xế , phụ_xế tất_bật chạy đến trình " giấy " .
+Ve Num X PU Num Cs Nn PU Num Cs Nn Cs Nn R Aa PU Cs Nt Pd Cp Nq Nn PU Nn Aa Vv Vv Vv PU Nn PU PU
+ROOT NUM OBJ PUNCT PARATAXIS PREP POBJ PUNCT CONJ PREP POBJ PREP POBJ ADJUNCT AMOD PUNCT PREP POBJ DET CC DET NSUBJ PUNCT CONJ ACOMP CONJ VMOD VMOD PUNCT OBJ PUNCT PUNCT
+0 3 1 3 3 5 6 5 5 9 10 9 12 15 13 1 26 17 18 26 22 26 22 22 26 1 26 27 30 28 30 1
+
+Lâu_lâu , anh cảnh_sát trẻ lại ra phía sau thành xe đút " giấy " vào túi ...
+R PU Nc Nn Aa R Vv Nn Nn Nn Nn Vv PU Nn PU Cs Nn PU
+ADJUNCT PUNCT NSUBJ CLF AMOD ADJUNCT ROOT OBJ NN NN NN VMOD PUNCT OBJ PUNCT PREP POBJ PUNCT
+7 7 7 3 3 7 0 7 8 8 10 7 14 12 14 12 16 7
+
+Nhiều ngày sau đó , chúng_tôi theo những chiếc xe_tải chở hàng vào Khu công_nghiệp Biên_Hoà , đúng lúc chứng_kiến cảnh hàng chục xe xuống trình " giấy " đi ngay như các tài_xế đã cho biết .
+Aa Nu Cs Pd PU Pp Vv Nq Nc Nn Vv Nn Vv Nun Nn Nr PU Aa Nt Vv Nn R Nq Nn Vv Vv PU Nn PU Vv M Cs Nq Nn R Vv Vv PU
+AMOD NP_ADVMOD PREP POBJ PUNCT NSUBJ ROOT DET OBJ CLF RCMOD OBJ VMOD NP_ADVMOD NN NN PUNCT ADJP_ADVMOD OBJ CONJ OBJ ADJUNCT NUM NSUBJ CCOMP VMOD PUNCT OBJ PUNCT RCMOD INTJ PREP DET NSUBJ ADJUNCT PCOMP VMOD PUNCT
+2 7 2 3 7 7 0 9 7 9 9 11 7 13 14 14 7 20 18 7 20 23 24 25 21 25 28 26 28 28 30 26 34 36 36 32 36 7
+
+Qui_trình rất linh_hoạt , trình giấy tại cửa trạm hoặc đưa cho anh CSGT đứng phía ngoài đường chưa đầy 1 phút và biến , không có chuyện xe dừng lâu để CSGT kiểm_tra trong giấy có ... gì ?
+Nn R Aa PU Vv Nn Cs Nn Nn Cp Vv Cs Nc X Vv Nn Nn Nn R Aa Num Nu Cp Vv PU R Ve Nn Nn Vv Aa Cs X Vv Cs Nn Ve PU Pp PU
+NSUBJ ADJUNCT ROOT PUNCT CONJ OBJ PREP POBJ NN CC CONJ PREP POBJ CLF RCMOD OBJ NN NN ADJUNCT ADJP_ADVMOD NUM OBJ CC CONJ PUNCT ADJUNCT CCOMP OBJ NN RCMOD ACOMP PREP NSUBJ PCOMP PREP POBJ CCOMP PUNCT OBJ PUNCT
+3 3 0 3 3 5 5 7 8 5 5 11 12 13 13 15 16 16 20 11 22 20 11 11 3 27 3 27 28 29 30 30 34 32 37 35 34 37 37 3
+
+Bất_cứ nhà_xe nào , doanh_nghiệp kinh_doanh vận_tải nào cũng có trên tay một tập giấy - loại giấy thanh_toán chi_phí cho tài_xế .
+R Nn Pd PU Nn Vv Vv Pd R Ve Cs Nn Num Nn Nn PU Nn Nn Vv Nn Cs Nn PU
+ADJUNCT NSUBJ DET PUNCT CONJ RCMOD VMOD DET ADJUNCT ROOT PREP POBJ NUM OBJ NN PUNCT PARATAXIS NN RCMOD OBJ PREP POBJ PUNCT
+2 10 2 2 2 5 6 5 10 0 10 11 14 10 14 14 14 17 17 19 19 21 10
+
+Trên mỗi tờ giấy ngoài chi_phí xăng , xe , ăn_đường , chi_phí bốc_xếp , chi_phí khác , còn một loại chi_phí cho CSGT được viết thành hàng rất rõ theo từng tuyến hàng đi .
+Cs Nq Nn Nn Cs Nn Nn PU Nn PU Vv PU Nn Vv PU Nn Aa PU Cp Num Nn Nn Cs X Vv Vv Vv Nn R Aa Vv Pp Nn Nn Vv PU
+PREP DET POBJ NN PREP POBJ NN PUNCT CONJ PUNCT CONJ PUNCT CONJ VMOD PUNCT CONJ AMOD PUNCT CC NUM ROOT NN PREP POBJ RCMOD OBJ RCMOD OBJ ADJUNCT AMOD RCMOD DET OBJ NSUBJ CCOMP PUNCT
+21 3 1 3 21 5 6 7 7 9 9 6 6 13 13 13 16 21 21 21 0 21 21 23 21 25 26 27 30 26 26 33 31 35 33 21
+
+Tối 1_-_4 chúng_tôi có_mặt tại quốc_lộ 51 hướng đi Bà_Rịa_-_Vũng_Tàu bằng xe_tải nặng 54N-7 ...
+Nt Nt Pp Aa Cs Nn Nr Nn Vv Nr Cs Nn Aa Nr PU
+NP_ADVMOD NN NSUBJ ROOT PREP POBJ NN PARATAXIS RCMOD NP_ADVMOD PREP POBJ AMOD NN PUNCT
+4 1 4 0 4 5 6 6 8 9 4 11 12 12 4
+
+Tài_xế xe cho chúng_tôi quá_giang cho biết " giá chung theo " luật " ở tuyến đường này : xe_tải cỡ 8 tấn 100.000 đồng_[]_xe , xe_tải nặng dứt_khoát phải đủ 200._000 đồng_[]_xe , xe khoảng 2 - 2,_5 tấn 50.000 đồng_[]_xe " .
+Nn Nn Vv Pp Vv Vv Vv PU Nn Vv Vv PU Nn PU Cs Nn Nn Pd PU Nn Nn Num Nu Num Nu PU Nn Aa Aa Vv Aa Num Nu PU Nn R Num PU Num Nu Num Nu PU PU
+NSUBJ NN RCMOD IOBJ VMOD ROOT VMOD PUNCT NSUBJ VMOD RCMOD PUNCT OBJ PUNCT PREP POBJ NN DET PUNCT CCOMP NN NUM NN NUM PARATAXIS PUNCT CONJ AMOD ACOMP RCMOD ACOMP NUM OBJ PUNCT CONJ ADJUNCT NUM PUNCT CONJ NN NUM PARATAXIS PUNCT PUNCT
+6 1 2 3 3 0 6 20 20 9 9 13 11 13 13 15 16 16 20 7 20 23 21 25 20 20 20 27 30 27 30 33 31 27 27 37 35 37 37 35 42 35 20 6
+
+Tới gần ngã ba Thái_Lan , tài_xế đi chậm lại , tới đoạn tối_như_bưng không kịp nhìn , tài phụ đã nhanh_như_sóc nhảy bộp xuống chạy vào góc tối đưa cho viên CSGT mảnh giấy cuộn tròn đủ 200.000 đồng .
+Cs Aa Nn Num Nr PU Nn Vv Aa R PU Cs Nn ID R Aa Vv PU Nn Aa R ID Vv ON D Vv Cs Nn Aa Vv Cs Nc X Nn Nn Vv Aa Aa Num Nu PU
+PREP PCOMP OBJ NUM NN PUNCT NSUBJ ROOT ACOMP ADJUNCT PUNCT PREP POBJ AMOD ADJUNCT ACOMP RCMOD PUNCT NSUBJ AMOD ADJUNCT ACOMP CONJ DEP VMOD VMOD PREP POBJ AMOD VMOD PREP POBJ CLF NN OBJ RCMOD ACOMP AMOD NUM OBJ PUNCT
+8 1 2 3 3 8 8 0 8 9 8 23 12 13 16 17 13 23 23 19 23 23 8 23 23 23 26 27 28 26 30 31 32 35 30 35 36 35 40 38 8
+
+Qui_trình nhét túi của CSGT chưa đến 20 giây ...
+Nn Vv Nn Cs X R M Num Nu PU
+NSUBJ RCMOD OBJ PREP POBJ ADJUNCT QUANTMOD NUM ROOT PUNCT
+9 1 2 1 4 8 8 9 0 9
+

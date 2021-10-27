@@ -1,0 +1,345 @@
+" Đảo Đài_Loan " ở đồng_bằng sông Cửu_Long .
+PU Nn Nr PU Cs Nn Nn Nr PU
+PUNCT ROOT NN PUNCT PREP POBJ NN NN PUNCT
+2 0 2 2 2 5 6 7 2
+
+Cù_lao Tân_Lộc được mệnh_danh là xứ vườn , hiền_hoà , thơ_mộng nằm giữa sông Hậu thuộc huyện Thốt_Nốt , thành_phố Cần_Thơ .
+Nn Nr Vv Vv Cs Nn Nn PU Aa PU Aa Vv Cs Nn Nr Vv Nun Nr PU Nun Nr PU
+NSUBJ NN RCMOD VMOD PREP POBJ NN PUNCT PARATAXIS PUNCT CONJ ROOT PREP POBJ NN CONJ OBJ NN PUNCT PARATAXIS NN PUNCT
+12 1 1 3 4 5 6 6 6 9 9 0 12 13 14 12 16 17 17 17 20 12
+
+Tuy_nhiên , gần đây Tân_Lộc còn có tên gọi mới : " Đảo Đài_Loan " .
+Cp PU Aa Pd Nr R Ve Nn Vv Aa PU PU Nn Nr PU PU
+CC PUNCT ADJP_ADVMOD OBJ NSUBJ ADJUNCT ROOT OBJ VMOD AMOD PUNCT PUNCT PARATAXIS NN PUNCT PUNCT
+7 7 7 3 7 7 0 7 8 8 8 13 8 13 13 7
+
+Cũng đúng , bởi vài năm nay , Tân_Lộc trở_thành một trong những xã ở đồng_bằng sông Cửu_Long có đông người lấy chồng ngoại .
+R Aa PU Cp Nq Nu Nt PU Nr Vv Num Cs Nq Nun Cs Nn Nn Nr Ve Aa Nn Vv Nn Nn PU
+ADJUNCT ADJP_ADVMOD PUNCT CC DET NP_ADVMOD NN PUNCT NSUBJ ROOT OBJ PREP DET POBJ PREP POBJ NN NN RCMOD AMOD OBJ RCMOD OBJ NN PUNCT
+2 10 10 10 6 10 6 10 10 0 10 11 14 12 14 15 16 17 14 21 19 21 22 23 10
+
+Nhắm_mắt_đưa_chân mong ... đổi_đời !
+ID Vv PU Vv PU
+ROOT VMOD PUNCT VMOD PUNCT
+0 1 2 2 1
+
+Không cần lật sổ_tay , chị Nguyễn_Thị_Huệ , Chủ_tịch Hội Phụ_nữ xã thuộc nằm_lòng từng ấp , từng gia_đình ... có người lấy chồng Đài_Loan .
+R Vv Vv Nn PU Nn Nr PU Nn Nn Nn Nun Vv Vv Pp Nun PU Pp Nn PU Ve Nn Vv Nn Nr PU
+ADJUNCT XCOMP VMOD OBJ PUNCT NSUBJ NN PUNCT PARATAXIS NN NN NN ROOT VMOD DET OBJ PUNCT DET CONJ PUNCT RCMOD OBJ RCMOD OBJ NN PUNCT
+2 13 2 3 13 13 6 6 6 9 10 10 0 13 16 13 16 19 16 19 19 21 22 23 24 13
+
+Mỗi người mỗi hoàn_cảnh , nhưng phần_lớn có một điểm chung là " nghèo " , lấy chồng ngoại để mong đổi_đời , giúp gia_đình vượt qua khó_khăn .
+Nq Nn Nq Nn PU Cp Nq Ve Num Nn Aa Vc PU Aa PU PU Vv Nn Nn Cs Vv Vv PU Vv Nn Vv Cs Nn PU
+DET NSUBJ DET ROOT PUNCT CC NSUBJ CONJ NUM NSUBJ AMOD CCOMP PUNCT ACOMP PUNCT PUNCT CONJ OBJ NN PREP PCOMP VMOD PUNCT CONJ NSUBJ CCOMP PREP POBJ PUNCT
+2 4 4 0 4 4 8 4 10 12 10 8 14 12 14 14 14 17 18 17 20 21 22 22 26 24 26 27 4
+
+Trong căn nhà tường vừa mới cất , rộng_rãi và thoáng_mát với những tiện_nghi chẳng thua gì nhà ở thị_thành , chị Nguyễn_Thị_Thu_Kiều , chủ nhà , khoe với chúng_tôi : trước đây , gia_đình sống nhờ vào mấy công ruộng , cả nhà có đến 9 nhân_khẩu .
+Cs Nc Nn Nn R R Vv PU Aa Cp Aa Cs Nq Nn R Vv M Nn Cs Nn PU Nn Nr PU Nn Nn PU Vv Cs Pp PU Cs Pd PU Nn Vv Cs Cs Nq Nu Nn PU Nw Nn Ve M Num Nn PU
+PREP NN CLF POBJ ADJUNCT ADJUNCT RCMOD PUNCT AMOD CC CONJ PREP DET POBJ ADJUNCT RCMOD INTJ OBJ PREP POBJ PUNCT NSUBJ NN PUNCT PARATAXIS NN PUNCT ROOT PREP POBJ PUNCT PREP POBJ PUNCT NSUBJ CCOMP PREP PREP DET POBJ NN PUNCT DET NSUBJ CONJ QUANTMOD NUM OBJ PUNCT
+28 4 2 1 6 7 4 4 4 9 9 4 14 12 16 14 16 16 18 19 28 28 22 22 22 25 22 0 28 29 36 36 32 36 36 28 36 37 40 38 40 36 44 45 36 47 48 45 28
+
+Làm xong mùa_vụ , quay qua quay lại thiếu trước hụt sau .
+Vv VA Nn PU Vv R Vv R Vv Nn Vv Nn PU
+ROOT VMOD OBJ PUNCT CONJ ADJUNCT CONJ ADJUNCT CONJ OBJ CONJ OBJ PUNCT
+0 1 2 1 1 5 5 7 5 9 9 11 1
+
+Những lúc túng_thiếu phải đi hỏi nợ , cứ vậy ngày qua ngày , nợ mẹ đẻ nợ con , 7 công đất ruộng lần_lượt mang ra bán , không trả đủ .
+Nq Nt Aa Vv Vv Vv Nn PU R Pp Nt Cs Nt PU Nn Nn Vv Nn Nn PU Num Nu Nn Nn R Vv R Vv PU R Vv Aa PU
+DET NP_ADVMOD CCOMP ROOT VMOD VMOD OBJ PUNCT ADJUNCT NP_ADVMOD NP_ADVMOD PREP POBJ PUNCT NSUBJ NN CONJ OBJ NN PUNCT NUM DEP NN NN ADJUNCT CONJ ADJUNCT VMOD PUNCT ADJUNCT CONJ ACOMP PUNCT
+2 4 2 0 4 5 6 4 10 17 17 11 12 17 17 15 4 17 18 17 22 26 22 23 26 17 26 26 26 31 26 31 4
+
+Cùng đường , đành gả con " xa xứ " với hy_vọng nhỏ_nhoi còn_lại .
+Nn Nn PU Vv Vv Nn PU Aa Nn PU Cs Nn Aa Ve PU
+NP_ADVMOD NN PUNCT ROOT VMOD OBJ PUNCT ACOMP OBJ PUNCT PREP POBJ AMOD VMOD PUNCT
+4 1 4 0 4 5 8 5 8 8 5 11 12 12 4
+
+Nói đến đây , chị Kiều ươn_ướt nước_mắt : " Năm đó LBRK 1998 RBRK có biết gì đâu , chỉ nghe người_ta nói lấy chồng Đài_Loan được nhiều tiền , họ cưng con gái lắm ... nhưng tui nửa_tin_nửa_ngờ .
+Vv Cs Pd PU Nn Nr Aa Nn PU PU Nt Pd LBRK Num RBRK R Vv Pp M PU R Vv Pp Vv Vv Nn Nr Vv Aa Nn PU Pp Vv Nn Nn R PU Cp Pp ID PU
+XCOMP PREP POBJ PUNCT NSUBJ NN ROOT OBJ PUNCT PUNCT NP_ADVMOD DET PUNCT NP_ADVMOD PUNCT ADJUNCT CCOMP OBJ INTJ PUNCT ADJUNCT CONJ OBJ VMOD VMOD OBJ NN CCOMP AMOD OBJ PUNCT NSUBJ CONJ OBJ NN ADJUNCT PUNCT CC NSUBJ CONJ PUNCT
+7 1 2 7 7 5 0 7 17 17 17 11 11 11 11 17 7 17 17 17 22 17 22 22 28 25 26 24 30 28 28 33 28 33 34 33 33 33 40 33 7
+
+Chồng tôi cằn_nhằn , gả con xa mà không biết mặt_mày bên chồng thế_nào , về bển làm_sao sống .
+Nn Pp Vv PU Vv Nn Aa Cp R Vv Nn Nn Nn Pp PU Vv Pd E Vv PU
+NSUBJ NN ROOT PUNCT XCOMP OBJ ACOMP CC ADJUNCT CONJ NSUBJ NN NN CCOMP PUNCT CONJ OBJ INTJ CONJ PUNCT
+3 1 0 5 3 5 5 5 10 5 14 11 12 10 14 14 16 19 16 3
+
+Gả đi thì dễ , nhưng biết bao_giờ nó về ...
+Vv R Cp Aa PU Cp Vv Pp Pp Vv PU
+VSUBJ ADJUNCT CC ROOT PUNCT CC CONJ NP_ADVMOD NSUBJ CCOMP PUNCT
+4 1 4 0 4 4 4 10 10 7 4
+
+Gần 2 tháng , con điện về cho biết , chồng đi làm tài_xế , nhà chồng thương nó lắm ... tui mới bớt lo " .
+R Num Nu PU Nn Vv Cs Vv Vv PU Nn Vv Vv Nn PU Nn Nn Vv Pp R PU Pp R Vv Vv PU PU
+ADJUNCT NUM NP_ADVMOD PUNCT NSUBJ ROOT PREP VMOD VMOD PUNCT NSUBJ CCOMP VMOD OBJ PUNCT NSUBJ NN CONJ OBJ ADJUNCT PUNCT NSUBJ ADJUNCT CONJ VMOD PUNCT PUNCT
+2 3 6 6 6 0 6 6 8 12 12 9 12 13 12 18 16 12 18 18 6 24 24 6 24 6 6
+
+Từ ngày gả con đến nay , chị Kiều được " báo_hiếu " gần 400 triệu đồng .
+Cs Nt Vv Nn Cs Nt PU Nn Nr Vv PU Vv PU R Num Nq Nu PU
+PREP POBJ XCOMP OBJ CONJ POBJ PUNCT NSUBJ NN ROOT PUNCT VMOD PUNCT ADJUNCT NUMBER NUM OBJ PUNCT
+10 1 2 3 1 5 10 10 8 0 12 10 12 16 16 17 12 10
+
+Ngoài việc cất nhà , số vốn còn_lại chị mở đại_lý buôn_bán vật_liệu xây_dựng , mỗi tháng lời khoảng 2 triệu đồng .
+Cs Nn Vv Nn PU Nn Nn Ve Pp Vv Nn Vv Nn Vv PU Nq Nu Vv R Num Nq Nu PU
+PREP POBJ RCMOD OBJ PUNCT DEP NN VMOD NSUBJ ROOT OBJ RCMOD OBJ VMOD PUNCT DET NP_ADVMOD CONJ ADJUNCT NUMBER NUM OBJ PUNCT
+10 1 2 3 10 10 6 6 10 0 10 11 12 13 10 17 18 10 21 21 22 18 10
+
+Cả nhà dư sống , không còn trông_chờ " tiền ngoại " .
+Nw Nn Aa Vv PU R R Vv PU Nn Nn PU PU
+DET NSUBJ ROOT VMOD PUNCT ADJUNCT ADJUNCT CONJ PUNCT OBJ NN PUNCT PUNCT
+2 3 0 3 3 8 6 3 10 8 10 10 3
+
+Đến ấp Trường_Thọ , chúng_tôi nghe nhiều người khen tính cần_cù của vợ_chồng ông Bảy_Nhát .
+Vv Nun Nr PU Pp Vv Aa Nn Vv Nn Aa Cs Nn Nn Nr PU
+XCOMP NP_ADVMOD NN PUNCT NSUBJ ROOT AMOD NSUBJ CCOMP OBJ AMOD PREP POBJ NN NN PUNCT
+6 1 2 6 6 0 8 9 6 9 10 10 12 13 14 6
+
+Mặc_dù đã hơn 55 tuổi , nhưng suốt ngày ông " đeo " miết hầm cá rộng gần 3.000 m2 .
+Cp R R Num Nn PU Cp Aa Nt Pp PU Vv PU R Nn Nn Aa R Num Nu PU
+CC ADJUNCT ADJUNCT NUM ROOT PUNCT CC ADJP_ADVMOD OBJ NSUBJ PUNCT CONJ PUNCT ADJUNCT OBJ NN AMOD ADJUNCT NUM OBJ PUNCT
+5 5 4 5 0 5 5 12 8 12 12 5 12 12 12 15 15 19 20 17 5
+
+Ông bảo : " Cách nay 4 năm , nghèo_rớt_mồng_tơi , nợ_nần tùm_lum không dám ra đường .
+Pp Vv PU PU Vv Nt Num Nu PU ID PU Nn Aa R Vv Vv Nn PU
+NSUBJ ROOT PUNCT PUNCT VMOD OBJ NUM OBJ PUNCT XCOMP PUNCT CONJ AMOD ADJUNCT CONJ VMOD OBJ PUNCT
+2 0 10 10 10 5 8 5 10 2 10 10 12 15 12 15 16 2
+
+May nhờ gả con sang Đài_Loan , nó khéo ăn khéo ở nên được bên chồng thương .
+Aa Cs Vv Nn Cs Nr PU Pp Aa Vv Aa Vv Cp Vv Nn Nn Vv PU
+DEP PREP PCOMP OBJ PREP POBJ PUNCT NSUBJ ROOT VMOD CONJ VMOD CC CONJ NSUBJ NN CCOMP PUNCT
+9 1 2 3 3 5 9 9 0 9 9 11 9 9 17 15 14 9
+
+Bây_giờ thoát nghèo rồi , cuộc_sống khá lên cũng nhờ con .
+Pd Vv Aa R PU Nn Aa R R Cs Nn PU
+NSUBJ ROOT ACOMP ADJUNCT PUNCT NSUBJ CONJ ADJUNCT ADJUNCT PREP POBJ PUNCT
+2 0 2 2 2 7 2 7 10 7 10 2
+
+Thương con vất_vả xứ người , bao_nhiêu tiền gởi về , tui tính chi_ly phải sử_dụng cho ý_nghĩa .
+Vv Nn Aa Nn Nn PU Pp Nn Vv Vv PU Pp Vv Vv Vv Vv M Nn PU
+ADVCL OBJ AMOD OBJ NN PUNCT DET DEP CCOMP VMOD PUNCT NSUBJ ROOT VMOD CONJ VMOD INTJ OBJ PUNCT
+13 1 2 3 4 13 8 13 8 9 13 13 0 13 13 15 18 16 13
+
+Cất nhà xong là tui mua đất đào ao nuôi cá , ngoài_ra đầu_tư gần 100 triệu đồng mua ghe máy đi chở cát mướn kiếm_sống hàng ngày " .
+Vv Nn VA Cp Pp Vv Nn Vv Nn Vv Nn PU Cp Vv R Num Nq Nu Vv Nn Nn Vv Vv Nn Vv Vv R Nu PU PU
+ROOT OBJ VMOD CC NSUBJ CONJ OBJ VMOD OBJ VMOD OBJ PUNCT CC CONJ ADJUNCT NUMBER NUM OBJ VMOD OBJ NN VMOD VMOD OBJ VMOD VMOD ADJUNCT NP_ADVMOD PUNCT PUNCT
+0 1 1 1 6 1 6 6 8 8 10 6 6 6 17 17 18 14 14 19 20 19 22 23 23 23 28 26 1 1
+
+Trong 594 trường_hợp lấy chồng Đài_Loan , phần_lớn gia_đình thoát được nghèo , biết sử_dụng đồng_tiền đúng hướng .
+Cs Num Nn Vv Nn Nr PU Nq Nn Vv R Aa PU Vv Vv Nn Aa Nn PU
+PREP NUM POBJ RCMOD OBJ NN PUNCT DET NSUBJ ROOT ADJUNCT ACOMP PUNCT CONJ VMOD OBJ ADJP_ADVMOD OBJ PUNCT
+10 3 1 3 4 5 10 9 10 0 10 10 10 10 14 15 15 17 10
+
+Nhiều hộ đầu_tư vốn mua đất , vườn , lập cơ_sở làm_ăn tạo cuộc_sống ổn_định ...
+Aa Nn Vv Nn Vv Nn PU Nn PU Vv Nn Vv Vv Nn Aa PU
+AMOD NSUBJ ROOT OBJ VMOD OBJ PUNCT CONJ PUNCT CONJ OBJ VMOD VMOD OBJ AMOD PUNCT
+2 3 0 3 3 5 6 6 3 3 10 11 10 13 14 3
+
+Và nỗi buồn của thanh_niên Tân_Lộc .
+M Ncs VA Cs Nn Nr PU
+INTJ ROOT CLF PREP POBJ NN PUNCT
+2 0 2 2 4 5 2
+
+Nhiều người bảo " con gái cù_lao Tân_Lộc rất xinh " , thoạt_đầu , tôi cũng chưa tin .
+Aa Nn Vv PU Nn Nn Nn Nr R Aa PU PU Nn PU Pp R R Vv PU
+AMOD NSUBJ ROOT PUNCT NSUBJ NN NP_ADVMOD NN ADJUNCT CCOMP PUNCT PUNCT NP_ADVMOD PUNCT NSUBJ ADJUNCT ADJUNCT CONJ PUNCT
+2 3 0 10 10 5 5 7 10 3 10 3 18 18 18 17 18 3 3
+
+Nhưng khi đến nơi và chứng_kiến những thiếu_nữ Tân_Lộc mới thấy xao lòng .
+Cp Nt Vv Nn Cp Vv Nq Nn Nr R Vv Vv Nn PU
+CC NP_ADVMOD XCOMP OBJ CC CONJ DET OBJ NN ADJUNCT ROOT VMOD OBJ PUNCT
+11 11 2 3 3 3 8 6 8 11 0 11 12 11
+
+Một_số người sống lâu năm cho biết , dù không nổi_tiếng bằng gái Nha_Mân LBRK Đồng_Tháp RBRK , hay Cái_Mơn LBRK Bến_Tre RBRK , nhưng xứ cù_lao Tân_Lộc cũng có nhiều thiếu_nữ tuyệt_sắc .
+Nq Nn Vv Aa Nu Vv Vv PU Cp R Aa Vcp Nn Nr LBRK Nr RBRK PU Cp Nr LBRK Nr RBRK PU Cp Nn Nn Nr R Ve Aa Nn Nn PU
+DET NSUBJ RCMOD ADJP_ADVMOD OBJ ROOT VMOD PUNCT CC ADJUNCT CCOMP VMOD OBJ NN PUNCT PARATAXIS PUNCT PUNCT CC CONJ PUNCT PARATAXIS PUNCT PUNCT CC NSUBJ NN NN ADJUNCT CONJ AMOD NN OBJ PUNCT
+2 6 2 3 4 0 6 11 11 11 7 11 12 13 14 14 14 14 14 14 20 20 20 11 11 30 26 27 30 11 33 33 30 6
+
+Có người cho rằng , nhờ phong_thổ cù_lao ngọt_mát , nhiều vườn cây bao_bọc nên con gái ở đây có nước_da trắng và rất xinh .
+Ve Nn Vv Cs PU Cs Nn Nn Aa PU Aa Nn Nn Vv Cp Nn Nn Cs Pd Ve Nn Aa Cp R Aa PU
+ROOT NSUBJ CCOMP MARK PUNCT PREP POBJ NN AMOD PUNCT AMOD NSUBJ NN CCOMP CC NSUBJ NN PREP POBJ CONJ OBJ AMOD CC ADJUNCT CONJ PUNCT
+0 3 1 14 14 14 6 7 7 14 12 14 12 3 14 20 16 16 18 14 20 21 20 25 20 1
+
+Chị Nguyễn_Thị_Huệ , Chủ_tịch Hội Phụ_nữ xã Tân_Lộc , luyến_tiếc : " Từ khi có phong_trào lấy chồng ngoại , mấy " ông " Đài_Loan nườm_nượp về đây " ẵm " hết những dĩa " mứt gừng " .
+Nn Nr PU Nn Nn Nn Nun Nr PU Vv PU PU Cs Nt Ve Nn Vv Nn Nn PU Nq PU Pp PU Nr Aa Vv Pd PU Vv PU M Nq Nn PU Nn Nn PU PU
+NSUBJ NN PUNCT PARATAXIS NN NN NP_ADVMOD NN PUNCT ROOT PUNCT PUNCT PREP POBJ RCMOD OBJ RCMOD OBJ NN PUNCT DET PUNCT NSUBJ PUNCT NN ACOMP CCOMP OBJ PUNCT VMOD PUNCT INTJ DET OBJ PUNCT NN NN PUNCT PUNCT
+10 1 1 1 4 5 5 7 1 0 27 27 27 13 14 15 16 17 18 27 23 23 27 23 23 27 10 27 30 27 30 30 34 30 36 34 36 36 10
+
+Hàng trăm thiếu_nữ tuổi mới mười tám , đôi_mươi , nhan_sắc tuyệt_vời , đã lấy chồng xa xứ và không hẹn ngày về .
+R Nq Nn Nn R Num Num PU Nq PU Nn Aa PU R Vv Nn Aa Nn Cp R Vv Nt Vv PU
+ADJUNCT NUM NSUBJ PARATAXIS ADJUNCT NUM CONJ PUNCT CONJ PUNCT CONJ AMOD PUNCT ADJUNCT ROOT OBJ ACOMP OBJ CC ADJUNCT CONJ NP_ADVMOD VMOD PUNCT
+2 3 15 3 6 4 6 6 6 4 4 11 4 15 0 15 15 17 15 21 15 21 22 15
+
+Mấy năm qua , Tân_Lộc chỉ " xuất " một chiều .
+Nq Nu Aa PU Nr R PU Vv PU Num Nn PU
+DET NP_ADVMOD AMOD PUNCT NSUBJ ADJUNCT PUNCT ROOT PUNCT NUM OBJ PUNCT
+2 8 2 8 8 8 8 0 8 11 8 8
+
+Đưa người_đẹp đi , mà không được nhận về , chỉ bù lại là những đồng_tiền ngoại giúp nhiều gia_đình khá lên .
+Vv Nn Vv PU Cp R Vv Vv Cs PU R Vv R Cs Nq Nn Nn Vv Aa Nn Aa R PU
+ROOT OBJ VMOD PUNCT CC ADJUNCT CONJ VMOD PREP PUNCT ADJUNCT CONJ ADJUNCT PREP DET POBJ NN RCMOD AMOD NSUBJ CCOMP ADJUNCT PUNCT
+0 1 1 1 1 7 1 7 8 1 12 1 12 12 16 14 16 16 20 21 18 21 1
+
+Thật_ra , ban_đầu nhiều người ở Tân_Lộc đã lên_án , thậm_chí tỏ ra " dị_ứng " với những gia_đình cho con lấy chồng Đài_Loan .
+Cp PU Nn Aa Nn Cs Nr R Vv PU R Vv R PU Vv PU Cs Nq Nn Vv Nn Vv Nn Nr PU
+CC PUNCT NP_ADVMOD AMOD NSUBJ PREP POBJ ADJUNCT ROOT PUNCT ADJUNCT CONJ ADJUNCT PUNCT VMOD PUNCT PREP DET POBJ RCMOD OBJ VMOD OBJ NN PUNCT
+9 9 9 5 9 5 6 9 0 9 12 9 12 15 12 15 15 19 17 19 20 20 22 23 9
+
+Nhưng dần_dần , họ thông_cảm hơn với những hoàn_cảnh khốn_khó cho_dù điều đó gây ra nhiều bi_kịch tình_yêu .
+Cp R PU Pp Vv R Cs Nq Nn Aa Cp Nn Pd Vv R Aa Nn Nn PU
+CC ADJUNCT PUNCT NSUBJ ROOT ADJUNCT PREP DET POBJ AMOD CC NSUBJ DET CONJ ADJUNCT AMOD OBJ NN PUNCT
+5 5 5 5 0 5 5 9 7 9 5 14 12 5 14 17 14 17 5
+
+Hồi đầu năm , người dân ấp Trường_Thọ không hiểu sao anh T_. LBRK 23 tuổi RBRK , buồn_bã bỏ Tân_Lộc sang Đồng_Tháp học sửa xe gắn máy .
+Nt Cs Nt PU Nc Nn Nun Nr R Vv Pp Nn Nr LBRK Num Nn RBRK PU Aa Vv Nr Vv Nr Vv Vv Nn Vv Nn PU
+NP_ADVMOD PREP POBJ PUNCT NN CLF NSUBJ NN ADJUNCT ROOT OBJ NSUBJ NN PUNCT NUM PARATAXIS PUNCT PUNCT ACOMP CCOMP OBJ VMOD OBJ VMOD VMOD OBJ NN OBJ PUNCT
+10 1 2 10 7 5 10 7 10 0 10 20 12 12 16 12 12 20 20 10 20 20 22 22 24 25 26 27 10
+
+Sau khi T_. đi rồi , nhiều người mới té_ngửa ra chuyện tình giữa anh và cô Q_. LBRK 20 tuổi RBRK lỡ_dở .
+Cs Nt Nr Vv R PU Aa Nn R Vv R Nn Nn Cs Pp Cp Nn Nr LBRK Num Nn RBRK Aa PU
+PREP POBJ NSUBJ CCOMP ADJUNCT PUNCT AMOD NSUBJ ADJUNCT ROOT ADJUNCT OBJ NN PREP POBJ CC CONJ NN PUNCT NUM PARATAXIS PUNCT AMOD PUNCT
+10 1 4 2 4 10 8 10 10 0 10 10 12 12 14 15 15 17 17 21 17 17 12 10
+
+Cách nay 4 năm , lúc Q_. còn học cấp 3 , mối tình giữa hai người đã nhen_nhóm .
+Vv Nt Num Nu PU Nt Nr R Vv Nn An PU Nc Nn Cs Num Nn R Vv PU
+VMOD OBJ NUM OBJ PUNCT NP_ADVMOD NSUBJ ADJUNCT CCOMP OBJ AMOD PUNCT NSUBJ CLF PREP NUM POBJ ADJUNCT ROOT PUNCT
+19 1 4 1 19 19 9 9 6 9 10 19 19 13 13 17 15 19 0 19
+
+Nhưng , do gia_đình nghèo Q_. chỉ học đến lớp 12 rồi nghỉ giữa_chừng .
+Cp PU Cp Nn Aa Nr R Vv Cs Nn An Cp Vv R PU
+CC PUNCT CC NSUBJ ROOT NSUBJ ADJUNCT CONJ PREP POBJ AMOD CC CONJ ADJUNCT PUNCT
+5 5 5 5 0 8 8 5 8 9 10 8 8 13 5
+
+Nghe lời cha_mẹ , Q_. đành cắt đứt tình riêng theo chồng về Đài_Loan , mong giúp gia_đình vượt qua khốn_khó .
+Vv Nn Nn PU Nr Vv Vv Vv Nn Aa Vv Nn Cs Nr PU Vv Vv Nn Vv Cs Nn PU
+ADVCL OBJ NN PUNCT NSUBJ ROOT VMOD VMOD OBJ AMOD VMOD OBJ PREP POBJ PUNCT VMOD VMOD NSUBJ CCOMP PREP POBJ PUNCT
+6 1 2 6 6 0 6 7 7 9 6 11 11 13 6 6 16 19 17 19 20 6
+
+Hay như trường_hợp của anh N_. ở ấp Phước_Lộc và cô H_. LBRK 21 tuổi RBRK .
+Cp Cs Nn Cs Nn Nr Cs Nun Nr Cp Nn Nr LBRK Num Nn RBRK PU
+ROOT PREP POBJ PREP POBJ NN PREP POBJ NN CC CONJ NN PUNCT NUM NN PUNCT PUNCT
+0 1 2 3 4 5 5 7 8 5 5 11 11 15 11 11 1
+
+Quen nhau gần 2 năm , nhưng cuối_cùng tan_vỡ bởi nghèo nên H_. phải nghe gia_đình đi lấy chồng ngoại .
+Vv Nn R Num Nu PU Cp Aa Vv Cs Aa Cp Nr Vv Vv Nn Vv Vv Nn Nn PU
+ROOT OBJ ADJUNCT NUM NP_ADVMOD PUNCT CC ADJP_ADVMOD CONJ PREP PCOMP CC NSUBJ CONJ VMOD OBJ VMOD VMOD OBJ NN PUNCT
+0 1 4 5 1 1 1 9 1 9 10 1 14 1 14 15 15 17 18 19 1
+
+Hôm gặp chúng_tôi , anh N_. tâm_sự : " Gần 2 năm rồi vẫn không quên được người_yêu cũ , nhưng phải cảm_thông vì hoàn_cảnh mỗi người mỗi khác ... " .
+Nt Vv Pp PU Nn Nr Vv PU PU R Num Nu R R R Vv R Nn Aa PU Cp Vv Vv Cs Nn Nq Nn Nq Aa PU PU PU
+NP_ADVMOD XCOMP OBJ PUNCT NSUBJ NN ROOT PUNCT PUNCT ADJUNCT NUM NP_ADVMOD ADJUNCT ADJUNCT ADJUNCT XCOMP ADJUNCT OBJ AMOD PUNCT CC CONJ VMOD PREP POBJ DET NN NN AMOD PUNCT PUNCT PUNCT
+7 1 2 7 7 5 0 16 16 11 12 16 12 15 16 7 16 16 18 16 16 16 22 23 24 27 25 25 28 16 16 7
+
+Hội Phụ_nữ xã Tân_Lộc thừa_nhận : sự ra đi quá lớn của những thiếu_nữ đã để lại hệ_quả mất cân_đối về giới_tính .
+Nn Nn Nun Nr Vv PU Ncs Vv R R Aa Cs Nq Nn R Vv R Nn Ve Nn Cs Nn PU
+NSUBJ NN NP_ADVMOD NN ROOT PUNCT NSUBJ CLF ADJUNCT ADJUNCT AMOD PREP DET POBJ ADJUNCT CCOMP ADJUNCT OBJ RCMOD OBJ PREP POBJ PUNCT
+5 1 1 3 0 16 16 7 8 11 7 7 14 12 16 5 16 16 18 19 20 21 5
+
+Mấy năm gần đây , thanh_niên Tân_Lộc lớn lên phải đi các nơi xa tìm vợ .
+Nq Nu Aa Pd PU Nn Nr Vv R Vv Vv Nq Nn Aa Vv Nn PU
+DET NP_ADVMOD AMOD OBJ PUNCT NSUBJ NN ROOT ADJUNCT CONJ VMOD DET NP_ADVMOD AMOD VMOD OBJ PUNCT
+2 8 2 3 8 8 6 0 8 8 10 13 11 13 11 15 8
+
+Những vấn_đề đặt ra .
+Nq Nn Vv R PU
+DET ROOT RCMOD ADJUNCT PUNCT
+2 0 2 3 2
+
+Không_chỉ ở Tân_Lộc , mà chuyện " lấy chồng Đài_Loan " đã trở_thành hiện_tượng xã_hội lan_rộng khắp các vùng nông_thôn ĐBSCL .
+Cp Cs Nr PU Cp Nn PU Vv Nn Nr PU R Vv Nn Nn Vv Aa Nq Nn Nn X PU
+CC PREP POBJ PUNCT CC NSUBJ PUNCT RCMOD OBJ NN PUNCT ADJUNCT ROOT OBJ NN RCMOD ACOMP DET OBJ NN NN PUNCT
+13 13 2 13 13 13 8 6 8 9 8 13 0 13 14 14 16 19 17 19 19 13
+
+Theo số_liệu của Văn_phòng Kinh_tế - Văn_hoá Đài_Bắc tại TP Hồ_Chí_Minh , tính từ năm 1995 đến tháng 1_-_2004 đã có 76.251 cô gái Việt_Nam kết_hôn với đàn_ông Đài_Loan ; tập_trung chủ_yếu ở các tỉnh ĐBSCL .
+Vv Nn Cs Nn Nn PU Nn Nr Cs Nun Nr PU Vv Cs Nt Num Cs Nt Nt R Ve Num Nc Nn Nr Vv Cs Nn Nr PU Vv Aa Cs Nq Nun X PU
+VMOD OBJ PREP POBJ NN PUNCT CONJ NP_ADVMOD PREP POBJ NN PUNCT VMOD PREP POBJ NUM CONJ POBJ NN ADJUNCT ROOT NUM OBJ CLF NN RCMOD PREP POBJ NN PUNCT PARATAXIS ACOMP PREP DET POBJ NN PUNCT
+21 1 2 3 4 5 5 4 4 9 10 21 21 13 14 15 14 17 18 21 0 23 21 23 23 23 26 27 28 23 23 31 31 35 33 35 21
+
+Trong đó , phần_lớn là thiếu_nữ tuổi từ 18 - 20 và 21 - 25 tuổi , học_vấn thấp .
+Cs Pd PU Nq Vc Nn Nn Cs Num PU Num Cp Num PU Num Nn PU Nn Aa PU
+PREP POBJ PUNCT NSUBJ ROOT ATTR NN QUANTMOD NUM PUNCT CONJ CC CONJ PUNCT CONJ NN PUNCT NN AMOD PUNCT
+5 1 5 5 0 5 6 9 16 9 9 9 9 13 13 7 6 6 18 5
+
+Có nhiều nguyên_nhân dẫn đến việc hàng_loạt cô gái nông_thôn lấy chồng Đài_Loan , trong đó , chủ_yếu là gia_đình nghèo_khó .
+Ve Aa Nn Vv Cs Nn Nq Nc Nn Nn Vv Nn Nr PU Cs Pd PU Aa Vc Nn Aa PU
+ROOT AMOD OBJ RCMOD PREP POBJ DET NN CLF NSUBJ CCOMP OBJ NN PUNCT PREP POBJ PUNCT ASUBJ CONJ ATTR AMOD PUNCT
+0 3 1 3 4 5 10 10 8 11 6 11 12 1 19 15 19 19 1 19 20 1
+
+Nhiều người kỳ_vọng cuộc_sống xứ người sẽ khá hơn , đảm_bảo về mặt kinh_tế và có điều_kiện báo_hiếu cha_mẹ .
+Aa Nn Vv Nn Nn Nn R Aa R PU Vv Cs Nn Nn Cp Ve Nn Vv Nn PU
+AMOD NSUBJ ROOT NSUBJ NN NN ADJUNCT CCOMP ADJUNCT PUNCT CONJ PREP POBJ NN CC CONJ OBJ RCMOD OBJ PUNCT
+2 3 0 8 4 5 8 3 8 8 8 11 12 13 11 11 16 17 18 3
+
+Trong khi , tương_lai ở nông_thôn hiện_nay chưa có gì đảm_bảo .
+Cs Nt PU Nt Cs Nn Nt R Ve Pp Vv PU
+PREP POBJ PUNCT NSUBJ PREP POBJ NN ADJUNCT ROOT OBJ RCMOD PUNCT
+9 1 9 9 4 5 6 9 0 9 10 9
+
+Đây cũng là lý_do xuất_hiện nhiều cô gái gia_đình khá vẫn thích lấy chồng ngoại .
+Pd R Vc Nn Vv Aa Nc Nn Nn Aa R Vv Vv Nn Nn PU
+NSUBJ ADJUNCT ROOT ATTR RCMOD AMOD OBJ CLF NN AMOD ADJUNCT CONJ VMOD OBJ NN PUNCT
+3 3 0 3 4 7 5 7 7 9 12 9 12 13 14 3
+
+Chính từ suy_nghĩ đó , nhiều người chấp_nhận phiêu_lưu " may_nhờ_,_rủi_chịu " .
+M Cs Nn Pd PU Aa Nn Vv Vv PU ID PU PU
+PCOMP PREP POBJ DET PUNCT AMOD NSUBJ ROOT VMOD PUNCT ACOMP PUNCT PUNCT
+2 8 2 3 8 7 8 0 8 9 9 9 8
+
+Đến nay , các ngành chức_năng chưa lường được việc này sẽ đến đâu và chưa có giải_pháp tháo_gỡ .
+Cs Nt PU Nq Nn Nn R Vv R Nn Pd R Vv Pp Cp R Ve Nn Vv PU
+PREP POBJ PUNCT DET NSUBJ NN ADJUNCT ROOT ADJUNCT NSUBJ DET ADJUNCT CCOMP OBJ CC ADJUNCT CONJ OBJ VMOD PUNCT
+8 1 8 5 8 5 8 0 8 13 10 13 8 13 13 17 13 17 18 8
+
+Hôn_nhân không dựa trên tình_yêu mà cốt_lõi là " cô_dâu Việt_Nam cần cuộc_sống ổn_định về kinh_tế , còn chú_rể Đài_Loan cần một người vợ " .
+Nn R Vv Cs Nn Cp Nn Vc PU Nn Nr Vv Nn Aa Cs Nn PU Cp Nn Nr Vv Num Nc Nn PU PU
+NSUBJ ADJUNCT ROOT PREP POBJ CC NSUBJ CONJ PUNCT NSUBJ NN CCOMP OBJ AMOD PREP POBJ PUNCT CC NSUBJ NN CONJ NUM OBJ CLF PUNCT PUNCT
+3 3 0 3 4 3 8 3 12 12 10 8 12 13 14 15 12 12 21 19 12 23 21 23 12 3
+
+Từ đó cho thấy , làn_sóng lấy chồng ngoại hiện_nay tỏ_ra " không bình_thường " .
+Cs Pd Vv Vv PU Nn Vv Nn Nn Nt Vv PU R Aa PU PU
+PREP POBJ ROOT VMOD PUNCT NSUBJ RCMOD OBJ NN NP_ADVMOD CCOMP PUNCT ADJUNCT ACOMP PUNCT PUNCT
+3 1 0 3 11 11 6 7 8 6 4 14 14 11 14 3
+
+Các cặp vợ_chồng tuổi_tác chênh_lệch nhau quá lớn , thường từ 10 - 20 tuổi .
+Nq Nq Nn Nn Aa Nn R Aa PU R Cs Num PU Num Nn PU
+DET DET NSUBJ ROOT AMOD OBJ ADJUNCT ADJP_ADVMOD PUNCT ADJUNCT QUANTMOD NUM PUNCT CONJ PARATAXIS PUNCT
+3 3 4 0 4 5 8 5 5 15 12 15 12 12 5 4
+
+Sự bất_đồng ngôn_ngữ , thiếu hiểu_biết về văn_hoá ứng_xử của xã_hội Đài_Loan sẽ ảnh_hưởng hạnh_phúc gia_đình .
+Ncs Vv Nn PU Vv Nn Cs Nn Vv Cs Nn Nr R Vv Nn Nn PU
+NSUBJ CLF OBJ PUNCT CONJ OBJ PREP POBJ VMOD PREP POBJ NN ADJUNCT ROOT OBJ NN PUNCT
+14 1 2 2 2 5 6 7 8 8 10 11 14 0 14 15 14
+
+Ấy_là chưa kể các cô_dâu bơ_vơ nơi đất khách , không người bảo_vệ khi xảy_ra biến_cố …
+M R Vv Nq Nn Vv Nn Nn Nn PU R Nn Vv Nt Vv Nn PU
+INTJ ADJUNCT ROOT DET OBJ RCMOD OBJ NN NN PUNCT ADJUNCT PARATAXIS RCMOD NP_ADVMOD RCMOD OBJ PUNCT
+3 3 0 5 3 5 6 7 8 5 12 5 12 13 14 15 3
+
+Một vấn_đề khác phát_sinh gần đây là hàng ngàn đứa con lai Đài_Loan , được đưa về quê ngoại Việt_Nam sinh_sống nhưng không làm được giấy khai_sinh , quốc_tịch , đi học ... thậm_chí bị phân_biệt đối_xử .
+Num Nn Aa Vv Aa Pd Vc R Nq Nc Nn Aa Nr PU Vv Vv Vv Nn Nn Nr Vv Cp R Vv R Nn Vv PU Nn PU Vv Vv PU R Vv Vv Vv PU
+NUM NSUBJ AMOD RCMOD ADJP_ADVMOD OBJ ROOT ADJUNCT NUM NSUBJ CLF AMOD NN PUNCT CCOMP VMOD VMOD OBJ NN NN VMOD CC ADJUNCT CONJ ADJUNCT OBJ VMOD PUNCT CONJ PUNCT CONJ VMOD PUNCT CONJ CONJ VMOD VMOD PUNCT
+2 7 2 2 4 5 0 9 10 15 10 10 10 15 7 15 16 17 18 18 17 15 24 15 24 24 26 26 26 24 24 31 24 24 34 35 36 7
+
+Tương_lai những đứa trẻ này sẽ ra sao ?
+Nt Nq Nc Nn Pd R Vv Pp PU
+NSUBJ DET NN CLF DET ADJUNCT ROOT OBJ PUNCT
+7 3 1 3 3 7 0 7 7
+
+Chúng_ta không khuyến_khích cũng không_thể ngăn_cản việc lấy chồng ngoại , tuy_nhiên cần thẳng_thắn nhìn vấn_đề một_cách thấu_đáo .
+Pp R Vv R R Vv Nn Vv Nn Nn PU Cp Vv Aa Vv Nn Nn Aa PU
+NSUBJ ADJUNCT ROOT ADJUNCT ADJUNCT CONJ OBJ RCMOD OBJ NN PUNCT CC CONJ ACOMP VMOD OBJ NP_ADVMOD AMOD PUNCT
+3 3 0 5 6 3 6 7 8 9 3 3 3 15 13 15 15 17 3
+
+Nhiều ý_kiến cho rằng để đảm_bảo các cuộc hôn_nhân Việt - Đài bền_vững , cấp thẩm_quyền hai nước cần thoả_thuận ban_hành những văn_bản bảo_hộ công_dân Việt_Nam nói_chung và phụ_nữ nói_riêng .
+Aa Nn Vv Cs Cs Vv Nq Nc Nn Nr PU Nr Aa PU Nn Nn Num Nn Vv Vv Vv Nq Nn Vv Nn Nr Cp Cp Nn Cp PU
+AMOD NSUBJ ROOT MARK PREP PCOMP DET NN CLF IOBJ PUNCT CONJ ACOMP PUNCT NSUBJ NN NUM NN CCOMP VMOD VMOD DET OBJ RCMOD OBJ NN CC CC CONJ CC PUNCT
+2 3 0 19 19 5 10 10 8 6 10 10 6 19 19 15 18 15 3 19 20 23 21 23 24 25 25 25 25 25 3
+
+Các ban , ngành , địa_phương ... có biện_pháp giúp người dân nâng cao trình_độ dân_trí , đời_sống kinh_tế , ngăn_chặn có hiệu_quả tình_trạng môi_giới , lừa_đảo .
+Nq Nn PU Nn PU Nn PU Ve Nn Vv Nc Nn Vv Aa Nn Nn PU Nn Nn PU Vv Ve Nn Nn Vv PU Vv PU
+DET NSUBJ PUNCT CONJ PUNCT CONJ PUNCT ROOT OBJ RCMOD IOBJ CLF VMOD ACOMP OBJ NN PUNCT CONJ NN PUNCT VMOD VMOD OBJ OBJ RCMOD PUNCT CONJ PUNCT
+2 8 2 2 4 4 2 0 8 9 10 11 10 13 13 15 15 15 18 13 13 21 22 21 24 25 25 8
+
+Đặc_biệt , chính_quyền địa_phương và hội phụ_nữ cần giúp người dân nông_thôn những thông_tin chính_xác về kết_hôn Đài - Việt , để họ hiểu và quyết_định tương_lai của mình .
+Aa PU Nn Nn Cp Nn Nn Vv Vv Nc Nn Nn Nq Nn Aa Cs Nn Nr PU Nr PU Cs Pp Vv Cp Vv Nt Cs Pp PU
+ADJP_ADVMOD PUNCT NSUBJ NN CC CONJ NN ROOT VMOD IOBJ CLF NN DET OBJ AMOD PREP POBJ NN PUNCT CONJ PUNCT PREP NSUBJ PCOMP CC CONJ OBJ PREP POBJ PUNCT
+8 8 8 3 3 3 6 0 8 9 10 10 14 9 14 14 16 17 18 18 9 9 24 22 24 24 24 27 28 8
+

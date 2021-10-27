@@ -1,0 +1,560 @@
+60 năm Quân_đội nhân_dân VN - Đường_mòn trên biển đông LBRK kỳ 4 RBRK : Câu_chuyện của người lính già .
+Num Nu Nn Aa Nr PU Nn Cs Nn Nn LBRK Nn An RBRK PU Nn Cs Nc Nn Aa PU
+NUM NP_ADVMOD NN AMOD NN PUNCT PARATAXIS PREP POBJ NN PUNCT PARATAXIS AMOD PUNCT PUNCT ROOT PREP POBJ CLF AMOD PUNCT
+2 16 2 3 3 16 16 7 8 9 7 7 12 7 16 0 16 17 18 18 16
+
+Từ Hải_Phòng , qua phà Bính , rẽ về tay trái khoảng mươi cây_số sẽ gặp một vùng_đất Có dáng_dấp trung_du : những cụm đồi nối nhau thoai_thoải , cao dần về hướng đông_bắc .
+Cs Nr PU Cs Nn Nr PU Vv Cs Nn Aa R Nq Nu R Vv Num Nn Ve Nn Nn PU Nq Nn Nn Vv Nn Aa PU Aa R Cs Nn Nn PU
+CCOMP POBJ PUNCT CONJ POBJ NN PUNCT CONJ PREP POBJ AMOD ADJUNCT NUM OBJ ADJUNCT ROOT NUM OBJ RCMOD OBJ NN PUNCT DET NSUBJ NN PARATAXIS OBJ ACOMP PUNCT CONJ ADJUNCT PREP POBJ NN PUNCT
+16 1 1 1 4 5 4 4 8 9 10 13 14 8 16 0 18 16 18 19 20 20 24 26 24 20 26 26 26 26 30 30 32 33 16
+
+Làng_xóm nằm ven đồi , thượng_gia_hạ_điền : trên đồi là nhà , có vườn , dưới chân là ruộng .
+Nn Vv Nn Nn PU ID PU Cs Nn Vc Nn PU Ve Nn PU Cs Nn Vc Nn PU
+NSUBJ ROOT OBJ NN PUNCT CONJ PUNCT PREP POBJ CONJ ATTR PUNCT PARATAXIS OBJ PUNCT PREP POBJ CONJ ATTR PUNCT
+2 0 2 3 2 2 6 10 8 6 10 11 11 13 10 18 16 10 18 2
+
+Len_lỏi vào các xóm_làng chen_chúc ấy , thỉnh_thoảng có_thể gặp dấu_vết những căn hầm lớn khoét sâu vào sườn đồi .
+Vv Cs Nq Nn Vv Pd PU R Aa Vv Nn Nq Nc Nn Aa Vv Aa Cs Nn Nn PU
+VMOD PREP DET POBJ RCMOD DET PUNCT ADJUNCT ACOMP ROOT OBJ DET NN CLF AMOD RCMOD ACOMP PREP POBJ NN PUNCT
+10 1 4 2 4 4 10 10 10 0 10 13 11 13 13 13 16 16 18 19 10
+
+Có hầm đã sập , nhưng cũng có hầm còn khá nguyên_vẹn , gỡ đi vài lớp rêu_phong xanh_rì có chỗ còn có_thể nhận ra cả dấu xẻng công_binh xén sâu vào lớp đất bazan đỏ sậm : chính nơi đây một thời từng là căn_cứ_địa , là sở_chỉ_huy của một đơn_vị thường được những người ít_nhiều có liên_quan nhắc đến một_cách tò_mò và thán_phục : đơn_vị " những con tàu không số " .
+Ve Nn R Vv PU Cp R Ve Nn R R Aa PU Vv R Nq Nn Nn Aa Ve Nn R Aa Vv R Nw Nn Nn Nn Vv Aa Cs Nn Nn Nn Aa Aa PU M Nn Pd Num Nt R Vc Nn PU Vc Nn Cs Num Nn R Vv Nq Nn Aa Ve Vv Vv Cs Nn Aa Cp Vv PU Nn PU Nq Nc Nn R Nn PU PU
+ROOT NSUBJ ADJUNCT CCOMP PUNCT CC ADJUNCT CONJ NSUBJ ADJUNCT ADJUNCT CCOMP PUNCT XCOMP ADJUNCT DET OBJ NN AMOD CONJ OBJ ADJUNCT ACOMP XCOMP ADJUNCT DET OBJ NN NN RCMOD ACOMP PREP POBJ NN NN AMOD ADJP_ADVMOD PUNCT INTJ NSUBJ DET NUM NP_ADVMOD ADJUNCT PARATAXIS ATTR PUNCT CONJ ATTR PREP NUM POBJ ADJUNCT RCMOD DET NSUBJ ACOMP RCMOD VMOD CCOMP PREP OBJ AMOD CC CONJ PUNCT OBJ PUNCT DET NN CLF ADJUNCT NN PUNCT PUNCT
+0 4 4 1 1 1 8 1 12 11 12 8 8 20 14 17 14 17 17 8 20 24 24 21 24 27 24 27 28 27 30 30 32 33 33 33 36 21 40 45 40 43 45 45 21 45 45 45 48 49 52 50 54 52 56 60 58 56 58 54 60 60 62 63 63 60 60 67 73 73 70 73 67 67 1
+
+Còn những người trong cuộc thì biết rõ tên_tuổi của nó : Lữ_đoàn Hải_quân 125 .
+Cp Nq Nn Cs Nn Cp Vv Aa Nn Cs Pp PU Nn Nn Nr PU
+CC DET NSUBJ PREP POBJ CC ROOT ACOMP OBJ PREP POBJ PUNCT PARATAXIS NN NN PUNCT
+7 3 7 3 4 7 0 7 7 9 10 9 9 13 13 7
+
+Người thuỷ_thủ già ở lại .
+Nc Nn Aa Vv R PU
+NSUBJ CLF AMOD ROOT ADJUNCT PUNCT
+4 1 1 0 4 4
+
+Những người lính của cái lữ_đoàn bí_mật huyền_thoại một thời đó , những sĩ_quan tham_mưu , chính_trị , hậu_cần , những thuyền trưởng , thuỷ_thủ , báo_vụ viên , thợ_máy ... ngày ấy từ khắp đất_nước tập_hợp về đây , nay đều đã đi xa .
+Nq Nc Nn Cs M Nn Aa Nn Num Nt Pd PU Nq Nn Vv PU Nn PU Nn PU Nq Nn Sv PU Nn PU Nn Sv PU Nn PU Nt Pd Cs Aa Nn Vv Cs Pd PU Nt R R Vv Aa PU
+DET NSUBJ CLF PREP INTJ NN AMOD POBJ NUM NP_ADVMOD DET PUNCT DET CONJ RCMOD PUNCT CONJ PUNCT CONJ PUNCT DET NN SINO PUNCT CONJ PUNCT NN SINO PUNCT NN PUNCT NP_ADVMOD DET PREP PCOMP OBJ ROOT PREP POBJ PUNCT NP_ADVMOD ADJUNCT ADJUNCT CONJ ACOMP PUNCT
+2 37 2 2 8 8 8 4 10 8 2 2 14 2 14 15 15 17 17 14 25 25 22 25 14 25 25 27 25 25 2 37 32 37 34 35 0 37 38 37 44 43 44 37 44 37
+
+Người đã hy_sinh , mãi_mãi biệt_tích trên biển Đông , người đã chuyển ngành , người đã về_hưu ...
+Nn R Vv PU R Aa Cs Nn Nr PU Nn R Vv Nn PU Nn R Vv PU
+NSUBJ ADJUNCT ROOT PUNCT ADJUNCT CONJ PREP POBJ NN PUNCT NSUBJ ADJUNCT CONJ OBJ PUNCT NSUBJ ADJUNCT CONJ PUNCT
+3 3 0 3 6 3 6 7 8 3 13 13 3 13 13 18 18 13 3
+
+Duy còn một người vẫn ở lại đây .
+R Ve Num Nn R Vv R Pd PU
+ADJUNCT ROOT NUM NSUBJ ADJUNCT CCOMP ADJUNCT OBJ PUNCT
+2 0 4 6 6 2 6 6 2
+
+Một người lính_thuỷ già , quê tận Cà_Ná , tít tận miền Phan_Thiết trong cực Nam_Trung_bộ xa_xôi : anh Đặng_Văn_Thanh .
+Num Nc Nn Aa PU Nn Aa Nr PU R Aa Nn Nr Cs Nn Nr Aa PU Nn Nr PU
+NUM NN CLF AMOD PUNCT ROOT AMOD OBJ PUNCT ADJUNCT PARATAXIS OBJ NN PREP POBJ NN AMOD PUNCT PARATAXIS NN PUNCT
+6 6 2 6 6 0 6 7 8 11 8 11 12 12 14 15 15 6 6 19 6
+
+Thường vẫn vậy trong những trường_hợp này : có một mối tình sâu_đậm nào đó đã giữ_chân người lính bôn_ba lại nơi làng quê hẻo_lánh này .
+R R Pp Cs Nq Nn Pd PU Ve Num Nc Nn Aa Pd Pd R Vv Nc Nn Vv R Nn Nun Nn Aa Pd PU
+ADJUNCT ADJUNCT NP_ADVMOD PREP DET POBJ DET PUNCT ROOT NUM NSUBJ CLF AMOD DET DET ADJUNCT CCOMP OBJ CLF RCMOD ADJUNCT OBJ NN NN AMOD DET PUNCT
+2 3 9 3 6 4 6 9 0 11 17 11 11 11 11 17 9 17 18 18 17 17 22 23 23 23 9
+
+Trường_hợp Đặng_Văn_Thanh chính là như vậy .
+Nn Nr M Vc Cs Pp PU
+NSUBJ NN INTJ ROOT PREP POBJ PUNCT
+4 1 4 0 4 5 4
+
+Sau những chuyến mạo_hiểm trên biển lớn , anh thường trở_về nơi này , chỉ_huy_sở của các con tàu không số , báo_cáo công_tác hay nghỉ_ngơi lấy sức dăm ngày .
+Cs Nq Nn Vv Cs Nn Aa PU Pp R Vv Nn Pd PU Nn Cs Nq Nc Nn R Nn PU Vv Nn Cp Vv Vv Nn Nq Nu PU
+PREP DET POBJ RCMOD PREP POBJ AMOD PUNCT NSUBJ ADJUNCT ROOT OBJ DET PUNCT NN PREP DET NN CLF ADJUNCT POBJ PUNCT CONJ OBJ CC CONJ VMOD OBJ DET NP_ADVMOD PUNCT
+11 3 1 3 4 5 6 11 11 11 0 11 12 12 12 15 21 21 18 21 16 11 11 23 23 23 26 27 30 26 11
+
+Chính trong một căn hầm chỉ_huy khoét sâu vào lòng đồi nay đã sạt_lở gần hết , anh đã gặp một chị hội trưởng phụ_nữ xã có đôi mắt lá_răm sắc dài .
+M Cs Num Nc Nn Vv Vv Aa Cs Nn Nn Nt R Vv R Ve PU Pp R Vv Num Nc Nn Sv Nn Nun Ve Nq Nn Nn Aa Aa PU
+PCOMP PREP NUM POBJ CLF VMOD RCMOD ACOMP PREP POBJ NN NP_ADVMOD ADJUNCT CCOMP ADJUNCT VMOD PUNCT NSUBJ ADJUNCT ROOT NUM NN CLF SINO OBJ NN RCMOD DET OBJ NN AMOD CONJ PUNCT
+2 20 4 2 4 4 4 7 7 9 10 14 14 4 16 14 20 20 20 0 25 25 22 23 20 25 25 29 27 29 29 31 20
+
+Hỏi_thăm mới biết đó là một người vợ liệt_sĩ .
+Vv R Vv Pd Vc Num Nc Nn Nn PU
+ROOT ADJUNCT VMOD NSUBJ CCOMP NUM NN CLF ATTR PUNCT
+0 3 1 5 3 9 9 7 5 1
+
+Họ quen nhau , ân_cần và kín_đáo chăm_sóc cho nhau .
+Pp Vv Nn PU Aa Cp Aa Vv Cs Nn PU
+NSUBJ ROOT OBJ PUNCT ACOMP CC CONJ CONJ PREP POBJ PUNCT
+2 0 2 2 8 5 5 2 8 9 2
+
+Chị thấy bồn_chồn lo_lắng mỗi lần anh từ_giã ra_đi , lao ra biển khơi mịt_mùng .
+Pp Vv Vv Vv Nq Nn Pp Vv Vv PU Vv Cs Nn Nn Aa PU
+NSUBJ ROOT VMOD CONJ DET NP_ADVMOD NSUBJ CCOMP VMOD PUNCT CONJ PREP POBJ NN AMOD PUNCT
+2 0 2 3 6 3 8 6 8 8 8 11 12 13 13 2
+
+Chị hao_gầy đi những ngày chờ_đợi .
+Pp Vv Aa Nq Nu Vv PU
+NSUBJ ROOT DEP DET NP_ADVMOD RCMOD PUNCT
+2 0 2 5 2 5 2
+
+Và như sống lại , tươi_tắn , tinh_khôi , đôi mắt lá_răm cố giấu một niềm hạnh_phúc không kìm nổi mỗi lần anh trở_về ...
+M Cs Vv R PU Aa PU Aa PU Nq Nn Nn Vv Vv Num Ncs Aa R Vv R Nq Nn Pp Vv PU
+INTJ ROOT PCOMP ADJUNCT PUNCT CONJ PUNCT CONJ PUNCT DET NSUBJ NN CONJ VMOD NUM OBJ CLF ADJUNCT RCMOD ADJUNCT DET NP_ADVMOD NSUBJ CCOMP PUNCT
+2 0 2 3 2 2 6 6 2 11 13 11 2 13 16 14 16 19 16 19 22 14 24 22 2
+
+Cho đến ngày cuối chiến_tranh , họ trở_thành vợ_chồng ...
+M Cs Nt Nn Nn PU Pp Vv Nn PU
+PCOMP PREP POBJ NN NN PUNCT NSUBJ ROOT OBJ PUNCT
+2 8 2 3 3 8 8 0 8 8
+
+Bây_giờ thì người thuỷ_thủ già đã thật_sự trở_thành một bác nông_dân chính_cống .
+Pd Cp Nc Nn Aa R Aa Vv Num Nc Nn Aa PU
+NP_ADVMOD CC NSUBJ CLF AMOD ADJUNCT ACOMP ROOT NUM OBJ CLF AMOD PUNCT
+8 8 8 3 3 8 8 0 10 8 10 10 8
+
+Nhà anh_chị nằm ven sườn đồi .
+Nn Nn Vv Nn Nn Nn PU
+NSUBJ NN ROOT OBJ NN NN PUNCT
+3 1 0 3 4 5 3
+
+Trước sân là cái giàn mướp sai quả , giàn mướp không phải đan bằng tre mà là một tấm lưới cũ giăng giữa mấy cây cột chống bằng sắt gỉ .
+Cs Nn Vc Nc Nn Nn Aa Nn PU Nn Nn R Aa Vv Cs Nn Cp Vc Num Nc Nn Aa Vv Cs Nq Nc Nn Vv Cs Nn Vv PU
+PREP POBJ ROOT ATTR CLF NN AMOD OBJ PUNCT NSUBJ NN ADJUNCT ACOMP CONJ PREP POBJ CC CONJ NUM ATTR CLF AMOD RCMOD PREP DET POBJ CLF VMOD PREP POBJ VMOD PUNCT
+3 1 0 3 4 4 4 7 3 14 10 13 14 3 14 15 14 14 20 18 20 20 20 23 26 24 26 26 26 29 30 3
+
+Phía ngoài sân là chiếc giếng rất sâu , gàu được kéo bằng ròng_rọc hẳn lấy được về từ một chiếc tàu cũ nào đó .
+Nn Cs Nn Vc Nc Nn R Aa PU Nn Vv Vv Cs Nn Aa Vv R Vv Cs Num Nc Nn Aa Pd Pd PU
+NSUBJ PREP POBJ ROOT ATTR CLF ADJUNCT AMOD PUNCT NSUBJ CONJ VMOD PREP POBJ ACOMP RCMOD ADJUNCT VMOD PREP NUM POBJ CLF AMOD DET DET PUNCT
+4 1 2 0 4 5 8 5 4 11 4 11 12 13 16 14 16 16 16 21 19 21 21 21 21 4
+
+Cạnh đấy là ao cá , anh Thanh bảo mỗi mùa thu được hàng 5 - 6 tạ cá_mè ...
+Nn Pd Vc Nn Nn PU Nn Nr Vv Nq Nn Vv M R Num PU Num Nu Nn PU
+NSUBJ DET ROOT ATTR NN PUNCT NSUBJ NN CONJ DET NP_ADVMOD XCOMP INTJ ADJUNCT NUM PUNCT CONJ OBJ NN PUNCT
+3 1 0 3 4 3 9 7 3 11 12 9 12 15 18 15 15 12 18 3
+
+Chúng_tôi ngồi với nhau giữa sân , trên chiếc nong lớn , quanh mâm rượu có một chai cuốc_lủi to_bự và mấy con cá khô nướng làm mồi chị Thanh đã chu_đáo dọn sẵn cho chúng_tôi .
+Pp Vv Cs Nn Cs Nn PU Cs Nc Nn Aa PU Nn Nn Nn Ve Num Nn Nn Aa Cp Nq Nc Nn Aa Vv Vv Nn Nn Nr R Aa Vv Aa Cs Pp PU
+NSUBJ ROOT PREP POBJ PREP POBJ PUNCT PREP POBJ CLF AMOD PUNCT NP_ADVMOD NN NN CONJ NUM OBJ NN AMOD CC DET CONJ CLF AMOD RCMOD VMOD OBJ NSUBJ NN ADJUNCT ACOMP CCOMP ACOMP PREP POBJ PUNCT
+2 0 2 3 2 5 2 2 8 9 9 2 16 13 13 2 18 16 18 18 18 23 18 23 23 23 26 27 33 29 33 33 23 33 33 35 2
+
+Anh Thanh nói : - Sau hiệp_định Genève 1954 , tôi không đi tập_kết mà được lệnh ở lại nằm_vùng hoạt_động .
+Nn Nr Vv PU PU Cs Nn Nr Num PU Pp R Vv Vv Cp Vv Nn Vv R Vv Vv PU
+NSUBJ NN ROOT PUNCT PUNCT PREP POBJ NN NP_ADVMOD PUNCT NSUBJ ADJUNCT CCOMP VMOD CC CONJ OBJ RCMOD ADJUNCT VMOD VMOD PUNCT
+3 1 0 13 13 13 6 7 7 13 13 13 3 13 13 13 16 17 18 18 20 3
+
+Rồi tôi được giao nhiệm_vụ giả đi đánh_cá , điều_tra kỹ vùng Mũi_Đèn và về khu_uỷ báo_cáo cụ_thể tình_hình sông_nước , bến_bãi , tình_hình địch bố_phòng tuần_tra trên đất trên biển ra sao , tình_hình dân .
+Cp Pp Vv Vv Nn Aa Vv Vv PU Vv Aa Nn Nr Cp Vv Nn Vv Aa Nn Nn PU Nn PU Nn Nn Vv Vv Cs Nn Cs Nn Vv Pp PU Nn Nn PU
+CC NSUBJ ROOT VMOD OBJ ACOMP RCMOD VMOD PUNCT CONJ ACOMP OBJ NN CC CONJ OBJ VMOD ACOMP OBJ NN PUNCT CONJ PUNCT CONJ NSUBJ CCOMP CONJ PREP POBJ CONJ POBJ RCMOD OBJ PUNCT CONJ NN PUNCT
+3 3 0 3 4 7 5 7 7 7 10 10 12 10 10 15 15 17 17 19 20 20 19 19 26 24 26 26 28 28 30 24 32 24 24 35 3
+
+Làm xong thì có liên_lạc đến , dẫn lên rừng , về chỗ anh Lê , anh Hiền .
+Vv VA Cp Ve Nn Vv PU Vv R Nn PU Cs Nn Nn Nr PU Nn Nr PU
+ROOT VMOD CC CONJ NSUBJ CCOMP PUNCT CONJ PREP POBJ PUNCT PREP POBJ NN NN PUNCT CONJ NN PUNCT
+0 1 1 1 6 4 6 6 8 9 8 8 12 13 14 14 14 17 1
+
+Đồng_chí liên_lạc dặn trước khi đi phải sắm sẵn nilông , võng dù , hănggô .
+Nn Vv Vv Cs Nt Vv Vv Vv Aa Nn PU Nn Nn PU Nn PU
+NSUBJ VMOD ROOT PREP POBJ XCOMP XCOMP VMOD ACOMP OBJ PUNCT CONJ NN PUNCT CONJ PUNCT
+3 1 0 7 4 5 3 7 8 8 10 10 12 12 12 3
+
+Tôi cũng nghĩ chắc lên rừng thì phải có đủ những thứ đó chứ không ngờ ...
+Pp R Vv Vv Vv Nn Cp Vv Ve Aa Nq Nn Pd Cp R Vv PU
+NSUBJ ADJUNCT ROOT VMOD VMOD OBJ CC XCOMP VMOD ACOMP DET OBJ DET CC ADJUNCT CONJ PUNCT
+3 3 0 8 4 5 8 3 8 9 12 9 12 3 16 3 3
+
+Lên đến nơi , ở trạm giao_liên vài ngày thì một buổi chiều thấy anh Lê và anh Hiền ra , tay xách mấy chai rượu_cần và một hănggô cơm nếp .
+Vv Cs Nn PU Vv Nn Vv Nq Nu Cp Num Nt Nt Vv Nn Nr Cp Nn Nr Vv PU Nn Vv Nq Nn Nn Cp Num Nn Nn Nn PU
+ROOT PREP POBJ PUNCT CONJ OBJ VMOD DET NP_ADVMOD CC NUM NP_ADVMOD NN CONJ NSUBJ NN CC CONJ NN CCOMP PUNCT NSUBJ CONJ DET OBJ NN CC NUM CONJ NN NN PUNCT
+0 1 2 1 1 5 6 9 5 1 12 14 12 1 20 15 15 15 18 14 20 23 20 25 23 25 25 29 25 29 30 1
+
+Hai anh ở lại suốt đêm ấy rỉ_rả nói_chuyện .
+Num Pp Vv R Aa Nt Pd Aa Vv PU
+NSUBJ DET ROOT ADJUNCT ADJP_ADVMOD OBJ DET ACOMP CONJ PUNCT
+3 1 0 3 3 5 6 9 3 3
+
+Anh Hiền bảo : - Anh Thanh mấy năm nay vất_vả , sức yếu lắm rồi , mắt mờ , tóc rụng hết .
+Nn Nr Vv PU PU Nr Nr Nq Nu Nt Aa PU Nn Aa R R PU Nn Aa PU Nn Vv M PU
+NSUBJ NN ROOT PUNCT PUNCT NSUBJ NN DET NP_ADVMOD NN CCOMP PUNCT CONJ AMOD ADJUNCT ADJUNCT PUNCT CONJ AMOD PUNCT CONJ RCMOD INTJ PUNCT
+3 1 0 11 11 11 6 9 11 9 3 11 11 13 14 14 13 13 18 18 18 21 22 3
+
+Nay khu_uỷ quyết_định Thanh phải ra Bắc nghỉ một thời_gian , chữa bệnh , học_hành , rồi sẽ trở_về phục_vụ .
+Nt Nn Vv Nr Vv Vv Nn Vv Num Nn PU Vv Nn PU Vv PU Cp R Vv Vv PU
+NP_ADVMOD NSUBJ ROOT NSUBJ CCOMP VMOD OBJ VMOD NUM NP_ADVMOD PUNCT CONJ OBJ PUNCT CONJ PUNCT CC ADJUNCT CONJ VMOD PUNCT
+3 3 0 5 3 5 6 6 10 8 8 8 12 12 12 5 5 19 5 19 3
+
+Thanh cứ đi , đừng suy_nghĩ gì .
+Nr R Vv PU R Vv M PU
+NSUBJ ADJUNCT ROOT PUNCT ADJUNCT CONJ INTJ PUNCT
+3 3 0 3 6 3 6 3
+
+Cách_mạng miền Nam còn dài .
+Nn Nn Nn R Aa PU
+NSUBJ NN NN ADJUNCT ROOT PUNCT
+5 1 2 5 0 5
+
+Cứ đi , rồi sẽ trở_về , trên có cho ít súng_đạn , tìm cách mang về cho anh_em trong này càng tốt ...
+R Vv PU Cp R Vv PU Nn R Vv Aa Nn PU Vv Nn Vv Vv Cs Nn Cs Pd R Aa PU
+ADJUNCT ROOT PUNCT CC ADJUNCT CONJ PUNCT NSUBJ ADJUNCT CONJ AMOD OBJ PUNCT CONJ OBJ RCMOD VMOD PREP POBJ PREP POBJ ADJUNCT ACOMP PUNCT
+2 0 2 2 6 2 2 10 10 2 12 10 10 10 14 15 16 16 18 19 20 23 16 2
+
+Khu_uỷ giao cho Thanh cái phong_bì này , phải giữ thật kỹ , trường_hợp bất_trắc nhất_thiết không để rơi vào tay giặc , dù hi_sinh cũng phải bảo_đảm thủ_tiêu trước khi ngã xuống .
+Nr Vv Cs Nr Nc Nn Pd PU Vv Vv R Aa PU Nn Aa R R Vv Vv Cs Nn Nn PU Cp Vv R Vv Vv Vv Cs Nt Vv R PU
+NSUBJ ROOT PREP POBJ IOBJ CLF DET PUNCT CONJ VMOD ADJUNCT ACOMP PUNCT NP_ADVMOD AMOD ADJUNCT ADJUNCT CONJ VMOD PREP POBJ NN PUNCT CC CONJ ADJUNCT CONJ VMOD VMOD PREP POBJ XCOMP ADJUNCT PUNCT
+2 0 2 3 2 5 5 2 2 9 12 10 9 18 14 18 18 9 18 19 20 21 18 25 18 27 25 27 28 29 30 31 32 2
+
+Ra đến Hà_Nội chỉ được giao tận_tay một người là đồng_chí Võ_Nguyên_Giáp .
+Vv Cs Nr R Vv Vv Aa Num Nn Vc Nn Nr PU
+XCOMP PREP POBJ ADJUNCT ROOT VMOD ADJP_ADVMOD NUM OBJ RCMOD ATTR NN PUNCT
+5 1 2 5 0 5 6 9 7 9 10 11 5
+
+Hai nhiệm_vụ từ đại_tướng Võ_Nguyên_Giáp .
+Num Nn Cs Nn Nr PU
+NUM ROOT PREP POBJ NN PUNCT
+2 0 2 3 4 2
+
+Tôi đi đường Trường_Sơn gần tám tháng mới ra tới miền Bắc , tới Quảng_Bình thì có xe_con đón thẳng về Hà_Nội .
+Pp Vv Nn Nr R Num Nu R Vv Cs Nn Nn PU Cs Nr Cp Ve Nn Vv Aa Cs Nr PU
+NSUBJ ROOT NP_ADVMOD NN ADJUNCT NUM NP_ADVMOD ADJUNCT VMOD PREP POBJ NN PUNCT PREP POBJ CC CONJ NSUBJ CCOMP ACOMP PREP POBJ PUNCT
+2 0 2 3 6 7 2 9 2 9 10 11 2 17 14 17 2 19 17 19 19 21 2
+
+Lúc ở 105 Quán_Thánh , lúc ở Ban Thống_nhất trung_ương , loanh_quanh luẩn_quẩn chẳng biết làm gì , không được ra đường , chỉ ăn_uống bồi_dưỡng , thỉnh_thoảng xe đưa đi khám bệnh rồi đưa về , lại loay_hoay một_mình trong phòng .
+Nt Vv Nr Nr PU Nt Vv Nn Vv Aa PU Vv Vv R Vv Vv Pp PU R Vv Vv Nn PU R Vv Vv PU R Nn Vv Vv Vv Nn Cp Vv Vv PU R Vv R Cs Nn PU
+NP_ADVMOD ROOT NP_ADVMOD NN PUNCT NP_ADVMOD CONJ NP_ADVMOD VMOD AMOD PUNCT CONJ CONJ ADJUNCT VMOD VMOD OBJ PUNCT ADJUNCT CONJ VMOD OBJ PUNCT ADJUNCT CONJ VMOD PUNCT ADJUNCT NSUBJ CONJ VMOD VMOD OBJ CC CONJ VMOD PUNCT ADJUNCT CONJ ADJUNCT PREP POBJ PUNCT
+2 0 2 3 2 7 2 7 8 8 7 7 12 15 12 15 16 12 20 12 20 21 20 25 20 25 2 30 30 2 30 31 32 30 30 35 30 39 30 39 39 41 2
+
+Đó là khoảng cuối năm 1961 ...
+Pd Vc R Cs Nt Num PU
+NSUBJ ROOT ADJUNCT PREP POBJ NUM PUNCT
+2 0 4 2 4 5 2
+
+Cho đến một bữa chiều , tôi đang ở Ban Thống_nhất thì có người đưa xe đến đón bảo đi có việc .
+M Cs Num Nn Nt PU Pp R Vv Nn Vv Cp Ve Nn Vv Nn Vv Vv Vv Vv Ve Nn PU
+PCOMP PREP NUM POBJ NN PUNCT NSUBJ ADJUNCT ROOT NP_ADVMOD VMOD CC CONJ NSUBJ CCOMP OBJ VMOD VMOD CONJ VMOD VMOD OBJ PUNCT
+2 9 4 2 4 9 9 9 0 9 10 9 9 15 13 15 15 17 15 19 20 21 9
+
+Xe chạy quanh_co một lúc thì đến một ngôi nhà , sau_này tôi mới biết là số nhà 36 Lý_Nam_Đế .
+Nn Vv Aa Num Nt Cp Vv Num Nc Nn PU Nn Pp R Vv Cs Nn Nn Nr Nr PU
+NSUBJ ROOT ACOMP NUM NP_ADVMOD CC CONJ NUM OBJ CLF PUNCT NP_ADVMOD NSUBJ ADJUNCT CCOMP PREP POBJ NN NN NN PUNCT
+2 0 2 5 3 2 2 9 7 9 9 15 15 15 9 15 16 17 17 17 2
+
+Người dẫn đường đưa tôi lên tầng hai , vào một căn phòng rộng , có một chiếc bàn lớn và bốn cái ghế_bành .
+Nn Vv Nn Vv Pp Cs Nn An PU Vv Num Nc Nn Aa PU Ve Num Nc Nn Aa Cp Num Nc Nn PU
+NSUBJ RCMOD OBJ ROOT OBJ PREP POBJ AMOD PUNCT CONJ NUM NP_ADVMOD CLF AMOD PUNCT PARATAXIS NUM OBJ CLF AMOD CC NUM CONJ CLF PUNCT
+4 1 2 0 4 4 6 7 4 4 12 10 12 12 12 12 18 16 18 18 18 23 18 23 4
+
+Trên bàn bày sẵn bánh_kẹo , bia , nước_ngọt .
+Cs Nn Vv Aa Nn PU Nn PU Nn PU
+PREP POBJ ROOT DEP OBJ PUNCT CONJ PUNCT CONJ PUNCT
+3 1 0 3 3 5 5 7 7 3
+
+Một người mặc quân_phục nhưng không đeo quân_hàm bảo : " Đồng_chí ngồi nghỉ , chờ một lúc " .
+Num Nn Vv Nn Cp R Vv Nn Vv PU PU Nn Vv Vv PU Vv Num Nt PU PU
+NUM NSUBJ RCMOD OBJ CC ADJUNCT CONJ OBJ ROOT PUNCT PUNCT NSUBJ CCOMP VMOD PUNCT CONJ NUM NP_ADVMOD PUNCT PUNCT
+2 9 2 3 3 7 3 7 0 13 13 13 9 13 13 13 18 16 13 9
+
+Vài phút sau cửa phòng mở , một người bước vào , chắc đậm , quần kaki , áo lụa ba túi .
+Nq Nu Nn Nn Nn Vv PU Num Nn Vv Vv PU Aa Aa PU Nn Nn PU Nn Nn Num Nn PU
+DET NP_ADVMOD NN NSUBJ NN ROOT PUNCT NUM NSUBJ CONJ VMOD PUNCT CONJ ADJP_ADVMOD PUNCT CONJ NN PUNCT CONJ NN NUM NN PUNCT
+2 6 2 6 4 0 6 9 10 6 10 10 10 13 13 13 16 16 16 19 22 19 6
+
+Tôi đứng dậy nhưng không biết là ai .
+Pp Vv Vv Cp R Vv Cs Pp PU
+NSUBJ ROOT VMOD CC ADJUNCT CONJ PREP POBJ PUNCT
+2 0 2 2 6 2 6 7 2
+
+Người mặc quân_phục - sau này tôi biết là sĩ_quan tham_mưu - nói : - Báo_cáo thủ_trưởng , đây là đồng_chí Đặng_Văn_Thanh , vừa ở Khu 6 ra .
+Nn Vv Nn PU Cs Nn Pp Vv Cs Nn Vv PU Vv PU PU Vv Nn PU Pd Vc Nn Nr PU R Cs Nun Nr Vv PU
+NSUBJ RCMOD OBJ PUNCT PREP POBJ NSUBJ PARATAXIS PREP POBJ VMOD PUNCT ROOT PUNCT PUNCT CCOMP IOBJ PUNCT NSUBJ CONJ ATTR NN PUNCT ADJUNCT PREP POBJ NN RCMOD PUNCT
+13 1 2 1 8 5 8 1 8 9 10 1 0 16 16 13 16 16 20 16 20 21 21 28 28 25 26 21 13
+
+Rồi anh quay lại phía tôi : - Đây là đại_tướng Võ_Nguyên_Giáp .
+Cp Pp Vv R Nn Pp PU PU Pd Vc Nn Nr PU
+CC NSUBJ ROOT ADJUNCT OBJ NN PUNCT PUNCT NSUBJ CCOMP ATTR NN PUNCT
+3 3 0 3 3 5 10 10 10 3 10 11 3
+
+Đồng_chí Thanh chào đại_tướng đi ...
+Nn Nr Vv Nn R PU
+NSUBJ NN ROOT OBJ ADJUNCT PUNCT
+3 1 0 3 3 3
+
+Tôi sững_sờ .
+Pp Aa PU
+NSUBJ ROOT PUNCT
+2 0 2
+
+Đại_tướng bước lại bắt_tay tôi , rồi ôm lấy cả hai vai tôi : - Đồng_chí Thanh ngồi xuống đi .
+Nn Vv R Vv Pp PU Cp Vv Vv Nw Num Nn Pp PU PU Nn Nr Vv Vv R PU
+NSUBJ ROOT ADJUNCT VMOD OBJ PUNCT CC CONJ VMOD QUANTMOD NUM OBJ NN PUNCT PUNCT NSUBJ NN CCOMP VMOD ADJUNCT PUNCT
+2 0 2 2 4 4 4 4 8 11 12 8 12 18 18 18 16 8 18 18 2
+
+Nào , đã lâu lắm tôi không được nghe giọng nói Phan_Thiết .
+E PU R Aa R Pp R Vv Vv Nn Vv Nr PU
+INTJ PUNCT ADJUNCT ADJP_ADVMOD ADJUNCT NSUBJ ADJUNCT ROOT VMOD OBJ VMOD NN PUNCT
+8 8 4 8 4 8 8 0 8 9 10 10 8
+
+Nào ngồi xuống .
+E Vv Vv PU
+INTJ ROOT VMOD PUNCT
+2 0 2 2
+
+Và nói_chuyện cho chúng_tôi nghe đi .
+M Vv Cs Pp Vv R PU
+INTJ ROOT PREP NSUBJ PCOMP ADJUNCT PUNCT
+2 0 2 5 3 2 2
+
+Đại_tướng tự tay bóc thuốc và rót nước cho tôi : - Đồng_chí Thanh đi đường mất mấy tháng ?
+Nn Pp Nn Vv Nn Cp Vv Nn Cs Pp PU PU Nn Nr Vv Nn Vv Nq Nu PU
+NSUBJ DET OBJ ROOT OBJ CC CONJ OBJ PREP POBJ PUNCT PUNCT NSUBJ NN CCOMP OBJ VMOD DET NP_ADVMOD PUNCT
+4 3 4 0 4 4 4 7 7 9 15 15 15 13 4 15 15 19 17 4
+
+Sức_khoẻ bây_giờ thế_nào ?
+Nr Pd Pp PU
+ROOT NN DEP PUNCT
+0 1 1 1
+
+đã đi khám bệnh chưa ?
+R Vv Vv Nn R PU
+ADJUNCT ROOT VMOD OBJ ADJUNCT PUNCT
+2 0 2 3 2 2
+
+... Anh Lê , anh Hiền có khoẻ không ?
+PU Nn Nr PU Nn Nr Ve Aa R PU
+PUNCT NSUBJ NN PUNCT CONJ NN ROOT ACOMP ADJUNCT PUNCT
+7 7 2 2 2 5 0 7 7 7
+
+Tôi đứng dậy : - Thưa đại_tướng , có cái phong_bì này anh Hiền dặn tôi chỉ được đưa tận_tay đại_tướng ...
+Pp Vv Vv PU PU E Nn PU Ve Nc Nn Pd Nn Nr Vv Pp R Vv Vv Aa Nn PU
+NSUBJ ROOT VMOD PUNCT PUNCT INTJ VOCATIVE PUNCT XCOMP OBJ CLF DET NSUBJ NN CCOMP OBJ ADJUNCT VMOD VMOD ACOMP OBJ PUNCT
+2 0 2 9 9 7 9 9 2 9 10 10 15 13 10 15 18 15 18 19 20 2
+
+Ông cầm phong_bì nhưng đặt xuống bàn .
+Nn Vv Nn Cp Vv Cs Nn PU
+NSUBJ ROOT OBJ CC CONJ PREP POBJ PUNCT
+2 0 2 2 2 5 6 2
+
+Bây_giờ đồng_chí Thanh kể chuyện cho chúng_tôi nghe đã .
+Pd Nn Nr Vv Nn Cs Pp Vv R PU
+NP_ADVMOD NSUBJ NN ROOT OBJ PREP NSUBJ PCOMP ADJUNCT PUNCT
+4 4 2 0 4 4 8 6 4 4
+
+Tình_hình trong ấy thế_nào ?
+Nn Cs Pd Pp PU
+ROOT PREP POBJ DEP PUNCT
+0 1 2 1 1
+
+Bà_con ta sống thế_nào ?
+Nn Pp Vv Pp PU
+NSUBJ NN ROOT OBJ PUNCT
+3 1 0 3 3
+
+Địch hoạt_động thế_nào ?
+Nn Vv Pp PU
+NSUBJ ROOT OBJ PUNCT
+2 0 2 2
+
+Nhất_là nói kỹ tình_hình ven biển từ Khánh_Hoà vào tới Mũi_Đèn .
+Cp Vv Aa Nn Nn Nn Cs Nr Cs Cs Nr PU
+DEP ROOT ADJP_ADVMOD OBJ NN NN PREP POBJ CONJ PREP POBJ PUNCT
+2 0 2 2 4 5 5 7 7 9 10 2
+
+Nói thật cụ_thể .
+Vv R Aa PU
+ROOT ADJUNCT ACOMP PUNCT
+0 3 1 1
+
+Người sĩ_quan tham_mưu dẹp mấy cái cốc và trải ra trên mặt bàn một tấm bản_đồ lớn .
+Nc Nn Vv Vv Nq Nc Nn Cp Vv R Cs Nn Nn Num Nc Nn Aa PU
+NSUBJ CLF VMOD ROOT DET OBJ CLF CC CONJ ADJUNCT PREP POBJ NN NUM OBJ CLF AMOD PUNCT
+4 1 1 0 6 4 6 4 4 9 9 11 12 15 9 15 15 4
+
+Đại_tướng đưa cho tôi một cây bút_chì vót nhọn : - Đây , đồng_chí báo_cáo đi , chỉ rõ từng chỗ trên bản_đồ ...
+Nn Vv Cs Pp Num Nc Nn Vv Aa PU PU Pd PU Nn Vv R PU Vv Aa Pp Nn Cs Nn PU
+NSUBJ ROOT PREP POBJ NUM IOBJ CLF RCMOD ACOMP PUNCT PUNCT NP_ADVMOD PUNCT NSUBJ CCOMP ADJUNCT PUNCT CONJ ADJP_ADVMOD DET OBJ PREP POBJ PUNCT
+2 0 2 3 6 2 6 6 8 15 15 15 15 15 2 15 15 15 18 21 18 21 22 2
+
+Tôi cầm cây bút , đứng sững trước tấm bản_đồ rất lâu .
+Pp Vv Nc Nn PU Vv Aa Cs Nc Nn R Aa PU
+NSUBJ ROOT OBJ CLF PUNCT CONJ ACOMP PREP POBJ CLF ADJUNCT ADJP_ADVMOD PUNCT
+2 0 2 3 2 2 6 6 8 9 12 6 2
+
+Người sĩ_quan tham_mưu nhắc ; - Đồng_chí Thanh bình_tĩnh nói đi .
+Nc Nn Vv Vv PU PU Nn Nr Aa Vv R PU
+NSUBJ CLF VMOD ROOT PUNCT PUNCT NSUBJ NN ACOMP CCOMP ADJUNCT PUNCT
+4 1 1 0 10 10 10 7 10 4 10 4
+
+Tôi quay nhìn đại_tướng , lắp_bắp mãi mới nói được mấy tiếng : - Báo_cáo ... Báo_cáo đại_tướng ... Tôi ... tôi không biết chữ ...
+Pp Vv Vv Nn PU Vv R R Vv R Nq Nn PU PU Vv PU Vv Nn PU Pp PU Pp R Vv Nn PU
+NSUBJ ROOT VMOD OBJ PUNCT CONJ ADJUNCT ADJUNCT VMOD ADJUNCT DET OBJ PUNCT PUNCT XCOMP PUNCT CONJ IOBJ PUNCT NSUBJ PUNCT DET ADJUNCT CCOMP OBJ PUNCT
+2 0 2 3 2 2 6 9 6 9 12 9 24 24 24 15 15 15 15 24 20 20 24 9 24 2
+
+Căn phòng bỗng lặng_ngắt .
+Nc Nn R Aa PU
+NSUBJ CLF ADJUNCT ROOT PUNCT
+4 1 4 0 4
+
+Các anh biết không , lúc đó tôi thấy mình có lỗi vô_cùng .
+Nq Pp Vv R PU Nt Pd Pp Vv Pp Ve Nn R PU
+DET NSUBJ ROOT ADJUNCT PUNCT NP_ADVMOD DET NSUBJ CONJ NSUBJ CCOMP OBJ ADJUNCT PUNCT
+2 3 0 3 3 9 6 9 3 11 9 11 12 3
+
+Đại_tướng cũng đứng lặng hồi lâu .
+Nn R Vv Aa Nt Aa PU
+NSUBJ ADJUNCT ROOT ACOMP NP_ADVMOD AMOD PUNCT
+3 3 0 3 3 5 3
+
+Rồi ông nói với người sĩ_quan tham_mưu , giọng trầm xuống hẳn : - Anh_em ta trong ấy vậy đó ...
+Cp Pp Vv Cs Nc Nn Vv PU Nn Aa R Aa PU PU Nn Pp Cs Pd Pp Pd PU
+CC NSUBJ ROOT PREP POBJ CLF VMOD PUNCT NP_ADVMOD AMOD ADJUNCT ADJP_ADVMOD PUNCT PUNCT NSUBJ NN PREP POBJ CCOMP DET PUNCT
+3 3 0 3 4 5 5 3 3 9 10 10 19 19 19 15 15 17 3 19 3
+
+Ông cầm lấy cây bút_chì từ tay tôi , kéo tôi lại cạnh ông : - Bây_giờ thế này nhé , tôi sẽ chỉ từng chỗ trên bản_đồ và đồng_chí sẽ kể cho chúng_tôi biết rõ tình_hình từng nơi .
+Pp Vv R Nc Nn Cs Nn Pp PU Vv Pp Vv Nn Pp PU PU Pd Pp Pd M PU Pp R Vv Pp Nn Cs Nn Cp Nn R Vv Cs Pp Vv Aa Nn Pp Nn PU
+NSUBJ ROOT ADJUNCT OBJ CLF PREP POBJ NN PUNCT CONJ OBJ VMOD OBJ NN PUNCT PUNCT NP_ADVMOD NP_ADVMOD DET INTJ PUNCT NSUBJ ADJUNCT CCOMP DET OBJ PREP POBJ CC NSUBJ ADJUNCT CONJ PREP NSUBJ PCOMP ACOMP OBJ DET NP_ADVMOD PUNCT
+2 0 2 2 4 2 6 7 2 2 10 10 12 13 24 24 24 24 18 18 24 24 24 10 26 24 26 27 24 32 32 24 32 35 33 35 35 39 37 2
+
+Đây này , cái vạch màu đỏ này là đường số 1 .
+Pd Pd PU Nc Nn Nn Aa Pd Vc Nn Nn An PU
+NP_ADVMOD DET PUNCT NN CLF NSUBJ AMOD DET ROOT ATTR NN AMOD PUNCT
+9 1 9 6 4 9 6 6 0 9 10 11 9
+
+Đây là Phan_Rang .
+Pd Vc Nr PU
+NSUBJ ROOT ATTR PUNCT
+2 0 2 2
+
+Đây là Phan_Thiết .
+Pd Vc Nr PU
+NSUBJ ROOT ATTR PUNCT
+2 0 2 2
+
+Còn chỗ này , cái mũi nhọn này , Thanh nhìn rõ không , là Mũi_Đèn .
+Cp Nn Pd PU Nc Nn Aa Pd PU Nr Vv Aa R PU Vc Nr PU
+CC DEP DET PUNCT PARATAXIS CLF AMOD DET PUNCT NSUBJ ROOT ACOMP ADJUNCT PUNCT CONJ ATTR PUNCT
+11 11 2 2 2 5 5 5 11 11 0 11 11 11 11 15 11
+
+Còn đây là Vũng_Găng .
+Cp Pd Vc Nr PU
+CC NSUBJ ROOT ATTR PUNCT
+3 3 0 3 3
+
+Đây là Cà_Ná ...
+Pd Vc Nr PU
+NSUBJ ROOT ATTR PUNCT
+2 0 2 2
+
+Như vậy đấy , đêm ấy đại_tướng ở lại với tôi rất khuya .
+Cs Pp Pd PU Nt Pd Nn Vv R Cs Pp R Aa PU
+PREP POBJ DET PUNCT NP_ADVMOD DET NSUBJ ROOT ADJUNCT PREP POBJ ADJUNCT ADJP_ADVMOD PUNCT
+8 1 2 8 8 5 8 0 8 8 10 13 8 8
+
+Và , các anh biết không , tôi đã kể lại với đại_tướng không phải chỉ tình_hình các vùng tôi từng biết , từng sống , từng hoạt_động .
+M PU Nq Pp Vv R PU Pp R Vv R Cs Nn R Aa R Nn Nq Nn Pp R Vv PU R Vv PU R Vv PU
+INTJ PUNCT DET NSUBJ ROOT ADJUNCT PUNCT NSUBJ ADJUNCT CONJ ADJUNCT PREP POBJ ADJUNCT AMOD ADJUNCT OBJ DET NN NSUBJ ADJUNCT CCOMP PUNCT ADJUNCT CONJ PUNCT ADJUNCT CONJ PUNCT
+5 5 4 5 0 5 5 10 10 5 10 10 12 15 17 17 10 19 17 22 22 19 22 25 22 25 28 25 5
+
+Tôi đã kể với đại_tướng tất_cả cuộc_đời tôi .
+Pp R Vv Cs Nn Nw Nn Pp PU
+NSUBJ ADJUNCT ROOT PREP POBJ DET OBJ NN PUNCT
+3 3 0 3 4 7 3 7 3
+
+Từ ngày là thằng bé mồ_côi cha_mẹ , 8 tuổi đã làm nghề lặn cá ở biển Cà_Ná ...
+Cs Nt Vc Nc Nn Aa Nn PU Num Nn R Vv Nn Vv Nn Cs Nn Nr PU
+PREP POBJ XCOMP ATTR CLF AMOD OBJ PUNCT NUM NP_ADVMOD ADJUNCT ROOT OBJ RCMOD OBJ PREP POBJ NN PUNCT
+12 1 2 3 4 4 6 12 10 12 12 0 12 13 14 12 16 17 12
+
+Đại_tướng ngồi nghe , thỉnh_thoảng mới nhắc một câu : - Thanh uống nước đi đã .
+Nn Vv Vv PU R R Vv Num Nn PU PU Nr Vv Nn R R PU
+NSUBJ ROOT VMOD PUNCT ADJUNCT ADJUNCT CONJ NUM OBJ PUNCT PUNCT NSUBJ CCOMP OBJ ADJUNCT ADJUNCT PUNCT
+2 0 2 2 7 5 2 9 7 13 13 13 7 13 13 13 2
+
+... Cho đến khi người cán_bộ tham_mưu rời quyển sổ ghi_chép đứng dậy nói : - Báo_cáo thủ_trưởng , đã 1 giờ sáng ...
+PU M Cs Nt Nc Nn Vv Vv Nc Nn Vv Vv Vv Vv PU PU Vv Nn PU R Num Nt Nt PU
+ROOT PCOMP PREP POBJ NSUBJ CLF VMOD CCOMP OBJ CLF VMOD CONJ VMOD VMOD PUNCT PUNCT XCOMP IOBJ PUNCT ADJUNCT NUM NP_ADVMOD NN PUNCT
+0 3 1 3 8 5 5 4 8 9 9 8 12 12 17 17 14 17 17 22 22 17 22 1
+
+Đại_tướng cũng đứng dậy .
+Nn R Vv Vv PU
+NSUBJ ADJUNCT ROOT VMOD PUNCT
+3 3 0 3 3
+
+Ông nói : - Cám_ơn , cám_ơn đồng_chí Thanh ...
+Pp Vv PU PU Vv PU Vv Nn Nr PU
+NSUBJ ROOT PUNCT PUNCT XCOMP PUNCT CONJ OBJ NN PUNCT
+2 0 5 5 2 5 5 5 8 2
+
+Lần này ông không bắt_tay tôi mà ôm chặt cả hai vai tôi .
+Nn Pd Nn R Vv Pp Cp Vv Aa Nw Num Nn Pp PU
+NP_ADVMOD DET NSUBJ ADJUNCT ROOT OBJ CC CONJ ACOMP QUANTMOD NUM OBJ NN PUNCT
+5 1 5 5 0 5 5 5 8 11 12 8 12 5
+
+Ông nói : - Bây_giờ đồng_chí Thanh có hai nhiệm_vụ , tôi giao nhé , phải làm kỳ_được .
+Pp Vv PU PU Pd Nn Nr Ve Num Nn PU Pp Vv M PU Vv Vv M PU
+NSUBJ ROOT PUNCT PUNCT NP_ADVMOD NSUBJ NN CCOMP NUM OBJ PUNCT NSUBJ CONJ INTJ PUNCT CONJ VMOD INTJ PUNCT
+2 0 8 8 8 8 6 2 10 8 8 13 8 13 13 13 16 17 2
+
+Một : chữa bệnh , bồi_dưỡng cho thật khoẻ .
+An PU Vv Nn PU Vv Cs R Aa PU
+PARATAXIS PUNCT ROOT OBJ PUNCT CONJ PREP ADJUNCT PCOMP PUNCT
+3 3 0 3 3 3 6 9 7 3
+
+Tóc rụng hết cả rồi đây này ...
+Nn Vv R Pp R Pd Pd PU
+NSUBJ ROOT ADJUNCT OBJ ADJUNCT OBJ DET PUNCT
+2 0 4 2 2 2 6 2
+
+Hai : phải đi học .
+An PU Vv Vv Vv PU
+PARATAXIS PUNCT ROOT VMOD VMOD PUNCT
+3 3 0 3 4 3
+
+Học chữ và học chuyên_môn .
+Vv Nn Cp Vv Nn PU
+ROOT OBJ CC CONJ OBJ PUNCT
+0 1 1 1 4 1
+
+Khi nào hoàn_thành nhiệm_vụ , báo_cáo cho tôi biết ...
+Nt Pd Vv Nn PU Vv Cs Pp Vv PU
+NP_ADVMOD DET XCOMP OBJ PUNCT ROOT PREP NSUBJ PCOMP PUNCT
+6 1 1 3 6 0 6 9 7 6
+
+Thôi , về đi .
+M PU Vv R PU
+INTJ PUNCT ROOT ADJUNCT PUNCT
+3 3 0 3 3
+
+Đêm nay ngủ thật ngon ...
+Nt Nt Vv R Aa PU
+NP_ADVMOD NN ROOT ADJUNCT ACOMP PUNCT
+3 1 0 5 3 3
+
+Vậy_là anh Đặng_Văn_Thanh đi học .
+Cp Nn Nr Vv Vv PU
+CC NSUBJ NN ROOT VMOD PUNCT
+4 4 2 0 4 4
+
+Lớp_học chỉ một thầy một trò .
+Nn R Num Nn Num Nn PU
+NSUBJ ADJUNCT NUM ROOT NUM CONJ PUNCT
+4 4 4 0 6 4 4
+
+Sau ba tháng biết đọc biết viết thì được chuyển sang học hàng_hải , la_bàn ...
+Cs Num Nu Vv Vv Vv Vv Cp Vv Vv Cs Vv Nn PU Nn PU
+PREP NUM POBJ ROOT VMOD CONJ VMOD CC CONJ VMOD PREP PCOMP OBJ PUNCT CONJ PUNCT
+4 3 1 0 4 4 6 6 6 9 10 11 12 13 13 4
+
+Một nhiệm_vụ mới đang chờ_đợi anh .
+Num Nn Aa R Vv Pp PU
+NUM NSUBJ AMOD ADJUNCT ROOT OBJ PUNCT
+2 5 2 5 0 5 5
+
+Kỳ tới : Những con tàu không số .
+Nn Aa PU Nq Nc Nn R Nn PU
+PARATAXIS AMOD PUNCT DET NN CLF ADJUNCT ROOT PUNCT
+8 1 8 8 8 5 8 0 8
+
+Tin , bài liên_quan : Kỳ 3 : Đi về hướng sao Bắc_Đẩu .
+Nn PU Nn Vv PU Nn An PU Vv Cs Nn Nn Nr PU
+PARATAXIS PUNCT CONJ VMOD PUNCT PARATAXIS AMOD PUNCT ROOT PREP POBJ NN NN PUNCT
+9 1 1 1 9 9 6 9 0 9 10 11 12 9
+
+Kỳ 2 : Tìm người vô_danh .
+Nn An PU Vv Nn Aa PU
+PARATAXIS AMOD PUNCT ROOT OBJ AMOD PUNCT
+4 1 4 0 4 5 4
+

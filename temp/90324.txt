@@ -1,0 +1,510 @@
+Ngày u_uất ...
+Nt Aa PU
+ROOT AMOD PUNCT
+0 1 1
+
+Mình cắt đứt câu_chuyện bằng sự im_lặng .
+Pp Vv Vv Nn Cs Ncs Aa PU
+NSUBJ ROOT VMOD OBJ PREP POBJ CLF PUNCT
+2 0 2 2 2 5 6 2
+
+Trong bóng_tối mình vẫn nhận_thấy sự băn_khoăn của hai bệnh_nhân đang nói_chuyện với mình .
+Cs Nn Pp R Vv Ncs Aa Cs Num Nn R Vv Cs Pp PU
+PREP POBJ NSUBJ ADJUNCT ROOT OBJ CLF PREP NUM POBJ ADJUNCT RCMOD PREP POBJ PUNCT
+5 1 5 5 0 5 6 6 10 8 12 10 12 13 5
+
+Hình_như họ thấy được cái im_lặng nặng_nề đẫm nước_mắt ấy của mình .
+R Pp Vv R Ncs Aa Aa Aa Nn Pd Cs Pp PU
+DEP NSUBJ ROOT ADJUNCT OBJ CLF AMOD CONJ OBJ DET PREP POBJ PUNCT
+3 3 0 3 3 5 5 7 8 5 5 11 3
+
+Họ thương mình một_cách chân_thành thắm_thiết , nhưng họ càng nói mình càng thấy khổ_đau .
+Pp Vv Pp Nn Aa Aa PU Cp Pp Cp Vv Pp Cp Vv Aa PU
+NSUBJ ROOT OBJ NP_ADVMOD AMOD CONJ PUNCT CC NSUBJ CC CONJ NSUBJ CC CONJ ACOMP PUNCT
+2 0 2 2 4 5 2 2 11 11 2 14 14 11 14 2
+
+Họ hỏi mình vì sao không đấu_tranh cho quyền_lợi chính_trị , tại sao mình rất xứng_đáng là một đảng_viên mà chi_bộ không kết_nạp .
+Pp Vv Pp Cp Pp R Vv Cs Nn Nn PU Cp Pp Pp R Aa Vc Num Nn Cp Nn R Vv PU
+NSUBJ ROOT OBJ CC DEP ADJUNCT CCOMP PREP POBJ NN PUNCT CC DEP NSUBJ ADJUNCT CONJ VMOD NUM ATTR CC NSUBJ ADJUNCT CONJ PUNCT
+2 0 2 7 7 7 2 7 8 9 7 16 16 16 16 7 16 19 17 16 23 23 16 2
+
+Vì sao , vì sao và vì sao ư ?
+Cp Pp PU Cp Pp Cp Cp Pp M PU
+CC ROOT PUNCT CC CONJ CC CC CONJ INTJ PUNCT
+2 0 2 2 2 5 5 5 2 2
+
+Ai mà trả_lời được hở hai bạn mến_thương .
+Pp M Vv R M Num Pp Aa PU
+NSUBJ INTJ ROOT ADJUNCT INTJ VOCATIVE DET AMOD PUNCT
+3 3 0 3 3 3 6 6 3
+
+Quả_tình tôi không_thể trả_lời được .
+R Pp R Vv R PU
+INTJ NSUBJ ADJUNCT ROOT ADJUNCT PUNCT
+4 4 4 0 4 4
+
+Cái im_lặng nặng_nề của tôi cũng nói được với các bạn nhiều về sự bế_tắc đó .
+Ncs Aa Aa Cs Pp R Vv R Cs Nq Pp Aa Cs Ncs Aa Pd PU
+NSUBJ CLF AMOD PREP POBJ ADJUNCT ROOT ADJUNCT PREP DET POBJ ACOMP PREP POBJ CLF DET PUNCT
+7 1 1 1 4 7 0 7 7 11 9 7 7 13 14 14 7
+
+Nào phải mình không thiết_tha , nhưng càng thiết_tha chỉ càng thấy khổ_đau mà thôi .
+R Aa Pp R Aa PU Cp Cp Aa R Cp Vv Aa M M PU
+ADJUNCT ADJP_ADVMOD NSUBJ ADJUNCT ROOT PUNCT CC CONJ CONJ ADJUNCT CC CONJ ACOMP INTJ INTJ PUNCT
+2 5 5 5 0 5 5 5 8 11 9 9 12 13 13 5
+
+Mấy hôm_nay rất buồn , ngày_ngày những lá thư , những lời_nói , những hành_động tỏ lòng thương_mến thiết_tha vẫn đến với mình .
+Nq Nu R VA PU R Nq Nc Nn PU Nq Nn PU Nq Nn Vv Nn Aa Aa R Vv Cs Pp PU
+DET NP_ADVMOD ADJUNCT ROOT PUNCT ADJUNCT DET NSUBJ CLF PUNCT DET CONJ PUNCT DET CONJ RCMOD OBJ AMOD ADJP_ADVMOD ADJUNCT CONJ PREP POBJ PUNCT
+2 4 4 0 4 21 8 21 8 8 12 8 12 15 12 15 16 17 18 21 4 21 22 4
+
+Nhưng chính những tình_thương ấy lại là những mồi lửa châm vào một đống củi đã khô từ lâu .
+Cp M Nq Nn Pd R Vc Nq Nn Nn Vv Cs Num Nn Nn R Aa Cs Aa PU
+CC INTJ DET NSUBJ DET ADJUNCT ROOT DET NSUBJ NN CCOMP PREP NUM POBJ NN ADJUNCT AMOD PREP PCOMP PUNCT
+7 4 4 7 4 7 0 9 11 9 7 11 14 12 14 17 14 17 18 7
+
+Tại sao mọi người thương_mến cảm_phục mà Đảng lại khắt_khe hẹp_hòi đối_với mình ?
+Cp Pp Nw Nn Vv Vv Cp Nn R Aa Aa Cs Pp PU
+CC DEP DET NSUBJ ROOT CONJ CC NSUBJ ADJUNCT CONJ CONJ PREP POBJ PUNCT
+5 5 4 5 0 5 5 10 10 5 10 10 12 5
+
+Rất nhiều chuyện đau_đầu hằng ngày vẫn xảy_ra quanh mình .
+R Aa Nn Aa R Nu R Vv Nn Pp PU
+ADJUNCT AMOD NSUBJ AMOD ADJUNCT NP_ADVMOD ADJUNCT ROOT OBJ NN PUNCT
+3 3 8 3 6 3 8 0 8 9 8
+
+Thì đã tự_nhủ rằng không_thể đòi_hỏi ở đâu chỉ có toàn người tốt kia_mà , đã khẳng_định " đời phải qua dông_tố nhưng chớ có cúi_đầu trước dông_tố " , mà thật_ra dông_tố đến với mình vẫn là những cơn dông của ngày cuối hè , nhẹ_nhàng âm_ỉ mà thôi .
+M R Vv Cs R Vv Cs Pp R Ve Nw Nn Aa M PU R Vv PU Nn Vv Vv Nn Cp R Ve Vv Cs Nn PU PU Cp Cp Nn Vv Cs Pp R Vc Nq Nc Nn Cs Nt Cs Nt PU Aa Aa M M PU
+INTJ ADJUNCT ROOT MARK ADJUNCT XCOMP PREP POBJ ADJUNCT CCOMP DET OBJ AMOD INTJ PUNCT ADJUNCT CONJ PUNCT NSUBJ CCOMP VMOD OBJ CC ADJUNCT CONJ VMOD PREP POBJ PUNCT PUNCT CC CC NSUBJ RCMOD PREP POBJ ADJUNCT CONJ DET ATTR CLF PREP POBJ PREP POBJ PUNCT AMOD CONJ INTJ INTJ PUNCT
+3 3 0 6 6 3 10 7 10 6 12 10 12 10 3 17 3 20 20 17 20 21 20 25 20 25 26 27 20 3 3 38 38 33 34 35 38 3 40 38 40 40 42 43 44 40 40 47 47 47 3
+
+Hãy vui lên đi , vui lên với những nụ_cười trìu_mến của những bệnh_nhân đã dành cho mình .
+R Vv R M PU Vv R Cs Nq Nn Aa Cs Nq Nn R Vv Cs Pp PU
+ADJUNCT ROOT ADJUNCT INTJ PUNCT CONJ ADJUNCT PREP DET POBJ AMOD PREP DET POBJ ADJUNCT RCMOD PREP POBJ PUNCT
+2 0 2 2 2 2 6 6 10 8 10 10 14 12 16 14 16 17 2
+
+Vui lên với những tình_thương chân_thật mà đa_số cán_bộ trong huyện , trong tỉnh , trong khu quen_biết đã dành cho mình .
+Vv Vv Cs Nq Nn Aa Cs Nq Nn Cs Nun PU Cs Nun PU Cs Nun Vv R Vv Cs Pp PU
+ROOT VMOD PREP DET POBJ AMOD MARK DET NSUBJ PREP POBJ PUNCT CONJ POBJ PUNCT CONJ POBJ RCMOD ADJUNCT CCOMP PREP POBJ PUNCT
+0 1 1 5 3 5 20 9 20 9 10 10 10 13 13 13 16 9 20 5 20 21 1
+
+Vậy là được rồi , Thuỳ ơi , đừng đòi_hỏi nữa .
+Pp Vc Vv R PU Nr E PU R Vv R PU
+NSUBJ ROOT VMOD ADJUNCT PUNCT VOCATIVE INTJ PUNCT ADJUNCT CONJ ADJUNCT PUNCT
+2 0 2 3 2 10 6 10 10 2 10 2
+
+Đảng ư ?
+Nn M PU
+ROOT INTJ PUNCT
+0 1 1
+
+Rồi Đảng sẽ thấy .
+Cp Nn R Vv PU
+CC NSUBJ ADJUNCT ROOT PUNCT
+4 4 4 0 4
+
+Lời kể của đại_tá Nguyễn_Đức_Thắng , thuyền trưởng con tàu không số , Anh_hùng Lực_lượng vũ_trang nhân_dân : Tôi muốn nói với các anh về cái bệnh_xá huyện Đức_Phổ , tỉnh Quảng_Ngãi .
+Nn Vv Cs Nn Nr PU Nn Sv Nc Nn R Nn PU Nn Nn Aa Nn PU Pp Vv Vv Cs Nq Pp Cs M Nn Nun Nr PU Nun Nr PU
+NSUBJ VMOD PREP POBJ NN PUNCT NN SINO NN CLF ADJUNCT NN PUNCT NN NN AMOD NN PUNCT NSUBJ ROOT VMOD PREP DET POBJ PREP INTJ POBJ NP_ADVMOD NN PUNCT PARATAXIS NN PUNCT
+20 1 1 3 4 4 12 7 12 9 12 4 4 4 14 15 14 20 20 0 20 21 24 22 21 27 25 27 28 28 28 31 20
+
+Các anh hiểu thế nào là một cái bệnh_xá huyện trong chiến_tranh , ở miền Nam hồi bấy_giờ không ?
+Nq Pp Vv Pp Pd Cs Num M Nn Nun Cs Nn PU Cs Nn Nn Nt Pd R PU
+NSUBJ DET ROOT OBJ DET PREP NUM INTJ POBJ NN PREP POBJ PUNCT PREP POBJ NN NP_ADVMOD DET ADJUNCT PUNCT
+3 1 0 3 4 3 9 9 6 9 9 11 9 9 14 15 15 17 3 3
+
+Riêng tôi , thật_ra đến lúc đó , có dịp trôi_dạt vô đó , tôi mới hiểu .
+M Pp PU Cp Cs Nt Pd PU Ve Nn Vv Cs Pd PU Pp R Vv PU
+INTJ DEP PUNCT CC PREP POBJ DET PUNCT ROOT OBJ XCOMP PREP POBJ PUNCT NSUBJ ADJUNCT CONJ PUNCT
+2 9 9 9 9 5 6 9 0 9 10 11 12 9 17 17 9 9
+
+Thì_ra giữa chiến_tranh , một vùng đất quá ác_liệt , thì một đơn_vị bộ_đội , chủ_lực hay địa_phương , thậm_chí có khi cả du_kích nữa , rồi các cơ_quan chỉ_huy , chỉ_đạo ... có_thể tạm_thời lánh đi đâu_đó , thời_gian ngắn hay dài .
+Cp Cs Nn PU Num Nn Nn R Aa PU Cp Num Nn Nn PU Nn Cp Nn PU R Ve Nt Nw Nn R PU Cp Nq Nn Vv PU Vv PU Aa Aa Vv R Pd PU Nn Aa Cp Aa PU
+CC PREP POBJ PUNCT NUM NP_ADVMOD NN ADJUNCT AMOD PUNCT CC NUM OBJ NN PUNCT NN CC CONJ PUNCT ADJUNCT CONJ OBJ DET NN ADJUNCT PUNCT CC DET CONJ RCMOD PUNCT CONJ PUNCT ACOMP ACOMP ROOT ADJUNCT NP_ADVMOD PUNCT NP_ADVMOD AMOD CC CONJ PUNCT
+36 36 2 36 6 36 6 9 6 36 36 13 36 13 13 13 16 16 13 21 13 21 24 22 24 21 21 29 21 29 30 30 36 36 36 0 36 36 36 36 40 41 41 36
+
+Nhưng một cái bệnh_xá huyện thì không_thể lánh đi đâu được cả , đơn_giản chỉ vì nó là một cái bệnh_xá .
+Cp Num Nc Nn Nun Cp R Vv R Pp R M PU Aa R Cs Pp Vc Num Nc Nn PU
+CC NUM NN CLF NSUBJ CC ADJUNCT ROOT ADJUNCT NP_ADVMOD ADJUNCT INTJ PUNCT ACOMP ADJUNCT MARK NSUBJ ADVCL NUM ATTR CLF PUNCT
+8 5 5 3 8 8 8 0 8 8 8 8 8 8 18 18 18 14 20 18 20 8
+
+Nó phải có_mặt ở đó bất_cứ lúc nào , trụ_bám ở đó , vì thương_binh , vì những người dân bị_thương , cả bị bệnh nữa , bất_cứ lúc nào .
+Pp Vv Aa Cs Pd R Nt Pd PU Vv Cs Pd PU Cs Nn PU Cs Nq Nc Nn Vv PU M Vv Nn R PU R Nt Pd PU
+NSUBJ ROOT ACOMP PREP PCOMP ADJUNCT NP_ADVMOD DET PUNCT CONJ PREP POBJ PUNCT PREP POBJ PUNCT MARK DET NSUBJ CLF ADVCL PUNCT INTJ CONJ OBJ ADJUNCT PUNCT ADJUNCT NP_ADVMOD DET PUNCT
+2 0 2 3 4 7 3 7 3 3 10 11 10 10 14 10 21 19 21 19 10 21 24 21 24 24 10 29 10 29 2
+
+Mà Đức_Phổ lúc bấy_giờ là một trong những huyện ác_liệt nhất ở chiến_trường Khu 5 .
+Cp Nr Nt Pd Vc Num Cs Nq Nun Aa R Cs Nn Nn An PU
+CC NSUBJ NP_ADVMOD DET ROOT ATTR PREP DET POBJ AMOD ADJUNCT PREP POBJ NN AMOD PUNCT
+5 5 5 3 0 5 6 9 7 9 10 9 12 13 14 5
+
+Sư_đoàn không_vận số 1 Mỹ quần nát ở đó , rồi lữ 196 Mỹ , sư dù 101 Mỹ , có thời_gian cả bọn sư 25 Anh_Cả_Đỏ Mỹ cũng ra đó .
+Nn Vv Nn An Nr Vv Aa Cs Pd PU Cp Nn Nr Nr PU Nn Nn Nr Nr PU Ve Nn Nw Nn Nn Nr Nr Nr R Vv Pd PU
+NSUBJ VMOD NN AMOD NN ROOT ACOMP PREP PCOMP PUNCT CC CONJ NN NN PUNCT CONJ NN NN NN PUNCT CONJ OBJ DET NSUBJ NN NN NN NN ADJUNCT CCOMP NP_ADVMOD PUNCT
+6 1 1 3 1 0 6 6 8 6 6 6 12 12 12 12 16 16 16 16 16 21 24 30 24 25 25 25 30 22 30 6
+
+Rồi Rồng_Xanh , Bạch_Mã Nam_Triều_Tiên , rồi sư 2 , sư 22 , sư 23 nguỵ , thuỷ_quân lục_chiến , quân dù nguỵ chẳng thằng nào thiếu mặt ở đấy .
+Cp Nr PU Nr Nr PU Cp Nn Nr PU Nn Nr PU Nn Nr Nn PU Nn Vv PU Nn Nn Nn R Pp Pd Vv Nn Cs Pd PU
+CC OBJ PUNCT CONJ NN PUNCT CC CONJ NN PUNCT CONJ NN PUNCT CONJ NN NN PUNCT CONJ VMOD PUNCT CONJ NN NN ADJUNCT NSUBJ DET ROOT OBJ PREP POBJ PUNCT
+27 27 2 2 2 2 2 2 8 8 8 11 11 11 14 14 8 8 18 18 18 21 21 25 27 25 0 27 27 29 27
+
+B52 dầm nát một vùng bán_sơn_địa ngang_dọc chỉ vài chục cây_số ...
+Nr Vv Aa Num Nn Nn Nn R Nq Nq Nu PU
+NSUBJ ROOT ACOMP NUM OBJ NN NN ADJUNCT NUM CONJ NN PUNCT
+2 0 2 5 2 5 5 9 11 9 7 2
+
+Mà trên cái vùng đất ghê_gớm , suốt hàng chục năm trời vẫn tồn_tại , trụ_bám một cái bệnh_xá huyện nhỏ_nhoi , vô_danh , gan_lì , bất_khuất .
+M Cs M Nn Nn Aa PU Aa R Nq Nu M R Vv PU Vv Num M Nn Nun Aa PU Aa PU Aa PU Aa PU
+INTJ PREP INTJ POBJ NN AMOD PUNCT ADJP_ADVMOD ADJUNCT NUM OBJ INTJ ADJUNCT ROOT PUNCT CONJ NUM INTJ OBJ NN AMOD PUNCT CONJ PUNCT CONJ PUNCT CONJ PUNCT
+14 14 4 2 4 4 14 14 10 11 8 11 14 0 14 14 19 19 14 19 19 21 21 23 23 25 25 14
+
+Và người chỉ_huy bệnh_xá ấy là một cô gái , một cô bác_sĩ trẻ người Hà_Nội .
+M Nn Vv Nn Pd Vc Num Nc Nn PU Num Nc Nn Aa Nn Nr PU
+INTJ NSUBJ RCMOD OBJ DET ROOT NUM ATTR CLF PUNCT NUM NN CLF AMOD CONJ NN PUNCT
+6 6 2 3 4 0 8 6 8 8 15 15 12 15 8 15 6
+
+Năm ấy chị chưa đến 30 .
+Nt Pd Pp R Vv Num PU
+NP_ADVMOD DET NSUBJ ADJUNCT ROOT OBJ PUNCT
+5 1 5 5 0 5 5
+
+Tên chị là Trâm .
+Nn Pp Vc Nr PU
+NSUBJ NN ROOT ATTR PUNCT
+3 1 0 3 3
+
+Rất tiếc tôi rất có lỗi , tôi không hỏi địa_chỉ gia_đình chị ở Hà_Nội , phố nào , số nhà bao_nhiêu .
+R Vv Pp R Ve Nn PU Pp R Vv Nn Nn Pp Cs Nr PU Nun Pd PU Nn Nn Pp PU
+ADJUNCT ROOT NSUBJ ADJUNCT CCOMP OBJ PUNCT NSUBJ ADJUNCT CONJ OBJ NN NN PREP POBJ PUNCT PARATAXIS DET PUNCT CONJ NN DET PUNCT
+2 0 5 5 2 5 5 10 10 5 10 11 12 11 14 11 11 17 17 17 20 20 2
+
+Nghe nói chị có người_yêu vào chiến_trường trước mấy năm , đúng chiến_trường Quảng_Ngãi , cho_nên khi tốt_nghiệp trường y chị xung_phong vào Nam ngay .
+Vv Vv Pp Ve Nn Vv Nn Cs Nq Nu PU Aa Nn Nr PU Cp Nt Vv Nn Nn Pp Vv Vv Nn M PU
+ROOT VMOD NSUBJ CCOMP NSUBJ CCOMP OBJ PREP DET POBJ PUNCT ADJP_ADVMOD OBJ NN PUNCT CC NP_ADVMOD XCOMP OBJ NN NSUBJ CONJ VMOD OBJ INTJ PUNCT
+0 1 4 2 6 4 6 6 10 8 6 6 12 13 1 1 22 17 18 19 22 1 22 23 23 1
+
+Không biết vì sao vào chiến_trường rồi hai anh_chị lại không khăng_khít với nhau nữa .
+R Vv Cp Pp Vv Nn M Num Nn R R Aa Cs Nn R PU
+ADJUNCT ROOT CC DEP CCOMP OBJ INTJ NUM NSUBJ ADJUNCT ADJUNCT CONJ PREP POBJ ADJUNCT PUNCT
+2 0 5 5 2 5 5 9 12 12 12 5 12 13 12 2
+
+Chị có nỗi đau riêng ấy , giấu kín .
+Pp Ve Ncs Aa Aa Pd PU Vv Aa PU
+NSUBJ ROOT OBJ CLF AMOD DET PUNCT CONJ ACOMP PUNCT
+2 0 2 3 3 3 2 2 8 2
+
+Và chị chỉ_huy cái bệnh_xá ấy , trụ_bám đến gan_lì , bền_bỉ suốt mấy năm trời trên vùng đất hẹp đã bị đánh nát_như_băm ấy ... cho đến ngày chị hi_sinh ...
+M Pp Vv M Nn Pd PU Vv M Aa PU Aa Aa Nq Nu M Cs Nn Nn Aa R Vv Vv ID Pd PU M Cs Nt Pp Vv PU
+INTJ NSUBJ ROOT INTJ OBJ DET PUNCT CONJ INTJ ACOMP PUNCT CONJ ADJP_ADVMOD DET OBJ INTJ PREP NN POBJ AMOD ADJUNCT RCMOD VMOD ACOMP DET PUNCT PCOMP PREP POBJ NSUBJ CCOMP PUNCT
+3 3 0 5 3 5 3 3 10 8 10 10 8 15 13 15 8 19 17 19 22 19 22 23 19 8 28 8 28 31 29 3
+
+2 g chiều hôm ấy mười mấy anh_em thuỷ_thủ xơ_xác chúng_tôi đến được bệnh_xá của chị Trâm .
+Num Nt Nt Nt Pd Num Nq Nn Nn Aa Pp Vv R Nn Cs Nn Nr PU
+NUM NP_ADVMOD NN NN DET NUMBER NUM NSUBJ NN AMOD CONJ ROOT ADJUNCT NP_ADVMOD PREP POBJ NN PUNCT
+2 12 2 2 4 7 8 12 8 8 8 0 12 12 14 15 16 12
+
+Chị không nói gì nhưng biết chúng_tôi là dân đường_mòn bí_mật biển Đông và coi chúng_tôi là những người anh_hùng .
+Pp R Vv Pp Cp Vv Pp Vc Nn Nn Aa Nn Nr Cp Vv Pp Cs Nq Nc Nn PU
+NSUBJ ADJUNCT ROOT OBJ CC CONJ NSUBJ CCOMP ATTR NN AMOD NN NN CC CONJ OBJ PREP DET POBJ CLF PUNCT
+3 3 0 3 3 3 8 6 8 9 10 10 12 6 6 15 15 19 17 19 3
+
+Chị bảo : - Các anh phải ở lại đây đã , chưa được đi đâu hết .
+Pp Vv PU PU Nq Pp Vv Vv R Pd R PU R Vv Vv Pp M PU
+NSUBJ ROOT PUNCT PUNCT NSUBJ DET CCOMP VMOD ADJUNCT OBJ ADJUNCT PUNCT ADJUNCT CONJ VMOD OBJ INTJ PUNCT
+2 0 7 7 7 5 2 7 8 8 8 7 14 7 14 15 14 2
+
+Phải chữa cho lành các vết_thương .
+Vv Vv M Vv Nq Nn PU
+ROOT VMOD INTJ VMOD DET OBJ PUNCT
+0 1 4 2 6 4 1
+
+Rồi bồi_dưỡng cho lại_sức để còn leo Trường_Sơn .
+Cp Vv M Vv Cs R Vv Nr PU
+CC ROOT INTJ VMOD PREP ADJUNCT PCOMP OBJ PUNCT
+2 0 4 2 4 7 5 7 2
+
+Bệnh_xá đói , chị Trâm và các nhân_viên của chị cũng đói .
+Nn Vv PU Nn Nr Cp Nq Nn Cs Pp R Vv PU
+NSUBJ ROOT PUNCT NSUBJ NN CC DET CONJ PREP POBJ ADJUNCT CONJ PUNCT
+2 0 2 12 4 4 8 4 8 9 12 2 2
+
+Nhưng chúng_tôi vẫn được nuôi rất chu_đáo .
+Cp Pp R Vv Vv R Aa PU
+CC NSUBJ ADJUNCT ROOT VMOD ADJUNCT ACOMP PUNCT
+4 4 4 0 4 7 5 4
+
+Chúng_tôi ở lại chỗ chị Trâm đúng một tháng rồi bắt liên_lạc , theo đường_dây dọc Trường_Sơn trở_ra Bắc ...
+Pp Vv R Nn Nn Nr Aa Num Nu Cp Vv Vv PU Vv Nn Aa Nr Vv Nn PU
+NSUBJ ROOT ADJUNCT NP_ADVMOD NN NN ADJP_ADVMOD NUM OBJ CC CONJ VMOD PUNCT VMOD OBJ AMOD OBJ CONJ OBJ PUNCT
+2 0 2 2 4 5 2 9 7 2 2 11 11 18 14 15 16 11 18 2
+
+Những ngày u_uất của tâm_hồn .
+Nq Nu Aa Cs Nn PU
+DET ROOT AMOD PREP POBJ PUNCT
+2 0 2 2 4 2
+
+Có gì đè nặng trên trái_tim ta ?
+Ve Pp Vv Aa Cs Nn Pp PU
+ROOT OBJ RCMOD ACOMP PREP POBJ DET PUNCT
+0 1 2 3 3 5 6 1
+
+Đâu phải chỉ có một nỗi buồn của vết_thương rỉ máu của con tim đó đâu ?
+R Aa R Ve Num Ncs Aa Cs Nn Vv Nn Cs Nc Nn Pd M PU
+ADJUNCT ACOMP ADJUNCT ROOT NUM OBJ CLF PREP POBJ RCMOD OBJ PREP POBJ CLF DET INTJ PUNCT
+2 4 4 0 6 4 6 6 8 9 10 9 12 13 13 4 4
+
+Mà còn có những gì nữa kia ?
+M R Ve Nq Pp R M PU
+ROOT ADJUNCT DEP DET OBJ ADJUNCT INTJ PUNCT
+0 3 1 5 3 5 5 1
+
+Những sự thiếu công_bằng vẫn còn trong xã_hội , vẫn diễn_ra hằng ngày ; vẫn có những con sâu , con mọt đang gặm dần danh_dự của Đảng , những con sâu_mọt ấy nếu không bị diệt đi nó sẽ đục_khoét dần lòng tin_yêu với Đảng .
+Nq Ncs Aa Aa R Ve Cs Nn PU R Vv R Nu PU R Ve Nq Nn Nn PU Nn Nn R Vv R Nn Cs Nn PU Nq Nn Nn Pd Cp R Vv Vv R Pp R Vv R Nn Vv Cs Nn PU
+DET NSUBJ AMOD ADJP_ADVMOD ADJUNCT ROOT PREP POBJ PUNCT ADJUNCT CONJ ADJUNCT NP_ADVMOD PUNCT ADJUNCT XCOMP DET NSUBJ NN PUNCT CONJ NN ADJUNCT CCOMP ADJUNCT OBJ PREP POBJ PUNCT DET NSUBJ NN DET CC ADJUNCT ADVCL VMOD ADJUNCT NSUBJ ADJUNCT CCOMP ADJUNCT OBJ VMOD PREP POBJ PUNCT
+2 6 2 3 6 0 6 7 6 11 6 13 11 6 16 6 18 24 18 18 18 21 24 16 24 24 26 27 6 31 36 31 31 36 36 6 36 37 41 41 6 41 41 43 43 45 6
+
+Rất buồn mình chưa được đứng trong hàng_ngũ của Đảng để đấu_tranh cho đến_cùng .
+R Aa Pp R Vv Vv Cs Nn Cs Nn Cs Vv M R PU
+ADJUNCT ROOT NSUBJ ADJUNCT CCOMP VMOD PREP POBJ PREP POBJ PREP PCOMP INTJ ADJUNCT PUNCT
+2 0 5 5 2 5 6 7 8 9 6 11 12 12 2
+
+Ngày từng ngày vẫn trôi qua nặng_nề .
+Nt Pp Nt R Vv R Aa PU
+NSUBJ DET NN ADJUNCT ROOT ADJUNCT ACOMP PUNCT
+5 1 1 5 0 5 5 5
+
+Công_việc bận_rộn làm mình quên đi những chuyện bực_bội nhưng rồi nó vẫn lại đâm nhói vào suy_nghĩ như những cây gai nhức_nhối .
+Nn Aa Vv Pp Vv R Nq Nn Vv Cp Cp Pp R R Vv Aa Cs Nn Cs Nq Nc Nn Aa PU
+NSUBJ AMOD ROOT NSUBJ CCOMP ADJUNCT DET OBJ VMOD CC CC NSUBJ ADJUNCT ADJUNCT CONJ ACOMP PREP POBJ PREP DET POBJ CLF AMOD PUNCT
+3 1 0 5 3 5 8 5 8 3 3 15 14 15 3 15 15 17 15 21 19 21 21 3
+
+Tại_sao vậy hở tất_cả mọi người ?
+Pp Pp M Nw Nw Nn PU
+DEP NN INTJ DET DET ROOT PUNCT
+6 1 6 6 6 0 6
+
+Tại sao khi ta là kẻ đúng , khi ta là số đông mà không đấu_tranh được với một số nhỏ , để số người đó gây khó_khăn trở_ngại cho tập_thể ?
+Cp Pp Nt Pp Vc Nn Aa PU Nt Pp Vc Nn Nn Cp R Vv R Cs Num Nn Aa PU Vv Nn Nn Pd Vv Nn Nn Cs Nn PU
+CC OBJ NP_ADVMOD NSUBJ CCOMP ATTR AMOD PUNCT NP_ADVMOD NSUBJ CCOMP ATTR NN CC ADJUNCT ROOT ADJUNCT PREP NUM POBJ AMOD PUNCT CONJ NSUBJ NN DET CCOMP OBJ CONJ PREP POBJ PUNCT
+16 16 16 5 3 5 6 16 16 11 9 11 12 16 16 0 16 16 20 18 20 16 16 27 24 24 23 27 28 27 30 16
+
+Nhiệm_vụ của ta là phải đấu_tranh cho lẽ_phải .
+Nn Cs Pp Vc Vv Vv Cs Nn PU
+NSUBJ PREP POBJ ROOT VMOD VMOD PREP POBJ PUNCT
+4 1 2 0 4 5 6 7 4
+
+Mà đã đấu_tranh thì phải bỏ sức_lực , phải suy_nghĩ và phải hi_sinh quyền_lợi cá_nhân , có khi là cả cuộc_đời mình , cho lẽ_phải chiến_thắng .
+M R Vv Cp Vv Vv Nn PU Vv Vv Cp Vv Vv Nn Nn PU Ve Nt M Nw Nn Pp PU Cs Nn Vv PU
+INTJ ADJUNCT ROOT CC CONJ VMOD OBJ PUNCT CONJ VMOD CC CONJ VMOD OBJ NN PUNCT PARATAXIS OBJ INTJ DET NN NN PUNCT PREP NSUBJ PCOMP PUNCT
+3 3 0 3 3 5 6 5 5 9 9 9 12 13 14 14 14 17 18 21 18 21 14 13 26 24 3
+
+Vậy đó Thuỳ ơi !
+Pp Pd Nr E PU
+ROOT DET VOCATIVE INTJ PUNCT
+0 1 1 3 1
+
+Khi đã giác_ngộ quyền_lợi giai_cấp của Đảng thì suốt đời Thuỳ sẽ gắn_bó với sự_nghiệp ấy !
+Nt R Vv Nn Nn Cs Nn Cp Aa Nn Nr R Vv Cs Nn Pd PU
+NP_ADVMOD ADJUNCT XCOMP OBJ NN PREP POBJ CC ADJP_ADVMOD OBJ NSUBJ ADJUNCT ROOT PREP POBJ DET PUNCT
+13 3 1 3 4 4 6 13 13 9 13 13 0 13 14 15 13
+
+Th_. sẽ đau_xót khi sự_nghiệp ấy bị tổn_thương , Th_. sẽ sướng_vui khi sự_nghiệp ấy lớn_mạnh - Có gì đâu nữa hở Th_. ?
+Nr R Aa Nt Nn Pd Vv Vv PU Nr R Aa Nt Nn Pd Vv PU Ve Pp R R M Nr PU
+NSUBJ ADJUNCT ROOT NP_ADVMOD NSUBJ DET CCOMP VMOD PUNCT NSUBJ ADJUNCT CONJ NP_ADVMOD NSUBJ DET CCOMP PUNCT DEP DEP ADJUNCT ADJUNCT INTJ CONJ PUNCT
+3 3 0 3 7 5 4 7 3 12 12 3 12 16 14 13 12 23 18 19 19 23 12 3
+
+Nhật_ký ơi !
+Nn E PU
+ROOT INTJ PUNCT
+0 1 1
+
+Đừng trách Th_. nghe nếu_như Th_. cứ ghi vào nhật_ký những dòng tâm_sự nặng_trĩu đau_buồn .
+Vv Vv Nr M Cp Nr R Vv Cs Nn Nq Nn Nn Aa Aa PU
+ROOT VMOD OBJ INTJ CC NSUBJ ADJUNCT CONJ PREP POBJ DET OBJ NN AMOD ADJP_ADVMOD PUNCT
+0 1 1 1 1 8 8 1 8 9 12 8 12 12 14 1
+
+Tiếng súng chiến_thắng đang nổ giòn khắp chiến_trường Nam Bắc .
+Nn Nn Nn R Vv Aa Aa Nn Nn Nn PU
+NSUBJ NN NN ADJUNCT ROOT ACOMP ADJP_ADVMOD OBJ NN CONJ PUNCT
+5 1 1 5 0 5 5 7 8 9 5
+
+Thắng_lợi đã đến gần chúng_ta rồi ...
+Nn R Vv Aa Pp R PU
+NSUBJ ADJUNCT ROOT ACOMP OBJ ADJUNCT PUNCT
+3 3 0 3 4 3 3
+
+Nhưng trên mảnh đất Đức_Phổ này vẫn còn nặng Những đau_thương , ngày từng ngày máu vẫn rơi , xương vẫn đổ .
+Cp Cs Nn Nn Nr Pd R Ve Aa Nq Nn PU Nt Pp Nt Nn R Vv PU Nn R Vv PU
+CC PREP POBJ NN NN DET ADJUNCT ROOT ACOMP DET OBJ PUNCT NP_ADVMOD DET NN NSUBJ ADJUNCT CONJ PUNCT NSUBJ ADJUNCT CONJ PUNCT
+8 8 2 3 3 3 8 0 8 11 9 8 18 13 13 18 18 8 18 22 22 18 8
+
+Điều đáng buồn nhất là trong những hi_sinh gian_khổ ấy , Th_. chưa thấy được sự công_bằng , sự trung_thực .
+Nn Vv Aa R Vc Cs Nq Nn Aa Pd PU Nr R Vv R Ncs Aa PU Ncs Aa PU
+NSUBJ RCMOD ACOMP ADJUNCT ROOT PREP DET POBJ AMOD DET PUNCT NSUBJ ADJUNCT CCOMP ADJUNCT OBJ CLF PUNCT CONJ CLF PUNCT
+5 1 2 3 0 14 8 6 8 8 14 14 14 5 14 14 16 16 16 19 5
+
+Chưa có một sự đấu_tranh để thắng được những cái ti_tiện , đớn_hèn cứ xảy_ra làm sứt_mẻ danh_dự của hai chữ đảng_viên và làm mòn_mỏi niềm vui_say công_tác của mọi người trong bệnh_xá .
+R Ve Num Ncs Vv Cs Vv R Nq Ncs Aa PU Aa R Vv Vv Aa Nn Cs Num Nn Nn Cp Vv Aa Ncs Aa Nn Cs Nw Nn Cs Nn PU
+ADJUNCT ROOT NUM OBJ CLF PREP PCOMP ADJUNCT DET OBJ AMOD PUNCT CONJ ADJUNCT RCMOD VMOD ACOMP OBJ PREP NUM POBJ NN CC CONJ ACOMP NN CLF OBJ PREP DET POBJ PREP POBJ PUNCT
+2 0 4 2 4 4 6 7 10 7 10 11 11 15 10 15 16 17 18 21 19 21 16 16 24 28 26 25 28 31 29 31 32 2
+
+Thuỳ ơi !
+Nr E PU
+ROOT INTJ PUNCT
+0 1 1
+
+Th_. chịu_thua sao , khi mà anh_em quần_chúng , đảng_viên , thanh_niên đều ủng_hộ Th_. mà vẫn không thắng được một_vài cá_nhân đang hoành_hành trong đội_ngũ cán_bộ của bệnh_xá .
+Nr Vv M PU Nt Cs Nn Nn PU Nn PU Nn R Vv Nr Cp R R Vv R Nq Nn R Vv Cs Nn Nn Cs Nn PU
+NSUBJ ROOT INTJ PUNCT NP_ADVMOD MARK NSUBJ NN PUNCT CONJ PUNCT CONJ ADJUNCT CCOMP OBJ CC ADJUNCT ADJUNCT CONJ ADJUNCT DET OBJ ADJUNCT RCMOD PREP POBJ NN PREP POBJ PUNCT
+2 0 2 2 2 14 14 7 8 8 10 10 14 5 14 14 18 19 14 19 22 19 24 22 24 25 26 26 28 2
+
+Cả mùa khô ác_liệt không một lúc nào mình thấy bi_quan , mình luôn cười trong gian_khổ vậy_mà bây_giờ mình đau_khổ quá đi .
+Nw Nn Aa Aa R Num Nu Pd Pp Vv Aa PU Pp R Vv Cs Nn Cp Pd Pp Aa R M PU
+DET NP_ADVMOD AMOD AMOD ADJUNCT NUM NP_ADVMOD DET NSUBJ ROOT ACOMP PUNCT NSUBJ ADJUNCT CONJ PREP POBJ CC NP_ADVMOD NSUBJ CONJ ADJUNCT INTJ PUNCT
+2 10 2 2 6 7 10 7 10 0 10 10 15 15 10 15 16 15 21 21 15 21 21 10
+
+Kẻ_thù phi_nghĩa không sợ , mà sợ những nọc_độc của kẻ_thù còn rớt lại trong đồng_chí của mình .
+Nn Aa R Vv PU Cp Vv Nq Nn Cs Nn R Vv R Cs Nn Cs Pp PU
+DEP AMOD ADJUNCT ROOT PUNCT CC CONJ DET OBJ PREP POBJ ADJUNCT RCMOD ADJUNCT PREP POBJ PREP POBJ PUNCT
+4 1 4 0 4 4 4 9 7 9 10 13 9 13 13 15 16 17 4
+
+Viết đơn vào Đảng , niềm vui thì ít mà bực_dọc thì nhiều .
+Vv Nn Vv Nn PU Ncs Aa Cp Aa Cp Nn Cp Aa PU
+ROOT OBJ RCMOD OBJ PUNCT NSUBJ CLF CC CONJ CC NSUBJ CC CONJ PUNCT
+0 1 2 3 1 9 6 9 1 9 13 13 9 1
+
+Tại sao con đường đi của một đứa tiểu tư_sản bao_giờ cũng nhiều chông_gai đến vậy ?
+Cp Pp Nc Nn Vv Cs Num Nc Sv Nn Pp R Aa Nn M Pp PU
+CC OBJ NSUBJ CLF VMOD PREP NUM POBJ SINO CLF NP_ADVMOD ADJUNCT ROOT OBJ INTJ OBJ PUNCT
+13 13 13 3 3 3 8 6 10 8 13 13 0 13 13 13 13
+
+Đành_rằng vì tính_chất giai_cấp , nhưng mình vẫn thấy rất rõ một điều ngoài cái lẽ dĩ_nhiên ấy .
+Cp Cs Nn Nn PU Cp Pp R Vv R Aa Num Nn Cs M Nn Aa Pd PU
+CC PREP POBJ NN PUNCT CC NSUBJ ADJUNCT ROOT ADJUNCT ACOMP NUM OBJ PREP INTJ POBJ AMOD DET PUNCT
+9 9 2 3 9 9 9 9 0 11 9 13 9 13 16 14 16 16 9
+
+Có một cái gì đó bắt_bẻ , gọi là bắt_bí của một_vài cá_nhân có trách_nhiệm .
+Ve Num Nn Pp Pd Vv PU Vv Cs Vv Cs Nq Nn Ve Nn PU
+ROOT NUM OBJ DET DET RCMOD PUNCT PARATAXIS PREP PCOMP PREP DET POBJ RCMOD OBJ PUNCT
+0 3 1 3 3 3 6 6 8 9 3 13 11 13 14 1
+
+Chẳng biết nói sao , đời nó là như vậy đó .
+R Vv Vv Pp PU Nn Pp Vc Cs Pp Pd PU
+ADJUNCT ROOT VMOD OBJ PUNCT DEP NSUBJ CONJ PREP POBJ DET PUNCT
+2 0 2 3 2 8 8 2 8 9 10 2
+
+Dù thành_tích anh có cố_gắng bao_nhiêu cũng không bằng một anh khác ở thành_phần cơ_bản chỉ vừa mới giác_ngộ bước_đầu .
+Cp Nn Pp R Vv Pp R R Vv Num Nn Aa Cs Nn Aa R R R Vv Nn PU
+CC NSUBJ NN ADJUNCT ROOT OBJ ADJUNCT ADJUNCT CONJ NUM OBJ AMOD PREP POBJ AMOD ADJUNCT ADJUNCT ADJUNCT RCMOD OBJ PUNCT
+5 5 2 5 0 5 8 9 5 11 9 11 11 13 14 18 18 19 11 19 5
+
+Hường hồi còn sống thường động_viên mình rằng đó là chỗ hơn của một người tiểu tư_sản !
+Nr Nt R Vv R Vv Pp Cs Pd Vc Nn Vcp Cs Num Nc Sv Nn PU
+NSUBJ NP_ADVMOD ADJUNCT XCOMP ADJUNCT ROOT OBJ MARK NSUBJ CCOMP ATTR VMOD PREP NUM POBJ SINO CLF PUNCT
+6 6 4 2 6 0 6 10 10 6 10 11 11 15 13 17 15 6
+
+Hơn gì ?
+Vcp Pp PU
+ROOT OBJ PUNCT
+0 1 1
+
+Hơn khó_khăn , hơn cực_nhọc hở Hường ?
+Vcp Aa PU Vcp Aa M Nr PU
+ROOT ACOMP PUNCT CONJ ACOMP INTJ VOCATIVE PUNCT
+0 1 1 1 4 7 1 1
+
+Mình như một đứa con không gia_đình lâu ngày tìm về mẹ nhưng người mẹ_ghẻ còn bận nâng_niu những đứa con riêng nên thờ_ơ lạnh_nhạt với đứa con chồng .
+Pp Cs Num Nc Nn R Nn Aa Nu Vv Cs Nn Cp Nc Nn R Aa Vv Nq Nc Nn Aa Cp Aa Aa Cs Nc Nc Nn PU
+NSUBJ ROOT NUM NN CLF ADJUNCT POBJ NP_ADVMOD NN RCMOD PREP POBJ CC NSUBJ CLF ADJUNCT CONJ VMOD DET OBJ CLF AMOD CC CONJ CONJ PREP NN CONJ POBJ PUNCT
+2 0 7 7 4 7 2 10 8 7 10 11 2 17 14 17 2 17 20 18 20 20 17 17 24 24 29 27 26 2
+
+Muôn người đã tạo nên một người mẹ hiền vĩ_đại là Đảng , nhưng trong muôn người mẹ ấy có một người mẹ LBRK và chắc không phải một người đâu RBRK y_hệt một bà mẹ_ghẻ trong câu_chuyện cổ_tích !
+Nq Nn R Vv Vv Num Nc Nn Aa Aa Vc Nn PU Cp Cs Nq Nc Nn Pd Ve Num Nc Nn LBRK M Aa R Aa Num Nn M RBRK Aa Num Nc Nn Cs Nn Nn PU
+DET NSUBJ ADJUNCT ROOT VMOD NUM OBJ CLF AMOD AMOD RCMOD ATTR PUNCT CC PREP DET POBJ CLF DET CONJ NUM OBJ CLF PUNCT INTJ PARATAXIS ADJUNCT AMOD NUM OBJ INTJ PUNCT AMOD NUM OBJ CLF PREP POBJ NN PUNCT
+2 4 4 0 4 7 5 7 7 7 7 11 4 4 20 17 15 17 17 4 22 20 22 22 26 22 28 30 30 26 30 22 22 35 33 35 35 37 38 4
+
+Kết_nạp Đảng .
+Vv Nn PU
+ROOT OBJ PUNCT
+0 1 1
+
+Cảm_giác rõ nét nhất của ngày hôm_nay là : phải phấn_đấu để sống xứng_đáng với cái tên " một người cộng_sản " .
+Nn Aa Nn R Cs Nt Nt Vc PU Vv Vv Cs Vv Aa Cs M Nn PU Num Nc Nn PU PU
+NSUBJ AMOD OBJ ADJUNCT PREP POBJ NN ROOT PUNCT VMOD VMOD PREP PCOMP ACOMP PREP INTJ POBJ PUNCT NUM NN CLF PUNCT PUNCT
+8 1 2 2 1 5 6 0 8 8 10 11 12 13 14 17 15 17 20 17 20 17 8
+
+Còn niềm vui , sao nhỏ quá so với ý_nghĩa của ngày vui .
+Cp Ncs Aa PU M Aa R Vv Cs Nn Cs Nt Aa PU
+CC NSUBJ CLF PUNCT INTJ ROOT ADJUNCT VMOD PREP POBJ PREP POBJ AMOD PUNCT
+6 6 2 6 6 0 6 6 8 9 10 11 12 6
+
+Vì sao vậy hở Thuỳ ?
+Cp Pp Pp M Nr PU
+CC DEP ROOT INTJ VOCATIVE PUNCT
+3 3 0 5 3 3
+
+Phải_chăng như hôm nào Thuỳ đã nói : như một đứa con khát sữa mẹ khóc đã mệt rồi , miếng sữa nuốt vào không còn nguyên hương_vị thơm_ngon và cái thú_vị của nó nữa .
+Cp Cs Nt Pd Nr R Vv PU Cs Num Nc Nn Vv Nn Nn Vv R Aa R PU Nn Nn Vv D R Ve Aa Nn Aa Cp Ncs Aa Cs Pp R PU
+ROOT PREP POBJ DET NSUBJ ADJUNCT CCOMP PUNCT PREP NUM NSUBJ CLF RCMOD OBJ NN PCOMP ADJUNCT ACOMP ADJUNCT PUNCT NSUBJ NN RCMOD VMOD ADJUNCT CCOMP ACOMP OBJ AMOD CC OBJ CLF PREP POBJ ADJUNCT PUNCT
+0 1 2 3 7 7 3 26 26 11 16 11 11 13 14 9 18 16 18 26 26 21 21 23 26 7 26 27 28 27 27 31 31 33 26 1
+
+Trở_lại Đồng_Răm .
+Vv Nr PU
+ROOT NP_ADVMOD PUNCT
+0 1 1
+
+Mình đã tạm_biệt nơi đây ngày 28_-_4_-_1969 khi mà bệnh_xá bị địch tập_kích vào .
+Pp R Vv Nn Pd Nt Nt Nt Cs Nn Vv Nn Vv Cs PU
+NSUBJ ADJUNCT ROOT NP_ADVMOD DET NP_ADVMOD NN NP_ADVMOD MARK NSUBJ CCOMP NSUBJ CCOMP PREP PUNCT
+3 3 0 3 4 3 6 3 11 11 8 13 11 13 3
+
+Hôm_nay trở_lại nhìn những nền nhà sụp_đổ , ngổn_ngang thân cây cháy lòng mình tràn_ngập xót_thương .
+Nt Vv Vv Nq Nn Nn Vv PU Aa Nn Nn Vv Nn Pp Vv Vv PU
+NP_ADVMOD ROOT VMOD DET OBJ NN RCMOD PUNCT CONJ OBJ NN VMOD NSUBJ NN CONJ VMOD PUNCT
+2 0 2 5 3 5 5 7 7 9 10 10 15 13 2 15 2
+
+Nơi đây đã ấp_ủ biết_bao_nhiêu kỷ_niệm vui_buồn trong đời cách_mạng của mình , nơi đây đã kết_nạp mình dưới cờ Đảng sau bao ngày phấn_đấu gian_khổ .
+Nn Pd R Vv R Nn Aa Cs Nn Nn Cs Pp PU Nn Pd R Vv Pp Cs Nn Nn Cs Nq Nu Vv Aa PU
+NSUBJ DET ADJUNCT ROOT ADJUNCT OBJ AMOD PREP POBJ NN PREP POBJ PUNCT NSUBJ DET ADJUNCT CONJ OBJ PREP POBJ NN PREP DET POBJ XCOMP ACOMP PUNCT
+4 1 4 0 6 4 6 6 8 9 9 11 4 17 14 17 4 17 17 19 20 17 24 22 24 25 4
+
+Nơi đây đã rèn_luyện mình từ một sinh_viên mới ra trường trở_thành một cán_bộ lãnh_đạo có nhiều thành_tích trong công_tác .
+Nn Pd R Vv Pp Cs Num Nn R Vv Nn Vv Num Nn Nn Ve Aa Nn Cs Nn PU
+NSUBJ DET ADJUNCT ROOT OBJ PREP NUM POBJ ADJUNCT RCMOD OBJ RCMOD NUM OBJ NN RCMOD AMOD OBJ PREP POBJ PUNCT
+4 1 4 0 4 5 8 6 10 8 10 5 14 12 14 14 18 16 18 19 4
+
+Nơi đây đã nảy_sinh tình chị_em cao_quí thiết_tha , mối tình đã nâng mình đi vững bước qua ngàn vạn chông_gai trong cuộc_đời .
+Nn Pd R Vv Nn Nn Aa Aa PU Nc Nn R Vv Pp Vv Aa Nn Cs Nq Nq Nn Cs Nn PU
+NSUBJ DET ADJUNCT ROOT OBJ NN AMOD CONJ PUNCT NSUBJ CLF ADJUNCT CONJ OBJ VMOD ACOMP OBJ PREP NUM CONJ POBJ PREP POBJ PUNCT
+4 1 4 0 4 5 5 7 4 13 10 13 4 13 13 15 16 15 21 19 18 21 22 4
+
+Dòng suối này một buổi trưa nào mình đứng chờ em , gốc cây này mình đã ngồi cùng em sau những ngày xa_cách ...
+Nn Nn Pd Num Nt Nt Pd Pp Vv Vv Pp PU Nn Nn Pd Pp R Vv Cs Pp Cs Nq Nu Vv PU
+NP_ADVMOD NN DET NUM NP_ADVMOD NN DET NSUBJ ROOT VMOD OBJ PUNCT NP_ADVMOD NN DET NSUBJ ADJUNCT CONJ PREP POBJ PREP DET POBJ VMOD PUNCT
+9 1 1 5 9 5 5 9 0 9 10 9 18 13 13 18 18 9 18 19 18 23 21 23 9
+
+bao_nhiêu kỷ_niệm lần_lượt hiện ra trong óc mình .
+Pp Nn R Vv R Cs Nn Pp PU
+DET NSUBJ ADJUNCT ROOT ADJUNCT PREP POBJ NN PUNCT
+2 4 4 0 4 4 6 7 4
+
+Giặc đã cướp của mình hai quyển nhật_ký , tuy đã mất những trang sổ vô_giá đó , nhưng còn một quyển sổ quí hơn cả đó là bộ_óc của mình , nó sẽ ghi lại toàn_bộ những điều nó đã tiếp_thu được trong cuộc_sống .
+Nn R Vv Cs Pp Num Nc Nn PU Cp R Ve Nq Nn Nn Aa Pd PU Cp Ve Num Nc Nn Aa Vcp Nw Pd Vc Nn Cs Pp PU Pp R Vv R Nq Nq Nn Pp R Vv R Cs Nn PU
+NSUBJ ADJUNCT ROOT PREP POBJ NUM OBJ CLF PUNCT CC ADJUNCT CONJ DET OBJ NN AMOD DET PUNCT CC CONJ NUM OBJ CLF AMOD VMOD OBJ NSUBJ PARATAXIS ATTR PREP POBJ PUNCT NSUBJ ADJUNCT CONJ ADJUNCT DET DET OBJ NSUBJ ADJUNCT CCOMP ADJUNCT PREP POBJ PUNCT
+3 3 0 3 4 7 3 7 3 3 12 3 14 12 14 14 14 12 12 12 22 20 22 22 24 25 28 22 28 29 30 20 35 35 20 35 39 39 35 42 42 39 42 42 44 3
+
+Như_vậy , có_thể chị Thuỳ_Trâm có ít nhất là ba cuốn nhật_ký ?
+Cp PU Aa Nn Nr Ve Aa R M Num Nc Nn PU
+CC PUNCT ADJP_ADVMOD NSUBJ NN ROOT ACOMP ADJUNCT INTJ NUM OBJ CLF PUNCT
+6 6 6 6 4 0 6 7 7 11 7 11 6
+
+Những gì chúng_ta đang đọc là nằm trong hai cuốn chị ghi_chép năm 1968 , 1969 , 1970 .
+Nq Pp Pp R Vv M Vv Cs Num Nn Nn Vv Nt Num PU Num PU Num PU
+NSUBJ DET NSUBJ ADJUNCT CCOMP INTJ ROOT PREP NUM POBJ NSUBJ CCOMP NP_ADVMOD NN PUNCT CONJ PUNCT CONJ PUNCT
+7 1 5 5 1 7 0 7 10 8 12 10 12 13 14 14 16 16 7
+
+Không thấy có năm 1967 , năm đầu_tiên chị vào chiến_trường Quảng_Ngãi .
+R Vv Ve Nt Num PU Nt An Pp Vv Nn Nr PU
+ADJUNCT ROOT VMOD NP_ADVMOD NUM PUNCT PARATAXIS AMOD NSUBJ CCOMP NP_ADVMOD NN PUNCT
+2 0 2 3 4 4 4 7 10 7 10 11 2
+

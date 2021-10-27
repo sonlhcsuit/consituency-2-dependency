@@ -1,0 +1,240 @@
+Môi_giới mại_dâm người chưa thành_niên ở Bình_Dương : Có sót người , lọt tội ?
+Nn Vv Nn R Aa Cs Nr PU R Vv Nn PU Vv Nn PU
+PARATAXIS RCMOD OBJ ADJUNCT AMOD PREP POBJ PUNCT ADJUNCT ROOT OBJ PUNCT CONJ OBJ PUNCT
+10 1 2 5 3 1 6 10 10 0 10 10 10 13 10
+
+Từ ngày 30_-_3 , Toà_án nhân_dân tỉnh Bình_Dương đã đưa ra xét_xử sơ_thẩm vụ án về một đường_dây môi_giới mại_dâm , mua_dâm người chưa thành_niên có qui_mô lớn trên địa_bàn tỉnh .
+Cs Nt Nt PU Nn Aa Nun Nr R Vv R Vv Vv Nc Nn Cs Num Nn Vv Vv PU Vv Nn R Aa Ve Nn Aa Cs Nn Nun PU
+PREP POBJ NN PUNCT NSUBJ AMOD NN NN ADJUNCT ROOT ADJUNCT VMOD VMOD OBJ CLF PREP NUM POBJ RCMOD VMOD PUNCT CONJ OBJ ADJUNCT AMOD RCMOD OBJ AMOD PREP POBJ NN PUNCT
+10 1 2 10 10 5 5 7 10 0 10 10 12 12 14 14 18 16 18 19 20 20 20 25 23 18 26 27 18 29 30 10
+
+Điều bất_ngờ gây xôn_xao dư_luận đã xảy_ra ngay trong ngày khai_mạc phiên toà .
+Ncs Aa Vv Vv Nn R Vv M Cs Nt Vv Nc Nn PU
+NSUBJ CLF RCMOD VMOD OBJ ADJUNCT ROOT PCOMP PREP POBJ XCOMP OBJ CLF PUNCT
+7 1 1 3 4 7 0 9 7 9 10 11 12 7
+
+Đó là việc luật_sư Phạm_Hữu_Tình LBRK bào_chữa cho bị_cáo Nguyễn_Thị_Mửng RBRK đã tung ra một_số thông_tin cho thấy vụ án có khả_năng bỏ lọt người , lọt tội liên_quan đến một_số cán_bộ nhà_nước , trong đó có ông Phương , công_tác tại Viện Kiểm_sát LBRK VKS RBRK nhân_dân tỉnh Bình_Dương , đã đi mua_dâm người chưa thành_niên nhưng không bị khởi_tố , truy_tố .
+Pd Vc Nn Nn Nr LBRK Vv Cs Nn Nr RBRK R Vv R Nq Nn Vv Vv Nc Nn Ve Nn Vv Vv Nn PU Vv Nn Vv Cs Nq Nn Nn PU Cs Pd Ve Nn Nr PU Vv Cs Nn Vv LBRK X RBRK Aa Nun Nr PU R Vv Vv Nn R Aa Cp R Vv Vv PU Vv PU
+NSUBJ ROOT ATTR NSUBJ NN PUNCT PARATAXIS PREP POBJ NN PUNCT ADJUNCT CCOMP ADJUNCT DET OBJ RCMOD VMOD NSUBJ CLF CCOMP OBJ RCMOD VMOD OBJ PUNCT CONJ OBJ RCMOD PREP DET POBJ NN PUNCT PREP POBJ PARATAXIS NSUBJ NN PUNCT PARATAXIS PREP POBJ VMOD PUNCT PARATAXIS PUNCT AMOD NN NN PUNCT ADJUNCT CCOMP VMOD OBJ ADJUNCT AMOD CC ADJUNCT CONJ VMOD PUNCT CONJ PUNCT
+2 0 2 13 4 4 4 7 8 9 4 13 3 13 16 13 16 17 21 19 18 21 22 23 24 24 24 27 22 29 32 30 32 32 37 35 32 53 38 38 38 41 42 43 43 43 43 43 43 49 38 53 37 53 54 57 55 53 60 53 60 61 61 2
+
+Cùng mua_dâm người vị_thành_niên , nhưng người bị tội , người vô_can .
+Aa Vv Nn Aa PU Cp Nn Vv Nn PU Nn Aa PU
+ACOMP ROOT OBJ AMOD PUNCT CC NSUBJ CONJ OBJ PUNCT NSUBJ CONJ PUNCT
+2 0 2 3 2 2 8 2 8 8 12 8 2
+
+Ngay ngày khai_mạc phiên toà , sau phần thẩm_tra lý_lịch các bị_cáo , luật_sư Nguyễn_Hữu_Tình LBRK bào_chữa cho Nguyễn_Thị_Mửng , bị_cáo chính của vụ_án RBRK đã yêu_cầu hoãn phiên toà để điều_tra bổ_sung vì vụ án có dấu_hiệu để lọt người , lọt tội .
+R Nt Vv Nc Nn PU Cs Nn Vv Nn Nq Nn PU Nn Nr LBRK Vv Cs Nr PU Nn Aa Cs Nn RBRK R Vv Vv Nc Nn Cs Vv Vv Cs Nc Nn Ve Nn Vv Vv Nn PU Vv Nn PU
+ADJUNCT NP_ADVMOD XCOMP OBJ CLF PUNCT PREP POBJ RCMOD OBJ DET NN PUNCT NSUBJ NN PUNCT PARATAXIS PREP POBJ PUNCT PARATAXIS AMOD PREP POBJ PUNCT ADJUNCT ROOT VMOD OBJ CLF PREP PCOMP VMOD MARK NSUBJ CLF ADVCL OBJ RCMOD VMOD OBJ PUNCT CONJ OBJ PUNCT
+2 27 2 3 4 27 27 7 8 9 12 10 27 27 14 14 14 17 18 19 19 21 21 23 14 27 0 27 28 29 28 31 32 37 37 35 28 37 38 39 40 40 40 43 27
+
+Cơ_sở để khẳng_định điều đó , theo luật_sư Tình , nằm ở vụ mua_bán dâm bị bắt quả_tang ở khách_sạn Ngọc_Vân 2 với bốn cô gái bán_dâm và bốn khách mua_dâm , nhưng trong cáo_trạng không một dòng đề_cập đến những đối_tượng mua_dâm này , trong khi đó thì ba trong bốn cô gái là trẻ vị_thành_niên LBRK khi xảy_ra vụ_việc H. 15 tuổi , P. 14 tuổi , N. 13 tuổi - có tài_liệu trong hồ_sơ nêu chỉ 12 tuổi RBRK .
+Nn Cs Vv Nn Pd PU Vv Nn Nr PU Vv Cs Ncs Vv Nn Vv Vv R Cs Nn Nr An Cs Num Nc Nn Vv Cp Num Nn Vv PU Cp Cs Nn R Num Nn Vv Cs Nq Nn Vv Pd PU Cs Nt Pd Cp Num Cs Num Nc Nn Vc Nn Aa LBRK Nt Vv Nn Nr Num Nn PU Nr Num Nn PU Nr Num Nn PU Ve Nn Cs Nn Vv R Num Nn RBRK PU
+NSUBJ PREP PCOMP OBJ DET PUNCT VMOD OBJ NN PUNCT ROOT PREP POBJ RCMOD OBJ RCMOD VMOD ADJUNCT PREP POBJ NN AMOD PREP NUM POBJ CLF VMOD CC NUM CONJ VMOD PUNCT CC PREP POBJ ADJUNCT NUM NSUBJ CONJ PREP DET POBJ VMOD DET PUNCT PREP POBJ DET CC NSUBJ PREP NUM POBJ CLF CONJ ATTR AMOD PUNCT NP_ADVMOD CCOMP OBJ NSUBJ NUM PARATAXIS PUNCT NSUBJ NUM CONJ PUNCT NSUBJ NUM CONJ PUNCT PARATAXIS NSUBJ PREP POBJ CCOMP ADJUNCT NUM CCOMP PUNCT PUNCT
+11 1 2 3 4 11 11 7 8 11 0 11 12 13 14 13 16 17 17 19 20 20 17 25 23 25 25 25 30 25 30 11 11 39 34 38 38 39 11 39 42 40 42 42 39 55 46 47 55 55 50 53 51 53 39 55 56 56 64 59 60 64 64 56 64 68 68 64 68 72 72 68 72 72 78 75 76 74 80 81 78 56 11
+
+Vậy bốn người khách mua_dâm đó là ai ?
+Pp Num Nc Nn Vv Pd Vc Pp PU
+NP_ADVMOD NUM NSUBJ CLF VMOD DET ROOT ATTR PUNCT
+7 3 7 3 3 3 0 7 7
+
+Theo cáo_trạng , khoảng 14 g ngày 8_-_12_–_2001 , bị_cáo Lê_Minh_Quang và Lê_Thị_Thắm chở bốn cô gái , trong đó có hai người chưa thành_niên , đến khách_sạn Ngọc_Vân 2 để bán_dâm thì bị công_an bắt quả_tang .
+Vv Nn PU R Num Nt Nt Nt PU Nn Nr Cp Nr Vv Num Nc Nn PU Cs Pd Ve Num Nn R Aa PU Vv Nn Nr An Cs Vv Cp Vv Nn Vv R PU
+VMOD OBJ PUNCT ADJUNCT NUM NP_ADVMOD NN NN PUNCT NSUBJ NN CC CONJ ROOT NUM OBJ CLF PUNCT PREP POBJ PARATAXIS NUM OBJ ADJUNCT AMOD PUNCT VMOD NP_ADVMOD NN AMOD PREP PCOMP CC CONJ NSUBJ CCOMP ADJUNCT PUNCT
+14 1 14 5 6 14 6 7 14 14 10 11 11 0 16 14 16 16 21 19 16 23 21 25 23 16 14 27 28 28 27 31 14 14 36 34 36 14
+
+Luật_sư Phạm_Hữu_Tình trích bút_lục của cơ_quan cảnh_sát điều_tra cho thấy bốn đối_tượng có hành_vi đi mua_dâm bị bắt quả_tang hôm đó là các ông Lý , Thành , Thu và Phương .
+Nn Nr Vv Nn Cs Nn Nn Vv Vv Vv Num Nn Ve Nn Vv Vv Vv Vv R Nt Pd Vc Nq Nn Nr PU Nr PU Nr Cp Nr PU
+NSUBJ NN ROOT OBJ PREP POBJ NN VMOD CONJ VMOD NUM NSUBJ RCMOD OBJ RCMOD VMOD RCMOD VMOD ADJUNCT NP_ADVMOD DET CCOMP DET ATTR NN PUNCT CONJ PUNCT CONJ CC CONJ PUNCT
+3 1 0 3 4 5 6 7 3 9 12 22 12 13 14 15 12 17 18 18 20 10 24 22 24 25 25 27 27 29 29 3
+
+Bút_lục lời khai của Lê_Minh_Thành - một trong bốn đối_tượng đi mua_dâm - cho biết đi cùng có ông Phương , hiện đang công_tác tại VKS nhân_dân tỉnh Bình_Dương .
+Nn Nn Vv Cs Nr PU Num Cs Num Nn Vv Vv PU Vv Vv Vv Aa Ve Nn Nr PU Nt R Vv Cs X Aa Nun Nr PU
+NSUBJ NN VMOD PREP POBJ PUNCT PARATAXIS PREP NUM POBJ RCMOD VMOD PUNCT ROOT VMOD VMOD ACOMP CCOMP OBJ NN PUNCT NP_ADVMOD ADJUNCT PARATAXIS PREP POBJ AMOD NN NN PUNCT
+14 1 2 2 4 5 5 7 10 8 10 11 5 0 14 18 16 15 18 19 19 24 24 19 24 25 26 26 28 14
+
+Theo tìm_hiểu của chúng_tôi , ngoài ông Phương ra còn có một đối_tượng là cán_bộ ngành thuế và hai doanh_nghiệp nhưng bản cáo_trạng không thấy đề_cập đến và tất_nhiên tất_cả đều không bị khởi_tố , truy_tố trước pháp_luật .
+Vv Nn Cs Pp PU Cs Nn Nr R R Ve Num Nn Vc Nn Nn Nn Cp Num Nn Cp Nc Nn R Vv Vv Cs Cp Aa Pp R R Vv Vv PU Vv Cs Nn PU
+VMOD OBJ PREP POBJ PUNCT PREP POBJ NN ADJUNCT ADJUNCT ROOT NUM OBJ RCMOD ATTR NN NN CC NUM CONJ CC NSUBJ CLF ADJUNCT CONJ VMOD PREP CC ADJP_ADVMOD NSUBJ ADJUNCT ADJUNCT CONJ VMOD PUNCT CONJ PREP POBJ PUNCT
+11 1 2 3 11 11 6 7 6 11 0 13 11 13 14 15 16 13 20 13 11 25 22 25 11 25 26 25 33 33 32 33 25 33 34 34 34 37 11
+
+Viện trưởng Nguyễn_Thành_Thượng xác_nhận những lời khai trên có từ lúc vụ án xảy_ra và ông cũng được biết cơ_quan điều_tra đã kết_luận .
+Nn Sv Nr Vv Nq Nn Vv Nn Ve Cs Nt Nc Nn Vv Cp Pp R Vv Vv Nn Vv R Vv PU
+NSUBJ SINO NN ROOT DET NSUBJ VMOD NN CCOMP PREP POBJ NSUBJ CLF CCOMP CC NSUBJ ADJUNCT CONJ VMOD NSUBJ VMOD ADJUNCT CCOMP PUNCT
+4 1 1 0 6 9 6 6 4 9 10 14 12 11 9 18 18 9 18 23 20 23 19 4
+
+" Riêng trường_hợp ông Phương ở cơ_quan tôi , trước_mắt cơ_quan điều_tra chưa xác_định có tham_gia vào vụ mua_dâm .
+PU M Nn Nn Nr Cs Nn Pp PU Nn Nn Vv R Vv R Vv Cs Ncs Vv PU
+PUNCT INTJ NP_ADVMOD NN NN PREP POBJ NN PUNCT NP_ADVMOD NSUBJ VMOD ADJUNCT ROOT ADJUNCT XCOMP PREP POBJ CLF PUNCT
+14 3 14 3 4 4 6 7 14 14 14 11 14 0 16 14 16 17 18 14
+
+Nhậu_nhẹt , rồi sau đó đi hát karaoke chung với ba đối_tượng kia thì_có , nhưng khi đến chỗ đó ông Phương chưa vào phòng , lúc công_an lập biên_bản ông Phương cũng không có_mặt .
+Vv PU Cp Cs Pd Vv Vv FW Aa Cs Num Nn Pd ID PU Cp Nt Vv Nn Pd Nn Nr R Vv Nn PU Nt Nn Vv Nn Nn Nr R R Aa PU
+ROOT PUNCT CC PREP POBJ CONJ VMOD OBJ ACOMP PREP NUM POBJ DET INTJ PUNCT CC NP_ADVMOD XCOMP OBJ DET NSUBJ NN ADJUNCT CONJ OBJ PUNCT NP_ADVMOD NSUBJ CCOMP OBJ NSUBJ NN ADJUNCT ADJUNCT CONJ PUNCT
+0 1 1 6 4 1 6 7 7 9 12 10 12 6 1 1 24 17 18 19 24 21 24 1 24 1 35 29 27 29 35 31 34 35 1 1
+
+Tuy_nhiên , chúng_tôi cũng đã kiểm_điểm về việc ông Phương nhậu_nhẹt , đi chung với các đối_tượng mua_dâm và xử_lý kỷ_luật bằng hình_thức cảnh_cáo " .
+Cp PU Pp R R Vv Cs Nn Nn Nr Vv PU Vv Aa Cs Nq Nn Vv Cp Vv Vv Cs Nn Vv PU PU
+CC PUNCT NSUBJ ADJUNCT ADJUNCT ROOT PREP POBJ NSUBJ NN CCOMP PUNCT CONJ ACOMP PREP DET POBJ VMOD CC CONJ VMOD PREP POBJ VMOD PUNCT PUNCT
+6 6 6 6 4 0 6 7 11 9 8 11 11 13 14 17 15 17 6 6 20 21 22 23 6 6
+
+Ông Nguyễn_Thành_Phương : " Nếu nói thì bao_giờ tôi cũng nói có lợi về phía mình ... " .
+Nn Nr PU PU Cp Vv Cp Pp Pp R Vv Ve Nn Cs Nn Pp PU PU PU
+NSUBJ NN PUNCT PUNCT CC ROOT CC NP_ADVMOD NSUBJ ADJUNCT CONJ VMOD OBJ PREP POBJ NN PUNCT PUNCT PUNCT
+6 1 6 6 6 0 6 11 11 11 6 11 12 13 14 15 6 6 6
+
+Sáng 31_-_3 , sau hai cuộc điện_thoại , nhóm phóng_viên dự toà đã gặp được ông Nguyễn_Thành_Phương , phó viện trưởng Viện Kiểm_sát nhân_dân tỉnh Bình_Dương .
+Nt Nt PU Cs Num Nc Nn PU Nn Nn Vv Nn R Vv M Nn Nr PU Sv Nn Sv Nn Vv Aa Nun Nr PU
+NP_ADVMOD NN PUNCT PREP NUM POBJ CLF PUNCT NSUBJ NN RCMOD OBJ ADJUNCT ROOT INTJ OBJ NN PUNCT NN SINO SINO PARATAXIS VMOD AMOD NN NN PUNCT
+14 1 14 14 6 4 6 14 14 9 9 11 14 0 14 14 16 16 22 19 20 16 22 22 22 25 14
+
+Ông Phương sau khi bắt_tay từng phóng_viên một đã từ_tốn nói : " Tôi có cùng mấy anh_em đi đến đó để hát karaoke , nhưng tôi khẳng_định là mình không có hành_vi mua_dâm , vì nếu có thì công_an đâu để tôi yên đến giờ_phút này .
+Nn Nr Cs Nt Vv Pp Nn Num R Aa Vv PU PU Pp R Aa Nq Nn Vv Cs Pd Cs Vv FW PU Cp Pp Vv Cs Pp R Ve Nn Vv PU Cs Cp Ve Cp Nn R Vv Pp Aa Cs Nt Pd PU
+NSUBJ NN PREP POBJ XCOMP DET OBJ NUM ADJUNCT ACOMP ROOT PUNCT PUNCT NSUBJ ADJUNCT ACOMP DET OBJ CCOMP PREP POBJ PREP PCOMP OBJ PUNCT CC NSUBJ CONJ MARK NSUBJ ADJUNCT CCOMP OBJ VMOD PUNCT MARK CC ADVCL CC NSUBJ ADJUNCT CONJ OBJ ACOMP PREP POBJ DET PUNCT
+11 1 11 3 4 7 5 7 11 11 0 19 19 19 19 19 18 16 11 19 20 19 22 23 19 19 28 19 32 32 32 28 32 33 32 38 38 32 38 42 42 38 42 42 44 45 46 11
+
+Sau khi vụ_việc xảy_ra , cơ_quan đã tổ_chức kiểm_điểm về việc đảng_viên đi vào những chỗ không lành_mạnh .
+Cs Nt Nn Vv PU Nn R Vv Vv Cs Nn Nn Vv Cs Nq Nn R Aa PU
+PREP POBJ NSUBJ CCOMP PUNCT NSUBJ ADJUNCT ROOT VMOD PREP POBJ NSUBJ CCOMP PREP DET POBJ ADJUNCT AMOD PUNCT
+8 1 4 2 8 8 8 0 8 9 10 13 11 13 16 14 18 16 8
+
+Những dư_luận liên_quan đến mình tôi đã giải_trình và đã có báo_cáo với Viện Kiểm_sát cấp trên .
+Nq Nn Vv Cs Nn Pp R Vv Cp R Ve Nn Cs Nn Vv Nn Nn PU
+DET OBJ RCMOD PREP POBJ NSUBJ ADJUNCT ROOT CC ADJUNCT CONJ OBJ PREP POBJ VMOD NN NN PUNCT
+2 8 2 3 4 8 8 0 8 11 8 11 12 13 14 14 16 8
+
+Mình cũng ở cấp lãnh_đạo , phụ_trách điều_tra , nhưng trong vụ này từ khi có dư_luận , tiếng_tăm thì mình không theo_dõi .
+Pp R Vv Nn Nn PU Vv Vv PU Cp Cs Nn Pd Cs Nt Ve Nn PU Nn Cp Pp R Vv PU
+NSUBJ ADJUNCT ROOT OBJ NN PUNCT CONJ VMOD PUNCT CC PREP POBJ DET PREP POBJ CCOMP OBJ PUNCT CONJ CC NSUBJ ADJUNCT CONJ PUNCT
+3 3 0 3 4 3 3 7 3 3 23 11 12 23 14 15 16 17 17 23 23 23 3 3
+
+Để khách_quan hơn , các vấn_đề dính đến tôi , đề_nghị anh_em phóng_viên nên hỏi viện trưởng , lãnh_đạo cơ_quan điều_tra , vì nếu nói thì bao_giờ tôi cũng nói có lợi về phía mình ... " .
+Cs Aa R PU Nq Nn Vv Cs Pp PU Vv Nn Nn Vv Vv Nn Sv PU Nn Nn Vv PU Cs Cp Vv Cp Pp Pp R Vv Ve Nn Cs Nn Pp PU PU PU
+PREP PCOMP ADJUNCT PUNCT DET OBJ RCMOD PREP POBJ PUNCT ROOT NSUBJ NN CCOMP VMOD OBJ SINO PUNCT CONJ NN VMOD PUNCT MARK CC ADVCL CC NP_ADVMOD NSUBJ ADJUNCT CONJ VMOD OBJ PREP POBJ NN PUNCT PUNCT PUNCT
+11 1 2 11 6 11 6 7 8 11 0 14 12 11 14 15 16 16 16 19 20 15 25 25 15 25 30 30 30 25 30 31 32 33 34 14 11 11
+
+Các phóng_viên đã đặt ra khá nhiều câu hỏi , nhưng ông Phương từ_chối trả_lời và nói không phản_ứng gì dù những vấn_đề đặt ra ảnh_hưởng trực_tiếp đến uy_tín của ông .
+Nq Nn R Vv R R Aa Nn Vv PU Cp Nn Nr Vv Vv Cp Vv R Vv M Cp Nq Nn Vv R Vv Aa Cs Nn Cs Pp PU
+DET NSUBJ ADJUNCT ROOT ADJUNCT ADJUNCT AMOD OBJ VMOD PUNCT CC NSUBJ NN CONJ VMOD CC CONJ ADJUNCT XCOMP INTJ CC DET NSUBJ RCMOD ADJUNCT CONJ ACOMP PREP POBJ PREP POBJ PUNCT
+2 4 4 0 4 7 8 4 8 4 4 14 12 4 14 14 14 19 17 19 14 23 26 23 24 14 26 26 28 29 30 4
+
+Thế nhưng , ngay cả ông viện trưởng VKS nhân_dân tỉnh cũng không_thể nào lý_giải được câu hỏi mà chúng_tôi đặt ra đối_với ông : " Tại sao bắt quả_tang bốn cô gái bán_dâm mà chỉ có ba đối_tượng đi mua_dâm ? " .
+Pp Cp PU M Nw Nc Nn Sv X Aa Nun R R R Vv R Nn Vv Cs Pp Vv R Cs Pp PU PU Cp Pp Vv R Num Nc Nn Vv Cp R Ve Num Nn Vv Vv PU PU PU
+ROOT CC PUNCT INTJ DET NN CLF SINO NSUBJ AMOD NN ADJUNCT ADJUNCT ADJUNCT CONJ ADJUNCT OBJ VMOD MARK NSUBJ CCOMP ADJUNCT PREP POBJ PUNCT PUNCT CC DEP CCOMP ADJUNCT NUM OBJ CLF VMOD CC ADJUNCT CCOMP NUM OBJ RCMOD VMOD PUNCT PUNCT PUNCT
+0 1 1 9 9 9 6 7 15 9 9 13 15 13 1 15 15 17 21 21 17 21 21 23 29 29 29 29 17 29 32 29 32 32 29 37 29 39 37 39 40 29 29 1
+
+Đặc_biệt , trong vụ án đang được xét_xử có hai bị_cáo đi mua_dâm hai cô gái chưa thành_niên thì bị khởi_tố và truy_tố .
+Aa PU Cs Nc Nn R Vv Vv Ve Num Nn Vv Vv Num Nc Nn R Aa Cp Vv Vv Cp Vv PU
+ADJP_ADVMOD PUNCT PREP POBJ CLF ADJUNCT RCMOD VMOD ROOT NUM NSUBJ RCMOD VMOD NUM CONJ CLF ADJUNCT AMOD CC CCOMP VMOD CC CONJ PUNCT
+9 9 9 3 4 7 4 7 0 11 20 11 12 15 11 15 18 15 20 9 20 21 21 9
+
+Nhưng cũng hai cô gái chưa thành_niên này LBRK trong số bốn cô RBRK - bốn đối_tượng LBRK Lý , Thành , Thu và Phương RBRK hẹn đến mua_dâm ở khách_sạn Ngọc_Vân 2 thì vẫn yên_vị ?
+Cp R Num Nc Nn R Aa Pd LBRK Cs Nn Num Nn RBRK PU Num Nn LBRK Nr PU Nr PU Nr Cp Nr RBRK Vv Vv Vv Cs Nn Nr An Cp R Vv PU
+CC ADJUNCT NUM NSUBJ CLF ADJUNCT AMOD DET PUNCT PARATAXIS POBJ NUM NN PUNCT PUNCT NUM CONJ PUNCT PARATAXIS PUNCT CONJ PUNCT CONJ CC CONJ PUNCT ROOT VMOD VMOD PREP POBJ NN AMOD CC ADJUNCT CONJ PUNCT
+27 4 4 27 4 7 4 4 4 4 10 13 11 4 4 17 4 17 17 19 19 21 21 23 23 17 0 27 28 29 30 31 31 27 36 27 27
+
+" Chúng_tôi thống_nhất với cơ_quan điều_tra vụ nào đã kết_luận thì đưa ra xử trước , còn thì tách ra tiếp_tục điều_tra làm rõ " , ông Nguyễn_Thành_Thượng trả_lời .
+PU Pp Vv Cs Nn Vv Nn Pd R Vv Cp Vv R Vv Nn PU Cp Cp Vv R Vv Vv Vv Aa PU PU Nn Nr Vv PU
+PUNCT NSUBJ CCOMP PREP POBJ VMOD NSUBJ DET ADJUNCT RCMOD CC CCOMP ADJUNCT VMOD OBJ PUNCT CC CC CONJ ADJUNCT VMOD VMOD VMOD ACOMP PUNCT PUNCT NSUBJ NN ROOT PUNCT
+29 3 29 3 4 5 12 7 10 7 12 3 12 12 14 12 12 19 12 19 19 21 22 23 29 29 29 27 0 29
+
+Chiều 31_-_3 , Cơ_quan cảnh_sát điều_tra Công_an Bình_Dương cũng cho biết đã thống_nhất với VKS theo hướng xử_lý trên .
+Nt Nt PU Nn Nn Vv Nn Nr R Vv Vv R Vv Cs X Vv Nn Vv Nn PU
+NP_ADVMOD NN PUNCT NSUBJ NN VMOD NN NN ADJUNCT ROOT VMOD ADJUNCT XCOMP PREP POBJ VMOD OBJ VMOD NN PUNCT
+10 1 10 10 4 5 5 7 10 0 10 13 11 13 14 13 16 17 17 10
+
+Vụ_việc có bị " chìm_xuồng " ?
+Nn R Vv PU Vv PU PU
+NSUBJ ADJUNCT ROOT PUNCT VMOD PUNCT PUNCT
+3 3 0 3 3 3 3
+
+Theo ông Nguyễn_Thành_Thượng , trước khi vụ án được đưa ra xét_xử , VKS nhân_dân tỉnh cũng đã có báo_cáo với Tỉnh_uỷ về trường_hợp phó viện trưởng Nguyễn_Thành_Phương .
+Vv Nn Nr PU Cs Nt Nc Nn Vv Vv R Vv PU X Aa Nun R R Ve Nn Cs Nn Cs Nn Sv Nn Sv Nr PU
+VMOD OBJ NN PUNCT PREP POBJ NSUBJ CLF CCOMP VMOD ADJUNCT VMOD PUNCT NSUBJ AMOD NN ADJUNCT ADJUNCT ROOT OBJ PREP PCOMP PREP POBJ NN SINO SINO NN PUNCT
+19 1 2 19 19 5 9 7 6 9 10 10 19 19 14 14 18 19 0 19 20 21 20 23 24 25 26 25 19
+
+Tỉnh_uỷ cũng nhất_trí với ý_kiến của VKS về việc tách phần liên_quan đến vụ mua_dâm tại khách_sạn Ngọc_Vân 2 , tiếp_tục điều_tra làm rõ để xử_lý hành_vi phạm tội nếu có .
+Nn R Vv Cs Nn Cs X Cs Nn Vv Nn Vv Cs Ncs Vv Cs Nn Nr An PU Vv Vv Vv Aa Cs Vv Nn Vv Nn Cp Ve PU
+NSUBJ ADJUNCT ROOT PREP POBJ PREP POBJ PREP POBJ XCOMP OBJ RCMOD PREP POBJ CLF PREP POBJ NN AMOD PUNCT CONJ VMOD VMOD ACOMP PREP PCOMP OBJ RCMOD OBJ CC CONJ PUNCT
+3 3 0 3 4 5 6 5 8 9 10 11 12 13 14 14 16 17 17 10 10 21 22 23 22 25 26 27 28 26 26 3
+
+Nhưng thưa ông , việc bắt quả_tang một hành_vi phạm tội mua_bán dâm tại khách_sạn Ngọc_Vân 2 đã hoàn_toàn đủ cơ_sở khởi_tố vụ án , khởi_tố bị_can để điều_tra làm rõ nhưng tại sao cơ_quan điều_tra không làm ?
+Cp E Pp PU Nn Vv R Num Nn Vv Nn Vv Nn Cs Nn Nr An R Aa Aa Nn Vv Nc Nn PU Vv Nn Cs Vv Vv Aa Cp Cp Pp Nn Vv R Vv PU
+CC INTJ VOCATIVE PUNCT NSUBJ RCMOD ADJUNCT NUM OBJ RCMOD OBJ RCMOD OBJ PREP POBJ NN AMOD ADJUNCT ADJP_ADVMOD ROOT OBJ RCMOD OBJ CLF PUNCT CONJ OBJ PREP PCOMP VMOD ACOMP CC CC DEP NSUBJ VMOD ADJUNCT CONJ PUNCT
+20 3 20 20 20 5 6 9 6 9 10 11 12 9 14 15 15 20 20 0 20 21 22 23 22 22 26 26 28 29 30 20 38 38 38 35 38 20 20
+
+Có_lẽ do cơ_quan điều_tra thấy chứng_cứ chưa rõ , chưa đầy_đủ .
+R Cp Nn Vv Vv Nn R Aa PU R Aa PU
+ADJUNCT CC NSUBJ VMOD ROOT NSUBJ ADJUNCT CCOMP PUNCT ADJUNCT CONJ PUNCT
+5 5 5 3 0 8 8 5 8 11 8 5
+
+Nhưng đến nay đã ba năm kể từ thời_điểm đường_dây mua_bán dâm bị phanh_phui và khi vụ án được đưa ra xét_xử , mới lộ ra sự_việc ông phó trưởng cùng ba đối_tượng .
+Cp Cs Nt R Num Nu Vv Cs Nt Nn Vv Nn Vv Vv Cp Nt Nc Nn Vv Vv R Vv PU R Vv R Nn Nc Sv Sv Cp Num Nn PU
+CC PREP POBJ ADJUNCT NUM PARATAXIS RCMOD PREP POBJ NSUBJ RCMOD OBJ CCOMP VMOD PCOMP POBJ NSUBJ CLF CCOMP VMOD ADJUNCT VMOD PUNCT ADJUNCT ROOT ADJUNCT OBJ NN SINO CLF CC NUM CONJ PUNCT
+25 25 2 6 6 3 6 7 8 13 10 11 9 13 8 8 19 17 16 19 20 20 25 25 0 25 25 27 30 28 28 33 28 25
+
+Liệu rằng việc tách ra để điều_tra xử_lý tiếp_theo cũng sẽ " chìm_xuồng " như thực_tế nhiều vụ " tách ra điều_tra " của cơ_quan điều_tra ?
+Vv Cs Nn Vv R Cs Vv Vv Vv R R PU Vv PU Cs Nn Aa Nn PU Vv R Vv PU Cs Nn Vv PU
+ROOT MARK NSUBJ RCMOD ADJUNCT PREP PCOMP VMOD VMOD ADJUNCT ADJUNCT PUNCT CCOMP PUNCT PREP POBJ AMOD NN PUNCT RCMOD ADJUNCT VMOD PUNCT PREP POBJ VMOD PUNCT
+0 13 13 3 4 4 6 7 8 11 13 13 1 13 13 15 18 16 18 18 20 20 18 18 24 25 1
+
+Quan_điểm của tôi nếu vi_phạm thì phải bị xử_lý - dù bất_cứ người đó là ai , nhưng phải đúng người , đúng tội .
+Nn Cs Pp Cp Vv Cp Vv Vv Vv PU Cp R Nn Pd Vc Pp PU Cp Vv Aa Nn PU Aa Nn PU
+NSUBJ PREP POBJ CC ROOT CC CONJ VMOD VMOD PUNCT CC ADJUNCT NSUBJ DET CONJ ATTR PUNCT CC CONJ ACOMP OBJ PUNCT CONJ OBJ PUNCT
+5 1 2 5 0 5 5 7 8 5 5 13 15 13 5 15 5 5 5 19 20 20 20 23 5
+
+Tách ra điều_tra là đúng , để không làm ảnh_hưởng đến việc điều_tra chung .
+Vv R Vv M Aa PU Cs R Vv Vv Cs Ncs Vv Aa PU
+VSUBJ ADJUNCT VMOD INTJ ROOT PUNCT PREP ADJUNCT PCOMP VMOD PREP POBJ CLF AMOD PUNCT
+5 1 1 5 0 5 5 9 7 9 10 11 12 12 5
+
+Trong vụ này , tôi tin cơ_quan điều_tra sẽ làm tới_nơi_tới_chốn , không để " chìm_xuồng " !
+Cs Nn Pd PU Pp Vv Nn Vv R Vv ID PU R Vv PU Vv PU PU
+PREP POBJ DET PUNCT NSUBJ ROOT NSUBJ VMOD ADJUNCT CCOMP ACOMP PUNCT ADJUNCT CONJ PUNCT VMOD PUNCT PUNCT
+6 1 2 6 6 0 10 7 10 6 10 10 14 10 14 14 14 6
+
+Theo ông , vì sao bốn người cùng rủ nhau đi đến khách_sạn mua_dâm nhưng ông Phương lại không vào phòng đúng lúc công_an ập vào bắt quả_tang ?
+Vv Pp PU Cp Pp Num Nn Aa Vv Nn Vv Cs Nn Vv Cp Nn Nr R R Vv Nn Aa Nt Nn Vv D Vv R PU
+ROOT OBJ PUNCT CC OBJ NUM NSUBJ CCOMP VMOD OBJ VMOD PREP POBJ VMOD CC NSUBJ NN ADJUNCT ADJUNCT CCOMP OBJ ADJP_ADVMOD OBJ NSUBJ CCOMP VMOD VMOD ADJUNCT PUNCT
+0 1 1 1 1 7 8 1 8 9 9 11 12 11 1 20 16 19 20 1 20 20 22 25 23 25 25 27 1
+
+Tôi nghĩ lúc đầu họ nhậu rồi rủ nhau đi hát karaoke cũng là chuyện bình_thường , nhưng khi ba người kia vào phòng thì phát_sinh ... .
+Pp Vv Nt Nn Pp Vv Cp Vv Nn Vv Vv FW R Vc Nn Aa PU Cp Nt Num Nn Pd Vv Nn Cp Vv PU PU
+NSUBJ ROOT NP_ADVMOD NN NSUBJ CSUBJ CC CONJ OBJ VMOD VMOD OBJ ADJUNCT CCOMP ATTR AMOD PUNCT CC NP_ADVMOD NUM NSUBJ DET CCOMP OBJ CC CONJ PUNCT PUNCT
+2 0 14 3 6 14 6 6 8 8 10 11 14 2 14 15 2 2 26 21 23 21 19 23 26 2 2 2
+
+Phó viện trưởng Nguyễn_Thành_Phương được phân_công phụ_trách lĩnh_vực cảnh_sát , nhưng cũng chính bộ_phận này của VKS ra cáo_trạng truy_tố các bị_cáo thì liệu có khách_quan ?
+Sv Nn Sv Nr Vv Vv Vv Nn Nn PU Cp R M Nn Pd Cs X Vv Nn Vv Nq Nn Cp Vv R Aa PU
+NSUBJ SINO SINO NN ROOT VMOD VMOD OBJ NN PUNCT CC ADJUNCT INTJ NSUBJ DET PREP POBJ CONJ OBJ RCMOD DET OBJ CC CONJ ADJUNCT CCOMP PUNCT
+5 1 2 1 0 5 6 7 8 5 5 14 14 18 14 14 16 5 18 19 22 20 18 18 26 24 5
+
+Quá_trình kết_thúc điều_tra , lập cáo_trạng liên_quan đến các bộ_phận khác , tôi nghĩ các điều_tra viên , kiểm_sát viên làm đúng theo pháp_luật , không bị sức_ép nào đâu .
+Nn Vv Nn PU Vv Nn Vv Cs Nq Nn Aa PU Pp Vv Nq Vv Sv PU Vv Sv Vv Aa Vv Nn PU R Vv Nn Pd M PU
+NSUBJ RCMOD OBJ PUNCT CONJ OBJ ROOT PREP DET POBJ AMOD PUNCT NSUBJ CONJ DET NSUBJ SINO PUNCT NN SINO CCOMP ACOMP VMOD OBJ PUNCT ADJUNCT CONJ OBJ DET INTJ PUNCT
+7 1 2 2 2 5 0 7 10 8 10 7 14 7 16 21 16 16 16 19 14 21 22 23 21 27 21 27 28 27 7
+
+VKS nhân_dân tỉnh đã có động_thái nào khi lộ ra việc ông Phương cùng ba đối_tượng mua_dâm bị dư_luận lên_tiếng ?
+X Aa Nun R Ve Nn Pd Nt Vv R Nn Nn Nr Cp Num Nn Vv Vv Nn Vv PU
+NSUBJ AMOD NN ADJUNCT ROOT OBJ DEP NN XCOMP ADJUNCT OBJ NSUBJ NN CC NUM CONJ VMOD CCOMP NSUBJ CCOMP PUNCT
+5 1 1 5 0 5 6 6 8 9 9 18 12 12 16 12 16 11 20 18 5
+
+Trước_mắt tôi sẽ yêu_cầu ông Phương báo_cáo lại vụ_việc .
+Nn Pp R Vv Nn Nr Vv R Nn PU
+NP_ADVMOD NSUBJ ADJUNCT ROOT NSUBJ NN CCOMP ADJUNCT OBJ PUNCT
+4 4 4 0 7 5 4 7 7 4
+
+Tại phiên toà đang xét_xử , luật_sư Phạm_Hữu_Tình đề_nghị tạm hoãn phiên toà còn có lý_do các lời khai , bút_lục liên_quan đến bốn đối_tượng mua_dâm nói trên chỉ là bản photocopy LBRK về nguyên_tắc tố_tụng những bút_lục này không có giá_trị RBRK , không phải bản_chính .
+Cs Nc Nn R Vv PU Nn Nr Vv Aa Vv Nc Nn R Ve Nn Nq Nn Vv PU Nn Vv Cs Num Nn Vv Vv Nn R Vc Nn FW LBRK Cs Nn Vv Nq Nn Pd R Ve Nn RBRK PU R Aa Nn PU
+PREP POBJ CLF ADJUNCT RCMOD PUNCT NSUBJ NN ROOT ACOMP VMOD OBJ CLF ADJUNCT CONJ OBJ DET NSUBJ VMOD PUNCT CONJ RCMOD PREP NUM POBJ VMOD RCMOD OBJ ADJUNCT CCOMP ATTR DEP PUNCT PREP POBJ VMOD DET NSUBJ DET ADJUNCT PARATAXIS OBJ PUNCT PUNCT ADJUNCT AMOD CONJ PUNCT
+9 1 2 5 2 9 9 7 0 11 9 11 12 15 9 15 18 30 18 18 18 21 22 25 23 25 25 27 30 16 30 31 31 41 34 35 38 41 38 41 31 41 31 30 46 47 30 9
+
+Ông thấy sao ?
+Pp Vv Pp PU
+NSUBJ ROOT OBJ PUNCT
+2 0 2 2
+
+Có_lẽ do sơ_sót , anh_em kiểm_tra không kỹ nhưng theo tôi không làm thay_đổi được bản_chất của vụ án .
+R Cs Nn PU Nn Vv R Aa Cp Vv Pp R Vv Vv R Nn Cs Nc Nn PU
+ADJUNCT PREP POBJ PUNCT NSUBJ ROOT ADJUNCT ACOMP CC VMOD OBJ ADJUNCT CONJ VMOD ADJUNCT OBJ PREP POBJ CLF PUNCT
+6 6 2 6 6 0 8 6 6 13 10 13 6 13 14 14 16 17 18 6
+

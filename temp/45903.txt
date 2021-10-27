@@ -1,0 +1,340 @@
+Gặp hai người bạn quý của VN .
+Vv Num Nc Nn Aa Cs Nr PU
+ROOT NUM OBJ CLF AMOD PREP POBJ PUNCT
+0 3 1 3 3 3 6 1
+
+Ông Henri_Martin và bà Raymonde_Dien là hai người đảng_viên Đảng Cộng_sản Pháp đã từng đứng lên đấu_tranh chống lại cuộc chiến phi_nghĩa của thực_dân Pháp tại VN .
+Nn Nr Cp Nn Nr Vc Num Nc Nn Nn Aa Nr R R Vv R Vv Vv R Ncs Vv Aa Cs Nn Nr Cs Nr PU
+NSUBJ NN CC CONJ NN ROOT NUM NN CLF ATTR AMOD NN ADJUNCT CONJ CONJ ADJUNCT VMOD VMOD ADJUNCT OBJ CLF AMOD PREP POBJ NN PREP POBJ PUNCT
+6 1 1 1 4 0 10 10 8 6 10 10 15 13 6 15 15 17 18 18 20 20 20 23 24 20 26 6
+
+Những ngày này , họ trở_lại VN theo lời mời của Liên_hiệp Các tổ_chức hữu_nghị VN để dự ngày quốc_khánh của đất_nước mà họ luôn mến_yêu ...
+Nq Nu Pd PU Pp Vv Nr Vv Nn Vv Cs Nn Nq Nn Aa Nr Cs Vv Nt Nn Cs Nn Cs Pp R Vv PU
+DET NP_ADVMOD DET PUNCT NSUBJ ROOT NP_ADVMOD VMOD OBJ VMOD PREP POBJ DET NN AMOD NN PREP PCOMP OBJ NN PREP POBJ MARK NSUBJ ADJUNCT CCOMP PUNCT
+2 6 2 6 6 0 6 6 8 9 9 11 14 12 14 14 6 17 18 19 19 21 26 26 26 22 6
+
+Họ đã đấu_tranh cho hoà_bình của VN .
+Pp R Vv Cs Nn Cs Nr PU
+NSUBJ ADJUNCT ROOT PREP POBJ PREP POBJ PUNCT
+3 3 0 3 4 5 6 3
+
+Không_chỉ những bạn trẻ có_mặt trong buổi giao_lưu cứ trầm_trồ khi biết hai người đảng_viên Đảng Cộng_sản Pháp hôm_nay họ gặp lại là những nhân_vật đã đi vào những bài_học thời niên_thiếu của mình .
+Cp Nq Nn Aa Aa Cs Nt Vv R Vv Nt Vv Num Nc Nn Nn Aa Nr Nt Pp Vv R Vc Nq Nn R Vv Cs Nq Nn Nt Aa Cs Pp PU
+CC DET NSUBJ AMOD AMOD PREP POBJ VMOD ADJUNCT ROOT NP_ADVMOD XCOMP NUM NN CLF NSUBJ AMOD NN NP_ADVMOD NSUBJ CCOMP ADJUNCT CCOMP DET ATTR ADJUNCT RCMOD PREP DET POBJ NP_ADVMOD AMOD PREP POBJ PUNCT
+10 3 10 3 3 5 6 7 10 0 10 11 16 16 14 23 16 16 21 21 16 23 12 25 23 27 25 27 30 28 30 31 31 33 10
+
+Một người con gái 17 tuổi đã từng nằm trên đường_ray xe_lửa để chặn đoàn tàu chở vũ_khí và xe_tăng sang phục_vụ cuộc chiến của thực_dân Pháp tại VN .
+Num Nc Nn Nn Num Nn R R Vv Cs Nn Nn Cs Vv Nn Nn Vv Nn Cp Nn Vv Vv Ncs Vv Cs Nn Nr Cs Nr PU
+NUM NN CLF CLF NUM NSUBJ ADJUNCT CONJ ROOT PREP POBJ NN PREP PCOMP OBJ NN RCMOD OBJ CC CONJ VMOD VMOD OBJ CLF PREP POBJ NN PREP POBJ PUNCT
+6 6 2 2 6 9 9 7 0 9 10 11 9 13 14 15 15 17 18 18 17 21 22 23 23 25 26 23 28 9
+
+Hay một người lính hải_quân Pháp đã rải truyền_đơn cho người dân nước Pháp cùng chống lại cuộc chiến phi_nghĩa của quân_đội Pháp tại VN .
+Cp Num Nc Nn Nn Nr R Vv Nn Cs Nc Nn Nn Nr Aa Vv R Ncs Vv Aa Cs Nn Nr Cs Nr PU
+CC NUM NN CLF NSUBJ NN ADJUNCT ROOT OBJ PREP NN CLF POBJ NN ACOMP VMOD ADJUNCT OBJ CLF AMOD PREP POBJ NN PREP POBJ PUNCT
+8 5 5 3 8 5 8 0 8 8 13 11 10 13 16 8 16 16 18 18 18 21 22 18 24 8
+
+Nhiều bạn trẻ đã thắc_mắc : " Chúng cháu được học về gương dũng_cảm của chị Raymonde_Dien ở chương_trình giáo_dục công_dân lớp 5 , tại sao lúc ấy cô chưa biết VN - một đất_nước xa_xôi - mà vẫn dám đứng lên đấu_tranh cho dân_tộc chúng cháu ? " .
+Aa Nn Aa R Vv PU PU R Pp Vv Vv Cs Nn Aa Cs Nn Nr Cs Nn Nn Nn Nn An PU Cp Pp Nt Pd Pp R Vv Nr PU Num Nn Aa PU Cp R Vv Vv R Vv Cs Nn R Pp PU PU PU
+AMOD NSUBJ AMOD ADJUNCT ROOT PUNCT PUNCT ADJUNCT NSUBJ CCOMP VMOD PREP POBJ AMOD PREP POBJ NN PREP POBJ NN CONJ NN AMOD PUNCT CC DEP NP_ADVMOD DET NSUBJ ADJUNCT CCOMP OBJ PUNCT NUM NSUBJ PARATAXIS PUNCT CC ADJUNCT CONJ VMOD ADJUNCT VMOD PREP POBJ ADJUNCT NN PUNCT PUNCT PUNCT
+2 5 2 5 0 31 31 9 10 31 10 11 12 13 13 15 16 11 18 19 20 20 22 31 31 31 31 27 31 31 5 31 32 35 36 32 32 31 40 31 40 41 41 43 44 47 45 31 31 5
+
+Bà Raymonde_Dien chia_sẻ : " Cha tôi bị bắt , chị tôi bị đày và anh trai tôi đã bị bắn .
+Nn Nr Vv PU PU Nn Pp Vv Vv PU Nn Pp Vv Vv Cp Nn Nn Pp R Vv Vv PU
+NSUBJ NN ROOT PUNCT PUNCT NSUBJ NN CCOMP VMOD PUNCT NSUBJ NN CONJ VMOD CC NSUBJ NN NN ADJUNCT CONJ VMOD PUNCT
+3 1 0 8 8 8 6 3 8 8 13 11 8 13 13 20 16 16 20 13 20 3
+
+Tôi sớm biết cuộc chiến phi_nghĩa của quân_đội viễn_chinh Pháp nên đã đứng dậy đấu_tranh .
+Pp Aa Vv Ncs Vv Aa Cs Nn Vv Nr Cp R Vv Vv Vv PU
+NSUBJ ACOMP ROOT OBJ CLF AMOD PREP POBJ VMOD NN CC ADJUNCT CONJ VMOD VMOD PUNCT
+3 3 0 3 4 4 4 7 8 8 3 13 3 13 14 3
+
+Cuộc chiến diễn ra ở đất_nước VN thì nhiều người cũng sẽ rơi vào hoàn_cảnh như tôi , sẽ có những cảnh con mất cha , vợ lìa chồng " ...
+Ncs Vv Vv R Cs Nn Nr Cp Aa Nn R R Vv Cs Nn Cs Pp PU R Ve Nq Nn Pp Ve Nn PU Nn Vv Nn PU PU
+NSUBJ CLF ROOT ADJUNCT PREP POBJ NN CC AMOD NSUBJ ADJUNCT ADJUNCT CONJ PREP POBJ PREP POBJ PUNCT ADJUNCT PARATAXIS DET OBJ NSUBJ CCOMP OBJ PUNCT NSUBJ CONJ OBJ PUNCT PUNCT
+3 1 0 3 3 5 6 3 10 13 12 13 3 13 14 15 16 15 20 15 22 20 24 22 24 24 28 24 28 3 3
+
+Ông Henri_Martin - người lính hải_quân của quân_đội Pháp năm xưa - kể lại câu_chuyện của mình : " Lúc bấy_giờ tôi cũng trẻ như các bạn ngồi đây .
+Nn Nr PU Nc Nn Nn Cs Nn Nr Nt Nt PU Vv R Nn Cs Pp PU PU Nt Pd Pp R Aa Cs Nq Pp Vv Pd PU
+NSUBJ NN PUNCT PARATAXIS CLF NN PREP POBJ NN NP_ADVMOD NN PUNCT ROOT ADJUNCT OBJ PREP POBJ PUNCT PUNCT NP_ADVMOD DET NSUBJ ADJUNCT CCOMP PREP DET POBJ RCMOD NP_ADVMOD PUNCT
+13 1 1 1 4 4 4 7 8 8 10 1 0 13 13 15 16 24 24 24 20 24 24 15 24 27 25 27 28 13
+
+Tôi cũng đã tham_gia quân_đội để chống phát_xít Đức tại Pháp .
+Pp R R Vv Nn Cs Vv Nn Nr Cs Nr PU
+NSUBJ ADJUNCT ADJUNCT ROOT OBJ PREP PCOMP OBJ NN PREP POBJ PUNCT
+4 3 4 0 4 4 6 7 8 7 10 4
+
+Và tôi được cử sang VN để giúp người VN chống phát_xít Nhật .
+M Pp Vv Vv Vv Nr Cs Vv Nn Nr Vv Nn Nr PU
+INTJ NSUBJ ROOT VMOD VMOD OBJ PREP PCOMP OBJ NN VMOD OBJ NN PUNCT
+3 3 0 3 4 5 5 7 8 9 8 11 12 3
+
+Nhưng khi đặt_chân đến VN tôi đã nhận ra đây không phải là cuộc chiến chống phát_xít Nhật , mà là cuộc chiến_tranh của quân_đội viễn_chinh Pháp diễn ra tại VN .
+Cp Nt Vv Vv Nr Pp R Vv R Pd R Aa Vc Ncs Vv Vv Nn Nr PU Cp Vc Nc Nn Cs Nn Vv Nr Vv R Cs Nr PU
+CC NP_ADVMOD XCOMP VMOD NP_ADVMOD NSUBJ ADJUNCT ROOT ADJUNCT NSUBJ ADJUNCT ACOMP CCOMP ATTR CLF RCMOD OBJ NN PUNCT CC CONJ ATTR CLF PREP POBJ VMOD NN RCMOD ADJUNCT PREP POBJ PUNCT
+8 8 2 3 4 8 8 0 8 13 12 13 8 13 14 14 16 17 13 13 13 21 22 22 24 25 25 22 28 28 30 8
+
+Đó là cuộc chiến_tranh phi_nghĩa .
+Pd Vc Nc Nn Aa PU
+NSUBJ ROOT ATTR CLF AMOD PUNCT
+2 0 2 3 3 2
+
+Đoàn quân chúng_tôi sang VN là quân xâm_lược chứ không phải là những người đi bảo_vệ nhân_dân .
+Nn Nn Pp Vv Nr Vc Nn Vv Cp R Aa Vc Nq Nn Vv Vv Nn PU
+NSUBJ NN NN RCMOD NP_ADVMOD ROOT ATTR VMOD CC ADJUNCT ACOMP CONJ DET ATTR RCMOD VMOD OBJ PUNCT
+6 1 1 1 4 0 6 7 6 11 12 6 14 12 14 15 16 6
+
+Tôi đã tìm cách trở_về Pháp phối_hợp Đảng Cộng_sản Pháp dấy lên phong_trào chống cuộc chiến_tranh phi_nghĩa đó .
+Pp R Vv Nn Vv Nr Vv Nn Aa Nr Vv R Nn Vv Nc Nn Aa Pd PU
+NSUBJ ADJUNCT ROOT OBJ RCMOD NP_ADVMOD VMOD OBJ AMOD NN VMOD ADJUNCT OBJ RCMOD OBJ CLF AMOD DET PUNCT
+3 3 0 3 4 5 5 7 8 8 7 11 11 13 14 15 15 15 3
+
+Tôi hoạt_động bí_mật để chống chiến_tranh và đi phát truyền_đơn nêu khẩu_hiệu chống chiến_tranh .
+Pp Vv Nn Cs Vv Nn Cp Vv Vv Nn Vv Nn Vv Nn PU
+NSUBJ ROOT OBJ PREP PCOMP OBJ CC CONJ VMOD OBJ RCMOD OBJ RCMOD OBJ PUNCT
+2 0 2 2 4 5 2 2 8 9 10 11 12 13 2
+
+Phong_trào lan_truyền mạnh_mẽ hơn .
+Nn Vv Aa R PU
+NSUBJ ROOT ACOMP ADJUNCT PUNCT
+2 0 2 3 2
+
+Tôi bị bắt và toà_án xử 5 năm tù_đày " .
+Pp Vv Vv Cp Nn Vv Num Nu Vv PU PU
+NSUBJ ROOT VMOD CC NSUBJ CONJ NUM NP_ADVMOD VMOD PUNCT PUNCT
+2 0 2 2 6 2 8 6 8 2 2
+
+Sự_kiện của ông đã làm toàn dân Pháp càng phẫn_nộ với cuộc chiến chết_chóc này .
+Nn Cs Pp R Vv Nw Nn Nr R Aa Cs Ncs Vv Vv Pd PU
+NSUBJ PREP POBJ ADJUNCT ROOT DET CCOMP NN ADJUNCT DEP PREP POBJ CLF VMOD DET PUNCT
+5 1 2 5 0 7 5 7 10 7 10 11 12 12 12 5
+
+Không chỉ thế , tại hội_nghị Paris về VN ông cũng đóng_góp nhiều cho việc chấm_dứt chiến_tranh lập lại hoà_bình tại VN LBRK từ 13_-_5_-_1968 đến 27_-_1_-_1973 RBRK .
+R R Pp PU Cs Nn Nr Cs Nr Pp R Vv Aa Cs Ncs Vv Nn Vv R Nn Cs Nr LBRK Cs Nt Cs Nt RBRK PU
+ADJUNCT ADJUNCT NP_ADVMOD PUNCT PREP POBJ NN PREP POBJ NSUBJ ADJUNCT ROOT ACOMP PREP POBJ RCMOD OBJ CONJ ADJUNCT OBJ PREP POBJ PUNCT PARATAXIS POBJ CONJ POBJ PUNCT PUNCT
+3 1 12 12 12 5 6 6 8 12 12 0 12 12 14 15 16 16 18 18 20 21 12 12 24 24 26 12 12
+
+Ông đã trở_thành người bạn thân_thiết với toàn_thể nhân_dân VN .
+Pp R Vv Nc Nn Aa Cs Nw Nn Nr PU
+NSUBJ ADJUNCT ROOT OBJ CLF AMOD PREP DET POBJ NN PUNCT
+3 3 0 3 4 4 4 9 7 9 3
+
+Bà Raymonde_Dien tâm_sự : " Những việc_làm của tôi rất nhỏ_bé so với những đóng_góp lớn_lao của nhiều thế_hệ VN trong cuộc kháng_chiến giành độc_lập từ 1939 - 1945 .
+Nn Nr Vv PU PU Nq Nn Cs Pp R Aa Vv Cs Nq Nn Aa Cs Aa Nn Nr Cs Ncs Vv Vv Nn Cs Num PU Num PU
+NSUBJ NN ROOT PUNCT PUNCT DET NSUBJ PREP POBJ ADJUNCT CCOMP VMOD PREP DEP PCOMP ACOMP PREP AMOD POBJ NN PREP POBJ CLF RCMOD OBJ PREP PCOMP PUNCT CONJ PUNCT
+3 1 0 11 11 7 11 7 8 11 3 11 12 15 13 15 15 19 17 19 15 21 22 22 24 24 26 27 27 3
+
+Tôi sinh ra trong gia_đình nghèo .
+Pp Vv R Cs Nn Aa PU
+NSUBJ ROOT ADJUNCT PREP POBJ AMOD PUNCT
+2 0 2 2 4 5 2
+
+Cha là thợ , mẹ là nông_dân .
+Nn Vc Nn PU Nn Vc Nn PU
+NSUBJ ROOT ATTR PUNCT NSUBJ CONJ ATTR PUNCT
+2 0 2 2 6 2 6 2
+
+Cha tôi bị phát_xít Đức bắt giam bên Áo .
+Nn Pp Vv Nn Nr Vv Vv Nn Nr PU
+NSUBJ NN ROOT NSUBJ NN CCOMP VMOD NP_ADVMOD NN PUNCT
+3 1 0 6 4 3 6 7 8 3
+
+17 tuổi tôi là thư_ký đánh_máy cho văn_phòng Đảng Cộng_sản Pháp .
+Num Nn Pp Vc Nn Vv Cs Nn Nn Aa Nr PU
+NUM NP_ADVMOD NSUBJ ROOT ATTR VMOD PREP POBJ NN AMOD NN PUNCT
+2 4 4 0 4 5 5 7 8 9 9 4
+
+Nhiều thông_tin về chiến_tranh VN được đưa trên Báo Nhân_Đạo .
+Aa Nn Cs Nn Nr Vv Vv Cs Nn Nn PU
+AMOD NSUBJ PREP POBJ NN ROOT VMOD PREP POBJ NN PUNCT
+2 6 2 3 4 0 6 7 8 9 6
+
+Tôi đã vận_động những người công_nhân cùng chống lại cuộc chiến_tranh bẩn_thỉu đó .
+Pp R Vv Nq Nc Nn Aa Vv R Nc Nn Aa Pd PU
+NSUBJ ADJUNCT ROOT DET OBJ CLF ACOMP VMOD ADJUNCT OBJ CLF AMOD DET PUNCT
+3 3 0 5 3 5 8 3 8 8 10 10 10 3
+
+Một hôm tôi biết có đoàn tàu chở vũ_khí , xe_tăng sang VN .
+Num Nt Pp Vv Ve Nn Nn Vv Nn PU Nn Vv Nr PU
+NUM NP_ADVMOD NSUBJ ROOT CCOMP OBJ CONJ RCMOD OBJ PUNCT CONJ VMOD NP_ADVMOD PUNCT
+2 4 4 0 4 5 6 6 8 9 9 8 12 4
+
+Tôi đã cùng hàng trăm người đấu_tranh , và tại nhà_ga Saint_Pierre_des_Corps LBRK thành_phố Tours RBRK ngày 23_-_2_-_1950 tôi đã nằm dài ra trên đường_ray .
+Pp R Cp R Nq Nn Vv PU Cp Cs Nn Nr LBRK Nun Nr RBRK Nt Nt Pp R Vv Aa R Cs Nn PU
+NSUBJ ADJUNCT CC ADJUNCT NUM CONJ ROOT PUNCT CC PREP POBJ NN PUNCT PARATAXIS NN PUNCT NP_ADVMOD NN NSUBJ ADJUNCT CONJ ADJP_ADVMOD ADJUNCT PREP POBJ PUNCT
+7 3 1 5 6 1 0 7 7 21 10 11 11 11 14 11 21 17 21 21 7 21 22 22 24 7
+
+Đoàn tàu đó dừng lại , chứ không thì hôm_nay tôi đã không có_mặt với các bạn tại đây .
+Nn Nn Pd Vv R PU Cp R Cp Nt Pp R R Aa Cs Nq Pp Cs Pd PU
+NSUBJ NN DET ROOT ADJUNCT PUNCT CC DEP CC NP_ADVMOD NSUBJ ADJUNCT ADJUNCT CONJ PREP DET POBJ PREP POBJ PUNCT
+4 1 1 0 4 4 14 14 14 14 14 13 14 4 14 17 15 14 18 4
+
+Sau đó cảnh_sát Pháp bắt tôi và dẫn tôi đi giam ở nhà_giam Tours ...
+Cs Pd Nn Nr Vv Pp Cp Vv Pp Vv Vv Cs Nn Nr PU
+PREP POBJ NSUBJ NN ROOT OBJ CC CONJ OBJ VMOD VMOD PREP POBJ NN PUNCT
+5 1 5 3 0 5 5 5 8 8 10 11 12 13 5
+
+Trước lúc đi tôi nói với chồng rằng tôi đi thăm người bạn và chiều đó tôi đã không về , mãi đến 10 tháng sau tôi mới trở_về nhà " .
+Cs Nt Vv Pp Vv Cs Nn Cs Pp Vv Vv Nc Nn Cp Nt Pd Pp R R Vv PU R Cs Num Nu Nn Pp R Vv Nn PU PU
+PREP POBJ XCOMP NSUBJ ROOT PREP POBJ MARK NSUBJ CCOMP CONJ OBJ CLF CC NP_ADVMOD DET NSUBJ ADJUNCT ADJUNCT CONJ PUNCT ADJUNCT PREP NUM POBJ NN NSUBJ ADJUNCT CONJ NP_ADVMOD PUNCT PUNCT
+5 1 2 5 0 5 6 10 10 5 10 10 12 5 20 15 20 19 20 5 20 23 29 25 23 25 29 29 20 29 5 5
+
+Ra tù bà tiếp_tục tham_gia đảng_bộ cộng_sản địa_phương và tích_cực tham_gia các phong_trào đấu_tranh của Đảng Cộng_sản Pháp trong cuộc đấu_tranh tại VN .
+Vv Vv Pp Vv Vv Nn Nn Nn Cp Aa Vv Nq Nn Nn Cs Nn Aa Nr Cs Nc Nn Cs Nr PU
+XCOMP CONJ NSUBJ ROOT VMOD OBJ NN NN CC ACOMP CONJ DET OBJ NN PREP POBJ AMOD NN PREP POBJ CLF PREP POBJ PUNCT
+4 1 4 0 4 5 6 6 4 11 4 13 11 13 13 15 16 16 13 19 20 20 22 4
+
+Họ tiếp_tục cuộc đấu_tranh vì công_lý .
+Pp Vv Ncs Vv Cs Nn PU
+NSUBJ ROOT OBJ CLF PREP POBJ PUNCT
+2 0 2 3 2 5 2
+
+Năm 1956 hai người có cơ_hội đến VN trong đoàn thanh_niên cộng_sản Pháp được Bác Hồ tiếp .
+Nt Num Num Nn Ve Nn Vv Nr Cs Nn Nn Aa Nr Vv Nn Nr Vv PU
+NP_ADVMOD NUM NUM NSUBJ ROOT OBJ RCMOD NP_ADVMOD PREP NN POBJ AMOD NN RCMOD NSUBJ NN CCOMP PUNCT
+5 1 4 5 0 5 6 7 7 11 9 11 11 11 17 15 14 5
+
+Ông Henri_Martin hồ_hởi : " Bác là lãnh_tụ để lại ấn_tượng sâu_sắc trong cuộc_đời tôi .
+Nn Nr Aa PU PU Pp Vc Nn Vv R Nn Aa Cs Nn Pp PU
+NSUBJ NN ROOT PUNCT PUNCT NSUBJ CCOMP ATTR RCMOD ADJUNCT OBJ AMOD PREP POBJ NN PUNCT
+3 1 0 7 7 7 3 7 8 9 9 11 9 13 14 3
+
+Bác Hồ là hiện_thân tất_cả những gì tốt_đẹp nhất .
+Nn Nr Vc Nn Nw Nq Pp Aa R PU
+NSUBJ NN ROOT ATTR DET NN DET AMOD ADJUNCT PUNCT
+3 1 0 3 6 4 6 6 8 3
+
+Bác Hồ với nhân_dân VN là một , là ý_chí quyết_tâm khao_khát độc_lập và ý_chí của nhân_dân VN không từ_nan khó_khăn và theo_đuổi mục_tiêu độc_lập của mình ...
+Nn Nr Cp Nn Nr Vc Num PU Vc Nn Vv Vv Nn Cp Nn Cs Nn Nr R Vv Nn Cp Vv Nn Aa Cs Pp PU
+NSUBJ NN CC CONJ NN ROOT ATTR PUNCT CONJ ATTR RCMOD CONJ OBJ CC CONJ PREP POBJ NN ADJUNCT RCMOD OBJ CC CONJ OBJ AMOD PREP POBJ PUNCT
+6 1 1 1 4 0 6 6 6 9 10 11 11 10 10 15 16 17 20 15 20 20 20 23 24 24 26 6
+
+Lúc đó nước Pháp chuẩn_bị tấn_công Ai_Cập .
+Nt Pd Nn Nr Vv Vv Nr PU
+NP_ADVMOD DET NSUBJ NN ROOT VMOD OBJ PUNCT
+5 1 5 3 0 5 6 5
+
+Tôi quyết_định trở_về ngay để tiếp_tục tham_gia chống cuộc chiến_tranh phi_nghĩa mới .
+Pp Vv Vv R Cs Vv Vv Vv Nc Nn Aa Aa PU
+NSUBJ ROOT VMOD ADJUNCT PREP PCOMP VMOD VMOD OBJ CLF AMOD AMOD PUNCT
+2 0 2 3 3 5 6 7 8 9 9 9 2
+
+Bác Hồ ủng_hộ quyết_định của tôi ... " .
+Nn Nr Vv Nn Cs Pp PU PU PU
+NSUBJ NN ROOT OBJ PREP POBJ PUNCT PUNCT PUNCT
+3 1 0 3 4 5 3 3 3
+
+Riêng bà Raymonde_Dien luôn ôm hôn những người bạn Việt : " Tôi sung_sướng khi cuộc chiến_tranh của Pháp tại VN đã chấm_dứt , nhưng không may cho các bạn lại tiếp_tục cuộc kháng_chiến trường_kỳ đối_với quân_đội Mỹ .
+M Nn Nr R Vv Vv Nq Nc Nn Nr PU PU Pp Aa Nt Nc Nn Cs Nr Cs Nr R Vv PU Cp R Vv Cs Nq Nn R Vv Nc Nn Aa Cs Nn Nr PU
+INTJ NSUBJ NN ADJUNCT ROOT CONJ DET OBJ CLF NN PUNCT PUNCT NSUBJ CCOMP NP_ADVMOD NSUBJ CLF PREP POBJ PREP POBJ ADJUNCT CCOMP PUNCT CC ADJUNCT CONJ MARK DET NSUBJ ADJUNCT CCOMP OBJ CLF AMOD PREP POBJ NN PUNCT
+2 5 2 5 0 5 8 5 8 8 14 14 14 5 14 23 16 16 18 16 20 23 15 14 14 27 14 32 30 32 32 27 32 33 33 33 36 37 5
+
+Họ đã để lại hậu_quả quá lớn bằng chất_độc da_cam [] dioxin huỷ_diệt .
+Pp R Vv R Nn R Aa Cs Nn Nn PU FW Vv PU
+NSUBJ ADJUNCT ROOT ADJUNCT OBJ ADJUNCT AMOD PREP POBJ NN PUNCT PARATAXIS VMOD PUNCT
+3 3 0 3 3 7 5 5 8 9 9 9 12 3
+
+Hiện_giờ chúng_tôi vẫn đấu_tranh để chống lại , tố_cáo di_hại của chất_độc da_cam ...
+Nt Pp R Vv Cs Vv R PU Vv Nn Cs Nn Nn PU
+NP_ADVMOD NSUBJ ADJUNCT ROOT PREP PCOMP ADJUNCT PUNCT CONJ OBJ PREP POBJ NN PUNCT
+4 4 4 0 4 5 6 6 6 9 10 11 12 4
+
+Nhân_dân VN đang khắc_phục hậu_quả chiến_tranh .
+Nn Nr R Vv Nn Nn PU
+NSUBJ NN ADJUNCT ROOT OBJ NN PUNCT
+4 1 4 0 4 5 4
+
+Hậu_quả nghiêm_trọng là hậu_quả chất_độc da_cam .
+Nn Aa Vc Nn Nn Nn PU
+NSUBJ AMOD ROOT ATTR NN NN PUNCT
+3 1 0 3 4 5 3
+
+Tháng 3_-_2005 chúng_tôi cùng Hội Hữu_nghị Pháp - Việt sẽ tổ_chức hội_thảo quốc_tế về chất_độc da_cam .
+Nt Nt Pp Cp Nn Aa Nr PU Nr R Vv Nn Aa Cs Nn Nn PU
+NP_ADVMOD NN NSUBJ CC CONJ AMOD NN PUNCT CONJ ADJUNCT ROOT OBJ AMOD PREP POBJ NN PUNCT
+11 1 11 3 3 5 5 7 7 11 0 11 12 12 14 15 11
+
+Cho đến giờ có nhiều cá_nhân và tổ_chức đăng_ký tham_gia với chúng_tôi .
+M Cs Nt Ve Aa Nn Cp Nn Vv Vv Cs Pp PU
+PCOMP PREP POBJ ROOT AMOD NSUBJ CC CONJ CCOMP VMOD PREP POBJ PUNCT
+2 4 2 0 6 9 6 6 4 9 10 11 4
+
+Tôi rất tự_hào là người bạn của VN .
+Pp R Aa Vc Nc Nn Cs Nr PU
+NSUBJ ADJUNCT ROOT VMOD ATTR CLF PREP POBJ PUNCT
+3 3 0 3 4 5 5 7 3
+
+Hành_động của chúng_tôi đòi quyền công_bằng cho người dân VN bị nhiễm chất_độc da_cam đã diễn ra từ nhiều năm qua .
+Nn Cs Pp Vv Nn Aa Cs Nc Nn Nr Vv Vv Nn Nn R Vv R Cs Aa Nu Aa PU
+NSUBJ PREP POBJ RCMOD OBJ AMOD PREP NN CLF POBJ RCMOD VMOD OBJ NN ADJUNCT ROOT ADJUNCT PREP AMOD POBJ AMOD PUNCT
+16 1 2 1 4 5 4 10 8 7 10 11 12 13 16 0 16 16 20 18 20 16
+
+Tại Pháp , nhiều cá_nhân , hội đã tham_gia cuộc vận_động của chúng_tôi chống chất_độc da_cam tại VN .
+Cs Nr PU Aa Nn PU Nn R Vv Ncs Vv Cs Pp Vv Nn Nn Cs Nr PU
+PREP POBJ PUNCT AMOD NSUBJ PUNCT CONJ ADJUNCT ROOT OBJ CLF PREP POBJ RCMOD OBJ NN PREP POBJ PUNCT
+9 1 9 5 9 5 5 9 0 9 10 10 12 10 14 15 15 17 9
+
+Chúng_ta phải đứng lên tố_cáo để buộc các công_ty phải khắc_phục hậu_quả khi đã sản_xuất ra chất_độc để quân_đội Mỹ rải xuống mảnh đất của người VN làm ảnh_hưởng đến bao thế_hệ ... " .
+Pp Vv Vv R Vv Cs Vv Nq Nn Vv Vv Nn Nt R Vv R Nn Cs Nn Nr Vv D Nn Nn Cs Nn Nr Vv Vv Cs Nq Nn PU PU PU
+NSUBJ ROOT VMOD ADJUNCT VMOD PREP PCOMP DET OBJ VMOD VMOD OBJ NP_ADVMOD ADJUNCT XCOMP ADJUNCT OBJ PREP NSUBJ NN CSUBJ VMOD NP_ADVMOD NN PREP POBJ NN PCOMP VMOD PREP DET POBJ PUNCT PUNCT PUNCT
+2 0 2 3 3 5 6 9 7 7 10 11 11 15 13 15 15 15 21 19 28 21 22 23 23 25 26 18 28 29 32 30 2 2 2
+
+Đến VN lần này , hai người như đang trở_lại ngôi nhà của mình .
+Vv Nr Nn Pd PU Num Nn Cs R Vv Nc Nn Cs Pp PU
+PCOMP NP_ADVMOD NP_ADVMOD DET PCOMP NUM NSUBJ ROOT ADJUNCT PCOMP OBJ CLF PREP POBJ PCOMP
+8 1 1 3 8 7 8 0 10 8 10 11 11 13 8
+
+Nguyên đại_sứ đầu_tiên của VN tại Pháp , ông Võ_Văn_Sung , đã nhấn_mạnh : " Hai bạn là người Pháp rất VN " .
+Sv Nn An Cs Nr Cs Nr PU Nn Nr PU R Vv PU PU Num Pp Vc Nn Nr R Aa PU PU
+SINO NN AMOD PREP POBJ PREP POBJ PUNCT NSUBJ NN PUNCT ADJUNCT ROOT PUNCT PUNCT NSUBJ DET CCOMP ATTR NN ADJUNCT AMOD PUNCT PUNCT
+2 9 9 9 4 9 6 9 13 9 9 13 0 18 18 18 16 13 18 19 22 19 13 13
+
+Có_mặt tại buổi giao_lưu , cô Trần_Tố_Nga LBRK nguyên là hiệu_trưởng Trường Marie_Curie RBRK nói : " Năm tôi 8 tuổi , mẹ tôi đã nói với tôi tấm gương của ông Henri_Martin và bà Raymonde_Dien là hai anh_hùng dũng_cảm đấu_tranh cho dân_tộc VN , và từ đó hai tấm gương này theo tôi mãi trong cuộc_đời .
+Aa Cs Nt Vv PU Nn Nr LBRK Nn Vc Nn Nn Nr RBRK Vv PU PU Nt Pp Num Nn PU Nn Pp R Vv Cs Pp Nc Nn Cs Nn Nr Cp Nn Nr Vc Num Nn Aa Vv Cs Nn Nr PU Cp Cs Pd Num Nc Nn Pd Vv Pp R Cs Nn PU
+CCOMP PREP POBJ VMOD PUNCT NSUBJ NN PUNCT NSUBJ PARATAXIS ATTR NN NN PUNCT ROOT PUNCT PUNCT NP_ADVMOD NSUBJ NUM CCOMP PUNCT NSUBJ NN ADJUNCT CCOMP PREP POBJ NSUBJ CLF PREP POBJ NN CC CONJ NN CCOMP NUM ATTR AMOD RCMOD PREP POBJ NN PUNCT CC PREP POBJ NUM NSUBJ CLF DET CONJ OBJ ADJUNCT PREP POBJ PUNCT
+15 1 2 3 15 15 6 6 10 6 10 11 12 6 0 26 26 26 21 21 18 26 26 23 26 15 26 27 37 29 29 31 32 32 32 35 26 39 37 39 39 41 42 43 26 26 53 47 50 53 50 50 26 53 53 53 56 15
+
+Giờ đây tôi được gặp hai người bằng_xương_bằng_thịt tại đây , tôi rất hạnh_phúc và xin phép cho tôi được ôm hôn hai cô chú " .
+Nt Pd Pp Vv Vv Num Nn ID Cs Pd PU Pp R Aa Cp Vv Vv Cs Pp Vv Vv Vv Num Nn Nn PU PU
+NP_ADVMOD DET NSUBJ ROOT VMOD NUM OBJ DEP PREP POBJ PUNCT NSUBJ ADJUNCT CONJ CC CONJ VMOD MARK NSUBJ CCOMP VMOD CONJ NUM OBJ CONJ PUNCT PUNCT
+4 1 4 0 4 7 5 7 5 9 4 14 14 4 14 14 16 20 20 16 20 21 24 21 24 4 4
+
+Ông Võ_Văn_Sung cho biết : " Phong_trào nhân_dân Pháp ủng_hộ VN chống chiến_tranh xâm_lược của thực_dân Pháp và Mỹ rất sôi_nổi .
+Nn Nr Vv Vv PU PU Nn Nn Nr Vv Nr Vv Nn Vv Cs Nn Nr Cp Nr R Aa PU
+NSUBJ NN ROOT VMOD PUNCT PUNCT NSUBJ NSUBJ NN CCOMP OBJ VMOD OBJ VMOD PREP POBJ NN CC CONJ ADJUNCT CCOMP PUNCT
+3 1 0 3 21 21 21 10 8 7 10 10 12 13 13 15 16 17 17 21 4 3
+
+Tỉ_lệ người Pháp ủng_hộ chiến_tranh của Pháp tại VN vào năm 1947 là 37_% , nó đã lùi dần đến tháng 2_-_1954 chỉ còn 1_% ủng_hộ , trong khi đó số_lượng người Pháp chống cuộc chiến đó lên đến 90_% vào giai_đoạn chót .
+Nn Nn Nr Vv Nn Cs Nr Cs Nr Cs Nt Nt Vc Nq PU Pp R Vv R Cs Nt Nt R Ve Nq Vv PU Cs Nt Pd Nn Nn Nr Vv Ncs Vv Pd Vv M Nq Cs Nn Nn PU
+NSUBJ NSUBJ NN CCOMP OBJ PREP POBJ PREP POBJ PREP POBJ NN ROOT ATTR PUNCT NSUBJ ADJUNCT CONJ ADJUNCT PREP POBJ NN ADJUNCT PARATAXIS OBJ RCMOD PUNCT PREP POBJ DET NSUBJ NSUBJ NN CCOMP OBJ CLF DET CONJ INTJ OBJ PREP POBJ NN PUNCT
+13 4 2 1 4 5 6 5 8 1 10 11 0 13 13 18 18 13 18 24 20 21 24 18 24 25 18 38 28 29 38 34 32 31 34 35 35 18 40 38 38 41 42 13
+
+Có được sự đấu_tranh mạnh_mẽ của nhân_dân Pháp lúc đó , hai người bạn của chúng_ta là tia lửa đầu_tiên và giữ ngọn lửa ấy trong suốt cuộc đấu_tranh đó " .
+Ve M Ncs Vv Aa Cs Nn Nr Nt Pd PU Num Nc Nn Cs Pp Vc Nn Nn An Cp Vv Nc Nn Pd Cs Aa Ncs Vv Pd PU PU
+CCOMP INTJ OBJ CLF AMOD PREP POBJ NN NP_ADVMOD DET PUNCT NUM NSUBJ CLF PREP POBJ ROOT ATTR NN AMOD CC CONJ OBJ CLF DET PREP PCOMP OBJ CLF DET PUNCT PUNCT
+17 1 1 3 3 3 6 7 7 9 17 13 17 13 13 15 0 17 18 18 17 17 22 23 23 22 26 27 28 28 17 17
+
+Ông Henri_Martin đã gửi thông_điệp đến các bạn trẻ VN : " Các bạn hôm_nay đón_tiếp chúng_tôi như những người bạn thân_thiết .
+Nn Nr R Vv Nn Cs Nq Nn Aa Nr PU PU Nq Pp Nt Vv Pp Cs Nq Nc Nn Aa PU
+NSUBJ NN ADJUNCT ROOT OBJ PREP DET POBJ AMOD NN PUNCT PUNCT NSUBJ DET NP_ADVMOD CCOMP OBJ PREP DET POBJ CLF AMOD PUNCT
+4 1 4 0 4 4 8 6 8 8 16 16 16 13 16 4 16 16 20 18 20 20 4
+
+Tình hữu_nghị hai nước Việt - Pháp đã có từ rất lâu_đời , từ khi tôi chưa chào_đời .
+Nn Aa Num Nn Nr PU Nr R Ve Cs R Aa PU Cs Nt Pp R Vv PU
+NSUBJ AMOD NUM NN NN PUNCT CONJ ADJUNCT ROOT PREP ADJUNCT PCOMP PUNCT PARATAXIS POBJ NSUBJ ADJUNCT CCOMP PUNCT
+9 1 4 1 4 5 5 9 0 9 12 10 12 12 14 18 18 15 9
+
+Từ những năm 1920 khi Bác Hồ là người tham_gia sáng_lập Đảng Cộng_sản Pháp .
+Cs Nq Nu Num Nt Nn Nr Vc Nn Vv Vv Nn Aa Nr PU
+ROOT DET POBJ NUM PARATAXIS NSUBJ NN CCOMP ATTR RCMOD VMOD OBJ AMOD NN PCOMP
+0 3 1 3 3 8 6 5 8 9 10 11 12 12 1
+
+Tôi chỉ là người phát_triển thêm tình hữu_nghị đó " .
+Pp R Vc Nn Vv Vv Nn Aa Pd PU PU
+NSUBJ ADJUNCT ROOT ATTR RCMOD VMOD OBJ AMOD DET PUNCT PUNCT
+3 3 0 3 4 5 5 7 7 3 3
+
+Nhiều người đã xúc_động : " Chúng_ta phải đặt tên VN cho hai người bạn của chúng_ta là Hồ_Henri_Martin và Hồ_Raymonde_Dien " .
+Aa Nn R Vv PU PU Pp Vv Vv Nn Nr Cs Num Nc Nn Cs Pp Cs Nr Cp Nr PU PU
+AMOD NSUBJ ADJUNCT ROOT PUNCT PUNCT NSUBJ CCOMP VMOD OBJ NN PREP NUM POBJ CLF PREP POBJ PREP POBJ CC CONJ PUNCT PUNCT
+2 4 4 0 8 8 8 4 8 9 10 9 14 12 14 14 16 9 18 19 19 4 4
+
