@@ -3,3 +3,5 @@ venv/*
 .vs_code/
 .idea/
 data/
+__pycache__/*
+*.pyc
