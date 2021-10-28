@@ -1,0 +1,52 @@
+9
+
+dir
+347
+http://csproj.msi.vxu.se/svn/jni/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/plugin
+http://csproj.msi.vxu.se/svn/jni
+
+
+
+2007-10-15T13:21:17.145668Z
+66
+jni
+
+
+svn:special svn:externals svn:needs-lock
+
+JarLoader.java
+file
+
+
+
+
+2007-10-15T08:16:41.718750Z
+0eafae1813343670de9141e06db89fa1
+2007-10-15T13:21:17.145668Z
+66
+jni
+
+PluginLoader.java
+file
+
+
+
+
+2008-05-26T10:08:25.515625Z
+5537f940aa2e026c674eeb6683a95a07
+2007-10-15T13:21:17.145668Z
+66
+jni
+
+Plugin.java
+file
+
+
+
+
+2007-10-12T07:50:22.171875Z
+f195ea27063ad0f6c0d54f7846f7383c
+2007-10-15T13:21:17.145668Z
+66
+jni
+

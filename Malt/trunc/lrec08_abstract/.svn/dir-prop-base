@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 241
+lrec08_abstract.aux
+lrec08_abstract.bbl
+lrec08_abstract.blg
+lrec08_abstract.pdf
+lrec08_abstract.tex.undo
+reading.bib.undo
+lrec08_final.aux
+lrec08_final.bbl
+lrec08_final.blg
+lrec08_final.pdf
+.pdf
+lrec08_final.tex.undo
+*.tex.undo
+*.undo
+*.log
+
+END

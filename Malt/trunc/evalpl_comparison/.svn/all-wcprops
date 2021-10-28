@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jni/!svn/ver/152/MaltEvalConsole/trunc/evalpl_comparison
+END
+10_sentence_errors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jni/!svn/ver/142/MaltEvalConsole/trunc/evalpl_comparison/10_sentence_errors.xml
+END
+07_head_distance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jni/!svn/ver/141/MaltEvalConsole/trunc/evalpl_comparison/07_head_distance.xml
+END
+08_frame_confusion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jni/!svn/ver/141/MaltEvalConsole/trunc/evalpl_comparison/08_frame_confusion.xml
+END
+01_overall.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jni/!svn/ver/141/MaltEvalConsole/trunc/evalpl_comparison/01_overall.xml
+END
+03_cpostag_error_rate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jni/!svn/ver/141/MaltEvalConsole/trunc/evalpl_comparison/03_cpostag_error_rate.xml
+END
+06_head_direction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jni/!svn/ver/141/MaltEvalConsole/trunc/evalpl_comparison/06_head_direction.xml
+END
+05_deprel_and_attachment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jni/!svn/ver/152/MaltEvalConsole/trunc/evalpl_comparison/05_deprel_and_attachment.xml
+END
+02_cpostag_accuracy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jni/!svn/ver/141/MaltEvalConsole/trunc/evalpl_comparison/02_cpostag_accuracy.xml
+END
+04_deprel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jni/!svn/ver/141/MaltEvalConsole/trunc/evalpl_comparison/04_deprel.xml
+END
+09_focus_word_errors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jni/!svn/ver/141/MaltEvalConsole/trunc/evalpl_comparison/09_focus_word_errors.xml
+END

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<evaluation evaluator="MaltParserEvaluator" format="MaltTab">
+	<parameter name="computeForWhat">
+		<value>computeForHeads</value>
+	</parameter>
+	<parameter name="showPerWhat">
+		<value>showPerWord</value>
+	</parameter>
+	<parameter name="showWhatAttributes">
+		<value>isProjective</value>
+	</parameter>
+	<parameter name="excludedPostags">
+		<value></value>
+	</parameter>
+</evaluation>

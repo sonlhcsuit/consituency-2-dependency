@@ -1,0 +1,52 @@
+9
+
+dir
+347
+http://csproj.msi.vxu.se/svn/jni/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/selectionfile
+http://csproj.msi.vxu.se/svn/jni
+
+
+
+2007-10-15T13:22:28.399752Z
+69
+jni
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dac71a09-e838-0410-bdd1-9b59f3bea3ba
+
+SelectionFileComputation.java
+file
+
+
+
+
+2007-10-10T14:15:08.515625Z
+931687f1ca5babd84c4414b660a111a9
+2007-10-15T13:22:28.399752Z
+69
+jni
+
+SelectionFileLine.java
+file
+
+
+
+
+2007-09-12T13:16:24.562500Z
+0c88c40b8485e671841be38580720c1d
+2007-09-12T13:23:20.800988Z
+41
+jni
+

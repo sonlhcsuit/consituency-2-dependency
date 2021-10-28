@@ -1,0 +1,52 @@
+9
+
+dir
+347
+http://csproj.msi.vxu.se/svn/jni/MaltEvalConsole/trunc/eval
+http://csproj.msi.vxu.se/svn/jni
+
+
+
+2007-09-12T13:23:20.800988Z
+41
+jni
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dac71a09-e838-0410-bdd1-9b59f3bea3ba
+
+compare.pl
+file
+
+
+
+
+2007-09-12T13:07:06.015625Z
+08e893828cf4217a6000a06f2de900d5
+2007-09-12T13:23:20.800988Z
+41
+jni
+
+eval07.pl
+file
+
+
+
+
+2007-09-12T13:07:06.171875Z
+5369ddccf668c78792d73ceeee653ae2
+2007-09-12T13:23:20.800988Z
+41
+jni
+

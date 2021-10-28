@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 130
+New.txt
+userguide.aux
+userguide.bbl
+userguide.blg
+userguide.dvi
+userguide.pdf
+userguide.ps
+userguide.tex.undo
+userguide.toc
+*.log
+
+END

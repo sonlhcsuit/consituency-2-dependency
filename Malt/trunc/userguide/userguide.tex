@@ -1,0 +1,1086 @@
+\documentclass[11pt]{article}
+\usepackage[latin1]{inputenc}
+\usepackage{chicago}
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{multirow}
+%\setlength\titlebox{6.5cm}    % Expanding the titlebox
+%\setlength{\tabcolsep}{4pt} 
+
+\title{User Guide for MaltEval 1.0 (beta)}
+
+\author{Jens Nilsson\\School of Mathematics and System Engineering\\
+V{\"a}xj{\"o} University 35195 V{\"a}xj{\"o}, Sweden\\
+{\tt jens.nilsson@vxu.se} \\ \\
+} 
+\date{\today}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\pagebreak
+
+\section{Introduction}
+\label{sec:intro}
+
+This is a user guide for MaltEval 1.0, an evaluation software for dependency parsing. MaltEval has been developed at V{\"a}xj{\"o} University, and is freely available for any purposes. It comes with no guarantees and is distributed ``as is''. It has been created to make evaluation and visualization of dependency structure easier. Moreover, some functionality for extending MaltEval using plugins has been implemented in order to increase its the usability, as no evaluator can contain every evaluation type that every user could need.
+
+\section{Run MaltEval}
+MaltEval requires Java JRE 1.6\footnote{http://www.java.com/en/download/index.jsp} or higher in order to function. It is executed by typing:
+
+\begin{small}\begin{verbatim}
+java -jar MaltEval.jar
+\end{verbatim}\end{small}
+A welcome text and information concerning the usage of MaltEval and some of its arguments should then appear on the screen. The displayed information shows three types of arguments that are available in the current version of MaltEval, the required and optional arguments (this section), as well as other arguments (section~\ref{sec:evaluationSettings}). There is also a forth important type of argument, the evaluation arguments (section~\ref{sec:formattingSettings}), which are shown by typing:
+\begin{small}\begin{verbatim}
+java -jar MaltEval.jar --help
+\end{verbatim}\end{small}
+This output lists all arguments that can manipulate the evaluation in numerous ways. Using the \texttt{examples}-flag like this
+\begin{small}\begin{verbatim}
+java -jar MaltEval.jar --examples
+\end{verbatim}\end{small}
+examples of how to control the evaluation in different ways are shown.
+
+The usage of MaltEval looks like this:
+\begin{small}\begin{verbatim}
+java -jar MaltEval.jar
+    [-e <evaluation file> (optional)] [arguments]
+\end{verbatim}\end{small}
+The first argument \begin{small}\texttt{-e <evaluation file>}\end{small} is optional. The evaluation file argument can only be located as the first argument of MaltEval. The value after \texttt{-e} is the path to an evaluation file in an XML format discussed later on. Most things that can be specified as an argument in \begin{small}\texttt{[arguments]}\end{small} can also be specified in the evaluation file. In case an argument is specified twice, the argument's value in the evaluation file will be overridden.
+
+There are a number of arguments that can only be specified through flags to MaltEval directly, and not in an evaluation file. They are divided into required and optional flags, discussed in the two coming subsections (\ref{sec:requiredFlags} and \ref{sec:optionalFlags}).
+
+\subsection{Required flags}
+\label{sec:requiredFlags}
+
+There are two required flags that specify the gold-standard file(s) and the file(s) that you want to evaluate:
+\begin{scriptsize}\begin{verbatim}
+-g <gold-standard file, files or directory (tab|xml|conll)>
+-s <file, files or directory with parser output (tab|xml|conll)>
+\end{verbatim}\end{scriptsize}
+The file format can be either the CoNLL-format~(appendix \ref{sec:conlltab}), MaltXML-format~(appendix \ref{sec:maltxml}) or MaltTab-format~(appendix \ref{sec:malttab}), where the CoNLL-format is the default format. Any file with the extension \texttt{.xml} or \texttt{.tab} is interpreted as an MaltXML and MaltTab file, respectively, while any other extension is considered to be formatted according to the CoNLL-format, usually having the extension \texttt{.conll}.
+
+\subsubsection{Single File Evaluation}
+\label{sec:singleFileEvaluation}
+
+The flags \texttt{-s} and \texttt{-g} can be followed by a single file each, e.g.:
+\begin{small}\begin{verbatim}
+java -jar MaltEval.jar -s parser.conll -g gold.conll
+\end{verbatim}\end{small}
+In this case, where no evaluation file and evaluation flags are specified, simple comparison of the two files is done using the default evaluation settings. The output (on the standard output) should look similar to this:
+
+\begin{scriptsize}\begin{verbatim}
+===================================
+Gold:   gold.conll
+Parsed: parser.conll
+===================================
+GroupBy-> Token
+Metric-> LAS
+
+===================================
+
+accuracy   token
+------------------------
+0.867      Row mean
+70162      Row count
+------------------------\end{verbatim}
+\end{scriptsize}
+
+The names of the gold-standard and parsed files are shown, followed by the information that MaltEval grouped the output by individual tokens and that the metric LAS (Labeled Attachment Score) was used. The small table then presents that the accuracy is 86.7\% and that the test data contains 70162 distinct group instances. In this case, each group instance corresponds to an individual token, entailing that there are 70162 tokens.
+
+
+\subsubsection{Multiple Files Evaluation}
+\label{sec:multipleFilesEvaluation}
+If you want to compare more than one parsed file using the same evaluation settings and gold-standard file, the parsed files can simply be listed after \texttt{-s} like this:
+\begin{small}\begin{verbatim}
+java -jar MaltEval.jar
+   -s parser1.conll parser2.conll parser3.conll -g gold.conll
+\end{verbatim}\end{small}
+This could be helpful for several reasons, such as comparing different parsers or when you want to evaluate a learning curve experiment where the same test data has been used for one parser with different amounts of training data.
+
+\subsubsection{Cross Validation Evaluation}
+\label{sec:crossValidationEvaluation}
+It is also possible to automatically compute mean for cross validation experiments by evoking MaltEval in the following way:
+\begin{small}\begin{verbatim}
+java -jar MaltEval.jar
+   -s p_set1.conll p_set2.conll p_set3.conll
+   -g g_set1.conll g_set2.conll g_set3.conll
+\end{verbatim}\end{small}
+Here \texttt{p\_set1.conll} is compared to \texttt{g\_set1.conll} and \texttt{p\_set2.conll} is compared to \texttt{g\_set2.conll} and so on, where the number of files after \texttt{-s} and \texttt{-g} must be the same in order to perform an evaluation. This is in contrast to Multiple Files Evaluation above, where multiple parsed files were compared to a single gold-standard file. It is important that the number of parsed files equals the number of gold-standard files when there are more than one gold-standard file, since the evaluation otherwise is aborted.
+
+\subsubsection{Wild Card and File Sorting}
+\label{sec:wildCardAndFileSorting}
+
+The lists of files for \texttt{-s} and \texttt{-g} can grow very long, which makes them tedious to type. If you are using a shell, you can make use of its utility to expand paths using wild cards. So instead of typing e.g.\\ \texttt{-s parser1.conll parser2.conll parser3.conll}, you can for instance type \texttt{-s parser?.conll} or \texttt{-s parser*} depending on the content of the directory. 
+
+It is important to remember that the files are ordered alphabetically before the evaluation takes place. For example, with the intention to compare \texttt{p\_set2.conll} with \texttt{g\_set1.conll} and \texttt{p\_set1.conll} with \texttt{g\_set2.conll}, one \textbf{cannot} type:
+\begin{small}\begin{verbatim}
+java -jar MaltEval.jar
+   -s p_set2.conll p_set1.conll
+   -g g_set1.conll g_set2.conll
+\end{verbatim}\end{small}
+The parsed files are sorted before evaluation, hence comparing \texttt{p\_set1.conll} to \texttt{g\_set1.conll} and \texttt{p\_set2.conll} to \texttt{g\_set2.conll}. The reason for sorting is that one may end up in problems in some shells when using wild card symbols, as the order of the expanded list of files may differ. The only work-around is to rename the files.
+
+\subsubsection{Using Directories as Arguments}
+\label{sec:usingDirectoriesAsArguments}
+
+It is also possible to instead type the name of a directory for either \texttt{-s} or \texttt{-g}, or both, e.g.:
+\begin{small}\begin{verbatim}
+java -jar MaltEval.jar
+   -s parsedDir/
+   -g goldDir/
+\end{verbatim}\end{small}
+In this particular situation, all files with any of the extensions \texttt{.xml}, \texttt{.tab} or \texttt{.conll} located in the directories are sorted alphabetically. Depending on the number of such files in each directory, either single, multiple or cross validation evaluation is performed. 
+
+\subsection{Optional flags}
+\label{sec:optionalFlags}
+
+MaltEval has three optional flags, one for specifying a character set encoding, and two for files containing the lists of parts-of-speech and dependency types.
+
+\subsubsection{The \texttt{charset} flag}
+The flag \texttt{--charset} makes it possible to alter the character set encoding. This flag is only applicable to the CoNLL and MaltTab formats, since the character set is specified directly in the MaltXML format. The default character set is UTF-8, but if the gold-standard and parsed files are encoded in for instance ISO-8859-1, then type the following instead (where the order of the flags is irrelevant):
+\begin{small}\begin{verbatim}
+java -jar MaltEval.jar --charset ISO-8859-1
+   -s parser.conll -g gold.conll
+\end{verbatim}\end{small}
+
+\subsubsection{The Validation flags}
+By default, no validation in done before the evaluation for the dependency types and part-of-speech tags for files in the CoNLL or MaltTab format. It is possible to perform a test to see whether the POSTAG or DEPREL attribute for each token has a valid value by specifying a file containing the complete set of valid part-of-speech tags or deprel types. This is done in the following way:
+\begin{small}\begin{verbatim}
+java -jar MaltEval.jar -s parser.conll -g gold.conll
+   --postag gold.postag --deprel gold.deprel
+\end{verbatim}\end{small}
+The files \texttt{gold.postag} and \texttt{gold.deprel} are text files and contain the sets of valid part-of-speech tags and dependency type, with one tag/type per line.\footnote{Empty lines anywhere in the file must be removed} MaltEval terminates with an error message if any input file contains invalid tags/types.
+
+\subsubsection{The Tree Viewer Flag}
+
+MaltEval has a module for viewing the content of the gold-standard and parsed files visually. The visual mode is enabled by setting the flag \texttt{-v} to 1 (default is 0). This also disables all other flags except \texttt{-s} and \texttt{-g}, and will therefore not perform any evaluation in the normal sense. 
+
+One can for instance type
+\begin{small}\begin{verbatim}
+java -jar MaltEval.jar -v 1
+   -s parsed1.conll parsed2.conll -g gold.conll
+\end{verbatim}\end{small}
+in order to create a window depicting the content of the three files one sentence at a time, with a list of all sentences for changing which dependency trees to show. Figure~\ref{fig:treeViewer} in appendix~\ref{sec:maltEvalTreeViewer} shows an example of how such a window can look like. \footnote{For simplicity, it is only possible to specify at most one gold-standard file, see Cross Validation Evaluation (\ref{sec:crossValidationEvaluation}), since the list of sentence can only be connected to one gold-standard file.}
+
+The requirement that both \texttt{-s} and \texttt{-g} must be specified is relaxed if the visualization mode is enabled. In this case, only one of them needs to be specified. One can type \texttt{java -jar MaltEval.jar -v 1 -s parsed1.conll} or \texttt{java -jar MaltEval.jar -v 1 -g gold.conll} to visualize just one file.
+
+The visualization module also comes with a search tool, which is based on the grouping strategy. This can also be seen in figure~\ref{fig:treeViewer}.
+
+\section{Evaluation Settings}
+\label{sec:evaluationSettings}
+
+It is possible to perform other types of evaluation than just the default labeled attachment score. The evaluation settings can be modified in two ways, either by using an evaluation file or by adding evaluation arguments to MaltEval directly. They are discussed in the two subsections below (\ref{sec:evaluationFileArgument} and \ref{sec:evaluationFlags}).
+
+\subsection{Evaluation File Argument}
+\label{sec:evaluationFileArgument}
+A simple evaluation file (default.xml) could look like this:
+\begin{small}\begin{verbatim}
+<evaluation>
+  <parameter name="Metric">
+    <value>LAS</value>
+  </parameter>
+  <parameter name="GroupBy">
+    <value>Token</value>
+  </parameter>
+</evaluation>
+\end{verbatim}\end{small}
+The root element is named \emph{evaluation} and contains a list of zero or more \emph{parameter} elements. Each parameter element has a required \emph{name} attribute, containing the name of the parameter to set.
+
+Each parameter has a default value which is overridden if it is specified in the evaluation file. New values for a parameter are added using zero or more \emph{value} elements located under the parameter element. In the example we can see that \texttt{LAS} is added to \emph{Metric} and that \texttt{Token} is added to \emph{GroupBy}, which corresponds to the default settings. The evaluation in subsection~\ref{sec:singleFileEvaluation} is hence an abbreviation of:
+\begin{small}\begin{verbatim}
+java -jar MaltEval.jar -e default.xml
+   -s parser.conll -g gold.conll
+\end{verbatim}\end{small}
+The semantics of the evaluation file is presented in~\ref{sec:TheSemanticOfTheEvaluationFile} below in this subsection.
+
+The available parameters are: \texttt{Metric}, \texttt{GroupBy}, \texttt{MinSentenceLength}, \texttt{MaxSentenceLength}, \texttt{ExcludeWordforms}, \texttt{ExcludeLemmas}, \texttt{ExcludeCpostags}, \texttt{ExcludePostags}, \texttt{ExcludeFeats}, \texttt{ExcludeDeprels}, \texttt{ExcludePdeprels} and \texttt{ExcludeUnicodePunc}.~\footnote{The name attribute is sensitive to case in the evaluation file.} The parameters \texttt{Metric} and \texttt{GroupBy} have restricted sets of possible values, enumerated in \ref{sec:TheMetricValues} and \ref{sec:TheGroupByValues}, whereas no control of the values is performed by MaltEval for the others. 
+
+\subsubsection{The Semantics of the Evaluation File}
+\label{sec:TheSemanticOfTheEvaluationFile}
+
+As the evaluation element consists of a list of parameters and each parameter consists of a list of value elements, the generic evaluation file format looks like this:
+\begin{small}\begin{verbatim}
+<evaluation>
+  <parameter name="par1">
+    <value>par1_val1</value>
+    <value>par1_val2</value>
+    <value>...</value>
+  </parameter>
+  <parameter name="par2">
+    <value>par2_val1</value>
+    <value>par2_val2</value>
+    <value>...</value>
+  </parameter>
+  ...
+</evaluation>
+\end{verbatim}\end{small}
+The parameter list is treated as a set with the name attribute as the key, where the last parameter element with a distinct key overrides all previous parameter elements with the same key. Each list of value elements is also treated as a set. MaltEval then performs one evaluation for every possible combination of values for all parameters. For instance, with two parameters having three and four values, respectively, twelve evaluations will be computed by MaltEval by combining every value of the first parameter with every value of the second parameter.
+
+MaltEval tries to merge all results for each parsed file into one table whenever it is suitable. With, for instance,
+\begin{small}\begin{verbatim}
+<parameter name="Metric">
+  <value>LAS</value><value>UAS</value><value>LA</value>
+</parameter>
+\end{verbatim}\end{small}
+a table with three columns is created, one for each \texttt{Metric}-value. However, some combinations would result in strange merged tables. Specifically, for multiple \texttt{GroupBy}-values, tables will not be merged due to different types and number of rows. MaltEval therefore presents the output is separate tables instead. See also \texttt{merge-tables} in subsection~\ref{sec:theMergeTablesFormatting} about how to manipulate the merging strategy.
+
+
+\subsubsection{The\ \texttt{Metric} Values}
+\label{sec:TheMetricValues}
+
+The currently available values for \texttt{Metric} are shown below, where two different values can be used for the first three:
+\paragraph{\texttt{LAS} (BothRight)} A token is counted as a hit if both the head and the dependency label are the same as in the gold-standard data. This is the default value.
+\paragraph{\texttt{LA} (LabelRight)} A token is counted as a hit if the dependency label is the same as in the gold-standard data.
+\paragraph{\texttt{UAS} (HeadRight)} A token is counted as a hit if the head is the same as in the gold-standard data.
+\paragraph{\texttt{AnyRight}} A token is counted as a hit if either the head or the dependency label (or both) is the same as in the gold-standard data.
+\paragraph{\texttt{BothWrong}} A token is counted as a hit if neither the head nor the dependency label are the same as in the gold-standard data.
+\paragraph{\texttt{LabelWrong}} A token is counted as a hit if the dependency label is \textbf{not} the same as in the gold-standard data.
+\paragraph{\texttt{HeadWrong}} A token is counted as a hit if the head is \textbf{not} the same as in the gold-standard data.
+\paragraph{\texttt{AnyWrong}} A token is counted as a hit if either the head or the dependency label (or both) is \textbf{not} the same as in the gold-standard data.
+\paragraph{\texttt{self}} This is a special type of metric that is dependent on the selected \texttt{GroupBy} values (see~\ref{sec:TheGroupByValues} below). Each grouping strategy has a of called self metric which is applied when the metric value equals \texttt{self}. The self value is applicable for all grouping strategies but is in practice only useful for grouping strategies where the grouping values of the gold-standard data and the parsed data may differ. For instance, if one specify \texttt{self} as the metric for the grouping strategy ArcProjectivity (see paragraph \texttt{ArcProjectivity} in~\ref{sec:TheGroupByValues}), one will use ArcProjectivity both as the metric and the grouping strategy. The output for
+\begin{small}\begin{verbatim}
+
+java -jar MaltEval.jar --Metric self 
+   --GroupBy ArcProjectivity -g gold.conll -s parser.conll
+\end{verbatim}\end{small}
+
+could look like this:
+
+\begin{scriptsize}\begin{verbatim}
+===================================================
+Metric-> ArcProjectivity
+GroupBy-> ArcProjectivity
+
+===================================================
+
+precision   recall     fscore   ArcProjectivity
+------------------------------------------------
+0.03        0.07       0.04     Non-proj
+0.99        0.97       0.98     Proj
+\end{verbatim}\end{scriptsize}
+
+For instance, here we can see that 7\% of all non-projective tokens in the \emph{gold-standard} data are non-projective in the parsed data according to the gold-standard. Also, 3\% of all non-projective tokens in the \emph{parsed data} are non-projective according to the gold-standard. The self value enables the evaluator to compute fscore as well.
+
+The \texttt{Token} and \texttt{Postag} grouping strategies are two examples where the grouping values of the gold-standard data and the parsed data may not differ.
+
+\subsubsection{The \texttt{GroupBy} Values}
+\label{sec:TheGroupByValues}
+
+Any \texttt{Metric} value can be combined with any \texttt{GroupBy} value. The average (Row mean) in the output depends on the grouping strategy, since the tokens are grouped before the row mean is computed. The standard approach when comparing the average accuracy in dependency parsing is obtained for the default \texttt{Token} value.\footnote{Note therefore that the row mean seldom makes sense for any other grouping strategy than \texttt{Token}. One possible exception is the \texttt{Sentence} grouping, where the metric is computed as the mean of all sentence means, tending to render slightly higher mean than for \texttt{Token}.} All grouping strategies are listed below, including a short description. Each grouping strategy below ends with a list of all individual \texttt{format} attributes. This is described in subsection~\ref{sec:TheFormatAttributeOfTheValueElement} and is used to further control the type of information that will be presented in the output.
+
+\paragraph{\texttt{Token}} Each token is treated individually. The mean value is therefore computed by dividing the number of tokens with a hit (according to the \texttt{Metric} value) with the total number of tokens in the data, the standard way of computing accuracy in dependency parsing.
+
+Available values for the format attribute: accuracy.
+\paragraph{\texttt{Wordform}} All tokens with the same value for the wordform attribute (case sensitive) are grouped together.
+
+%Available values for the format attribute: accuracy $|$ counter $|$ correctcounter.
+\paragraph{\texttt{Lemma}} All tokens with the same value for the lemma attribute (case sensitive) are grouped together.
+
+%Available values for the format attribute: accuracy $|$ counter $|$ correctcounter.
+\paragraph{\texttt{Cpostag}} All tokens with the same value for the cpostag attribute (case sensitive) are grouped together.
+
+%Available values for the format attribute: accuracy $|$ counter $|$ correctcounter.
+\paragraph{\texttt{Postag}} All tokens with the same value for the postag attribute (case sensitive) are grouped together.
+
+%Available values for the format attribute: accuracy $|$ counter $|$ correctcounter.
+\paragraph{\texttt{Feats}} All tokens with the same value for the feats attribute (case sensitive) are grouped together. Each feat value is therefore treated as an atomic value.
+
+%Available values for the format attribute: accuracy $|$ counter $|$ correctcounter.
+\paragraph{\texttt{Deprel}} All tokens with the same value for the deprel attribute (case sensitive) are grouped together.
+
+%Available values for the format attribute: precision $|$ recall $|$ fscore $|$ parsercount $|$ treebankcount $|$ correctcounter.
+\paragraph{\texttt{Sentence}} All tokens in the same sentence are treated as one group.
+
+%Available values for the format attribute: accuracy $|$ exactmatch $|$ correctcounter $|$ includedtokenscount $|$ sentencelength $|$ isparserconnected $|$ istreebankconnected  $|$ hasparsercycle $|$ hastreebankcycle $|$ isparserprojective $|$ istreebankprojective.
+% $|$ 
+\paragraph{\texttt{RelationLength}} All tokens with the same arc length are grouped. Arc length is computed as the (positive) difference in word position between a token and the token's head. Hence, whether the dependent is located to the left or right of the head is indifferent. Root tokens, i.e. tokens without heads, are treated as one group separately having the value -1. The value 0 is reserved for any tokens having an arc pointing to itself.
+
+\paragraph{\texttt{GroupedRelationLength}} This is a similar grouping strategy as \texttt{RelationLength}, where the difference is that the lengths are grouped into either ``to\_root'', ``1'', ``2'', ``3--6'' or ``7--...''.
+
+%Available values for the format attribute: precision $|$ recall $|$ fscore $|$ parsercount $|$ treebankcount $|$ correctcounter.
+\paragraph{\texttt{SentenceLength}} The tokens are grouped according to sentence length, which can be any integer value equal or greater than 1.
+
+%Available values for the format attribute: accuracy $|$ counter $|$ correctcounter.
+\paragraph{\texttt{StartWordPosition}} This strategy groups tokens according to the tokens' positions in the sentence counted from the sentence start. That is, the first token of every sentence belongs to group 1, the second token to group 2, and so forth.
+
+%Available values for the format attribute: accuracy $|$ counter $|$ correctcounter.
+\paragraph{\texttt{EndWordPosition}} The opposite to \texttt{StartWordPosition}, e.g. the last token of each sentence belongs to group 1, the second last token belongs to group 2, and so forth.
+
+%Available values for the format attribute: accuracy $|$ counter $|$ correctcounter.
+\paragraph{\texttt{ArcDirection}} Each token is mapped to one of four values, depending on the direction of the arc. The group ``left'' contains all token with the head located to the left of itself, and the group ``right'' then contains all token with the head located to the right of itself. All root tokens are treated separately as the group ``to\_root''. All tokens with itself as the head is mapped to the group ``self'', which hopefully is an empty group.
+
+%Available values for the format attribute: precision $|$ recall $|$ fscore $|$ parsercount $|$ treebankcount $|$ correctcounter.
+\paragraph{\texttt{ArcDepth}} The tokens are groups according the distance to the root token. Again, all tokens with out a head token are grouped separately, in this case in group ``0'', and all tokens on depth 1 from the root will consequently form the group ``1'', and so forth.
+
+%Available values for the format attribute: precision $|$ recall $|$ fscore $|$ parsercount $|$ treebankcount $|$ correctcounter.
+\paragraph{\texttt{BranchingFactor}} This grouping strategy is the number of direct dependents of a token as key for grouping, which can be any integer value equal or greater than 0.
+
+%Available values for the format attribute: precision $|$ recall $|$ fscore $|$ parsercount $|$ treebankcount $|$ correctcounter.
+\paragraph{\texttt{ArcProjectivity}} This grouping strategy has only two values, ``0'' and ``1'' representing projective and non-projective arcs.~\footnote{The definition of non-projectivity can be found in Kahane, S., A. Nasr, and O. Rambow (1998). Pseudo-Projectivity: A Polynomially Parsable Non-Projective Dependency Grammar. In Proceedings of COLING/ACL.}. Informally, an arc is projective if all tokens it covers are descendants of the arc's head token.
+
+%Available values for the format attribute: precision $|$ recall $|$ fscore $|$ parsercount $|$ treebankcount $|$ correctcounter.
+\paragraph{\texttt{Frame}} For this grouping strategy, the dependency labels of a token and its dependents are used. The dependency types of the dependents are sorted according their position in the sentence, separated by a white space. The dependency label of the token's dependency label is positioned between the left and right dependents surrounded by two *-characters.
+
+For example, a token with the dependency label \emph{Pred} having a \emph{Sub} dependent to the left, and an \emph{Obj} dependent followed by an \emph{Adv} dependent to the right, would be one instance of the frame group \emph{Sub~*Pred*~Obj~Adv}. Note that the evaluation is computed for the token with the dependency label \emph{Pred} and/or its head value, not the complete frame.
+
+%Available values for the format attribute: precision $|$ recall $|$ fscore $|$ parsercount $|$ treebankcount $|$ correctcounter.
+
+\subsubsection{Complex \texttt{GroupBy} Values}
+\label{sec:ComplexGroupByValues}
+
+The complex grouping is a generalization of the simple \texttt{GroupBy} values. The complex \texttt{GroupBy} values are currently supported for the simple \texttt{GroupBy} values \texttt{Wordform}, \texttt{Lemma}, \texttt{Cpostag}, \texttt{Postag} and \texttt{Feats}. It is possible to create groups by combining the simple ones and to group according to context of the focus word. Here is the syntax of the complex grouping:
+
+\begin{scriptsize}\begin{verbatim}
+ComplexGroup ::= SingleGroup ( ; SingleGroup )*
+SingleGroup  ::= SimpleValue ( @ RelPos )?
+SimpleValue  ::= Wordform | Lemma | Cpostag | Postag | Feats
+RelPos       ::= ..., -2, -1, 0, 1, 2, ...
+\end{verbatim}\end{scriptsize}
+A complex group consists of one or more SingleGroups separated by semicolons. A SingleGroup decomposes into one of the five SimpleValues and an optional RelPos separated by @. Absent @ and RelPos is the same as typing ``@0''. RelPos can be any positive or negative integer value.
+
+The semantics is that each ComplexGroup is a set of SingleGroup items consisting of the pair SimpleValue/RelPos. Position 0 for RelPos represents the token for which the metric is computed, i.e. the focus word. A negative or positive position does instead look at a token to the left or right, respectively, of the focus word. In other words, 
+\begin{small}\begin{verbatim}
+<value>Wordform@0</value>
+\end{verbatim}\end{small}
+means that the result is grouped according the focus word, equivalent to the simple grouping
+\begin{small}\begin{verbatim}
+<value>Wordform</value>
+\end{verbatim}\end{small}
+ and
+\begin{small}\begin{verbatim}
+<value>Wordform@-2</value>
+\end{verbatim}\end{small}
+group according to the wordform of the token two steps to the left of the focus word. 
+
+The items of a ComplexGroup are combined by conjunction. For instance, 
+\begin{small}\begin{verbatim}
+<value>Cpostag@0;Wordform@0</value>
+\end{verbatim}\end{small}
+means that the cpostag value and wordform value of the focus word together form a group instance. The value
+\begin{small}\begin{verbatim}
+<value>Cpostag@-2;Cpostag@-1</value>
+\end{verbatim}\end{small}
+instead forms a group of the cpostag values of the two preceding tokens.
+
+In cases where the evaluator looks outside the sentence, the characters \^{} (start of sentence) and \$ (end of sentence) will be part of the grouping instances in the evaluation output. For instance, having the second token of sentence as focus word when looking at the two preceding cpostags, where the cpostag of the first word is \emph{Det}, the group instance is \texttt{\^{}@-2;Det@-1}.
+\subsubsection{The \texttt{format} Attribute: Select, Sort and Cut}
+\label{sec:TheFormatAttributeOfTheValueElement}
+
+The format attribute of the value element is used to control the type of information that is selected to be displayed as columns in the output. In case the optional format attribute is not specified for a value for a \texttt{GroupBy} parameter, or equals the empty string, the default format attributes are selected, which is either accuracy, or precision and recall. However, all available attributes will be displayed by typing i.e.
+\begin{small}\begin{verbatim}
+<parameter name="GroupBy">
+   <value format="all">Sentence</value>
+</parameter>
+\end{verbatim}\end{small}
+in the evaluation file.
+\paragraph{Select} Some grouping strategies, such as \texttt{Sentence}, displays a large amount of format information for \texttt{all}, so the format attribute can be used for selecting a subset of the information, separated by $|$, in the following way:
+\begin{small}\begin{verbatim}
+<value format="accuracy|correctcount|sentencelength">
+   Sentence
+</value>
+\end{verbatim}\end{small}
+
+Here is the list of available format attributes %introduced in subsection~\ref{sec:TheGroupByValues} 
+and a short description of their meanings:
+\begin{itemize}
+  \item Applicable to all of them (including any complex grouping) except \texttt{Token}:
+  \begin{itemize}
+    \item \texttt{correctcounter}: the number of tokens that were correct in a group according to the \texttt{Metric} value.
+  \end{itemize}
+  \item Applicable to \texttt{Wordform}, \texttt{Lemma}, \texttt{Cpostag}, \texttt{Postag}, \texttt{Feats}, \texttt{Sentence}, \texttt{SentenceLength},\texttt{StartWordPosition}, \texttt{EndWordPosition} and any complex grouping:
+  \begin{itemize}
+    \item \texttt{counter}: the number of tokens in a group.
+  \end{itemize}
+  \item Applicable to \texttt{Token}, \texttt{Wordform}, \texttt{Lemma}, \texttt{Cpostag}, \texttt{Postag}, \texttt{Feats}, \texttt{Sentence}, \texttt{SentenceLength}, \texttt{StartWordPosition}, \texttt{EndWordPosition} and any complex grouping:
+  \begin{itemize}
+    \item \texttt{accuracy}: correctcounter divided by counter
+according to the \texttt{Metric} value. This is simply 0 or 1 for \texttt{Token}.
+  \end{itemize}
+  \item Applicable to \texttt{Sentence}:
+  \begin{itemize}
+    \item \texttt{exactmatch}: were all included tokens in the sentence correct according to the \texttt{Metric} value? 0 or 1.
+    \item \texttt{includedtokenscount}: the number of tokens included in the sentence.
+    \item \texttt{sentencelength}: the number of tokens in the sentence; equals includedtokenscount if no tokens are excluded (see subsection~\ref{sec:TheExcludeValues}).
+    \item \texttt{isparserconnected}: does the dependency graph in the parser data have more than one root? 0 or 1.
+    \item \texttt{istreebankconnected}: does the dependency graph in the gold-standard data have more than one root? 0 or 1.
+    \item \texttt{hasparsercycle}: does the dependency graph in the parser data contain at least one cycle? 0 or 1.
+    \item \texttt{hasparsercycle}: does the dependency graph in the gold-standard data contain at least one cycle? 0 or 1.
+    \item \texttt{isparserprojective}: is the dependency graph in the parser data projective? 0 or 1.
+    \item \texttt{istreebankprojective}: is the dependency graph in the gold-standard data projective? 0 or 1.
+  \end{itemize}
+  \item Applicable to e.g. \texttt{Deprel}, \texttt{ArcLength}, \texttt{ArcDirection}, \texttt{ArcDepth}, \texttt{Frame}, \texttt{BranchingFactor} and \texttt{ArcProjectivity} for the \texttt{self} metric (see \ref{sec:TheMetricValues}):
+  \begin{itemize}
+    \item \texttt{parsercount}: the number of tokens in a group according to the parser data.
+    \item \texttt{treebankcount}: the number of tokens in a group according to the gold-standard data.
+    \item \texttt{precision}: correctcounter divided by parsercount.
+    \item \texttt{recall} correctcounter divided by treebankcount.
+    \item \texttt{fscore} the harmonic mean of precision and recall, i.e.:\\ F-score  = (2 $\times$ \texttt{precision} $\times$ \texttt{recall})/( \texttt{precision} +  \texttt{recall}).
+  \end{itemize}
+  \item Applicable to e.g. \texttt{Deprel}, \texttt{ArcLength}, \texttt{ArcDirection}, \texttt{ArcDepth}, \texttt{Frame}, \texttt{BranchingFactor} and \texttt{ArcProjectivity} for other than the self metric  (see \ref{sec:TheMetricValues}):
+  \begin{itemize}
+    \item \texttt{parsercounter}: the number of tokens with a given grouping value according in the parsed data.\\
+    \item \texttt{treebankcounter}: the number of tokens with a given grouping value according in the gold-standard data.\\
+    \item \texttt{parsercorrectcounter}: the number of correct tokens with a given grouping value according in the parsed data.\\
+    \item \texttt{treebankcorrectcounter}: the number of correct tokens with a given grouping value according in the gold-standard data.\\
+    \item \texttt{parseraccuracy}: parsercorrectcounter divided by parsercounter\\
+    \item \texttt{treebankaccuracy}: treebankcorrectcounter divided by treebankcounter\\
+  \end{itemize}
+\end{itemize}
+
+\paragraph{Sort} The format attribute is also used for sorting the output according to a certain column of the output, but it only makes sense when the formatting argument \texttt{details} is enabled (see section~\ref{sec:theDetailsFormatting}). If one, for example, wants to sort the output in ascending order according to accuracy using the \texttt{Postag} grouping, then type
+\begin{small}\begin{verbatim}
+<value format="accuracy+">Postag</value>
+\end{verbatim}\end{small}
+and in descending order like this
+\begin{small}\begin{verbatim}
+<value format="accuracy-|correctcount">Postag</value>
+\end{verbatim}\end{small}
+where the correctcount for each deprel is also displayed. If one wants to display all available information and sort according to accuracy, one can type:
+\begin{small}\begin{verbatim}
+<value format="all|accuracy-">Postag</value>
+\end{verbatim}\end{small}
+It is only possible to sort by a single attribute, so in case more than one attribute is suffixed with - or +, the last sorting overrides all previous ones.
+
+\paragraph{Cut} For some grouping strategies, the number of distinct groups may be very large, such as grouping by sentence. If the formatting argument \texttt{details} is enabled, the amount of output easily becomes unwieldy. By typing a positive integer value after the - or +, i.e.:
+\begin{small}\begin{verbatim}
+<value format="all|accuracy-20">Postag</value>
+\end{verbatim}\end{small}
+only the 20 dependency type with the highest accuracy are shown in the output. Note that the mean value is still computed for all deprels.
+
+\subsubsection{The \texttt{\ldots SentenceLength} Values}
+\label{sec:minAndMaxSentenceLength}
+
+To restrict the evaluation to a certain interval for sentence length, the \\\texttt{MinSentenceLength} and \texttt{MaxSentenceLength} are used. The value is a natural number ($0, 1, 2, \ldots$). Both have the default value 0, which represents positive infinity for \\\texttt{MaxSentenceLength}. The values are included in the interval.
+
+For instance,
+\begin{small}\begin{verbatim}
+<parameter name="MinSentenceLength">
+   <value>1</value>
+</parameter>
+<parameter name="MaxSentenceLength">
+   <value>40</value>
+</parameter>
+\end{verbatim}\end{small}
+means that only sentences of length $1 \ldots 40$ (including both 1 and 40) are evaluated.
+
+\subsubsection{The \texttt{Exclude\ldots} Values}
+\label{sec:TheExcludeValues}
+In some cases, one wants to exclude some tokens from the evaluation, such as punctuation. This is generalized in such a way that any set of values for wordform, lemma, cpostag, postag, feats, deprels and pdeprels can be excluded. If one wants to exclude all tokens having the dependency label \emph{Punc}, then add a parameter element to the evaluation file looking like this (where the name attribute is case sensitive):
+\begin{small}\begin{verbatim}
+<parameter name="ExcludeDeprels">
+   <value>Punc</value>
+</parameter>
+\end{verbatim}\end{small}
+More than one value can be excluded by separating dependency labels by $|$, i.e.:
+\begin{small}\begin{verbatim}
+<parameter name="ExcludeDeprels">
+   <value>Punc|Sub</value>
+</parameter>
+\end{verbatim}\end{small}
+Two or more \texttt{Exclude...} parameters can be combined by disjunction:
+\begin{small}\begin{verbatim}
+<parameter name="ExcludeWordforms">
+   <value>.</value>
+</parameter>
+<parameter name="ExcludeDeprels">
+   <value>Punc</value>
+</parameter>
+\end{verbatim}\end{small}
+This means that a token is excluded if it has either the wordform \emph{.} \textbf{or} the dependency type \emph{Punc} (or both).
+
+Hint: if you want to evaluate your result both with and without the dependency label \emph{Punc} (without creating two evaluation files), then type (see also subsection~\ref{sec:evaluationFileArgument}):
+\begin{small}\begin{verbatim}
+<parameter name="ExcludeDeprels">
+   <value></value>
+   <value>Punc</value>
+</parameter>
+\end{verbatim}\end{small}
+
+\subsubsection{The \texttt{ExcludeUnicodePunc} Values}
+\label{sec:TheExcludeUnicodePunc}
+
+For compatibility with the evaluation script eval.pl\footnote{http://nextens.uvt.nl/$^\sim$conll/software.html\#eval}, the special exclude parameter \texttt{ExcludeUnicodePunc} is provided. Just as eval.pl, MaltEval is able to exclude tokens where all characters of its wordform have the Unicode property ``punctuation''. Read the documentation for eval.pl for information about which characters have this property.
+
+This parameter is also combined by disjunction together with other \texttt{Exclude}-parameters. It can have the value ``0'' or ``1'', wherethe latter obviously enables  \texttt{ExcludeUnicodePunc}. Default is ``0''.
+
+Note again that this parameter is mainly added for compatibility reasons. It has unfortunately some side effects, such as excluding some tokens that you normally do not want to exclude, and including some tokens that you normally do not want to include.
+
+\subsection{Evaluation Flags}
+\label{sec:evaluationFlags}
+All evaluation parameters, discussed in subsection~\ref{sec:evaluationFileArgument}, that can be altered using an evaluation file, can also be altered using MaltEval flags directly. The corresponding flag for a parameter name, i.e. \texttt{Metric}, \texttt{GroupBy}, \texttt{\ldots SentenceLength}, or \texttt{Exclude...}, is constructed by adding the prefix \texttt{--}. The value(s) of a parameter is located after the flag separated by a space character, e.g.:
+\begin{small}\begin{verbatim}
+ --Metric LAS
+\end{verbatim}\end{small}
+Multiple values are separated by a semicolon (no additional spaces are allowed), meaning that
+\begin{small}\begin{verbatim}<parameter name="ExcludeDeprels">
+   <value>Dep1</value>
+   <value>Dep2</value>
+</parameter>
+\end{verbatim}\end{small}
+corresponds to \texttt{--ExcludeDeprels Dep1;Dep2}\footnote{Keep in mind that many shells use semicolon to serialize shell commands, making it necessary to surround the values in quotes: \texttt{--ExcludeDeprels "Dep1;Dep2"}.}, where either \texttt{Dep1} or \texttt{Dep2} can be an empty string (e.g. \texttt{--ExcludeDeprels ;Punc} corresponds to the last example in subsection~\ref{sec:TheExcludeValues}).
+
+The format attribute (used only by \texttt{GroupBy}) to manipulate selecting, sorting and cutting can be suffixed to a value using a colon. Hence, the parameter element
+\begin{small}\begin{verbatim}
+<parameter name="GroupBy">
+   <value format="all|parseraccuracy-20">Deprel</value>
+</parameter>
+\end{verbatim}\end{small}
+yields the same output as using the flag
+\begin{small}\begin{verbatim}
+ --GroupBy Deprel:all|parseraccuracy-20
+\end{verbatim}\end{small}
+
+This is an example of a valid usage of flags for MaltEval:
+\begin{small}\begin{verbatim}
+java -jar MaltEval.jar --Metric LAS;UAS;LA
+   --GroupBy Postag:all|accuracy-20;Deprel:parseraccuracy+
+   --ExcludeLemmas this|that
+   -s parser.conll -g gold.conll
+
+\end{verbatim}\end{small}
+This call results in six evaluations in sequence, since \texttt{--Metric} has three values (separated by semicolons) and \texttt{--GroupBy} two, all of them excluding any token having the lemma value \emph{this} or \emph{that}.
+
+\section{Formatting Settings}
+\label{sec:formattingSettings}
+
+The formatting arguments can be specified in the same two ways as the evaluation settings. The first subsection (\ref{sec:formattingArguments}) below will describe how this is done using the evaluation file, while the following subsection (\ref{sec:formattingFlags}) presents how the same behavior can be achieved using flags instead.
+
+\subsection{Formatting Arguments}
+\label{sec:formattingArguments}
+
+There are currently nine formatting arguments that change how the evaluation is formatted or presented. The formatting elements in the evaluation file looks like this:
+\begin{small}\begin{verbatim}
+<formatting argument="..." format="..."/>
+\end{verbatim}\end{small}
+Any formatting element can be located before, between or after any parameter element in the evaluation file. The required argument attribute is occupied by any of the format names listed in the subsections below (\ref{sec:theDetailsFormatting}--\ref{sec:theConfusionMatrixFormatting}). The value of the required format attribute is dependent on the value of the argument attribute, also described below.
+
+\subsubsection{The \texttt{micro-average} Formatting}
+\label{sec:microAverageFormatting}
+The format value can be either 0 or 1. This formatting is only applicable during cross validation, i.e. when two or more gold-standard file and equally many parsed files have been specified. In case this value equals 1, the gold-standard files are merged into one file before evaluation, as well as the parsed files. The gold-standard files and parsed files, respectively, are then treated just as they had been two files. We call this the micro-average.
+
+If the value is 0, each pair of gold-standard file and corresponding parsed file is evaluated separately, and the average is computed after the evaluation of all pairs. We call this the macro-average.
+
+The default value is 0.
+
+\subsubsection{The \texttt{details} Formatting}
+\label{sec:theDetailsFormatting}
+The \texttt{format} value can be either 0 or 1. It specifies whether all distinct groups are displayed in the output or just the row mean and row count. If disabled, the output for \texttt{--GroupBy ArcDepth:parseraccuracy} could look for instance like this:
+
+\begin{scriptsize}\begin{verbatim}
+precision   Arcdepth
+---------------------
+0.852       Row mean
+14          Row count
+--------------------- 
+\end{verbatim}\end{scriptsize}
+If enabled, is instead looks like this:
+\begin{scriptsize}\begin{verbatim}
+parseraccuracy   Arcdepth
+---------------------
+0.852            Row mean
+14               Row count
+--------------------------
+0.864            0
+0.855            1
+0.78             2
+0.793            3
+0.793            4
+0.803            5
+0.794            6
+0.822            7
+0.801            8
+0.872            9
+0.75             10
+1                11
+1                12
+1                13 \end{verbatim}\end{scriptsize}
+
+The default value is 0, but each grouping strategy specifies whether the details should be displayed or not. If the detail flag is explicitly set, then the default details value of any grouping strategy is overridden.
+
+\subsubsection{The \texttt{header-info} Formatting}
+\label{sec:theHeaderInfoFormatting}
+
+The \texttt{format} value can be either 0 or 1. The formatting makes is possible to enable or disable the header info of each table in the output, including column headers, row mean and row count. Unless the \texttt{details}, \texttt{stat} or \texttt{confusion-matrix} formatting is enabled (see below), the evaluator produces no output at all.
+
+The default value is 1.
+
+\subsubsection{The \texttt{row-header} Formatting}
+\label{sec:theRowHeaderFormatting}
+The \texttt{format} value can be either 0 or 1. Displays the row headers or not. With \texttt{row-header} disabled and \texttt{details} enabled, the output could be:
+\begin{scriptsize}\begin{verbatim}
+parseraccuracy   
+--------------
+0.852       
+14          
+--------------
+0.864       
+0.855       
+0.78        
+0.793       
+0.793       
+0.803       
+0.794       
+0.822       
+0.801       
+0.872       
+0.75        
+1           
+1           
+1           \end{verbatim}\end{scriptsize}
+
+Hint: by disabling both \texttt{header-info} and \texttt{row-header} and enabling \texttt{details}, the output will just contain numbers, one per line. This format is sometimes suitable input format for various tools computing statistical significance, if the statistical significance tests incorporated in MaltEval is not applicable.
+
+The default value is 1.
+
+\subsubsection{The \texttt{tab} Formatting}
+\label{sec:theTabFormatting}
+The \texttt{format} value can be either 0 or 1. Specifies whether the columns in the output are separated by tab (1) or multiple spaces (0). If \texttt{tab} is disabled, the number of added spaces between the columns depends on the lengths of the cell values to make the output as pretty as possible in a text file. Tabs may be more suitable when importing the output to for instance chart programs or Excel.
+
+The default value is 0.
+
+\subsubsection{The \texttt{output} Formatting}
+\label{sec:theOutputFormatting}
+The \texttt{format} value is either STDOUT (default), a path to a file or a directory. If STDOUT is chosen, all output is simply sent to the standard output stream (the screen). If a file is chosen, everything it is instead printed to that file.
+
+In case a directory is specified, the output is distributed to different files depending on whether multiple evaluation or cross validation is performed. If \texttt{stat} is enabled (see below), the statistics is written to a separate file as well.
+
+\subsubsection{The \texttt{pattern} Formatting}
+\label{sec:thePatternFormatting}
+By default, every floating point value in the output is printed with three decimals (using the pattern \texttt{0.000}). The \texttt{pattern} formatting changes this. See\\ http://java.sun.com/j2se/1.5.0/docs/api/java/text/DecimalFormat.html for a description of the syntax and semantics. 
+
+\subsubsection{The \texttt{stat} Formatting}
+\label{sec:theStatFormatting}
+The \texttt{format} value can be either 0 or 1. Currently only McNemar's test is implemented, which makes it applicable only to columns in the output having no other values that 0s and 1s. In order to make sense at least two parsed files must be specified. If more than two parsed files are specified, the McNemar's test is applied pairwise between all parsed data sets.
+
+McNemar's test is for instance applicable to \texttt{--GroupBy Token:accuracy}, since each accuracy values for the \texttt{Token} grouping is either 0 or 1. For three parsed files (parsed1.conll, parsed2.conll, parsed3.conll), the statistical significance result could look like this:
+
+\begin{scriptsize}\begin{verbatim}
+GroupBy-> Token:accuracy
+
+Attribute: accuracy
+<1>   <2>     <3>     McNemar: z-value
+-----------------------------------------
+-     2.768   0.323   <1> (parsed1.conll)
+-     -       2.912   <2> (parsed2.conll)
+-     -       -       <3> (parsed3.conll)
+
+<1>   <2>   <3>   McNemar: p<0.01?
+--------------------------------------
+-     1     0     <1> (parsed1.conll)
+-     -     1     <2> (parsed2.conll)
+-     -     -     <3> (parsed3.conll)
+
+<1>   <2>   <3>   McNemar: p<0.05?
+--------------------------------------
+-     1     0     <1> (parsed1.conll)
+-     -     1     <2> (parsed2.conll)
+-     -     -     <3> (parsed3.conll)\end{verbatim}\end{scriptsize}
+The first table shows the z-value for the accuracy for the token grouping, and the two others what the z-value corresponds to in terms of statistical significance levels. For instance, the 1 in column $<$2$>$ and row $<$1$>$ in the last table means that there is a statistically significant difference between parsed1.conll and parsed2.conll beyond the .05 level.
+
+For \texttt{--GroupBy Sentence:accuracy}, McNemar's test is not applicable since the accuracies for sentence could be any floating value between 0 and 1. However, \texttt{--GroupBy Sentence:exactMatch|isProjective} produces statistical significance tables for both exactMatch and isParserProjective, but whether the result is useful is up to the user to assess (which is questionable for isParserProjective).
+
+The default value is 0.
+
+\subsubsection{The \texttt{confusion-matrix} Formatting}
+\label{sec:theConfusionMatrixFormatting}
+
+The \texttt{format} value can be either 0 or 1. MaltEval is able to produce confusion matrices and confusion tables if \texttt{confusion-matrix} is enabled. It is applicable to any \texttt{GroupBy} value, but it only makes sense for those which can compute precision and recall (i.e. \texttt{GroupBy} values \texttt{Deprel}, \texttt{ArcLength}, \texttt{ArcDirection}, \texttt{ArcDepth}, \texttt{Frame}, \texttt{BranchingFactor} and \texttt{ArcProjectivity}).
+
+The confusion result is presented in two ways. MaltEval creates an ordinary confusion matrix if the number of group values for the parsed data multiplied by the number of group values for the treebank data is less than 2,500 (a 50x50 matrix). Large confusion matrices are simply not graspable for a human, and really large ones too computationally demanding. With the setting \texttt{--GroupBy ArcDepth}, the confusion matrix could look like this:
+
+\begin{tiny}\begin{verbatim}
+Confusion matrix for ArcDepth
+0    1     2       3       4       5       6     7     8     9    10   11   12   13   Col: system 
+                                                                                      / Row: gold
+---------------------------------------------------------------------------------------------------    
+-    294   120     80      62      26      9     3     3     0    0    0    0    0    0
+89   -     1459    457     188     101     53    11    6     4    0    0    0    0    1
+21   926   -       2140    616     238     90    52    14    2    0    0    0    0    2
+4    235   1360    -       1745    551     186   55    40    14   2    0    0    0    3
+2    64    368     1176    -       1044    339   116   27    18   9    1    0    0    4
+1    20    97      322     782     -       557   192   47    16   9    0    3    0    5
+2    7     25      75      226     373     -     244   86    26   8    0    0    2    6
+0    6     1       14      57      119     127   -     104   24   9    6    0    0    7
+0    0     2       4       16      33      54    31    -     44   11   0    1    0    8
+0    0     0       3       6       4       16    18    11    -    17   2    0    0    9
+0    0     0       0       1       5       2     10    10    0    -    3    0    0    10
+0    0     0       0       0       1       4     0     4     4    0    -    2    0    11
+0    0     0       0       0       0       1     0     0     0    1    0    -    0    12
+0    0     0       0       0       0       0     1     0     0    0    2    0    -    13\end{verbatim}\end{tiny}
+and for \texttt{--GroupBy ArcDirection} like this:
+
+\begin{scriptsize}\begin{verbatim}
+Confusion matrix for ArcDirection
+left    right   to_root   Col: system / Row: gold
+-------------------------------------------------
+-       1581    64        left
+1033    -       60        right
+359     245     -         to_root\end{verbatim}\end{scriptsize}
+
+The column contains the parsed data values, while the correct values of the gold-standard data are shown in the rows. Besides the confusion matrix, a confusion table is always produced when \texttt{confusion-matrix} is enabled. It sorts the system/gold-pairs by frequency, which for \texttt{--GroupBy ArcDirection} could result in the output:
+
+\begin{scriptsize}\begin{verbatim}
+Confusion table for ArcDirection
+frequency   System / Gold
+---------------------------
+1581        left / right
+1033        right / left
+359         to_root / left
+245         to_root / right
+64          left / to_root
+60          right / to_root\end{verbatim}\end{scriptsize}
+
+As this table can grow very long, a threshold of 50 rows is applied. This is illustrated by the confusion table for \texttt{Frame} below, having as many as 50+7,076 frames pairs with a frequency above 0:
+
+\begin{scriptsize}\begin{verbatim}
+Confusion table for frame
+frequency   System / Gold
+----------------------------------------
+95          *MNR* NK  / *MO* NK 
+72          *MO* NK  / *MNR* NK 
+66          *ROOT*  / *PUNC* 
+62          *MNR* NK NK  / *MO* NK NK 
+57          *SB*  / *OA* 
+56          *MO* NK NK  / *MNR* NK NK 
+53          MO *NK*  / *NK* 
+51          *OA*  / *DA* 
+50          *OA*  / *SB* 
+...
+18          NK *SB* AG  / NK *SB* 
+18          *MNR* NK NK  / *OP* NK NK 
+17          *SB*  / *SB* RE  
+7076 more...\end{verbatim}\end{scriptsize}
+
+The default value is 0.
+
+\subsubsection{The \texttt{merge-tables} Formatting}
+\label{sec:theMergeTablesFormatting}
+
+The \texttt{format} value can be either 0 or 1. MaltEval tries, whenever possible, to merge all results into one table in the output when multiple values for one or more evaluation parameters have been specified. For instance, \texttt{--Metric LAS;UAS;LA} could result in: 
+\begin{tiny}\begin{verbatim}
+====================================================
+GroupBy-> Token
+
+====================================================
+
+accuracy / Metric:UAS   accuracy / Metric:LAS   Token
+---------------------------------------------------------
+0.8941                  0.8687                  Row mean
+70162                   70162                   Row count
+---------------------------------------------------------\end{verbatim}\end{tiny}
+
+This is the default behavior, but it is disabled if \texttt{merge-tables} is set to 0. The above result would then instead be presented as:
+\begin{tiny}\begin{verbatim}
+...
+====================================================
+Metric-> UAS
+GroupBy-> Token
+
+====================================================
+
+accuracy   Token
+--------------------
+0.8941     Row mean
+70162      Row count
+--------------------
+...
+====================================================
+Metric-> LAS
+GroupBy-> Token
+
+====================================================
+
+accuracy   Token
+--------------------
+0.8687     Row mean
+70162      Row count
+-------------------- 
+\end{verbatim}\end{tiny}
+
+The default value is 1.
+
+
+\subsection{Formatting Flags}
+\label{sec:formattingFlags}
+
+The formatting arguments in the preceding subsection (\ref{sec:formattingArguments}) for MaltEval can be manipulated by flags, just as the evaluation arguments. The flags look similar to the evaluation flags. The value of the \texttt{argument} attribute of a \texttt{formatting} element is prefixed by two dashes (\texttt{--}). The set of formatting flags is thus \texttt{--micro-average}, \texttt{--header-info}, \texttt{--row-header}, \texttt{--details}, \texttt{--hdr-file}, \texttt{--stat}, \texttt{--tab}, \texttt{--output}, \texttt{--pattern}, \texttt{--confusion-matrix}. The \texttt{format} attribute then follows the formatting flag separated by a space character. 
+
+Note that only single values can be typed just as for the formatting arguments in the evaluation file. It is consequently not possible to specify multiple values separated by semicolons in a way similar to the evaluation flag values (see subsection~\ref{sec:evaluationFlags}). Note also that the order of any flag of any type of flag is irrelevant.
+
+An example using all formatting flags is shown in appendix~\ref{app:exampleOfEvaluationFile} as well as an equivalent call using an evaluation file instead.
+
+\section{Extending MaltEval using Java Plugins}
+
+MaltEval contains several type of grouping strategies that are useful for many users, but it cannot satisfy every possible need. It is therefore possible for users to write and compile their own pieces of Java-code implementing other grouping strategies, either completely new ones or by combining already existing grouping strategies with each other or new ones. They can then easily be integrated into MaltEval via plugins, without having access to the source code of MaltEval.
+
+A new grouping strategy must implement the following Java interface:
+\begin{scriptsize}\begin{verbatim}
+package se.vxu.msi.malteval.grouping;
+import java.util.Vector;
+import se.vxu.msi.malteval.corpus.MaltSentence;
+public interface Grouping {
+  public void initialize();
+  public Object getKey(MaltSentence sentence, int wordIndex);
+  public boolean isComplexGroupItem();
+  public DataContainer postProcess(DataContainer dataContainer);
+  public boolean showTableHeader();
+  public boolean showDetails();
+  public String getSelfMetricName();
+  public String correspondingMetric();
+  public boolean isSimpleAccuracyGrouping();
+}
+\end{verbatim}\end{scriptsize}
+
+The most important method is \texttt{getKey}, which take a sentence and an index of a word and returns a key. Have a look at the Javadoc for the interface above in the MaltEval distribution (located in the javadoc directory) for more information about what the methods above are used for. In addition, the distribution contains an example implementing \texttt{Grouping}. That example, with the name \texttt{ArcDirectionAndDeprel} is shown below as well:
+\begin{scriptsize}\begin{verbatim}
+import ...;
+public class ArcDirectionAndDeprel implements Grouping {
+  private Vector<String> validAttributes;
+  private Vector<String> defaultAttributes;
+  private ArcDirection arcDirection;
+  private Deprel deprel;
+
+  public Object getKey(MaltSentence sentence, int wordIndex) {
+    return arcDirection.getKey(sentence, wordIndex) + " / " + 
+            deprel.getKey(sentence, wordIndex);
+  }
+  public Vector<String> getDefaultAttributes() {
+    return defaultAttributes;
+  }
+  public Vector<String> getValidAttributes() {
+    return validAttributes;
+  }
+  public void initialize() {
+    arcDirection = new ArcDirection();
+    deprel = new Deprel();
+    arcDirection.initialize();
+    deprel.initialize();
+    validAttributes = MaltEvalConfig.getValidPrecisionAndRecallAttributes();
+    defaultAttributes = MaltEvalConfig.getDefaultPrecisionAndRecallAttributes();
+  }
+  public boolean isComplexGroupItem() {
+    return false;
+  }
+  public DataContainer postProcess(DataContainer arg0) {
+    return arg0;
+  }
+  public boolean showDetails() {
+    return true;
+ }
+  public boolean showTableHeader() {
+    return false;
+  }
+  public String correspondingMetric() {
+    return null;
+ }
+  public String getSelfMetricName() {
+    return getClass().getSimpleName();
+  }
+  public boolean isSimpleAccuracyGrouping() {
+    return false;
+  }
+  public String getSecondName() {
+    return null;
+  }
+  public boolean isCorrect(int wordIndex,
+   MaltSentence goldSentence, MaltSentence parsedSentence) {
+  return getKey(goldSentence, wordIndex)
+          .equals(getKey(parsedSentence, wordIndex));
+  }
+}
+
+\end{verbatim}\end{scriptsize}
+As the name of the class hints, this grouping strategy combines the grouping strategies \texttt{ArcDirection} and \texttt{Deprel}. The source code should be compiled together with the file \texttt{MaltEval.jar}, e.g.:
+\begin{scriptsize}\begin{verbatim}
+javac -classpath <path to MaltEval.jar> ArcDirectionAndDeprel.java
+\end{verbatim}\end{scriptsize}
+Place the created class file anywhere in a jar file, and copy it to a directory called \emph{plugin} in the same directory as \texttt{MaltEval.jar}. When this is done, MaltEval is executed normally and the new grouping strategy is accessed in the same way as the default ones. MaltEval will search after all jar files in the plugin directory and dynamically load all class files in each jar file. MaltEval assumes that all class files in all jar files implement \texttt{Grouping}, and will otherwise terminate with an error. For example, applying the new grouping strategy is then done by simply typing:
+\begin{scriptsize}\begin{verbatim}
+java -jar MaltEval.jar --GroupBy ArcDirectionAndDeprel
+   -s parsed.conll -g gold.conll
+\end{verbatim}\end{scriptsize}
+
+
+An easier way to compile new grouping strategies and create a jar file is to use the ant script file that comes with the MaltEval distribution (located in the directory plugin/ant). It automatically compiles and assembles grouping strategies located in a predefined Java source directory, but requires that ant is installed. See the README file in the plugin directory of the MaltEval distribution for information about installation of ant and execution of the ant script.
+
+
+\pagebreak
+\appendix
+\section{Additional MaltEval Examples}
+\label{app:exampleOfEvaluationFile}
+
+This is a call to MaltEval having a large number of flags:
+\begin{small}\begin{verbatim}
+java -jar MaltEval.jar -s parser.conll -g gold.conll 
+   --Metric "LA" --GroupBy Deprel:all|recall-10
+   --MinSentenceLength 1 --MaxSentenceLength 40
+   --ExcludeDeprels ";Punc|Dummy" --details 1 
+   --header-info 1 --row-header 1 --tab 0 
+   --output result.out --pattern 0.0000 --stat 0 
+   --confusion-matrix 0
+\end{verbatim}\end{small}
+This is another call to MaltEval
+\begin{small}\begin{verbatim}
+java -jar MaltEval.jar -e eval.xml 
+   -s parser.conll -g gold.conll
+\end{verbatim}\end{small}
+which is equivalent to the call above if the file eval.xml contains the information below:
+\begin{scriptsize}\begin{verbatim}
+<evaluation>
+   <parameter name="Metric">
+      <value>LA</value>
+   </parameter>
+   <parameter name="GroupBy">
+      <value format="all|recall-10">Deprel</value>
+   </parameter>
+   <parameter name="ExcludeDeprels">
+      <value></value>
+      <value>Punc|Dummy</value>
+   </parameter>
+   <parameter name="MinSentenceLength">
+      <value>1</value>
+   </parameter>
+   <parameter name="MaxSentenceLength">
+      <value>40</value>
+   </parameter>
+   <formatting argument="details" format="1"/>
+   <formatting argument="header-info" format="1"/>
+   <formatting argument="row-header" format="1"/>
+   <formatting argument="tab" format="0"/>
+   <formatting argument="output" format="result.out"/>
+   <formatting argument="pattern" format="0.0000"/>
+   <formatting argument="stat" format="0"/>
+   <formatting argument="confusion-matrix" format="0"/>
+</evaluation>
+\end{verbatim}\end{scriptsize}
+\newpage
+
+\section{File Formats}
+\label{app:file_formats}
+MaltEval is able to read a number of treebank formats. They are described below, with one subsection per file format.
+\subsection{CoNLL Format}
+\label{sec:conlltab}
+The CoNLL data format adheres to the following rules:
+\begin{itemize}
+\item Data files contain sentences separated by a blank line.
+\item A sentence consists of one or tokens, each one starting on a new line.
+\item A token consists of ten fields described in the table below. Fields are separated by a single tab character. Space/blank characters are not allowed in within fields
+\item All data files will contain these ten fields, although only the ID, FORM, CPOSTAG, POSTAG, HEAD and DEPREL columns are guaranteed to contain non-dummy (i.e. non-underscore) values for all languages.
+\item Data files are UTF-8 encoded (Unicode).
+\end{itemize}
+A more detailed description is found here:\\ http://depparse.uvt.nl/depparse-wiki/DataFormat.
+%\begin{table}
+%\begin{tabular}{lll}
+%Field number: & Field name: & Description: \\ \hline
+%
+%1 & ID & Token counter, starting at 1 for each new \\
+%  & & sentence. \\
+%2 & FORM & Word form or punctuation symbol. \\
+%3 & LEMMA & Lemma or stem (depending on particular data \\
+%  & & set) of word form, or an underscore if not \\
+%  & & available. \\
+%4 & CPOSTAG & Coarse-grained part-of-speech tag, where \\
+%  & & tagset depends on the language. \\
+%5 & POSTAG & Fine-grained part-of-speech tag, where the \\
+%  & & tagset depends on the language, or identical \\
+%  & & to the coarse-grained part-of-speech tag if not \\
+%  & & available. \\
+%6 & FEATS & Unordered set of syntactic and/or morphological\\
+%  & & features (depending on the particular language), \\
+%  & & separated by a vertical bar (|), or an underscore \\
+%  & & if not available. \\
+%7 & HEAD & Head of the current token, which is either a value\\
+%  & & of ID or zero ('0'). Note that depending on the\\
+%  & & original treebank annotation, there may be multiple\\
+%  & & tokens with an ID of zero. \\
+%8 & DEPREL & Dependency relation to the HEAD. The set of \\
+%  & & dependency relations depends on the particular \\
+%  & & language. Note that depending on the original\\
+%  & & treebank annotation, the dependency relation may\\
+%  & & be meaningful or simply 'ROOT'. \\
+%9 & PHEAD & Projective head of current token, which is either a \\
+%  & & value of ID or zero ('0'), or an underscore if not\\
+%  & & available. \\
+%10 & PDEPREL & Dependency relation to the PHEAD, or an \\
+%  & & underscore if not available. The set of dependency\\
+%  & & relations depends on the particular language. \\
+%  & & Note that depending on the original treebank\\
+%  & & annotation, the dependency relation may be\\
+%  & & meaningful or simply 'ROOT'. \\
+%\end{tabular}
+%\caption{The CoNLL Data Format}
+%\label{tab:conllFormat}
+%\end{table}
+
+\subsection{MaltXML Format}
+\label{sec:maltxml}
+A dependency tree for the Swedish sentence ``Genom skattereformen införs individuell beskattning (särbeskattning) av arbetsinkomster.'' can be represented as follows:
+\begin{scriptsize}\begin{verbatim}
+<sentence id="2" user="" date="">
+  <word id="1" form="Genom" lemma="genom"
+    postag="pp" head="3" deprel="ADV"/>
+  <word id="2" form="skattereformen" lemma="skattereform" 
+    postag="nn.utr.sin.def.nom" head="1" deprel="PR"/>
+  <word id="3" form="införs" lemma="införa" 
+    postag="vb.prs.sfo" head="0" deprel="ROOT"/>
+  <word id="4" form="individuell" lemma="individuell" 
+    postag="jj.pos.utr.sin.ind.nom" head="5" deprel="ATT"/>
+  <word id="5" form="beskattning" lemma="beskattning" 
+    postag="nn.utr.sin.ind.nom" head="3" deprel="SUB"/>
+  <word id="6" form="(" lemma="(" 
+    postag="pad" head="5" deprel="IP"/>
+  <word id="7" form="särbeskattning" lemma="särbeskattning" 
+    postag="nn.utr.sin.ind.nom" head="5" deprel="APP"/>
+  <word id="8" form=")" lemma=")" 
+    postag="pad" head="5" deprel="IP"/>
+  <word id="9" form="av" lemma="av" 
+    postag="pp" head="5" deprel="ATT"/>
+  <word id="10" form="arbetsinkomster" lemma="arbetsinkomst" 
+    postag="nn.utr.plu.ind.nom" head="9" deprel="PR"/>
+  <word id="11" form="." lemma="." 
+postag="mad" head="3" deprel="IP"/>
+</sentence>
+\end{verbatim}\end{scriptsize}
+
+The tagsets used for parts-of-speech and dependency relations must be specified in the header of the XML document. An example document can be found here: http://w3.msi.vxu.se/$\sim$nivre/research/example.xml.txt. It is worth mentioning that the word tag has the same number of attributes as the CoNLL format. They are named \texttt{id}, \texttt{form}, \texttt{lemma}, \texttt{cpostag}, \texttt{postag}, \texttt{feats}, \texttt{head}, \texttt{deprel}, \texttt{phead}, \texttt{pdeprel}, where \texttt{lemma}, \texttt{cpostag}, \texttt{feats}, \texttt{phead} and \texttt{pdeprel} are optional.
+
+\subsection{MaltTab Format}
+\label{sec:malttab}
+The corresponding sentence in MaltTab looks like this, which is a subset of the CoNLL data format:
+
+\begin{scriptsize}\begin{verbatim}
+Genom             pp                       3    ADV
+skattereformen    nn.utr.sin.def.nom       1    PR
+införs            vb.prs.sfo               0    ROOT
+individuell       jj.pos.utr.sin.ind.nom   5    ATT
+beskattning       nn.utr.sin.ind.nom       3    SUB
+(                 pad                      5    IP
+särbeskattning    nn.utr.sin.ind.nom       5    APP
+)                 pad                      5    IP
+av                pp                       5    ATT
+arbetsinkomster   nn.utr.plu.ind.nom       9    PR
+.                 mad                      3    IP
+\end{verbatim}\end{scriptsize}
+
+Each row is divided into a number of fields separated by tab characters, no other white spaces, just as the CoNLL data format. The first column corresponds to wordsform, the second to postag, the third to head and the fourth to deprel. The example document can be found here:\\http://w3.msi.vxu.se/$\sim$nivre/research/example.tab.txt. Sentence splits in MaltTab are represented by blank lines as can be seen in the example document.
+
+\section{MaltEval Tree Viewer: Example}
+\label{sec:maltEvalTreeViewer}
+The picture in \ref{fig:treeViewer} illustrates how a window containing a visual representation of three files (gold.conll, parsed1.conll, parsed2.conll) could look like. Green and red arcs and labels in the dependency trees of the two parsed files indicate whether the arcs and labels were correct or incorrect compared to the gold-standard.
+
+The bottom of the window shows a scroll list containing the sentences. By selecting another sentence, all subwindows above are updated so that the dependency trees for all files of that sentence are shown.
+\begin{figure}
+\begin{center}
+\includegraphics[width=0.85\textwidth]{maltTreebankViewer.eps}
+\end{center}
+\caption{Example of the tree view in MaltEval}
+\label{fig:treeViewer}
+\end{figure}
+
+
+%\bibliographystyle{chicago}
+%\bibliography{bib/reading}
+\end{document}

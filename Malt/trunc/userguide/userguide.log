@@ -1,0 +1,331 @@
+This is pdfTeX, Version 3.141592-1.40.4 (MiKTeX 2.6) (preloaded format=latex 2008.7.1)  5 OCT 2014 18:01
+entering extended mode
+**userguide.tex
+(userguide.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, french, swedish, loaded.
+("C:\Program Files\MiKTeX 2.6\tex\latex\base\article.cls"
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.6\tex\latex\base\size11.clo"
+File: size11.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.6\tex\latex\base\inputenc.sty"
+Package: inputenc 2006/05/05 v1.1b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files\MiKTeX 2.6\tex\latex\base\latin1.def"
+File: latin1.def 2006/05/05 v1.1b Input encoding file
+))
+("C:\Program Files\MiKTeX 2.6\tex\latex\chicago\chicago.sty"
+Using Chicago Manual of Style bibliography: 31 August 1992
+\bibhang=\skip43
+\bibindent=\dimen103
+) ("C:\Program Files\MiKTeX 2.6\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files\MiKTeX 2.6\tex\latex\base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+("C:\Program Files\MiKTeX 2.6\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.6\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 130.
+
+("C:\Program Files\MiKTeX 2.6\tex\latex\graphics\dvips.def"
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)
+("C:\Program Files\MiKTeX 2.6\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+("C:\Program Files\MiKTeX 2.6\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.6\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.6\tex\latex\graphics\graphics.sty"
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.6\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.6\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 90.
+)
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Program Files\MiKTeX 2.6\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen106
+) (userguide.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 20.
+("C:\Program Files\MiKTeX 2.6\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 21.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 21.
+
+("C:\Program Files\MiKTeX 2.6\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 21.
+
+("C:\Program Files\MiKTeX 2.6\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
+ (userguide.toc
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3.
+
+[1
+
+])
+\tf@toc=\write3
+ [2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 31.
+ [3]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
+
+Overfull \hbox (15.15398pt too wide) in paragraph at lines 63--64
+\OT1/ptm/m/n/10.95 The file for-mat can be ei-ther the CoNLL-format (ap-pendix 
+B.1[]), MaltXML-format (ap-
+ []
+
+[4]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 100--100
+[]   \OT1/pcr/m/n/10 -s parser1.conll parser2.conll parser3.conll -g gold.conll
+[] 
+ []
+
+
+Overfull \hbox (4.27028pt too wide) in paragraph at lines 118--119
+\OT1/ptm/m/n/10.95 eval-u-a-tion takes place. For ex-am-ple, with the in-ten-ti
+on to com-pare \OT1/pcr/m/n/10.95 p[]set2.conll
+ []
+
+[5]
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 142.
+ [6] [7]
+Overfull \hbox (58.35521pt too wide) in paragraph at lines 199--200
+\OT1/pcr/m/n/10.95 MaxSentenceLength\OT1/ptm/m/n/10.95 , \OT1/pcr/m/n/10.95 Exc
+ludeWordforms\OT1/ptm/m/n/10.95 , \OT1/pcr/m/n/10.95 ExcludeLemmas\OT1/ptm/m/n/
+10.95 , \OT1/pcr/m/n/10.95 ExcludeCpostags\OT1/ptm/m/n/10.95 ,
+ []
+
+
+Overfull \hbox (16.19777pt too wide) in paragraph at lines 199--200
+\OT1/pcr/m/n/10.95 ExcludePostags\OT1/ptm/m/n/10.95 , \OT1/pcr/m/n/10.95 Exclud
+eFeats\OT1/ptm/m/n/10.95 , \OT1/pcr/m/n/10.95 ExcludeDeprels\OT1/ptm/m/n/10.95 
+, \OT1/pcr/m/n/10.95 ExcludePdeprels
+ []
+
+[8] [9] [10] [11]
+Overfull \hbox (43.41753pt too wide) in paragraph at lines 301--302
+ \OT1/pcr/b/n/10.95 GroupedRelationLength[] \OT1/ptm/m/n/10.95 This is a sim-i-
+lar group-ing strat-egy as \OT1/pcr/m/n/10.95 RelationLength\OT1/ptm/m/n/10.95 
+,
+ []
+
+
+Overfull \hbox (0.73428pt too wide) in paragraph at lines 304--305
+ \OT1/pcr/b/n/10.95 SentenceLength[] \OT1/ptm/m/n/10.95 The to-kens are grouped
+ ac-cord-ing to sen-tence length, which
+ []
+
+
+Overfull \hbox (4.5554pt too wide) in paragraph at lines 316--317
+ \OT1/pcr/b/n/10.95 ArcDepth[] \OT1/ptm/m/n/10.95 The to-kens are groups ac-cor
+d-ing the dis-tance to the root to-ken. Again,
+ []
+
+[12] [13] [14]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 389.
+
+ ("C:\Program Files\MiKTeX 2.6\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 389.
+
+Overfull \hbox (11.81721pt too wide) in paragraph at lines 393--394
+[]\OT1/ptm/m/n/10.95 Applicable to \OT1/pcr/m/n/10.95 Wordform\OT1/ptm/m/n/10.9
+5 , \OT1/pcr/m/n/10.95 Lemma\OT1/ptm/m/n/10.95 , \OT1/pcr/m/n/10.95 Cpostag\OT1
+/ptm/m/n/10.95 , \OT1/pcr/m/n/10.95 Postag\OT1/ptm/m/n/10.95 , \OT1/pcr/m/n/10.
+95 Feats\OT1/ptm/m/n/10.95 , \OT1/pcr/m/n/10.95 Sentence\OT1/ptm/m/n/10.95 ,
+ []
+
+
+Overfull \hbox (37.00284pt too wide) in paragraph at lines 397--398
+\OT1/pcr/m/n/10.95 Sentence\OT1/ptm/m/n/10.95 , \OT1/pcr/m/n/10.95 SentenceLeng
+th\OT1/ptm/m/n/10.95 , \OT1/pcr/m/n/10.95 StartWordPosition\OT1/ptm/m/n/10.95 ,
+ \OT1/pcr/m/n/10.95 EndWordPosition
+ []
+
+
+Overfull \hbox (8.79369pt too wide) in paragraph at lines 399--401
+[]\OT1/pcr/m/n/10.95 accuracy\OT1/ptm/m/n/10.95 : cor-rect-counter di-vided by 
+counter ac-cord-ing to the \OT1/pcr/m/n/10.95 Metric
+ []
+
+[15]
+Overfull \hbox (3.06819pt too wide) in paragraph at lines 414--415
+\OT1/pcr/m/n/10.95 Frame\OT1/ptm/m/n/10.95 , \OT1/pcr/m/n/10.95 BranchingFactor
+ \OT1/ptm/m/n/10.95 and \OT1/pcr/m/n/10.95 ArcProjectivity \OT1/ptm/m/n/10.95 f
+or the \OT1/pcr/m/n/10.95 self \OT1/ptm/m/n/10.95 met-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--425
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--427
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--428
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 428--429
+
+ []
+
+
+Overfull \hbox (23.93741pt too wide) in paragraph at lines 429--430
+[]\OT1/pcr/m/n/10.95 treebankaccuracy\OT1/ptm/m/n/10.95 : tree-bankcor-rect-cou
+nter di-vided by tree-bankcounter 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--430
+
+ []
+
+[17] [18]
+Overfull \hbox (7.54562pt too wide) in paragraph at lines 523--524
+\OT1/ptm/m/n/10.95 corresponds to \OT1/pcr/m/n/10.95 --ExcludeDeprels Dep1;Dep2
+[]\OT1/ptm/m/n/10.95 , where ei-ther \OT1/pcr/m/n/10.95 Dep1 \OT1/ptm/m/n/10.95
+ or \OT1/pcr/m/n/10.95 Dep2
+ []
+
+[19] [20] [21]
+Overfull \hbox (25.82695pt too wide) in paragraph at lines 634--635
+[]\OT1/ptm/m/n/10.95 Hint: by dis-abling both \OT1/pcr/m/n/10.95 header-info \O
+T1/ptm/m/n/10.95 and \OT1/pcr/m/n/10.95 row-header \OT1/ptm/m/n/10.95 and en-ab
+ling \OT1/pcr/m/n/10.95 details\OT1/ptm/m/n/10.95 ,
+ []
+
+[22]
+Overfull \hbox (2.29756pt too wide) in paragraph at lines 652--653
+\OT1/ptm/m/n/10.95 http://java.sun.com/j2se/1.5.0/docs/api/java/text/DecimalFor
+mat.html for a de-scrip-
+ []
+
+
+Overfull \hbox (8.36069pt too wide) in paragraph at lines 658--659
+[]\OT1/ptm/m/n/10.95 McNemar's test is for in-stance ap-pli-ca-ble to \OT1/pcr/
+m/n/10.95 --GroupBy Token:accuracy\OT1/ptm/m/n/10.95 ,
+ []
+
+
+Overfull \hbox (0.42534pt too wide) in paragraph at lines 658--659
+\OT1/ptm/m/n/10.95 parsed files (parsed1.conll, parsed2.conll, parsed3.conll), 
+the sta-tis-ti-cal sig-nif-i-cance
+ []
+
+[23] [24]
+Overfull \hbox (10.01952pt too wide) in paragraph at lines 762--763
+\OT1/ptm/m/n/10.95 eval-u-a-tion pa-ram-e-ters have been spec-i-fied. For in-st
+ance, \OT1/pcr/m/n/10.95 --Metric LAS;UAS;LA
+ []
+
+[25]
+Overfull \hbox (22.86365pt too wide) in paragraph at lines 809--810
+\OT1/ptm/m/n/10.95 is pre-fixed by two dashes (\OT1/pcr/m/n/10.95 --\OT1/ptm/m/
+n/10.95 ). The set of for-mat-ting flags is thus \OT1/pcr/m/n/10.95 --micro-ave
+rage\OT1/ptm/m/n/10.95 ,
+ []
+
+[26]
+Overfull \hbox (4.80023pt too wide) in paragraph at lines 895--895
+[]    \OT1/pcr/m/n/8 validAttributes = MaltEvalConfig.getValidPrecisionAndRecal
+lAttributes();[] 
+ []
+
+
+Overfull \hbox (24.00024pt too wide) in paragraph at lines 895--895
+[]    \OT1/pcr/m/n/8 defaultAttributes = MaltEvalConfig.getDefaultPrecisionAndR
+ecallAttributes();[] 
+ []
+
+[27] [28] [29] [30] [31]
+File: maltTreebankViewer.eps Graphic file (type eps)
+ <maltTreebankViewer.eps> [32] [33] (userguide.aux) ) 
+Here is how much of TeX's memory you used:
+ 1079 strings out of 95278
+ 13572 string characters out of 1184619
+ 60735 words of memory out of 1057760
+ 4203 multiletter control sequences out of 60000
+ 16513 words of font info for 54 fonts, out of 1000000 for 2000
+ 14 hyphenation exceptions out of 8191
+ 25i,8n,19p,1032b,297s stack positions out of 5000i,500n,10000p,200000b,32768s
+
+Output written on userguide.dvi (33 pages, 93540 bytes).

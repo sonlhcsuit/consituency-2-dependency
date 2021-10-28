@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jni/!svn/ver/152/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/metric
+END
+HeadRight.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jni/!svn/ver/141/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/metric/HeadRight.java
+END
+HeadToChildDistanceRight.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jni/!svn/ver/140/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/metric/HeadToChildDistanceRight.java
+END
+Metric.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jni/!svn/ver/140/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/metric/Metric.java
+END
+AnyWrong.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jni/!svn/ver/140/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/metric/AnyWrong.java
+END
+AnyRight.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jni/!svn/ver/140/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/metric/AnyRight.java
+END
+GroupedHeadToChildDistanceRight.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jni/!svn/ver/140/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/metric/GroupedHeadToChildDistanceRight.java
+END
+BothWrong.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jni/!svn/ver/141/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/metric/BothWrong.java
+END
+BothRight.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jni/!svn/ver/141/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/metric/BothRight.java
+END
+LabelWrong.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jni/!svn/ver/141/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/metric/LabelWrong.java
+END
+LabelRight.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jni/!svn/ver/141/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/metric/LabelRight.java
+END
+HeadWrong.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jni/!svn/ver/141/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/metric/HeadWrong.java
+END
+DirectionRight.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jni/!svn/ver/152/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/metric/DirectionRight.java
+END

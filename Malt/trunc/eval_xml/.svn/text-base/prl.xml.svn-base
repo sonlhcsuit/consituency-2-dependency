@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<evaluation evaluator="MaltParserEvaluator" format="MaltTab">
+	<parameter name="computeForWhat">
+		<value>computeForHeads</value>
+	</parameter>
+	<parameter name="showPerWhat">
+		<value>showPerRelationLength</value>
+	</parameter>
+	<parameter name="showWhatAttributes">
+		<value>precision|recall|correctcount|parserCount|treebankCount</value>
+	</parameter>
+</evaluation>

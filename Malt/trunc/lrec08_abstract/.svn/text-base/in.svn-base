@@ -1,0 +1,32 @@
+Skriptet startades Tue Oct 23 11:58:33 2007
+task.1. It was used for evaluating the output of the participants'
+parsers using the quantitative metric labeled attachment
+score. Using the same evaluation software is a way of
+guaranteeing that different systems are compared fairly.
+The script eval.pl also provides functionality for a more detailed
+error analysis in a quantitative fashion, such as computing
+accuracy for individual part-of-speech tags, and precision
+and recall for individual dependency types, arc depth
+and arc direction, etc. However, in order to get a deeper understanding
+of errors that a parser makes, which is the first
+step in the process of improving the parser, investigating the
+errors of individual sentences is also important. This type
+of qualitative error analysis is facilitated by visualizing the
+dependency structure, a functionality that eval.pl does not
+provide.]0;/cygdrive/c/Documents and Settings/jni.MSI/My Documents/vxu/research/LaTeXEditor-groups/lrec08_abstract
+[32mjni@JNILAP2 [33m/cygdrive/c/Documents and Settings/jni.MSI/My Documents/vxu/research/LaTeXEditor-groups/lrec08_abstract[0m
+$ task.1. It was used for evaluating the output of the participants'
+> parsers using the quantitative metric labeled attachment
+> score. Using the same evaluation software is a way of
+> guaranteeing that different systems are compared fairly.
+> The script eval.pl also provides functionality for a more detailed
+> error analysis in a quantitative fashion, such as computing
+> accuracy for individual part-of-speech tags, and precision
+> and recall for individual dependency types, arc depth
+> and arc direction, etc. However, in order to get a deeper understanding
+> of errors that a parser makes, which is the first
+> step in the process of improving the parser, investigating the
+> errors of individual sentences is also important. This type
+> of qualitative error analysis is facilitated by visualizing the
+> dependency structure, a functionality that eval.pl does not
+> provide

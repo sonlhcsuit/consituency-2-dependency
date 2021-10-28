@@ -1,0 +1,52 @@
+9
+
+dir
+347
+http://csproj.msi.vxu.se/svn/jni/MaltEvalConsole/trunc/userguide/bib
+http://csproj.msi.vxu.se/svn/jni
+
+
+
+2007-09-12T13:23:20.800988Z
+41
+jni
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dac71a09-e838-0410-bdd1-9b59f3bea3ba
+
+reading.bib
+file
+
+
+
+
+2007-09-12T13:07:47.234375Z
+66ceaba3c19ae8d355181d1df7f29032
+2007-09-12T13:23:20.800988Z
+41
+jni
+
+.cvsignore
+file
+
+
+
+
+2007-09-12T13:07:46.875000Z
+8c0c8893692ff87aabd2d9ba82e69ece
+2007-09-12T13:23:20.800988Z
+41
+jni
+

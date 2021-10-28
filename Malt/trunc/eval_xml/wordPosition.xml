@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<evaluation evaluator="MaltParserEvaluator" format="MaltTab">
+	<parameter name="computeForWhat">
+		<value>computeForHeadsAndDeprels</value>
+	</parameter>
+	<parameter name="showPerWhat">
+		<value>showStartWordPosition</value>
+		<value>showEndWordPosition</value>
+	</parameter>
+	<parameter name="showWhatAttributes">
+		<value>accuracy</value>
+	</parameter>
+	<parameter name="excludedPostags">
+		<value></value>
+	</parameter>
+</evaluation>

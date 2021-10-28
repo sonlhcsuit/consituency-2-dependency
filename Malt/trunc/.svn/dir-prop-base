@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 50
+distributions
+junk
+test
+eval.out
+bin
+plugin
+
+END

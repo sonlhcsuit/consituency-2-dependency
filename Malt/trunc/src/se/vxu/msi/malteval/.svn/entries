@@ -1,0 +1,115 @@
+9
+
+dir
+347
+http://csproj.msi.vxu.se/svn/jni/MaltEvalConsole/trunc/src/se/vxu/msi/malteval
+http://csproj.msi.vxu.se/svn/jni
+
+
+
+2008-11-18T14:01:48.899623Z
+347
+jni
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dac71a09-e838-0410-bdd1-9b59f3bea3ba
+
+MaltEvalAPI.java
+file
+
+
+
+
+2008-03-25T10:33:04.625000Z
+d6f0fe6ac9cab4f9865ebefa5d40e4c5
+2008-04-21T09:26:41.552916Z
+148
+jni
+
+datareaders
+dir
+
+treeviewer
+dir
+
+exceptions
+dir
+
+metric
+dir
+
+selectionfile
+dir
+
+statistics
+dir
+
+grouping
+dir
+
+specialgrouping
+dir
+
+plugin
+dir
+
+configdata
+dir
+
+CoNLLEval.java
+file
+
+
+
+
+2008-03-24T10:44:46.265625Z
+2e11c290b9a12a022ab38b952166386f
+2008-04-21T09:26:41.552916Z
+148
+jni
+
+evaluator
+dir
+
+MaltEvalConsole.java
+file
+
+
+
+
+2008-04-25T14:58:24.031250Z
+76819f388e12b8eb3cbfaf9460d9c38a
+2008-04-25T15:11:20.709398Z
+159
+jni
+
+MaltEvalConfig.java
+file
+
+
+
+
+2008-04-28T08:42:47.125000Z
+2a2fdc56d4de90f4224bc4cdd3809394
+2008-04-28T09:38:08.779525Z
+160
+jni
+
+corpus
+dir
+
+util
+dir
+

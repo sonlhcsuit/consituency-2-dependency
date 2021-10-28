@@ -1,0 +1,27 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 18
+/svn/jni/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/jni/!svn/ver/347/MaltEvalConsole/trunc
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/jni/!svn/ver/332/MaltEvalConsole/trunc/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/jni/!svn/ver/41/MaltEvalConsole/trunc/.project
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/jni/!svn/ver/41/MaltEvalConsole/trunc/.cvsignore
+END

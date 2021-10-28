@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jni/!svn/ver/312/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping
+END
+Wordform.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/Wordform.java
+END
+Cpostag.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/Cpostag.java
+END
+Clustering2.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/Clustering2.java
+END
+Feats.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/Feats.java
+END
+Sentence.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/Sentence.java
+END
+GroupedRelationLength.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/GroupedRelationLength.java
+END
+SentenceLength.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/SentenceLength.java
+END
+ArcDirection.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jni/!svn/ver/312/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/ArcDirection.java
+END
+Deprel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jni/!svn/ver/159/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/Deprel.java
+END
+StartWordPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/StartWordPosition.java
+END
+RelationLength.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/RelationLength.java
+END
+Clustering.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/Clustering.java
+END
+PreAndPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/PreAndPost.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/Token.java
+END
+ArcProjectivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/ArcProjectivity.java
+END
+EndWordPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/EndWordPosition.java
+END
+Grouping.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jni/!svn/ver/160/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/Grouping.java
+END
+Frame.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/Frame.java
+END
+BranchingFactor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/BranchingFactor.java
+END
+ArcDepth.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/ArcDepth.java
+END
+Lemma.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/Lemma.java
+END
+RelativeWordPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/RelativeWordPosition.java
+END
+Postag.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jni/!svn/ver/153/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/grouping/Postag.java
+END

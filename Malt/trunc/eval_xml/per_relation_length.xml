@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<evaluation evaluator="MaltParserEvaluator">
+	<parameter name="metric">
+		<value>UAS</value>
+		<value>LAS</value>
+	</parameter>
+	<parameter name="computePerWhat">
+		<value>relationLength</value>
+	</parameter>
+	<parameter name="attributes">
+		<value>precision|recall</value>
+	</parameter>
+	<parameter name="excludedPostags">
+		<value></value>
+	</parameter>
+</evaluation>

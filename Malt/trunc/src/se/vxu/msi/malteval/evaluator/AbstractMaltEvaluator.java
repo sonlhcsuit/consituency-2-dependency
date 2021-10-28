@@ -1,0 +1,210 @@
+/*
+ * Created on 2004-sep-06
+ */
+package se.vxu.msi.malteval.evaluator;
+
+import java.io.InputStreamReader;
+import java.util.HashMap;
+import java.util.StringTokenizer;
+import java.util.TreeSet;
+import java.util.Vector;
+
+import se.vxu.msi.malteval.MaltEvalConfig;
+import se.vxu.msi.malteval.configdata.util.Evaluator;
+import se.vxu.msi.malteval.corpus.MaltTreebank;
+import se.vxu.msi.malteval.corpus.MaltWord;
+import se.vxu.msi.malteval.exceptions.MaltEvalException;
+
+/**
+ * @author Jens Nilsson (jens.nilsson@msi.vxu.se)
+ */
+public abstract class AbstractMaltEvaluator extends AbstractEvaluator {
+	protected MaltTreebank processedTrees;
+	protected MaltTreebank corpusTrees;
+	protected Vector<String> attributesToShow;
+
+	protected HashMap<String, TreeSet<String>> excludeTypes;
+	private boolean excludeUnicodePunc_ = false;
+
+	private boolean taggingPossible;
+	private boolean syntaxPossible;
+
+	protected String postagFilename_;
+	protected String deprelFilename_;
+
+	public AbstractMaltEvaluator(Evaluator e, StringBuffer processedBuffer, String processedBufferFormat, StringBuffer corpusBuffer,
+			String corpusBufferFormat, String postagFilename, String deprelFilename) throws MaltEvalException {
+		super(e);
+		postagFilename_ = postagFilename;
+		deprelFilename_ = deprelFilename;
+		processedTrees = (MaltTreebank) importData(processedBuffer, processedBufferFormat);
+		corpusTrees = (MaltTreebank) importData(corpusBuffer, corpusBufferFormat);
+		init();
+	}
+
+	public AbstractMaltEvaluator(Evaluator e, String processedFileName, String processedFileFormat, StringBuffer corpusBuffer,
+			String corpusBufferFormat, String postagFilename, String deprelFilename) throws MaltEvalException {
+		super(e);
+		postagFilename_ = postagFilename;
+		deprelFilename_ = deprelFilename;
+		processedTrees = (MaltTreebank) importData(processedFileName, processedFileFormat);
+		corpusTrees = (MaltTreebank) importData(corpusBuffer, corpusBufferFormat);
+		init();
+	}
+
+	public AbstractMaltEvaluator(Evaluator e, String processedFileName, String processedFileFormat, String corpusFileName,
+			String corpusFileFormat, String postagFilename, String deprelFilename) throws MaltEvalException {
+		super(e);
+		postagFilename_ = postagFilename;
+		deprelFilename_ = deprelFilename;
+		processedTrees = (MaltTreebank) importData(processedFileName, processedFileFormat);
+		corpusTrees = (MaltTreebank) importData(corpusFileName, corpusFileFormat);
+		init();
+	}
+
+	public AbstractMaltEvaluator(Evaluator e, String processedFileName, String processedFileFormat, InputStreamReader corpusStream,
+			String corpusFileFormat, String postagFilename, String deprelFilename) throws MaltEvalException {
+		super(e);
+		postagFilename_ = postagFilename;
+		deprelFilename_ = deprelFilename;
+		processedTrees = (MaltTreebank) importData(processedFileName, processedFileFormat);
+		corpusTrees = (MaltTreebank) importData(corpusStream, corpusFileFormat);
+		init();
+	}
+
+	public AbstractMaltEvaluator(Evaluator e, MaltTreebank processedData, MaltTreebank corpusData) throws MaltEvalException {
+		super(e);
+		processedTrees = processedData;
+		corpusTrees = corpusData;
+		init();
+	}
+
+	private void init() throws MaltEvalException {
+		taggingPossible = false;
+		syntaxPossible = false;
+		checkConformity();
+		excludeTypes = new HashMap<String, TreeSet<String>>();
+	}
+
+	protected boolean checkConformity() throws MaltEvalException {
+		boolean doesFilesConform;
+		int i, j;
+
+		doesFilesConform = true;
+		if (processedTrees.getSentenceCount() == corpusTrees.getSentenceCount()) {
+			for (i = 0; i < processedTrees.getSentenceCount(); i++) {
+				if (processedTrees.getSentence(i).getSentenceLength() == corpusTrees.getSentence(i).getSentenceLength()) {
+					for (j = 0; j < processedTrees.getSentence(i).getSentenceLength(); j++) {
+						if (!processedTrees.getSentence(i).getWord(j).getForm().equals(corpusTrees.getSentence(i).getWord(j).getForm())) {
+							taggingPossible = false;
+							syntaxPossible = false;
+							doesFilesConform = false;
+							throw new MaltEvalException("the processed data "
+									+ (processedTrees.getFileName() == null ? "" : "(" + processedTrees.getFileName() + ") ")
+									+ "and the gold-standard data "
+									+ (corpusTrees.getFileName() == null ? "" : "(" + corpusTrees.getFileName() + ") ")
+									+ "do not contain the same text. (sentence " + i + ", word: " + j + "; \""
+									+ processedTrees.getSentence(i).getWord(j).getForm() + "\" vs. \""
+									+ corpusTrees.getSentence(i).getWord(j).getForm() + "\")", this.getClass());
+						}
+					}
+				} else {
+					taggingPossible = false;
+					syntaxPossible = false;
+					doesFilesConform = false;
+					throw new MaltEvalException("the processed data '" + processedTrees.getFileName() + "' and the corpus data '"
+							+ corpusTrees.getFileName() + "' do not contain the same text. (sentence " + i + ")", this.getClass());
+				}
+			}
+		} else {
+			taggingPossible = false;
+			syntaxPossible = false;
+			doesFilesConform = false;
+			throw new MaltEvalException("the data file '" + processedTrees.getFileName() + "' and treebank '" + corpusTrees.getFileName()
+					+ "' do not contain the same text; different number of sentences\n", this.getClass());
+		}
+
+		if (processedTrees.isAllPostagPresent() && corpusTrees.isAllPostagPresent()
+				&& processedTrees.getNumberOfPostags() == corpusTrees.getNumberOfPostags()) {
+			for (i = 0; i < processedTrees.getNumberOfPostags(); i++) {
+				if (MaltTreebank.getPostagIndex(processedTrees.getPostags(), processedTrees.getPostag(i)) == -1) {
+					taggingPossible = false;
+					processedTrees.getPostags().addAll(corpusTrees.getPostags());
+					corpusTrees.getPostags().addAll(processedTrees.getPostags());
+//					throw new MaltEvalException("Postag from parsed data missing in treebank: " + processedTrees.getPostag(i) + "\n", this
+//							.getClass());
+				}
+			}
+			if (i == processedTrees.getNumberOfPostags()) {
+				taggingPossible = true;
+			}
+		} else {
+			if (processedTrees.getNumberOfPostags() != corpusTrees.getNumberOfPostags()) {
+				processedTrees.getPostags().addAll(corpusTrees.getPostags());
+				corpusTrees.getPostags().addAll(processedTrees.getPostags());
+//				throw new MaltEvalException("The number of tags in the tag sets differs\n", this.getClass());
+			}
+			taggingPossible = false;
+		}
+		if (processedTrees.isAllDeprelPresent() && corpusTrees.isAllDeprelPresent()
+				&& processedTrees.getNumberOfDeprels() == corpusTrees.getNumberOfDeprels()) {
+			for (i = 0; i < processedTrees.getNumberOfDeprels(); i++) {
+				if (MaltTreebank.getDeprelIndex(processedTrees.getDeprels(), processedTrees.getDeprel(i)) == -1) {
+					syntaxPossible = false;
+					throw new MaltEvalException("Deprel from parsed data missing in treebank: " + processedTrees.getDeprel(i) + "\n", this
+							.getClass());
+				}
+			}
+			if (i == processedTrees.getNumberOfDeprels()) {
+				syntaxPossible = true;
+			}
+		} else {
+			if (processedTrees.getNumberOfDeprels() != corpusTrees.getNumberOfDeprels()) {
+				throw new MaltEvalException("The number of deprels in the deprel sets differs\n", this.getClass());
+			}
+			syntaxPossible = false;
+		}
+		return doesFilesConform;
+	}
+
+	protected boolean isSyntaxPossible() {
+		return syntaxPossible;
+	}
+
+	protected boolean isTaggingPossible() {
+		return taggingPossible;
+	}
+
+	protected void setExcludeTypes(String type, String values) {
+		StringTokenizer st = new StringTokenizer(values, "|");
+		excludeTypes.put(type, new TreeSet<String>());
+		while (st.hasMoreTokens()) {
+			excludeTypes.get(type).add(st.nextToken());
+		}
+	}
+
+	protected boolean excludeType(MaltWord word) {
+		for (String type : excludeTypes.keySet()) {
+			if (word.getType(type) != null && excludeTypes.get(type).contains(word.getType(type))) {
+				return true;
+			}
+		}
+		return false;
+	}
+
+	protected boolean excludeUnicodePunc(MaltWord word) {
+		return excludeUnicodePunc_ && MaltEvalConfig.isUnicodePunctuation(word.getForm());
+	}
+
+	protected int getPostagIndex(String postag) {
+		return MaltTreebank.getPostagIndex(corpusTrees.getPostags(), postag);
+	}
+
+	protected int getDeprelIndex(String deprel) {
+		return MaltTreebank.getDeprelIndex(corpusTrees.getDeprels(), deprel);
+	}
+
+	public void setExcludeUnicodePunc(boolean excludeUnicodePunc) {
+		excludeUnicodePunc_ = excludeUnicodePunc;
+	}
+}

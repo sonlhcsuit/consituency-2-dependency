@@ -1,0 +1,163 @@
+package se.vxu.msi.malteval.gui;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.ComponentEvent;
+import java.awt.event.ComponentListener;
+import java.util.Vector;
+
+import javax.swing.Box;
+import javax.swing.BoxLayout;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import javax.swing.JSplitPane;
+
+import org.TBEdit.GUI.Mediator;
+
+import se.vxu.msi.malteval.MaltEvalAPI;
+import se.vxu.msi.malteval.corpus.MaltTreebank;
+import se.vxu.msi.malteval.exceptions.MaltEvalException;
+import se.vxu.msi.malteval.util.DataContainer;
+
+public class MaltTreebankViewerGui extends JFrame implements ActionListener, ComponentListener {
+	private static final long serialVersionUID = 1L;
+
+	final private String versionName = "MaltEval Tree Viewer";
+
+	private JSplitPane jSplitPane;
+
+	static private Vector<Mediator> mediators;
+	private Vector<MaltTreebank> parsedTreebanks;
+	private MaltTreebank gsTreebank;
+	private Vector<String> parsedFileNames;
+	private String gsFileName;
+	private Vector<DataContainer> dataContainersUAS;
+	private Vector<DataContainer> dataContainersLA;
+
+	public MaltTreebankViewerGui(String[] parsedFiles, String parsedFileFormat, String[] gsFiles, String gsFileFormat)
+			throws MaltEvalException {
+		if (gsFiles != null && gsFiles.length > 1) {
+			throw new MaltEvalException("MaltTreebankViewer does not support that more than one gold standard file is specified.", this
+					.getClass());
+		}
+		if ((gsFiles == null || gsFiles.length == 0) && (parsedFiles == null || parsedFiles.length == 0)) {
+			throw new MaltEvalException("At least one file (gold standard or parsed file) must be specified for MaltTreebankViewer", this
+					.getClass());
+		}
+		parsedTreebanks = new Vector<MaltTreebank>();
+		parsedFileNames = new Vector<String>();
+		dataContainersUAS = new Vector<DataContainer>();
+		dataContainersLA = new Vector<DataContainer>();
+		if (gsFiles != null) {
+			for (int i = 0; i < gsFiles.length; i++) {
+				gsTreebank = new MaltTreebank(gsFiles[i], gsFileFormat, null, null, true, true, true);
+				gsFileName = "Gold-standard data:  " + gsFiles[i];
+			}
+		}
+		if (parsedFiles != null) {
+			for (int i = 0; i < parsedFiles.length; i++) {
+				parsedTreebanks.add(new MaltTreebank(parsedFiles[i], parsedFileFormat, null, null, true, true, true));
+				parsedFileNames.add("Parsed data:  " + parsedFiles[i]);
+				if (gsTreebank != null) {
+					dataContainersUAS.add(MaltEvalAPI.simpleMaltEvalEvaluation(parsedTreebanks.lastElement(), gsTreebank, "UAS", "Token",
+							"accuracy"));
+					dataContainersLA.add(MaltEvalAPI.simpleMaltEvalEvaluation(parsedTreebanks.lastElement(), gsTreebank, "LA", "Token",
+							"accuracy"));
+				} else {
+					dataContainersUAS.add(null);
+					dataContainersLA.add(null);
+				}
+			}
+		}
+		try {
+			initGui();
+		} catch (Exception e) {
+			throw new MaltEvalException(e.getMessage(), this.getClass());
+		}
+		refresh();
+		setTitle(versionName);
+		setSize(1200, 800);
+		setVisible(true);
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+	}
+
+	public static void changeSentence(int sentenceId) {
+		for (Mediator mediator : mediators) {
+			mediator.setCurrentSentence(sentenceId);
+		}
+		System.gc();
+	}
+
+	public static void changeVerticalPosition(int value) {
+		for (Mediator mediator : mediators) {
+			mediator.setCurrentVericalBar(value);
+		}
+		System.gc();
+	}
+
+	public static void changeHorizontalPosition(int value) {
+		for (Mediator mediator : mediators) {
+			mediator.setCurrentHorizontalBar(value);
+		}
+		System.gc();
+	}
+
+	public void initGui() throws Exception {
+		jSplitPane = new JSplitPane(JSplitPane.VERTICAL_SPLIT);
+		// jSplitPane.setEnabled(false);
+		jSplitPane.setDividerSize(3);
+		jSplitPane.setDividerLocation(300);
+		jSplitPane.addComponentListener(this);
+		add(jSplitPane);
+		JPanel jPanel = new JPanel();
+		jPanel.setLayout(new BoxLayout(jPanel, BoxLayout.Y_AXIS));
+		mediators = new Vector<Mediator>();
+		if (gsTreebank != null) {
+			mediators.add(new Mediator());
+			mediators.lastElement().importSentences(gsTreebank, null, null);
+			JLabel label = new JLabel(gsFileName);
+			jPanel.add(Box.createVerticalStrut(2));
+			jPanel.add(label);
+			jPanel.add(Box.createVerticalStrut(2));
+			jPanel.add(mediators.lastElement().getSplitPane().getTopComponent());
+		}
+		for (int i = 0; i < parsedTreebanks.size(); i++) {
+			mediators.add(new Mediator());
+			mediators.lastElement().importSentences(parsedTreebanks.get(i), dataContainersUAS.get(i), dataContainersLA.get(i));
+			JLabel label = new JLabel(parsedFileNames.get(i));
+			jPanel.add(Box.createVerticalStrut(2));
+			jPanel.add(label);
+			jPanel.add(Box.createVerticalStrut(2));
+			jPanel.add(mediators.lastElement().getSplitPane().getTopComponent());
+		}
+		jSplitPane.setBottomComponent(mediators.lastElement().getSplitPane().getBottomComponent());
+		jSplitPane.setTopComponent(jPanel);
+		refresh();
+	}
+
+	public void actionPerformed(ActionEvent e) {
+	}
+
+	private void refresh() {
+		getContentPane().validate();
+		getContentPane().repaint();
+	}
+
+	public void componentHidden(ComponentEvent e) {
+	}
+
+	public void componentMoved(ComponentEvent e) {
+	}
+
+	public void componentResized(ComponentEvent e) {
+		if (getHeight() < 300) {
+			setSize(getWidth(), 300);
+		}
+		jSplitPane.setDividerLocation(jSplitPane.getHeight() - 100);
+		jSplitPane.repaint();
+	}
+
+	public void componentShown(ComponentEvent e) {
+	}
+}

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jni/!svn/ver/347/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/treeviewer/gui
+END
+ViewMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jni/!svn/ver/345/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/treeviewer/gui/ViewMode.java
+END
+NavigationPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jni/!svn/ver/345/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/treeviewer/gui/NavigationPanel.java
+END
+TreeViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jni/!svn/ver/345/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/treeviewer/gui/TreeViewer.java
+END
+MaltTreeViewerToolBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jni/!svn/ver/345/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/treeviewer/gui/MaltTreeViewerToolBar.java
+END
+MaltTreeViewerMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jni/!svn/ver/345/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/treeviewer/gui/MaltTreeViewerMenu.java
+END
+CurrentSentenceListComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jni/!svn/ver/345/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/treeviewer/gui/CurrentSentenceListComponent.java
+END
+AboutDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jni/!svn/ver/352/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/treeviewer/gui/AboutDialog.java
+END
+TxtviewForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jni/!svn/ver/345/MaltEvalConsole/trunc/src/se/vxu/msi/malteval/treeviewer/gui/TxtviewForm.java
+END

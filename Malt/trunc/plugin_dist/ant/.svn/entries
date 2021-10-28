@@ -1,0 +1,40 @@
+9
+
+dir
+347
+http://csproj.msi.vxu.se/svn/jni/MaltEvalConsole/trunc/plugin_dist/ant
+http://csproj.msi.vxu.se/svn/jni
+
+
+
+2008-04-21T09:32:10.253103Z
+150
+jni
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dac71a09-e838-0410-bdd1-9b59f3bea3ba
+
+plugin_build.xml
+file
+
+
+
+
+2008-04-16T13:53:44.390625Z
+887a82ca29a43f760963f47824ecc080
+2008-04-21T09:32:10.253103Z
+150
+jni
+

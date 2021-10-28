@@ -1,0 +1,108 @@
+9
+
+dir
+347
+http://csproj.msi.vxu.se/svn/jni/MaltEvalConsole/trunc/userguide
+http://csproj.msi.vxu.se/svn/jni
+
+
+
+2008-07-04T09:01:15.220618Z
+265
+jni
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dac71a09-e838-0410-bdd1-9b59f3bea3ba
+
+maltTreebankViewer.eps
+file
+
+
+
+
+2008-04-28T08:49:39.765625Z
+de4c664681c9877fff3699ff268d3fe4
+2008-04-28T09:38:08.779525Z
+160
+jni
+
+userguide.lpr
+file
+
+
+
+
+2008-04-28T09:36:47.375000Z
+eadc118ce2f936cc2514196da24c0f25
+2008-04-28T09:38:08.779525Z
+160
+jni
+
+maltTreebankViewer.bmp
+file
+
+
+
+
+2007-10-09T15:18:06.578125Z
+c12b8637c428bc0538a4dc8cb2f78c07
+2007-10-09T16:17:01.540477Z
+62
+jni
+has-props
+
+userguide.tex
+file
+
+
+
+
+2008-04-28T08:50:01.781250Z
+1b133f7706ef0bb8b98d53f5258482a2
+2008-04-28T09:38:08.779525Z
+160
+jni
+
+bib
+dir
+
+.cvsignore
+file
+
+
+
+
+2007-09-12T13:07:46.562500Z
+0447ac9dfab83722f58bdea1fba0404a
+2007-09-12T13:23:20.800988Z
+41
+jni
+
+chicago
+dir
+
+maltTreebankViewer.png
+file
+
+
+
+
+2008-03-14T16:22:05.312500Z
+64ea66f388804f816d9425aa4022ef6e
+2008-04-25T15:11:20.709398Z
+159
+jni
+has-props
+

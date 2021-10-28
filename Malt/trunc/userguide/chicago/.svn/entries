@@ -1,0 +1,40 @@
+9
+
+dir
+347
+http://csproj.msi.vxu.se/svn/jni/MaltEvalConsole/trunc/userguide/chicago
+http://csproj.msi.vxu.se/svn/jni
+
+
+
+2007-11-30T16:34:00.380128Z
+90
+jni
+
+
+svn:special svn:externals svn:needs-lock
+
+chicago.bst
+file
+
+
+
+
+2007-09-12T13:07:47.281250Z
+b95362f9605cd50c4aaf5ff6e005e2a1
+2007-11-30T16:34:00.380128Z
+90
+jni
+
+chicago.sty
+file
+
+
+
+
+2007-09-12T13:07:47.312500Z
+ca869fb3dc46759df3f9f30a833def38
+2007-11-30T16:34:00.380128Z
+90
+jni
+

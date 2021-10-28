@@ -24,7 +24,7 @@ class ConlluSentence:
         matrix = np.delete(matrix, [0, 2, 4, 5, 8, 9], axis=1)
         matrix[:, [2, 3]] = matrix[:, [3, 2]]
         result = list(matrix.T)
-        result = list(map(lambda line: " ".join(line), result))
+        result = list(map(lambda line: "\t".join(line), result))
         return "\n".join(result)
 
     def get_index(self):
@@ -44,7 +44,7 @@ class ConlluFile:
         l = 0
         i = 0
         for index, value in enumerate(lines):
-            if value.startswith("#"):
+            if value.startswith("#") or value.startswith("\n"):
                 result.append(ConlluSentence(lines[start + 1:start + l], i))
                 i += 1
                 start = index
@@ -59,7 +59,10 @@ class ConlluFile:
     def transpose_mst(self, op):
         with open(op, "w") as writer:
             for s in self.sentences:
-                string = s.transpose_mst()
-                writer.write(string)
+                try:
+                    string = s.transpose_mst()
+                except:
+                    print(string)
+                writer.write(string.strip())
                 writer.write("\n\n")
         pass
