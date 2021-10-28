@@ -20,12 +20,43 @@ class MSTParser:
         if not os.path.isdir(self.data):
             raise ValueError(f"`{data_location}` directory is not exists")
 
-    def generate_train_script(self, output: str = "scripts", name: str = "train.sh"):
-        self.merge_folder()
-        self.process_data()
-        with open(os.path.join(os.getcwd(),output,name),"w") as writer:
-            pass
-        pass
+    def generate_evaluate_script(self, model="Train", testset="MST.Test.conllu",
+                                 name="evaluate.mst.sh",
+                                 result="result.conllu", scoreboard="Metrics.txt"):
+        with open(os.path.join(os.getcwd(), name), "w") as writer:
+            writer.write(f"cd {self.parser}\n")
+            writer.write(f"echo \"Result on golden: {testset} \" >>{scoreboard}\n")
+            writer.write(f"java -classpath \".:lib/trove.jar\" -Xmx1800m mstparser.DependencyParser " +
+                         f"test model-name:models/{model}.model test-file:data/{testset} output-file:data/{result} >>log.txt 2>>log.txt\n")
+            writer.write(f"java -classpath \".:lib/trove.jar\" -Xmx1800m mstparser.DependencyParser " +
+                         f"eval gold-file:data/{testset} output-file:data/{result} >>{scoreboard}\n")
+            writer.write(f"mv {scoreboard} {os.getcwd()}/ \n")
+
+    def generate_train_script(self, name: str = "train.mst.sh"):
+        # self.merge_folder()
+        # self.process_data()
+        directories = os.listdir(self.data)
+        directories = list(map(lambda d: os.path.join(self.data, d), directories))
+        files = list(filter(lambda d: os.path.isfile(d), directories))
+        for filepath in files:
+            filename = os.path.basename(filepath)
+            if filename.startswith("MST"):
+                source = filepath
+                destination = os.path.join(self.parser, "data", filename)
+                os.system(f"cp {source} {destination}")
+
+        with open(os.path.join(os.getcwd(), name), "w") as writer:
+            writer.write(f"cd {self.parser}\n")
+            writer.write(f"javac -classpath \".:lib/trove.jar\" mstparser/DependencyParser.java\n")
+            for filepath in files:
+                filename = os.path.basename(filepath)
+                kind = filename.split(".")
+                kind = kind[1]
+                if kind.lower() in ["dev"]:
+                    writer.write(f"echo \"Training {filename}...\" >>log.txt\n")
+                    writer.write(f"java -classpath \".:lib/trove.jar\" -Xmx1800m mstparser.DependencyParser " +
+                                 f"train train-file:data/{filename} " +
+                                 f"model-name:models/{kind}.model >> log.txt 2>>log.txt")
 
     def process_data(self):
         """

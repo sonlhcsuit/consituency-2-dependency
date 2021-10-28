@@ -9,7 +9,8 @@ from typing import List
 mst = MSTParser("MSTParser", os.path.join("data", "Converted"))
 # mst.merge_folder()
 # mst.process_data()
-mst.generate_train_script(output="")
+# mst.generate_train_script()
+mst.generate_evaluate_script()
 #
 # # folders = ["Dev", "Train", "Test"]
 # # source_data = "Converted"

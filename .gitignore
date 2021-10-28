@@ -8,3 +8,5 @@ __pycache__/*
 MSTParser*
 Malt/
 temp/
+Malt*
+Metrics.txt
