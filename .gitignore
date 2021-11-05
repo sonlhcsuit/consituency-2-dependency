@@ -10,3 +10,5 @@ Malt/
 temp/
 Malt*
 Metrics.txt
+.ipynb_checkpoints
+*log*

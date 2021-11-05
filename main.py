@@ -6,11 +6,11 @@ import os
 # from src.app import train, mst_transpose,MMSTParser
 from typing import List
 
-mst = MSTParser("MSTParser", os.path.join("data", "Converted"))
+# mst = MSTParser("MSTParser", os.path.join("data", "Converted"))
 # mst.merge_folder()
 # mst.process_data()
 # mst.generate_train_script()
-mst.generate_evaluate_script()
+# mst.generate_evaluate_script()
 #
 # # folders = ["Dev", "Train", "Test"]
 # # source_data = "Converted"
@@ -39,3 +39,8 @@ mst.generate_evaluate_script()
 #     # except Exception as e:
 #     #     print(file)
 #     #     print(e)
+from src.main import Converter
+
+if __name__ == '__main__':
+    c = Converter()
+
