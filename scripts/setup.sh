@@ -19,5 +19,6 @@ echo "DOWNLOADING MaltParser..."
 #tar -xvf maltparser-1.9.2.tar
 #mv maltparser-1.9.2/ MaltParser/
 
-#wget $MALT_EVAL $DIR
+wget $MALT_EVAL $DIR
 unzip -o MaltEval-dist.zip
+mv dist-20141005/ MaltEval/
