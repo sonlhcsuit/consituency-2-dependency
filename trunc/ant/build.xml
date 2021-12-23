@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="MaltEval" basedir=".">
+	<description>
+        Build file for MaltEval. It compile the source code and creates jar-files and distributions, 
+		as well as compiles the documentation.
+    </description>
+	<!-- set global properties for this build -->
+	<property name="user.name" location="Jens Nilsson" />
+	<property name="src" location="../src:../lib/piccolo-1.2.1/src" />
+	<property name="build" location="bin" />
+	<property name="dist" location="../distributions/dist" />
+
+	<target name="init">
+		<!-- Create the time stamp -->
+		<tstamp />
+		<!-- Create the build directory structure used by compile -->
+		<mkdir dir="${build}" />
+	</target>
+
+	<target name="compile" depends="init" description="compiles the source">
+		<!-- Compile the java code from ${src} into ${build} -->
+		<javac compiler="javac1.5" srcdir="${src}" destdir="${build}" classpath="../lib/log4j-1.2.9.jar" />
+	</target>
+
+	<target name="dist" depends="compile, javadoc, userguide" description="generate the distribution">
+		<!-- Create the distribution directory -->
+		<property name="thisdist" location="${dist}-${DSTAMP}" />
+		<copy todir="${thisdist}/plugin">
+			<fileset dir="../plugin_dist" />
+		</copy>
+		<copy todir="${thisdist}/evalpl_comparison">
+			<fileset dir="../evalpl_comparison" />
+		</copy>
+		<mkdir dir="${thisdist}/lib" />
+		<jar jarfile="${thisdist}/lib/MaltEval.jar" basedir="${build}">
+			<manifest>
+				<attribute name="Manifest-Version" value="1.0" />
+				<attribute name="Built-By" value="${user.name}" />
+				<attribute name="Main-Class" value="se.vxu.msi.malteval.MaltEvalConsole" />
+			</manifest>
+		</jar>
+		<delete dir="${build}" />
+	</target>
+
+	<target name="userguide" description="compliles the user guide">
+		<property name="thisdist" location="${dist}-${DSTAMP}" />
+		<!-- Create the distribution directory -->
+		<mkdir dir="${thisdist}/doc" />
+		<copy file="../userguide/chicago/chicago.sty" todir="." />
+		<copy file="../userguide/chicago/chicago.bst" todir="." />
+		<copy file="../userguide/bib/reading.bib" todir="bib" />
+		<echo>LaTeX</echo>
+		<exec dir="../userguide/" executable="c:\Program Files\MiKTeX 2.6\miktex\bin\latex.exe" os="Windows XP" timeout="20000" failonerror="true">
+			<arg line="userguide.tex" />
+		</exec>
+		<echo>BiBTex</echo>
+		<exec dir="../userguide/" executable="c:\Program Files\MiKTeX 2.6\miktex\bin\bibtex.exe" os="Windows XP" timeout="20000" failonerror="true">
+			<arg line="userguide" />
+		</exec>
+		<echo>LaTeX</echo>
+		<exec dir="../userguide/" executable="c:\Program Files\MiKTeX 2.6\miktex\bin\latex.exe" os="Windows XP" timeout="20000" failonerror="true">
+			<arg line="userguide.tex" />
+		</exec>
+		<echo>LaTeX</echo>
+		<exec dir="../userguide/" executable="c:\Program Files\MiKTeX 2.6\miktex\bin\latex.exe" os="Windows XP" timeout="20000" failonerror="true">
+			<arg line="userguide.tex" />
+		</exec>
+		<echo>dvips</echo>
+		<exec dir="../userguide/" executable="c:\Program Files\MiKTeX 2.6\miktex\bin\dvips.exe" os="Windows XP" timeout="20000" failonerror="true">
+			<arg line="userguide" />
+		</exec>
+		<echo>ps2pdf</echo>
+		<exec dir="../userguide/" executable="c:\Program Files\MiKTeX 2.6\miktex\bin\ps2pdf.exe" os="Windows XP" timeout="20000" failonerror="true">
+			<arg line="userguide.ps" />
+		</exec>
+		<delete file="chicago.sty" />
+		<delete file="chicago.bst" />
+		<delete file="bib/reading.bib" />
+		<delete dir="bib" />
+		<delete file="userguide.aux" />
+		<delete file="userguide.dvi" />
+		<delete file="userguide.log" />
+		<delete file="userguide.ps" />
+		<move file="../userguide/userguide.pdf" tofile="${thisdist}/doc/MaltEvalUserGuide.pdf" />
+	</target>
+
+	<target name="javadoc" depends="compile" description="generates the documentation for the Java API">
+		<property name="thisdist" location="${dist}-${DSTAMP}" />
+		<javadoc sourcepath="${src}" destdir="${thisdist}/javadoc">
+		</javadoc>
+	</target>
+
+	<target name="publish" depends="dist, javadoc, userguide">
+		<property name="thisdist" location="${dist}-${DSTAMP}" />
+		<mkdir dir="h:/web-docs/malteval/distributions/" />
+		<zip destfile="h:/web-docs/malteval/distributions/MaltEval-${DSTAMP}.zip" basedir="${thisdist}" />
+		<copy file="${thisdist}/doc/MaltEvalUserGuide.pdf" todir="h:/web-docs/malteval/" />
+	</target>
+
+	<target name="clean" description="clean up">
+		<!-- Delete the ${build} and ${dist} directory trees -->
+		<delete dir="${build}" />
+		<delete dir="${dist}" />
+	</target>
+</project>

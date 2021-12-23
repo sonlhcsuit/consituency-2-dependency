@@ -1,0 +1,41 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Buchholz and Marsi}2006]{CoNLL2006}
+Sabine Buchholz and Erwin Marsi.
+\newblock 2006.
+\newblock {CoNLL-X} {S}hared {T}ask on {M}ultilingual {D}ependency {P}arsing.
+\newblock In {\em Proceedings of the Tenth Conference on Computational Natural
+  Language Learning (CoNLL)}.
+
+\bibitem[\protect\citename{Haji{\v{c}} \bgroup et al.\egroup
+  }2001]{HajicHladkaPajas2001}
+Jan Haji{\v{c}}, Barbora Vidov{\'a}-Hladk{\'a}, and Petr Pajas.
+\newblock 2001.
+\newblock {The Prague Dependency Treebank: Annotation Structure and Support}.
+\newblock In {\em Proceedings of the IRCS Workshop on Linguistic Databases},
+  pages 105--114. University of Pennsylvania, Philadelphia, USA.
+
+\bibitem[\protect\citename{Kaljurand}2006]{DepSVG}
+Kaarel Kaljurand.
+\newblock 2006.
+\newblock {DepSVG}.
+\newblock URL: http://www.ifi.unizh.ch/cl/kalju/download/depsvg/ (31 March,
+  2006).
+
+\bibitem[\protect\citename{M{\'{i}}rovsk{\'{y}}}2006]{Jiri2007}
+Ji{\v{r}}{\'{i}} M{\'{i}}rovsk{\'{y}}.
+\newblock 2006.
+\newblock Netgraph: a {T}ool for {S}earching in {P}rague {D}ependency
+  {T}reebank 2.0.
+\newblock In {\em Proceedings of The Fifth International Treebanks and
+  Linguistic Theories conference, Prague, Czech Republic}, pages 211--222.
+
+\bibitem[\protect\citename{Nivre \bgroup et al.\egroup }2007]{CoNLL2007}
+Joakim Nivre, Johan Hall, Sandra K{\"u}bler, Ryan McDonald, Jens Nilsson,
+  Sebastian Riel, and Deniz Yuret.
+\newblock 2007.
+\newblock The {CoNLL} 2007 {S}hared {T}ask on {D}ependency {P}arsing.
+\newblock In {\em CoNLL Shared Task Session of EMNLP-CoNLL 2007}, pages
+  915--932.
+
+\end{thebibliography}
