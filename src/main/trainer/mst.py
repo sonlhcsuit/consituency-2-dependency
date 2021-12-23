@@ -82,12 +82,3 @@ class MSTParser:
             d_path = os.path.join(self.data, directory)
             if os.path.isdir(d_path):
                 merge_conllu(d_path, output=str(os.path.join(self.data, f"{directory}.conllu")), skip_id=True)
-
-# def train(filename: str):
-#     MSTLocation = "MSTParser"
-#     train_script = open(os.path.join(os.getcwd(), "scripts", "train.sh"), "a")
-#     train_script.write(f"echo \"Training {filename}...\" >>log.txt\n")
-#     train_script.write(
-#         f"java -classpath \".:lib/trove.jar\" -Xmx1800m mstparser.DependencyParser train train-file:temp/{filename}.txt model-name:models/{filename}.model >/dev/null 2>>log.txt\n")
-#     train_script.close()
-#     pass
