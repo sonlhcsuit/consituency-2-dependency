@@ -19,6 +19,14 @@ echo "DOWNLOADING MaltParser..."
 #tar -xvf maltparser-1.9.2.tar
 #mv maltparser-1.9.2/ MaltParser/
 
-wget $MALT_EVAL $DIR
-unzip -o MaltEval-dist.zip
-mv dist-20141005/ MaltEval/
+#wget $MALT_EVAL $DIR
+#unzip -o MaltEval-dist.zip
+#mv dist-20141005/ MaltEval/
+
+echo "DOWNLOADING Deep Biaffine"
+# wget https://thiaisotajppub.s3-ap-northeast-1.amazonaws.com/publicfiles/baomoi.model.bin
+# git clone https://github.com/tdozat/Parser-v1
+# mkdir -p Parser-v1/data/glove
+ mkdir -p Parser-v1/data/EWT
+# cp baomoi.model.bin Parser-v1/data/glove/baomoi.model.bin
+# rm baomoi.model.bin

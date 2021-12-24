@@ -77,5 +77,4 @@ class Util:
 		df.to_csv(path_or_buf="stat.csv")
 		for data_folder in Util.FOLDER:
 			df[data_folder] = df[data_folder] / len(token_lists.get(data_folder))
-			print(np.sum(df[data_folder]))
 		df.to_csv(path_or_buf="stat.percent.csv")
