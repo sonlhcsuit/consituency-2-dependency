@@ -50,7 +50,7 @@ class Util:
 								else:
 									lines[i] = ""
 						writer.write("".join(lines).strip())
-						writer.write("\n")
+						writer.write("\n\n")
 
 	@staticmethod
 	def __stat(data_base: str):

@@ -1,7 +1,6 @@
 import pandas as pd
 import re
 import os
-from ..utils import merge_conllu
 from ..sentence import ConlluSentence, ConlluFile
 
 
@@ -33,8 +32,6 @@ class MSTParser:
             writer.write(f"mv {scoreboard} {os.getcwd()}/ \n")
 
     def generate_train_script(self, name: str = "train.mst.sh"):
-        # self.merge_folder()
-        # self.process_data()
         directories = os.listdir(self.data)
         directories = list(map(lambda d: os.path.join(self.data, d), directories))
         files = list(filter(lambda d: os.path.isfile(d), directories))
@@ -71,14 +68,3 @@ class MSTParser:
             if not filename.startswith("MST"):
                 conllu_file = ConlluFile(filepath)
                 conllu_file.transpose_mst(os.path.join(self.data, f"MST.{filename}"))
-
-    def merge_folder(self):
-        """
-        Merge all conllu file inside 1 file in the folder. File with ".conllu" prefix will be created.
-        :return:
-        """
-        directories = os.listdir(self.data)
-        for directory in directories:
-            d_path = os.path.join(self.data, directory)
-            if os.path.isdir(d_path):
-                merge_conllu(d_path, output=str(os.path.join(self.data, f"{directory}.conllu")), skip_id=True)

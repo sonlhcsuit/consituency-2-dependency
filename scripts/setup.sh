@@ -14,10 +14,9 @@ mkdir -p logs
 #rm MSTParser.tar
 
 echo "DOWNLOADING MaltParser..."
-#wget $MALT_MALT_PARSER $DIR
-#gunzip maltparser-1.9.2.tar.gz
-#tar -xvf maltparser-1.9.2.tar
-#mv maltparser-1.9.2/ MaltParser/
+wget $MALT_PARSER $DIR
+gunzip maltparser-1.9.2.tar.gz
+tar -xvf maltparser-1.9.2.tar
 
 #wget $MALT_EVAL $DIR
 #unzip -o MaltEval-dist.zip
@@ -27,6 +26,6 @@ echo "DOWNLOADING Deep Biaffine"
 # wget https://thiaisotajppub.s3-ap-northeast-1.amazonaws.com/publicfiles/baomoi.model.bin
 # git clone https://github.com/tdozat/Parser-v1
 # mkdir -p Parser-v1/data/glove
- mkdir -p Parser-v1/data/EWT
+# mkdir -p Parser-v1/data/EWT
 # cp baomoi.model.bin Parser-v1/data/glove/baomoi.model.bin
 # rm baomoi.model.bin

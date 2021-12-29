@@ -2,7 +2,7 @@ from typing import List
 import os
 import re
 import numpy as np
-
+import sys
 
 class ConlluSentence:
 
@@ -33,7 +33,6 @@ class ConlluSentence:
 
 class ConlluFile:
     def __init__(self, filepath: str):
-
         if not os.path.isfile(filepath):
             raise ValueError("An valid filepath is expected")
 
@@ -60,9 +59,11 @@ class ConlluFile:
         with open(op, "w") as writer:
             for s in self.sentences:
                 try:
-                    string = s.transpose_mst()
-                except:
-                    print(string)
+                    if s.size != 0:
+                        string = s.transpose_mst()
+                except Exception as e:
+                    print(s.words,s.size)
+                    sys.exit(1)
                 writer.write(string.strip())
                 writer.write("\n\n")
         pass
