@@ -2,7 +2,7 @@ import os
 import re
 from pandas import DataFrame, read_csv
 import numpy as np
-
+from ..trainer import MaltParser
 from ..treebank import CONLLU_FILE
 
 
@@ -69,7 +69,11 @@ class Util:
 			train_fold = final.subset(train_fold_index)
 			test_fold.dump(test_fold_fp)
 			train_fold.dump(train_fold_fp)
-			i+=1
+			MaltParser.generate_scripts(base=data_path, script_name=f"fold-{i}",
+										train_fp=os.path.join(f"fold-{k}", f"Fold-{i}.Train.conllu"),
+										test_fp=os.path.join(f"fold-{k}", f"Fold-{i}.Test.conllu"))
+			i += 1
+
 	@staticmethod
 	def __merge_conllu(data_base: str, skip_id=False) -> None:
 		"""
@@ -109,7 +113,8 @@ class Util:
 		for data_folder in Util.FOLDER:
 			base = os.path.basename(data_base)
 			merged_filename = os.path.join(data_base, f"{base}.{data_folder}.conllu")
-			df = read_csv(merged_filename, names=list('abcdefghij'), delimiter="\t", skip_blank_lines=True, quoting=3,
+			df = read_csv(merged_filename, names=list('abcdefghij'), delimiter="\t", skip_blank_lines=True,
+						  quoting=3,
 						  header=None, encoding="utf-8")
 			df.dropna(inplace=True)
 			dataframes.append(df)
