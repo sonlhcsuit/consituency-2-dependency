@@ -3,6 +3,8 @@ import re
 from pandas import DataFrame, read_csv
 import numpy as np
 
+from ..treebank import CONLLU_FILE
+
 
 class Util:
 	FOLDER = ("Dev", "Train", "Test")
@@ -20,7 +22,54 @@ class Util:
 			Util.__stat(data_base=data_dir)
 		elif choice == "merge":
 			Util.__merge_conllu(data_base=data_dir)
+		elif choice == "fold":
+			Util.__split_data(data_path=data_dir, k=args.get("k_value"))
 
+	@staticmethod
+	def __split_data(data_path: str, k: int):
+		files = os.listdir(data_path)
+		conllu_files = []
+		for file in files:
+			fp = os.path.join(data_path, file)
+			if os.path.isfile(fp) and 'conllu' in file.lower():
+				conllu_files.append(fp)
+		final = CONLLU_FILE("")
+		for c in conllu_files:
+			c_file = CONLLU_FILE.from_file(c)
+			final = final.append(c_file)
+		index = np.arange(final.get_size())
+		np.random.shuffle(index)
+		index = list(index)
+		test_size = int(final.get_size() / k)
+		segments = []
+		for i in range(k):
+			if i == 0:
+				segments.append(index[:test_size])
+			elif i == k - 1:
+				segments.append(index[test_size * i:])
+			else:
+				segments.append(index[test_size * i:test_size * (i + 1)])
+		folds = []
+		for i in range(k):
+			test = segments[i]
+			train = []
+			for j in range(k):
+				if j == i:
+					continue
+				train = train + segments[j]
+			folds.append([
+				test, train
+			])
+		os.makedirs(os.path.join(data_path, f"fold-{k}"), exist_ok=True)
+		i = 1
+		for test_fold_index, train_fold_index in folds:
+			test_fold_fp = os.path.join(data_path, f"fold-{k}", f"Fold-{i}.Test.conllu")
+			train_fold_fp = os.path.join(data_path, f"fold-{k}", f"Fold-{i}.Train.conllu")
+			test_fold = final.subset(test_fold_index)
+			train_fold = final.subset(train_fold_index)
+			test_fold.dump(test_fold_fp)
+			train_fold.dump(train_fold_fp)
+			i+=1
 	@staticmethod
 	def __merge_conllu(data_base: str, skip_id=False) -> None:
 		"""

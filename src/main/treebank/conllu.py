@@ -1,5 +1,5 @@
 import re
-
+from typing import List
 import os
 
 
@@ -15,6 +15,7 @@ class CONLLU_WORD:
 	def __init__(self, text: str, sep="\t"):
 		cols = text.split(sep)
 		if len(cols) != 10:
+			print(text)
 			raise CONLLU_ERROR("Number of columns is not valid! It must be 10!")
 		if "-" in cols[0]:
 			raise CONLLU_ERROR(f"Multiple words index {cols[0]}is not supported!")
@@ -39,42 +40,79 @@ class CONLLU_WORD:
 
 	def to_plain_text(self, sep="\t"):
 		return f"""{self._id}{sep}{self._form}{sep}{self._lemma}{sep}{self._upos}{sep}{self._xpos}{sep}""" \
-			   f"""{self._feats}{sep}{self._head}{sep}{self._head}{sep}{self._deprel}{sep}{self._deps}{sep}{self._misc}"""
+			   f"""{self._feats}{sep}{self._head}{sep}{self._deprel}{sep}{self._deps}{sep}{self._misc}\n"""
 
 
 class CONLLU_SENTENCE:
 	def __init__(self, text: str, sep: str = "\t", newline="\n"):
 		lines = text.split(newline)
-		self.comments = []
-		self.words = []
+		self.__comments = []
+		self.__words = []
 		for line in lines:
 			if line.startswith("#"):
-				self.comments.append(line)
+				self.__comments.append(line)
 			elif line.strip() != "":
-				self.words.append(CONLLU_WORD(line, sep=sep))
+				self.__words.append(CONLLU_WORD(line, sep=sep))
 
 	def to_plain_text(self, sep="\t"):
 		text = ""
-		for cmt in self.comments:
-			text = text + "\n" + cmt
-		for word in self.words:
-			text = text + "\n" + word.to_plain_text(sep=sep)
-		return text
+		for cmt in self.__comments:
+			text += cmt
+			text+="\n"
+		for word in self.__words:
+			text += word.to_plain_text(sep=sep)
+		return text + "\n"
+
+	def size(self):
+		return len(self.__words)
 
 
 class CONLLU_FILE:
 	def __init__(self, plaintext: str):
-		self._sentences = []
+		self.__sentences = []
 		sents = re.split("\n{2,}", plaintext, flags=re.I | re.DOTALL)
 		for sent in sents:
-			self._sentences.append(
+			self.__sentences.append(
 				CONLLU_SENTENCE(sent)
 			)
 
+	def get_size(self):
+		return len(self.__sentences)
+
+	def dump(self, filepath):
+		fp = filepath
+		with open(fp, "w") as writer:
+			writer.write(self.to_plain_text().strip())
+
 	@classmethod
 	def from_file(cls, filepath: str):
-		fp = os.path.join(os.getcwd(), filepath)
+		fp = filepath
+		# fp = os.path.join(os.getcwd(), filepath)
 		with open(fp, "r") as reader:
 			content = reader.read()
-			CONLLU_FILE(content)
-		pass
+			data = cls(content)
+		return data
+
+	def to_plain_text(self):
+		text = ""
+		for sent in self.__sentences:
+			text += sent.to_plain_text()
+		return text
+
+	def append(self, other):
+		data: CONLLU_FILE = other
+		text = self.to_plain_text()
+		text = text + data.to_plain_text()
+		return CONLLU_FILE(plaintext=text)
+
+	def subset(self, index: List[int]):
+		max_value = max(index)
+		min_value = min(index)
+		if min_value < 0:
+			raise CONLLU_ERROR(f"Negative index `{min_value}` is not supported!")
+		if max_value > self.get_size():
+			raise CONLLU_ERROR(f"Invalid sentence index `{max_value}` with file have `{self.get_size()}` sentences")
+		text = ""
+		for element in index:
+			text = text + self.__sentences[element].to_plain_text()
+		return CONLLU_FILE(text)
