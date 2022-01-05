@@ -1,1 +1,0 @@
-python conll17_ud_eval.py VnDep-v06.Test.conllu VnDep-v06.Test.parsed.conllu -v

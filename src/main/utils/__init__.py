@@ -2,8 +2,9 @@ import os
 import re
 from pandas import DataFrame, read_csv
 import numpy as np
-from ..trainer import MaltParser
-from ..treebank import CONLLU_FILE
+from ..trainer import MaltParser, MSTParser
+from ..treebank import CONLLU_FILE, Evaluator
+import shutil
 
 
 class Util:
@@ -13,20 +14,121 @@ class Util:
 	def start(args: dict):
 		choice = args.get("choice")
 		data_dir = args.get("path")
-		data_dir = os.path.normpath(os.path.join(
-			os.getcwd(), data_dir
-		))
-		if not os.path.isdir(data_dir):
-			raise Exception("`Path` of the data is not valid!")
+		if data_dir:
+			data_dir = os.path.normpath(os.path.join(
+				os.getcwd(), data_dir
+			))
+			if not os.path.isdir(data_dir):
+				raise Exception("`Path` of the data is not valid!")
 		if choice == "stat":
 			Util.__stat(data_base=data_dir)
 		elif choice == "merge":
 			Util.__merge_conllu(data_base=data_dir)
-		elif choice == "fold":
-			Util.__split_data(data_path=data_dir, k=args.get("k_value"))
+		elif choice == "split":
+			k_fold = args.get("fold")
+			sentence_length = args.get("sentence_length")
+			if sentence_length != -1:
+				Util.__split_data_l(data_path=data_dir, sent_length=int(sentence_length))
+			else:
+				Util.__split_data_k(data_path=data_dir, k=k_fold)
+
+		elif choice == "evalute":
+			Util.__eval()
 
 	@staticmethod
-	def __split_data(data_path: str, k: int):
+	def __eval():
+		sources = [
+			("MaltParser/data/Fold-1.Test.conllu", "MaltParser/data/Fold-1.Test.conllu.parsed"),
+			("MaltParser/data/Fold-2.Test.conllu", "MaltParser/data/Fold-2.Test.conllu.parsed"),
+			("MaltParser/data/Fold-3.Test.conllu", "MaltParser/data/Fold-3.Test.conllu.parsed"),
+			("MaltParser/data/Fold-4.Test.conllu", "MaltParser/data/Fold-4.Test.conllu.parsed"),
+			("MaltParser/data/Fold-5.Test.conllu", "MaltParser/data/Fold-5.Test.conllu.parsed"),
+		]
+		for g, p in sources:
+			Evaluator.eval(
+				os.path.join(os.getcwd(), g), os.path.join(os.getcwd(), p)
+			)
+
+	@staticmethod
+	def __split_data_l(data_path: str, sent_length: int):
+		files = os.listdir(data_path)
+		conllu_files = []
+		for file in files:
+			fp = os.path.join(data_path, file)
+			if os.path.isfile(fp) and 'conllu' in file.lower():
+				conllu_files.append(fp)
+
+		base_dir = os.path.join(data_path, f"sent-len-{sent_length}")
+		malt_dp = os.path.join(base_dir, "malt")
+		mst_dp = os.path.join(base_dir, "mst")
+		malt_ddp = os.path.join(malt_dp, "data")
+		mst_ddp = os.path.join(mst_dp, "data")
+		shutil.rmtree(base_dir)
+
+		os.makedirs(base_dir)
+		os.makedirs(malt_dp)
+		os.makedirs(malt_ddp)
+		os.makedirs(mst_dp)
+		os.makedirs(mst_ddp)
+		for file in conllu_files:
+			below = []
+			above = []
+			conllu = CONLLU_FILE.from_file(filepath=file)
+			sizes = conllu.sents_size()
+			cat = ""
+			if "train" in str(file).lower():
+				cat = "Train"
+			elif "dev" in str(file).lower():
+				cat = "Dev"
+			elif "test" in str(file).lower():
+				cat = "Test"
+			for index, item in enumerate(sizes):
+				if item >= sent_length:
+					above.append(index)
+				else:
+					below.append(index)
+			below_fp = os.path.join(
+				malt_ddp,
+				f"Below-{sent_length}.{cat}.conllu"
+			)
+			above_fp = os.path.join(
+				malt_ddp,
+				f"Above-{sent_length}.{cat}.conllu"
+			)
+			below_conllu = conllu.subset(below)
+			above_conllu = conllu.subset(above)
+			below_conllu.dump(below_fp)
+			above_conllu.dump(above_fp)
+			## mst
+			below_fp = os.path.join(
+				mst_ddp,
+				f"Below-{sent_length}.{cat}.txt"
+			)
+			above_fp = os.path.join(
+				mst_ddp,
+				f"Above-{sent_length}.{cat}.txt"
+			)
+			below_conllu = conllu.subset(below)
+			above_conllu = conllu.subset(above)
+			below_conllu.dump(below_fp, mst=True)
+			above_conllu.dump(above_fp, mst=True)
+
+		MSTParser.generate_scripts(script_based=mst_dp, model_name=f"Below-mst-{sent_length}",
+								   train_fp=os.path.join("data", f"Below-{sent_length}.Train.txt"),
+								   test_fp=os.path.join("data", f"Below-{sent_length}.Test.txt"))
+		MSTParser.generate_scripts(script_based=mst_dp, model_name=f"Above-mst-{sent_length}",
+								   train_fp=os.path.join("data", f"Above-{sent_length}.Train.txt"),
+								   test_fp=os.path.join("data", f"Above-{sent_length}.Test.txt"))
+
+		MaltParser.generate_scripts(script_based=malt_dp, model_name=f"Below-malt-{sent_length}",
+									train_fp=os.path.join("data", f"Below-{sent_length}.Train.conllu"),
+									test_fp=os.path.join("data", f"Below-{sent_length}.Test.conllu"))
+		MaltParser.generate_scripts(script_based=malt_dp, model_name=f"Above-malt-{sent_length}",
+									train_fp=os.path.join("data", f"Above-{sent_length}.Train.conllu"),
+									test_fp=os.path.join("data", f"Above-{sent_length}.Test.conllu"))
+
+	@staticmethod
+	def __split_data_k(data_path: str, k: int):
 		files = os.listdir(data_path)
 		conllu_files = []
 		for file in files:
@@ -60,18 +162,37 @@ class Util:
 			folds.append([
 				test, train
 			])
-		os.makedirs(os.path.join(data_path, f"fold-{k}"), exist_ok=True)
+		base_dir = os.path.join(data_path, f"fold-{k}")
+		malt_dp = os.path.join(data_path, f"fold-{k}", "malt")
+		mst_dp = os.path.join(data_path, f"fold-{k}", "mst")
+		malt_ddp = os.path.join(data_path, f"fold-{k}", "malt", "data", )
+		mst_ddp = os.path.join(data_path, f"fold-{k}", "mst", "data", )
+		shutil.rmtree(base_dir)
+		os.makedirs(base_dir, exist_ok=True)
+		os.makedirs(malt_dp, exist_ok=True)
+		os.makedirs(mst_dp, exist_ok=True)
+		os.makedirs(malt_ddp, exist_ok=True)
+		os.makedirs(mst_ddp, exist_ok=True)
 		i = 1
 		for test_fold_index, train_fold_index in folds:
-			test_fold_fp = os.path.join(data_path, f"fold-{k}", f"Fold-{i}.Test.conllu")
-			train_fold_fp = os.path.join(data_path, f"fold-{k}", f"Fold-{i}.Train.conllu")
 			test_fold = final.subset(test_fold_index)
 			train_fold = final.subset(train_fold_index)
+			# Malt Parser preprocess
+			test_fold_fp = os.path.join(malt_ddp, f"Fold-{i}.Test.conllu")
+			train_fold_fp = os.path.join(malt_ddp, f"Fold-{i}.Train.conllu")
 			test_fold.dump(test_fold_fp)
 			train_fold.dump(train_fold_fp)
-			MaltParser.generate_scripts(base=data_path, script_name=f"fold-{i}",
-										train_fp=os.path.join(f"fold-{k}", f"Fold-{i}.Train.conllu"),
-										test_fp=os.path.join(f"fold-{k}", f"Fold-{i}.Test.conllu"))
+			MaltParser.generate_scripts(script_based=malt_dp, model_name=f"Fold-{i}",
+										train_fp=os.path.join("data", f"Fold-{i}.Train.conllu"),
+										test_fp=os.path.join("data", f"Fold-{i}.Test.conllu"))
+			# MST Parser preprocess
+			test_fold_fp = os.path.join(mst_dp, "data", f"MST.Fold-{i}.Test.txt")
+			train_fold_fp = os.path.join(mst_dp, "data", f"MST.Fold-{i}.Train.txt")
+			test_fold.dump(test_fold_fp, mst=True)
+			train_fold.dump(train_fold_fp, mst=True)
+			MSTParser.generate_scripts(script_based=mst_dp, model_name=f"Fold-{i}",
+									   train_fp=os.path.join("data", f"MST.Fold-{i}.Train.txt"),
+									   test_fp=os.path.join("data", f"MST.Fold-{i}.Test.txt"))
 			i += 1
 
 	@staticmethod

@@ -1,5 +1,9 @@
 start:
-	./venv/bin/python main.py util fold -p data/VnDep-v06 # >log.txt 2>>log.txt
+	./venv/bin/python main.py util split -s 25 -p ./data/VnDep-v06
+#evaluation:
+#	./venv/bin/python main.py util evalute
+#split-5:
+#	./venv/bin/python main.py util fold -p data/VnDep-v06 # >log.txt 2>>log.txt
 #merge:
 #	./venv/bin/python main.py util merge -p ./data/VnDep-v06
 #stat:

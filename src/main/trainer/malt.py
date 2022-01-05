@@ -4,13 +4,13 @@ import os
 class MaltParser:
 
 	@staticmethod
-	def generate_scripts(base, train_fp, test_fp, script_name):
+	def generate_scripts(train_fp, test_fp, script_based: str, model_name="model"):
 		train_content = f"""
 		<?xml version="1.0" encoding="UTF-8"?>
 		<experiment>
 			<optioncontainer>
 				<optiongroup groupname="config">
-					<option name="name" value="{script_name}"/>
+					<option name="name" value="{model_name}"/>
 					<option name="flowchart" value="learn"/>
 				</optiongroup>
 				<optiongroup groupname="singlemalt">
@@ -40,7 +40,7 @@ class MaltParser:
 		<experiment>
 			<optioncontainer>
 				<optiongroup groupname="config">
-					<option name="name" value="{script_name}"/>
+					<option name="name" value="{model_name}"/>
 					<option name="flowchart" value="parse"/>
 				</optiongroup>
 				<optiongroup groupname="input">
@@ -54,7 +54,7 @@ class MaltParser:
 			</optioncontainer>
 		</experiment>
 		"""
-		with open(os.path.join(base, f"{script_name}.train.xml"), "w") as writer:
+		with open(os.path.join(script_based, f"{model_name}.train.xml"), "w") as writer:
 			writer.write(train_content.strip())
-		with open(os.path.join(base, f"{script_name}.test.xml"), "w") as writer:
+		with open(os.path.join(script_based, f"{model_name}.test.xml"), "w") as writer:
 			writer.write(test_content.strip())

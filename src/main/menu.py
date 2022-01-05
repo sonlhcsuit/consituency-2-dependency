@@ -29,13 +29,16 @@ class ApplicationCLI:
 		choices = [
 			"stat",
 			"merge",
-			"fold"
+			"split",
 		]
 		parser.add_argument("choice", choices=choices, help="Data utilities. `merge` and `stat` are available.")
+		parser.add_argument("-f","--fold",help="K-fold number. Default is 5.")
+		parser.add_argument("-s","--sentence-length",help="Number of words in a sentence to be splited. If `-f` options is provided, `-s` have higher priority")
 		parser.add_argument("-p", "--path",
 							help="Path of data. Must be provied. If the util is `merge`. 3 CoNLLU file will be created based on 3 folders. If the utils is `stat`, 3 file CoNLLU will be selected for analytic. ")
-		parser.add_argument("-k", "--k-value", help="Number of split sample")
-		parser.set_defaults(k_value=5)
+
+		parser.set_defaults(fold=5)
+		parser.set_defaults(sentence_length=-1)
 		return parser
 
 	@staticmethod
@@ -63,5 +66,6 @@ class ApplicationCLI:
 		action = args.get("action")
 		if action == "util":
 			self.__utils(args)
+
 		elif action == "train":
 			self.__train(args)

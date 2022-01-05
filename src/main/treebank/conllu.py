@@ -1,6 +1,8 @@
 import re
 from typing import List
+from nltk.parse import DependencyGraph, DependencyEvaluator
 import os
+import numpy as np
 
 
 class CONLLU_ERROR(Exception):
@@ -54,17 +56,26 @@ class CONLLU_SENTENCE:
 			elif line.strip() != "":
 				self.__words.append(CONLLU_WORD(line, sep=sep))
 
-	def to_plain_text(self, sep="\t"):
+	def to_plain_text(self, sep="\t", comment: bool = True):
 		text = ""
-		for cmt in self.__comments:
-			text += cmt
-			text+="\n"
+		if comment:
+			for cmt in self.__comments:
+				text += cmt
+				text += "\n"
 		for word in self.__words:
 			text += word.to_plain_text(sep=sep)
 		return text + "\n"
 
 	def size(self):
 		return len(self.__words)
+
+	def mst_format(self):
+		matrix = np.array([x.to_plain_text().strip().split("\t") for x in self.__words], dtype=str)
+		matrix = np.delete(matrix, [0, 2, 4, 5, 8, 9], axis=1)
+		matrix[:, [2, 3]] = matrix[:, [3, 2]]
+		result = list(matrix.T)
+		result = list(map(lambda line: "\t".join(line), result))
+		return "\n".join(result)
 
 
 class CONLLU_FILE:
@@ -79,10 +90,21 @@ class CONLLU_FILE:
 	def get_size(self):
 		return len(self.__sentences)
 
-	def dump(self, filepath):
+	def dump(self, filepath, mst: bool = False):
 		fp = filepath
 		with open(fp, "w") as writer:
-			writer.write(self.to_plain_text().strip())
+			if mst:
+				writer.write(self.mst_format())
+			else:
+				writer.write(self.to_plain_text().strip())
+
+	def mst_format(self):
+		text = ""
+		for sent in self.__sentences:
+			if sent.size() != 0:
+				text += sent.mst_format()
+				text += "\n\n"
+		return text
 
 	@classmethod
 	def from_file(cls, filepath: str):
@@ -90,7 +112,7 @@ class CONLLU_FILE:
 		# fp = os.path.join(os.getcwd(), filepath)
 		with open(fp, "r") as reader:
 			content = reader.read()
-			data = cls(content)
+			data = cls(content.strip())
 		return data
 
 	def to_plain_text(self):
@@ -102,7 +124,7 @@ class CONLLU_FILE:
 	def append(self, other):
 		data: CONLLU_FILE = other
 		text = self.to_plain_text()
-		text = text + data.to_plain_text()
+		text += data.to_plain_text()
 		return CONLLU_FILE(plaintext=text)
 
 	def subset(self, index: List[int]):
@@ -114,5 +136,17 @@ class CONLLU_FILE:
 			raise CONLLU_ERROR(f"Invalid sentence index `{max_value}` with file have `{self.get_size()}` sentences")
 		text = ""
 		for element in index:
-			text = text + self.__sentences[element].to_plain_text()
+			text += self.__sentences[element].to_plain_text()
 		return CONLLU_FILE(text)
+
+	def to_dependency_graph(self) -> List[DependencyGraph]:
+		dps = []
+		for sent in self.__sentences:
+			dps.append(
+
+				DependencyGraph(sent.to_plain_text(comment=False).strip())
+			)
+		return dps
+
+	def sents_size(self):
+		return list(map(lambda x: x.size(), self.__sentences))
