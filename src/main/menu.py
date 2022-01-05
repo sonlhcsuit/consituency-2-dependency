@@ -30,6 +30,7 @@ class ApplicationCLI:
 			"stat",
 			"merge",
 			"split",
+			"eval"
 		]
 		parser.add_argument("choice", choices=choices, help="Data utilities. `merge` and `stat` are available.")
 		parser.add_argument("-f","--fold",help="K-fold number. Default is 5.")

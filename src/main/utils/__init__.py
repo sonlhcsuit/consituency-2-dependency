@@ -31,18 +31,19 @@ class Util:
 				Util.__split_data_l(data_path=data_dir, sent_length=int(sentence_length))
 			else:
 				Util.__split_data_k(data_path=data_dir, k=k_fold)
-
-		elif choice == "evalute":
+		elif choice == "eval":
 			Util.__eval()
 
 	@staticmethod
 	def __eval():
 		sources = [
-			("MaltParser/data/Fold-1.Test.conllu", "MaltParser/data/Fold-1.Test.conllu.parsed"),
-			("MaltParser/data/Fold-2.Test.conllu", "MaltParser/data/Fold-2.Test.conllu.parsed"),
-			("MaltParser/data/Fold-3.Test.conllu", "MaltParser/data/Fold-3.Test.conllu.parsed"),
-			("MaltParser/data/Fold-4.Test.conllu", "MaltParser/data/Fold-4.Test.conllu.parsed"),
-			("MaltParser/data/Fold-5.Test.conllu", "MaltParser/data/Fold-5.Test.conllu.parsed"),
+			("MaltParser/data/Above-25.Test.conllu", "MaltParser/data/Above-25.Test.conllu.parsed"),
+			("MaltParser/data/Below-25.Test.conllu", "MaltParser/data/Below-25.Test.conllu.parsed")
+			# ("MaltParser/data/Fold-1.Test.conllu", "MaltParser/data/Fold-1.Test.conllu.parsed"),
+			# ("MaltParser/data/Fold-2.Test.conllu", "MaltParser/data/Fold-2.Test.conllu.parsed"),
+			# ("MaltParser/data/Fold-3.Test.conllu", "MaltParser/data/Fold-3.Test.conllu.parsed"),
+			# ("MaltParser/data/Fold-4.Test.conllu", "MaltParser/data/Fold-4.Test.conllu.parsed"),
+			# ("MaltParser/data/Fold-5.Test.conllu", "MaltParser/data/Fold-5.Test.conllu.parsed"),
 		]
 		for g, p in sources:
 			Evaluator.eval(
