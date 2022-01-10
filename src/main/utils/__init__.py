@@ -1,11 +1,11 @@
 import os
 import re
-from pandas import DataFrame, read_csv
+import shutil
 import numpy as np
+from pandas import DataFrame, read_csv
 from ..trainer import MaltParser, MSTParser
 from ..treebank import CONLLU_FILE, Evaluator
-import shutil
-
+from .consituency import ConstituencyUtil
 
 class Util:
 	FOLDER = ("Dev", "Train", "Test")
@@ -32,13 +32,19 @@ class Util:
 			else:
 				Util.__split_data_k(data_path=data_dir, k=k_fold)
 		elif choice == "eval":
-			Util.__eval()
+			parsed = args.get("predict")
+			gold = args.get("gold")
+			if (not os.path.exists(os.path.join(os.getcwd(), parsed))) or \
+					(not os.path.exists(os.path.join(os.getcwd(), gold))):
+				print("Invalid `gold` filepath or `predicted` filepath")
+			Util.__eval(parsed=parsed, gold=gold)
 
 	@staticmethod
-	def __eval():
+	def __eval(parsed: str, gold: str):
 		sources = [
-			("MaltParser/data/Above-25.Test.conllu", "MaltParser/data/Above-25.Test.conllu.parsed"),
-			("MaltParser/data/Below-25.Test.conllu", "MaltParser/data/Below-25.Test.conllu.parsed")
+			(parsed, gold)
+			# ("MaltParser/data/Above-25.Test.conllu", "MaltParser/data/Above-25.Test.conllu.parsed"),
+			# ("MaltParser/data/Below-25.Test.conllu", "MaltParser/data/Below-25.Test.conllu.parsed")
 			# ("MaltParser/data/Fold-1.Test.conllu", "MaltParser/data/Fold-1.Test.conllu.parsed"),
 			# ("MaltParser/data/Fold-2.Test.conllu", "MaltParser/data/Fold-2.Test.conllu.parsed"),
 			# ("MaltParser/data/Fold-3.Test.conllu", "MaltParser/data/Fold-3.Test.conllu.parsed"),
@@ -114,19 +120,27 @@ class Util:
 			below_conllu.dump(below_fp, mst=True)
 			above_conllu.dump(above_fp, mst=True)
 
-		MSTParser.generate_scripts(script_based=mst_dp, model_name=f"Below-mst-{sent_length}",
-								   train_fp=os.path.join("data", f"Below-{sent_length}.Train.txt"),
-								   test_fp=os.path.join("data", f"Below-{sent_length}.Test.txt"))
-		MSTParser.generate_scripts(script_based=mst_dp, model_name=f"Above-mst-{sent_length}",
-								   train_fp=os.path.join("data", f"Above-{sent_length}.Train.txt"),
-								   test_fp=os.path.join("data", f"Above-{sent_length}.Test.txt"))
+		MSTParser.generate_scripts(
+			script_based=mst_dp, model_name=f"Below-mst-{sent_length}",
+			train_fp=os.path.join("data", f"Below-{sent_length}.Train.txt"),
+			test_fp=os.path.join("data", f"Below-{sent_length}.Test.txt")
+		)
+		MSTParser.generate_scripts(
+			script_based=mst_dp, model_name=f"Above-mst-{sent_length}",
+			train_fp=os.path.join("data", f"Above-{sent_length}.Train.txt"),
+			test_fp=os.path.join("data", f"Above-{sent_length}.Test.txt")
+		)
 
-		MaltParser.generate_scripts(script_based=malt_dp, model_name=f"Below-malt-{sent_length}",
-									train_fp=os.path.join("data", f"Below-{sent_length}.Train.conllu"),
-									test_fp=os.path.join("data", f"Below-{sent_length}.Test.conllu"))
-		MaltParser.generate_scripts(script_based=malt_dp, model_name=f"Above-malt-{sent_length}",
-									train_fp=os.path.join("data", f"Above-{sent_length}.Train.conllu"),
-									test_fp=os.path.join("data", f"Above-{sent_length}.Test.conllu"))
+		MaltParser.generate_scripts(
+			script_based=malt_dp, model_name=f"Below-malt-{sent_length}",
+			train_fp=os.path.join("data", f"Below-{sent_length}.Train.conllu"),
+			test_fp=os.path.join("data", f"Below-{sent_length}.Test.conllu")
+		)
+		MaltParser.generate_scripts(
+			script_based=malt_dp, model_name=f"Above-malt-{sent_length}",
+			train_fp=os.path.join("data", f"Above-{sent_length}.Train.conllu"),
+			test_fp=os.path.join("data", f"Above-{sent_length}.Test.conllu")
+		)
 
 	@staticmethod
 	def __split_data_k(data_path: str, k: int):
@@ -229,28 +243,29 @@ class Util:
 
 	@staticmethod
 	def __stat(data_base: str):
-		token_lists = {}
-		token_type = []
-		dataframes = []
-		for data_folder in Util.FOLDER:
-			base = os.path.basename(data_base)
-			merged_filename = os.path.join(data_base, f"{base}.{data_folder}.conllu")
-			df = read_csv(merged_filename, names=list('abcdefghij'), delimiter="\t", skip_blank_lines=True,
-						  quoting=3,
-						  header=None, encoding="utf-8")
-			df.dropna(inplace=True)
-			dataframes.append(df)
-			tokens = np.array(list(df['h']))
-			token_lists.setdefault(data_folder, tokens)
-			token_type = list(set(token_type + list(df['h'])))
-		d = {}
-		for data_folder in Util.FOLDER:
-			tokens = token_lists.get(data_folder)
-			unique, counts = np.unique(tokens, return_counts=True)
-			stats = dict(zip(unique, counts))
-			d.setdefault(data_folder, stats)
-		df = DataFrame(d)
-		df.to_csv(path_or_buf="stat.csv")
-		for data_folder in Util.FOLDER:
-			df[data_folder] = df[data_folder] / len(token_lists.get(data_folder))
-		df.to_csv(path_or_buf="stat.percent.csv")
+		ConstituencyUtil.analyze_coord(base=data_base)
+		# token_lists = {}
+		# token_type = []
+		# dataframes = []
+		# for data_folder in Util.FOLDER:
+		# 	base = os.path.basename(data_base)
+		# 	merged_filename = os.path.join(data_base, f"{base}.{data_folder}.conllu")
+		# 	df = read_csv(merged_filename, names=list('abcdefghij'), delimiter="\t", skip_blank_lines=True,
+		# 				  quoting=3,
+		# 				  header=None, encoding="utf-8")
+		# 	df.dropna(inplace=True)
+		# 	dataframes.append(df)
+		# 	tokens = np.array(list(df['h']))
+		# 	token_lists.setdefault(data_folder, tokens)
+		# 	token_type = list(set(token_type + list(df['h'])))
+		# d = {}
+		# for data_folder in Util.FOLDER:
+		# 	tokens = token_lists.get(data_folder)
+		# 	unique, counts = np.unique(tokens, return_counts=True)
+		# 	stats = dict(zip(unique, counts))
+		# 	d.setdefault(data_folder, stats)
+		# df = DataFrame(d)
+		# df.to_csv(path_or_buf="stat.csv")
+		# for data_folder in Util.FOLDER:
+		# 	df[data_folder] = df[data_folder] / len(token_lists.get(data_folder))
+		# df.to_csv(path_or_buf="stat.percent.csv")
