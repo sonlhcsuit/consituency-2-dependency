@@ -13,5 +13,5 @@ class Converter:
     @staticmethod
     def start(**kwargs):
         rule_fp = "./head-percolation.txt"
-        HeadPercolation.load(rule_fp)
-        print(kwargs)
+        hp = HeadPercolation.load(rule_fp)
+        hp.process(None)
