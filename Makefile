@@ -7,6 +7,9 @@
 #merge:
 #	./venv/bin/python main.py util merge -p ./data/VnDep-v06
 stat:
-	./venv/bin/python main.py util stat -p ./data/VnDep-v06
+	./venv/bin/python main.py util stat -p ./data/Original/NIIVTB-1
 #mst:
 #	./venv/bin/python main.py train mst -p ./data/VnDep-v06
+
+convert:
+	./venv/bin/python main.py convert ./data/Original ./data/VnDep

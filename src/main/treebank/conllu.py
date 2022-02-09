@@ -142,10 +142,9 @@ class CONLLU_FILE:
 	def to_dependency_graph(self) -> List[DependencyGraph]:
 		dps = []
 		for sent in self.__sentences:
-			dps.append(
-
-				DependencyGraph(sent.to_plain_text(comment=False).strip())
-			)
+			dps.append(DependencyGraph(
+				sent.to_plain_text(comment=False).strip()
+			))
 		return dps
 
 	def sents_size(self):
