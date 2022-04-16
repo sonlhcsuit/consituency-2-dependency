@@ -22,8 +22,10 @@ class Util:
 				raise Exception("`Path` of the data is not valid!")
 		if choice == "stat":
 			Util.__stat(data_base=data_dir)
-		elif choice == "merge":
+		elif choice == "merge-d":
 			Util.__merge_conllu(data_base=data_dir)
+		elif choice == "merge-c":
+			Util.__merge_constituent(data_base=data_dir)
 		elif choice == "split":
 			k_fold = args.get("fold")
 			sentence_length = args.get("sentence_length")
@@ -240,6 +242,40 @@ class Util:
 									lines[i] = ""
 						writer.write("".join(lines).strip())
 						writer.write("\n\n")
+	@staticmethod
+	def __merge_constituent(data_base,skip_id=False):
+		for data_folder in Util.FOLDER:
+			base = os.path.basename(data_base)
+			data_filedir = os.path.join(data_base, data_folder)
+			merged_filename = os.path.join(data_base, f"{base}.{data_folder}.prd")
+			with open(merged_filename, "w") as writer:
+				files = os.listdir(data_filedir)
+				files = sorted(files)
+				sentence_id = 1
+				for file in files:
+					sentence_file_id = 1
+					if not file.endswith(".prd"):
+						continue
+					with open(os.path.join(data_filedir, file), 'r') as reader:
+						lines = reader.read()
+						sentences = re.findall("(?<=<s>).*?(?=</s>)",lines,flags=re.I|re.DOTALL)
+						for index,sent in enumerate(sentences):
+							writer.write(re.sub("[\s]+"," ",sent).strip())
+							writer.write("\n")
+					# 	break
+					# break
+					# 	# break
+					# 	# for i in range(len(lines)):
+					# 	# 	match = re.match("^#\sID", lines[i], re.I)
+					# 	# 	if match:
+					# 	# 		if not skip_id:
+					# 	# 			lines[i] = f"# ID = {sentence_id} - {file}:{sentence_file_id}\n"
+					# 	# 			sentence_id += 1
+					# 	# 			sentence_file_id += 1
+					# 	# 		else:
+					# 	# 			lines[i] = ""
+					# 	#writer.write("".join(lines).strip())
+					# 	#writer.write("\n\n")
 
 	@staticmethod
 	def __stat(data_base: str):

@@ -29,7 +29,9 @@ class ApplicationCLI:
     def __parse_args_util(parser: ArgumentParser) -> ArgumentParser:
         choices = [
             "stat",
-            "merge",
+            "merge-c",
+
+            "merge-p",
             "split",
             "eval"
         ]
