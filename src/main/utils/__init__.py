@@ -54,9 +54,14 @@ class Util:
 			# ("MaltParser/data/Fold-5.Test.conllu", "MaltParser/data/Fold-5.Test.conllu.parsed"),
 		]
 		for g, p in sources:
-			Evaluator.eval(
+			las,uas = Evaluator.eval(
 				os.path.join(os.getcwd(), g), os.path.join(os.getcwd(), p)
 			)
+			print(g,p)
+			print("_"*23)
+			print(f"|{'LAS':<10}|{'UAS':<10}|")
+			print(f"|{'-'*21}|")
+			print(f"|{las:1.8f}|{uas:1.8f}|")
 
 	@staticmethod
 	def __split_data_l(data_path: str, sent_length: int):
@@ -257,8 +262,9 @@ class Util:
 					if not file.endswith(".prd"):
 						continue
 					with open(os.path.join(data_filedir, file), 'r') as reader:
-						lines = reader.read()
-						sentences = re.findall("(?<=<s>).*?(?=</s>)",lines,flags=re.I|re.DOTALL)
+						lines = reader.readlines()
+						sentences = lines
+						# sentences = re.findall("(?<=<s>).*?(?=</s>)",lines,flags=re.I|re.DOTALL)
 						for index,sent in enumerate(sentences):
 							writer.write(re.sub("[\s]+"," ",sent).strip())
 							writer.write("\n")

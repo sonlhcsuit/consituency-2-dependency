@@ -1,6 +1,6 @@
 import os
 from .mst import MSTParser
-
+from .malt import MaltParser
 
 class Train:
 	@staticmethod
@@ -13,6 +13,8 @@ class Train:
 			mst.generate_train_script()
 			mst.generate_evaluate_script()
 		elif parser == "malt":
+			malt = MaltParser("MaltParser", os.path.join(os.getcwd(), args.get("path")))
+			malt.gen_script()
 			pass
 
 	pass

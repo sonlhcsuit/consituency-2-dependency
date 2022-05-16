@@ -35,7 +35,6 @@ class ConlluFile:
     def __init__(self, filepath: str):
         if not os.path.isfile(filepath):
             raise ValueError("An valid filepath is expected")
-
         reader = open(filepath)
         lines = reader.readlines()
         result = []

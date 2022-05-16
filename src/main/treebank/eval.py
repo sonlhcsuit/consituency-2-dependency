@@ -12,5 +12,4 @@ class Evaluator:
 		# print(len(gold_dps),len(parsed_dps))
 		de = DependencyEvaluator(parsed_dps, gold_dps)
 		las, uas = de.eval()
-		print(las, uas)
-		pass
+		return las, uas

@@ -65,7 +65,7 @@ class MSTParser:
 				filename = os.path.basename(filepath)
 				kind = filename.split(".")
 				kind = kind[1]
-				if kind.lower() in ["dev"]:
+				if kind.lower() in ["train"]:
 					writer.write(f"echo \"Training {filename}...\" >>log.txt\n")
 					writer.write(f"java -classpath \".:lib/trove.jar\" -Xmx1800m mstparser.DependencyParser " +
 								 f"train train-file:data/{filename} " +
