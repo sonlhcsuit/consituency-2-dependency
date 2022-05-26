@@ -92,7 +92,7 @@ class CONLLU_FILE:
 
 	def dump(self, filepath, mst: bool = False):
 		fp = filepath
-		with open(fp, "w") as writer:
+		with open(fp, "w",encoding="utf8") as writer:
 			if mst:
 				writer.write(self.mst_format())
 			else:
@@ -110,7 +110,7 @@ class CONLLU_FILE:
 	def from_file(cls, filepath: str):
 		fp = filepath
 		# fp = os.path.join(os.getcwd(), filepath)
-		with open(fp, "r") as reader:
+		with open(fp, "r", encoding='utf8') as reader:
 			content = reader.read()
 			data = cls(content.strip())
 		return data

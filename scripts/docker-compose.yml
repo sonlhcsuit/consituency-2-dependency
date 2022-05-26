@@ -5,5 +5,9 @@ services:
       context: ./../
       dockerfile: ./scripts/Dockerfile
     volumes:
-      - ./src:/src
+      - ./../src:/srv/constituent/src
     container_name: "constituent"
+    deploy:
+      resources:
+        limits:
+          memory: 6g

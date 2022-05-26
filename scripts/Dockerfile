@@ -1,12 +1,13 @@
 FROM ubuntu:18.04
-WORKDIR /srv/consituent
+WORKDIR /srv/constituent
 ARG MALT_PARSER="http://maltparser.org/dist/maltparser-1.9.2.tar.gz"
 ARG MALT_EVAL="https://raw.githubusercontent.com/sonlhcsuit/dotfiles/main/MaltEval-dist.zip"
 ARG MALT_OPTMIZER="http://nil.fdi.ucm.es/maltoptimizer/MaltOptimizer-1.0.2.tar.gz"
 ARG MST_PARSER="https://www.seas.upenn.edu/~strctlrn/MSTParser/MSTParser.tar.gz"
 
 RUN apt-get update -y && apt-get upgrade -y
-RUN apt-get -y install openjdk-8-jre curl python3 python3-pip unzip sudo wget htop
+RUN apt-get -y install curl unzip sudo wget htop
+RUN apt-get -y install openjdk-8-jre openjdk-8-jdk python3 python3-pip
 RUN wget ${MALT_PARSER} && gunzip maltparser-1.9.2.tar.gz && tar -xvf maltparser-1.9.2.tar
 RUN wget ${MALT_OPTMIZER} && gunzip MaltOptimizer-1.0.2.tar.gz && tar -xvf MaltOptimizer-1.0.2.tar
 # RUN wget ${MALT_EVAL} && gunzip maltparser-1.9.2.tar.gz && tar -xvf maltparser-1.9.2.tar
