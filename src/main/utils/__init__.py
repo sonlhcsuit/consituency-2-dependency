@@ -49,7 +49,9 @@ class Util:
         sources = []
         for i in range(1,11):
             sources.append(
-                (f"maltparser-1.9.2/data/Fold-{i}.Test.conllu.parsed",f"maltparser-1.9.2/data/Fold-{i}.Test.conllu")
+                (
+					f"VnDep-v06.Test.conllu.parsed",
+					f"VnDep-v06.Test.conllu")
             )
         # sources = [
         #     (parsed, gold)
@@ -272,21 +274,21 @@ class Util:
         for data_folder in Util.FOLDER:
             base = os.path.basename(data_base)
             data_filedir = os.path.join(data_base, data_folder)
-            merged_filename = os.path.join(data_base, f"{base}.{data_folder}.prd")
-            with open(merged_filename, "w") as writer:
+            merged_filename = os.path.join(data_base, f"{base}.{data_folder}.conllu")
+            with open(merged_filename, "w", encoding='utf8') as writer:
                 files = os.listdir(data_filedir)
                 files = sorted(files)
                 sentence_id = 1
                 for file in files:
                     sentence_file_id = 1
-                    if not file.endswith(".prd"):
+                    if not file.endswith(".conllu"):
                         continue
-                    with open(os.path.join(data_filedir, file), 'r') as reader:
+                    with open(os.path.join(data_filedir, file), 'r', encoding='utf8') as reader:
                         lines = reader.readlines()
                         sentences = lines
                         # sentences = re.findall("(?<=<s>).*?(?=</s>)",lines,flags=re.I|re.DOTALL)
                         for index, sent in enumerate(sentences):
-                            writer.write(re.sub("[\s]+", " ", sent).strip())
+                            writer.write(re.sub("[\s]+", "\t", sent).strip())
                             writer.write("\n")
                 # 	break
                 # break

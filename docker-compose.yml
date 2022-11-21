@@ -1,0 +1,15 @@
+version: "3.9"
+services:
+  constituent:
+    build:
+      context: .
+      dockerfile: ./scripts/Dockerfile
+    volumes:
+      - ./src:/srv/constituent/src
+      # change this to your desired path of data to mount
+      - ./data/example-dataset:/srv/constituent/data/
+    container_name: "c2d"
+    deploy:
+      resources:
+        limits:
+          memory: 6g

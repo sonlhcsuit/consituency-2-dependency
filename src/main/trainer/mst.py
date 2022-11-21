@@ -24,7 +24,7 @@ class MSTParser:
 		train_content = f"""echo "Trainning {model_name} with {train_fp}"\n""" \
 						f"""javac -classpath \".:lib/trove.jar\" mstparser/DependencyParser.java\n""" \
 						f"""java -classpath \".:lib/trove.jar\" -Xmx1800m mstparser.DependencyParser """ \
-						f"""train train-file:{train_fp} model-name:models/{model_name}.model >> log.txt 2>>log.txt """
+						f"""train train-file:{train_fp} model-name:models/{model_name}.model >> log.txt 2>>log.txt \n"""
 		test_content = f"""echo \"Result on golden: {test_fp} \" >>metrics.{model_name}.txt\n""" \
 					   f"""java -classpath \".:lib/trove.jar\" -Xmx1800m mstparser.DependencyParser """ \
 					   f"""test model-name:models/{model_name}.model test-file:{test_fp} output-file:{test_fp}.parsed >>log.txt 2>>log.txt\n""" \
@@ -36,7 +36,7 @@ class MSTParser:
 			writer.write(test_content.strip())
 
 	def generate_evaluate_script(self, model="Train", testset="MST.Test.conllu",
-								 name="evaluate.mst.sh",
+								 name="mst.evaluate.sh",
 								 result="result.conllu", scoreboard="Metrics.txt"):
 		with open(os.path.join(os.getcwd(), name), "w") as writer:
 			writer.write(f"cd {self.parser}\n")
@@ -47,7 +47,7 @@ class MSTParser:
 						 f"eval gold-file:data/{testset} output-file:data/{result} >>{scoreboard}\n")
 			writer.write(f"mv {scoreboard} {os.getcwd()}/ \n")
 
-	def generate_train_script(self, name: str = "train.mst.sh"):
+	def generate_train_script(self, name: str = "mst.train.sh"):
 		directories = os.listdir(self.data)
 		directories = list(map(lambda d: os.path.join(self.data, d), directories))
 		files = list(filter(lambda d: os.path.isfile(d), directories))
@@ -69,7 +69,7 @@ class MSTParser:
 					writer.write(f"echo \"Training {filename}...\" >>log.txt\n")
 					writer.write(f"java -classpath \".:lib/trove.jar\" -Xmx1800m mstparser.DependencyParser " +
 								 f"train train-file:data/{filename} " +
-								 f"model-name:models/{kind}.model >> log.txt 2>>log.txt")
+								 f"model-name:models/{kind}.model >> log.txt 2>>log.txt\n")
 
 	def process_data(self):
 		"""

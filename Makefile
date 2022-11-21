@@ -15,10 +15,13 @@ convert:
 	./venv/bin/python main.py convert ./data/Original ./data/VnDep
 
 build:
-	docker-compose -p consituent -f ./scripts/docker-compose.yml build
+	docker-compose -p consituent -f ./docker-compose.yml build
 up:
-	docker-compose -p consituent -f ./scripts/docker-compose.yml up -d
+	docker-compose -p consituent -f ./docker-compose.yml up -d
 down:
-	docker-compose -p consituent -f ./scripts/docker-compose.yml down
+	docker-compose -p consituent -f ./docker-compose.yml down
 exec:
-	docker exec -ti constituent su
+	docker exec -ti c2d su
+
+
+link:

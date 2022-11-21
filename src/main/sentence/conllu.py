@@ -33,9 +33,10 @@ class ConlluSentence:
 
 class ConlluFile:
     def __init__(self, filepath: str):
+        print(filepath)
         if not os.path.isfile(filepath):
             raise ValueError("An valid filepath is expected")
-        reader = open(filepath)
+        reader = open(filepath,encoding='utf8')
         lines = reader.readlines()
         result = []
         start = 0
@@ -55,14 +56,14 @@ class ConlluFile:
         self.sentences: List[ConlluSentence] = result
 
     def transpose_mst(self, op):
-        with open(op, "w") as writer:
+        with open(op, "w", encoding='utf8') as writer:
             for s in self.sentences:
                 try:
                     if s.size != 0:
                         string = s.transpose_mst()
+                        writer.write(string.strip())
+                        writer.write("\n\n")
                 except Exception as e:
                     print(s.words,s.size)
                     sys.exit(1)
-                writer.write(string.strip())
-                writer.write("\n\n")
-        pass
+
