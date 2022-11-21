@@ -19,6 +19,7 @@ RUN wget ${MALT_PARSER} && gunzip maltparser-1.9.2.tar.gz && tar -xvf maltparser
 
 COPY ./requirements.txt ./
 COPY ./main.py ./
+RUN mv maltparser-1.9.2 MaltParser
 RUN python3 -m pip install --upgrade pip && \
 	python3 -m pip install -r requirements.txt
 
