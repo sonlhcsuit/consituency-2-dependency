@@ -29,22 +29,32 @@ class MSTParser:
 					   f"""java -classpath \".:lib/trove.jar\" -Xmx1800m mstparser.DependencyParser """ \
 					   f"""test model-name:models/{model_name}.model test-file:{test_fp} output-file:{test_fp}.parsed >>log.txt 2>>log.txt\n""" \
 					   f"""java -classpath \".:lib/trove.jar\" -Xmx1800m mstparser.DependencyParser """ \
-					   f"""eval gold-file:{test_fp} output-file:{test_fp}.parsed >>metrics.{model_name}.txt\n """
+					   f"""eval gold-file:{test_fp} output-file:{test_fp}.parsed >> metrics.{model_name}.txt\n """
 		with open(os.path.join(script_based, f"{model_name}.train.sh"), "w") as writer:
 			writer.write(train_content.strip())
 		with open(os.path.join(script_based, f"{model_name}.test.sh"), "w") as writer:
 			writer.write(test_content.strip())
 
-	def generate_evaluate_script(self, model="Train", testset="MST.Test.conllu",
+	def generate_evaluate_script(self, model="Train",
 								 name="mst.evaluate.sh",
 								 result="result.conllu", scoreboard="Metrics.txt"):
+		directories = os.listdir(self.data)
+		directories = list(map(lambda d: os.path.join(self.data, d), directories))
+		files = list(filter(lambda d: os.path.isfile(d), directories))
+		testset = None 
+		for filepath in files:
+			filename = os.path.basename(filepath)
+			if filename.startswith("MST") and 'test' in filename.lower():
+				testset = filename
+		if testset is None:
+			raise Exception("Unable to find test file")
 		with open(os.path.join(os.getcwd(), name), "w") as writer:
 			writer.write(f"cd {self.parser}\n")
 			writer.write(f"echo \"Result on golden: {testset} \" >>{scoreboard}\n")
 			writer.write(f"java -classpath \".:lib/trove.jar\" -Xmx1800m mstparser.DependencyParser " +
-						 f"test model-name:models/{model}.model test-file:data/{testset} output-file:data/{result} >>log.txt 2>>log.txt\n")
+						 f"test model-name:models/{model}.model test-file:data/{testset} output-file:data/{result} >> log.txt 2>> log.txt\n")
 			writer.write(f"java -classpath \".:lib/trove.jar\" -Xmx1800m mstparser.DependencyParser " +
-						 f"eval gold-file:data/{testset} output-file:data/{result} >>{scoreboard}\n")
+						 f"eval gold-file:data/{testset} output-file:data/{result} >> {scoreboard}\n")
 			writer.write(f"mv {scoreboard} {os.getcwd()}/ \n")
 
 	def generate_train_script(self, name: str = "mst.train.sh"):
@@ -66,9 +76,9 @@ class MSTParser:
 				kind = filename.split(".")
 				kind = kind[1]
 				if kind.lower() in ["train"]:
-					writer.write(f"echo \"Training {filename}...\" >>log.txt\n")
+					writer.write(f"echo \"Training MST.{filename}...\" >>log.txt\n")
 					writer.write(f"java -classpath \".:lib/trove.jar\" -Xmx1800m mstparser.DependencyParser " +
-								 f"train train-file:data/{filename} " +
+								 f"train train-file:data/MST.{filename} " +
 								 f"model-name:models/{kind}.model >> log.txt 2>>log.txt\n")
 
 	def process_data(self):

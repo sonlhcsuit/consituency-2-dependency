@@ -57,12 +57,13 @@ data
 └── data.Train.conllu
 ```
 
-## How to run it ?
+## How to use MST?
+- go to `/srv/constituent`
 - MST, require Dev Test Train as single files. 
 ```
 python3 main.py train mst -p data/
 ```
-- Formatted single files are generated. There are 2 files called `mst.evaluate.sh` & `mst.train.sh` are generated also.
+- Formatted single files are generated. They also are copied to `MSTParser` within data folder
 ```
 data
 ├── Dev
@@ -77,4 +78,37 @@ data
 ├── MST.data.Test.conllu
 └── MST.data.Train.conllu
 ```
-- Copy them to `MSTParser`
+- 2 files generated, called `mst.evaluate.sh` & `mst.train.sh`. Create models folder in `MSTParser`
+```
+mkdir -p MSTParser/models
+```
+- Train, Evaluate, Watch Result. Run sequentially 
+```
+sh mst.train.sh
+sh mst.evaluate.sh
+cat Metrics.txt
+```
+- Details of training progress is logged in `MSTParser/log.txt`. In case you wanna track it, open new terminal, exec into the container by creating new session then run `tail -f MSTParser/log.txt` 
+
+## How to use Malt?
+- go to `/srv/constituent`
+```
+python3 main.py train malt -p data/
+```
+
+- 2 File are generated `model.test.xml` and `model.train.xml` in `MaltParser`. Then copy 3 single files to `MaltParser`
+```
+cp data/data.Dev.conllu MaltParser/
+cp data/data.Train.conllu MaltParser/
+cp data/data.Test.conllu MaltParser/
+```
+- Train by running
+```
+java -jar maltparser-1.9.2.jar -f model.train.xml
+java -jar maltparser-1.9.2.jar -f model.test.xml
+```
+- Then result is with 'parsed' as posfix. For example: `Test.conllu.parsed` 
+- Evaluate `Test.conllu.parsed` and `Test.conllu.parsed` by running 
+```
+root@c080d8f2f37f:/srv/constituent# python3 main.py util eval --predict MaltParser/Test.conllu.parsed --gold MaltParser/Test.conllu
+```

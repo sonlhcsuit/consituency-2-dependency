@@ -35,27 +35,27 @@ class Util:
             else:
                 Util.__split_data_k(data_path=data_dir, k=k_fold)
         elif choice == "eval":
-            # parsed = args.get("predict")
-            # gold = args.get("gold")
-            # if (not os.path.exists(os.path.join(os.getcwd(), parsed))) or \
-            #         (not os.path.exists(os.path.join(os.getcwd(), gold))):
-            #     print("Invalid `gold` filepath or `predicted` filepath")
+            parsed = args.get("predict")
+            gold = args.get("gold")
+            if (not os.path.exists(os.path.join(os.getcwd(), parsed))) or \
+                     (not os.path.exists(os.path.join(os.getcwd(), gold))):
+                 print("Invalid `gold` filepath or `predicted` filepath")
             Util.__eval(
-            #    parsed=parsed, gold=gold
+                parsed=parsed, gold=gold
             )
 
     @staticmethod
     def __eval(parsed: str=None, gold: str=None):
         sources = []
-        for i in range(1,11):
-            sources.append(
-                (
-					f"VnDep-v06.Test.conllu.parsed",
-					f"VnDep-v06.Test.conllu")
-            )
-        # sources = [
-        #     (parsed, gold)
-        # ]
+        #  for i in range(1,11):
+        #      sources.append(
+        #          (
+		#              f"VnDep-v06.Test.conllu.parsed",
+		#              f"VnDep-v06.Test.conllu")
+        #      )
+        sources = [
+           (parsed, gold)
+        ]
         for g, p in sources:
             las, uas = Evaluator.eval(
                 os.path.join(os.getcwd(), g), os.path.join(os.getcwd(), p)
