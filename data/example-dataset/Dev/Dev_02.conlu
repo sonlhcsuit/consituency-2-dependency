@@ -1,0 +1,162 @@
+
+
+# ID = 1
+1	Sau	_	Cs	_	ADV	13	PREP	_	_
+2	mỗi	_	Nq	_	_	3	DET	_	_
+3	câu	_	Nn	_	_	1	POBJ	_	_
+4	,	_	PU	_	_	13	PUNCT	_	_
+5	người	_	Nc	_	_	13	NSUBJ	_	_
+6	thanh_niên	_	Nn	_	_	5	CLF	_	_
+7	có	_	Ve	_	_	5	RCMOD	_	_
+8	ngón	_	Nn	_	_	7	OBJ	_	_
+9	tay	_	Nn	_	_	8	NN	_	_
+10	dài	_	Aa	_	_	8	AMOD	_	_
+11	thon	_	Aa	_	_	10	CONJ	_	_
+12	khéo_léo	_	Aa	_	_	13	ACOMP	_	_
+13	nhét	_	Vv	_	_	0	ROOT	_	_
+14	những	_	Nq	_	_	15	DET	_	_
+15	miếng	_	Nn	_	_	13	OBJ	_	_
+16	cao	_	Nn	_	_	15	NN	_	_
+17	vào	_	Cs	_	_	13	PREP	_	_
+18	túi	_	Nn	_	_	17	POBJ	_	_
+19	nilông	_	Nn	_	_	18	NN	_	_
+20	buộc	_	Vv	_	_	13	VMOD	_	_
+21	lại	_	R	_	_	20	ADJUNCT	_	_
+22	từng	_	Pp	_	_	23	DET	_	_
+23	phần	_	Nn	_	_	20	OBJ	_	_
+24	trao	_	Vv	_	_	20	VMOD	_	_
+25	cho	_	Cs	_	_	24	PREP	_	_
+26	khách	_	Nn	_	_	25	POBJ	_	_
+27	.	_	PU	_	_	13	PUNCT	_	_
+
+# ID = 2
+1	Vợ	_	Nn	_	_	4	NSUBJ	_	_
+2	bác_sĩ	_	Nn	_	_	1	NN	_	_
+3	Dung	_	Nr	_	_	2	NN	_	_
+4	quyết_toán	_	Vv	_	_	0	ROOT	_	_
+5	:	_	PU	_	_	9	PUNCT	_	_
+6	xương	_	Nn	_	_	9	NSUBJ	_	_
+7	hổ	_	Nn	_	_	6	NN	_	_
+8	12,5	_	Num	_	_	9	NUM	_	_
+9	kg	_	Nu	_	_	4	CCOMP	_	_
+10	-	_	PU	_	_	9	PUNCT	_	_
+11	125	_	Num	_	_	12	NUMBER	_	_
+12	triệu	_	Nq	_	_	13	NUM	_	_
+13	đồng	_	Nu	_	_	9	PARATAXIS	_	_
+14	,	_	PU	_	_	9	PUNCT	_	_
+15	xương	_	Nn	_	_	18	NSUBJ	_	_
+16	gấu	_	Nn	_	_	15	NN	_	_
+17	8	_	Num	_	_	18	NUM	_	_
+18	kg	_	Nu	_	_	9	CONJ	_	_
+19	-	_	PU	_	_	18	PUNCT	_	_
+20	4	_	Num	_	_	21	NUMBER	_	_
+21	triệu	_	Nq	_	_	18	PARATAXIS	_	_
+22	,	_	PU	_	_	18	PUNCT	_	_
+23	xương	_	Nn	_	_	26	NSUBJ	_	_
+24	sơn_dương	_	Nn	_	_	23	NN	_	_
+25	5	_	Num	_	_	26	NUM	_	_
+26	kg	_	Nu	_	_	18	CONJ	_	_
+27	-	_	PU	_	_	26	PUNCT	_	_
+28	500.000	_	Num	_	_	29	NUM	_	_
+29	đồng	_	Nu	_	_	26	PARATAXIS	_	_
+30	.	_	PU	_	_	4	PUNCT	_	_
+
+# ID = 3
+1	Công	_	Nn	_	_	6	NSUBJ	_	_
+2	xem	_	Vv	_	_	1	RCMOD	_	_
+3	xương	_	Nn	_	_	2	OBJ	_	_
+4	:	_	PU	_	_	6	PUNCT	_	_
+5	3	_	Num	_	_	6	NUMBER	_	_
+6	triệu	_	Nq	_	_	0	ROOT	_	_
+7	,	_	PU	_	_	6	PUNCT	_	_
+8	công	_	Nn	_	_	15	NSUBJ	_	_
+9	đập	_	Vv	_	_	8	RCMOD	_	_
+10	xương	_	Nn	_	_	9	OBJ	_	_
+11	và	_	Cp	_	_	9	CC	_	_
+12	nấu	_	Vv	_	_	9	CONJ	_	_
+13	cao	_	Nn	_	_	12	OBJ	_	_
+14	5,5	_	Num	_	_	15	NUMBER	_	_
+15	triệu	_	Nq	_	_	6	CONJ	_	_
+16	...	_	PU	_	_	6	PUNCT	_	_
+
+# ID = 4
+1	Tổng	_	Sv	_	_	2	SINO	_	_
+2	cộng	_	Vv	_	_	5	VSUBJ	_	_
+3	150	_	Num	_	_	4	NUMBER	_	_
+4	triệu	_	Nq	_	_	5	NUM	_	_
+5	đồng	_	Nu	_	PRD	0	ROOT	_	_
+6	.	_	PU	_	_	5	PUNCT	_	_
+
+# ID = 5
+1	Giá	_	Nn	_	_	6	NSUBJ	_	_
+2	tại	_	Cs	_	_	1	PREP	_	_
+3	nồi	_	Nn	_	_	2	POBJ	_	_
+4	3,34	_	Num	_	_	5	NUMBER	_	_
+5	triệu	_	Nq	_	_	6	NUM	_	_
+6	đồng_[]_lạng	_	Nu	_	PRD	0	ROOT	_	_
+7	.	_	PU	_	_	6	PUNCT	_	_
+
+# ID = 6
+1	Mọi	_	Nw	_	_	2	DET	_	_
+2	người	_	Nn	_	_	4	NSUBJ	_	_
+3	ồn_ào	_	Aa	_	_	4	ACOMP	_	_
+4	đếm	_	Vv	_	_	0	ROOT	_	_
+5	tiền	_	Nn	_	_	4	OBJ	_	_
+6	,	_	PU	_	_	4	PUNCT	_	_
+7	ký	_	Vv	_	_	4	CONJ	_	_
+8	sổ	_	Nn	_	_	7	OBJ	_	_
+9	...	_	PU	_	_	4	PUNCT	_	_
+
+# ID = 7
+1	Khách	_	Nn	_	_	5	NSUBJ	_	_
+2	mua	_	Vv	_	_	1	RCMOD	_	_
+3	cao	_	Nn	_	_	2	OBJ	_	_
+4	thường	_	R	_	_	5	ADJUNCT	_	_
+5	là	_	Vc	_	_	0	ROOT	_	_
+6	chỗ	_	Nn	_	CMP	5	ATTR	_	_
+7	quen_thân	_	Vv	_	_	6	VMOD	_	_
+8	.	_	PU	_	_	5	PUNCT	_	_
+
+# ID = 8
+1	Nhiều	_	Aa	_	_	2	AMOD	_	_
+2	người	_	Nn	_	_	3	NSUBJ	_	_
+3	thuê	_	Vv	_	_	0	ROOT	_	_
+4	giáo_sư	_	Nn	_	_	3	OBJ	_	_
+5	,	_	PU	_	_	4	PUNCT	_	_
+6	bác_sĩ	_	Nn	_	_	4	CONJ	_	_
+7	,	_	PU	_	_	6	PUNCT	_	_
+8	nghệ_nhân	_	Nn	_	_	6	CONJ	_	_
+9	thẩm_định	_	Vv	_	_	3	VMOD	_	_
+10	cao	_	Nn	_	CMP	9	OBJ	_	_
+11	.	_	PU	_	_	3	PUNCT	_	_
+
+# ID = 9
+1	Có	_	Ve	_	_	0	ROOT	_	_
+2	người	_	Nn	_	_	3	NSUBJ	_	_
+3	yêu_cầu	_	Vv	_	CMP	1	CCOMP	_	_
+4	đem	_	Vv	_	CMP	3	VMOD	_	_
+5	cao	_	Nn	_	CMP	4	OBJ	_	_
+6	đến	_	Vv	_	_	4	VMOD	_	_
+7	Viện	_	Nn	_	_	6	OBJ	_	_
+8	Công_nghệ_sinh_học	_	Nn	_	_	7	NN	_	_
+9	trưng_cầu	_	Vv	_	_	6	VMOD	_	_
+10	giám_định	_	Vv	_	_	9	VMOD	_	_
+11	...	_	PU	_	_	1	PUNCT	_	_
+
+# ID = 10
+1	Giá	_	Nn	_	_	9	NSUBJ	_	_
+2	nấu	_	Vv	_	_	1	RCMOD	_	_
+3	thuê	_	Vv	_	_	2	VMOD	_	_
+4	5	_	Num	_	_	8	NUM	_	_
+5	-	_	PU	_	_	4	PUNCT	_	_
+6	10	_	Num	_	_	7	NUMBER	_	_
+7	triệu	_	Nq	_	_	4	CONJ	_	_
+8	đồng_[]_nồi	_	Nu	_	_	1	NN	_	_
+9	tuỳ	_	Vv	_	_	0	ROOT	_	_
+10	ở	_	Cs	_	_	9	PREP	_	_
+11	thân_sơ	_	Aa	_	_	10	PCOMP	_	_
+12	và	_	Cp	_	_	11	CC	_	_
+13	cam_kết	_	Nn	_	_	11	CONJ	_	_
+14	chủ	_	Nn	_	_	13	NN	_	_
+15	thợ	_	Nn	_	_	14	CONJ	_	_
+16	.	_	PU	_	_	9	PUNCT	_	_

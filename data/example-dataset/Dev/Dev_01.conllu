@@ -1,0 +1,199 @@
+# ID = 1
+1	Mùi	_	Nn	_	_	0	ROOT	_	_
+2	hổ	_	Nn	_	_	1	NN	_	_
+3	ở	_	Cs	_	LOC	1	PREP	_	_
+4	thành_phố	_	Nun	_	_	3	POBJ	_	_
+5	.	_	PU	_	_	1	PUNCT	_	_
+
+# ID = 2
+1	Người	_	Nc	_	_	9	NSUBJ	_	_
+2	đàn_ông	_	Nn	_	_	1	CLF	_	_
+3	có	_	Ve	_	_	1	RCMOD	_	_
+4	nửa	_	Nq	_	_	5	DET	_	_
+5	đời	_	Nn	_	_	7	NSUBJ	_	_
+6	người	_	Nn	_	_	5	NN	_	_
+7	là	_	Vc	_	CMP	3	CCOMP	_	_
+8	thợ_săn	_	Nn	_	CMP	7	ATTR	_	_
+9	vờn	_	Vv	_	_	0	ROOT	_	_
+10	đuổi	_	Vv	_	_	9	CONJ	_	_
+11	hổ	_	Vv	_	_	9	OBJ	_	_
+12	dữ	_	Aa	_	_	11	AMOD	_	_
+13	trong	_	Cs	_	LOC	9	PREP	_	_
+14	rừng	_	Nn	_	_	13	POBJ	_	_
+15	rậm	_	Aa	_	_	14	AMOD	_	_
+16	mà	_	Cp	_	_	9	CC	_	_
+17	không	_	R	_	_	18	ADJUNCT	_	_
+18	kinh_sợ	_	Vv	_	_	9	CONJ	_	_
+19	.	_	PU	_	_	9	PUNCT	_	_
+
+# ID = 3
+1	Nay	_	Nt	_	TMP	2	NP_ADVMOD	_	_
+2	làm	_	Vv	_	_	0	ROOT	_	_
+3	nghề	_	Nn	_	CMP	2	OBJ	_	_
+4	buôn_bán	_	Vv	_	_	3	RCMOD	_	_
+5	xương	_	Nn	_	CMP	4	OBJ	_	_
+6	hổ	_	Nn	_	_	5	NN	_	_
+7	và	_	Cp	_	_	4	CC	_	_
+8	nấu	_	Vv	_	_	4	CONJ	_	_
+9	cao	_	Nn	_	CMP	8	OBJ	_	_
+10	thuê	_	Vv	_	_	8	VMOD	_	_
+11	giữa	_	Cs	_	LOC	2	PREP	_	_
+12	thành_phố	_	Nun	_	_	11	POBJ	_	_
+13	chỉ	_	R	_	_	14	ADJUNCT	_	_
+14	có	_	Ve	_	_	12	RCMOD	_	_
+15	con_người	_	Nn	_	_	14	OBJ	_	_
+16	và	_	Cp	_	_	15	CC	_	_
+17	cây_cảnh	_	Nn	_	_	15	CONJ	_	_
+18	,	_	PU	_	_	2	PUNCT	_	_
+19	nhưng	_	Cp	_	_	2	CC	_	_
+20	ông	_	Pp	_	_	22	NSUBJ	2:NSUBJ	_
+21	luôn	_	R	_	_	22	ADJUNCT	_	_
+22	thấy	_	Vv	_	_	2	CONJ	_	_
+23	rùng_mình	_	Vv	_	CMP	22	VMOD	_	_
+24	,	_	PU	_	_	22	PUNCT	_	_
+25	không	_	R	_	_	26	ADJUNCT	_	_
+26	tránh	_	Vv	_	_	22	CONJ	_	_
+27	được	_	R	_	_	26	ADJUNCT	_	_
+28	nỗi	_	Ncs	_	_	26	OBJ	_	_
+29	sợ_hãi	_	Aa	_	_	28	CLF	_	_
+30	...	_	PU	_	_	2	PUNCT	_	_
+
+# ID = 4
+1	Chợ	_	Nn	_	_	0	ROOT	_	_
+2	cao	_	Nn	_	_	1	NN	_	_
+3	.	_	PU	_	_	1	PUNCT	_	_
+
+# ID = 5
+1	Tàn	_	Vv	_	_	16	XCOMP	_	_
+2	rượu	_	Nn	_	_	1	OBJ	_	_
+3	ở	_	Cs	_	LOC	2	PREP	_	_
+4	trang_trại	_	Nn	_	_	3	POBJ	_	_
+5	bác_sĩ	_	Nn	_	_	4	NN	_	_
+6	Dung	_	Nr	_	_	5	NN	_	_
+7	hôm	_	Nt	_	TMP	2	NP_ADVMOD	_	_
+8	đó	_	Pd	_	_	7	DET	_	_
+9	,	_	PU	_	_	16	PUNCT	_	_
+10	đám	_	Nn	_	_	16	NSUBJ	1:NSUBJ	_
+11	"	_	PU	_	_	10	PUNCT	_	_
+12	cổ_đông	_	Nn	_	_	10	NN	_	_
+13	"	_	PU	_	_	10	PUNCT	_	_
+14	bảy	_	Num	_	_	15	NUM	_	_
+15	người	_	Nn	_	_	10	NN	_	_
+16	ngồi	_	Vv	_	_	0	ROOT	_	_
+17	tròn	_	Aa	_	MNR	16	ADJP_ADVMOD	_	_
+18	quanh	_	Cs	_	_	16	PREP	_	_
+19	chiếu	_	Nn	_	_	18	POBJ	_	_
+20	.	_	PU	_	_	16	PUNCT	_	_
+
+# ID = 6
+1	Cả	_	Aa	_	_	2	AMOD	_	_
+2	Tú	_	Nr	_	_	23	NSUBJ	5:NSUBJ	_
+3	LBRK	_	LBRK	_	_	2	PUNCT	_	_
+4	được	_	Vv	_	_	2	PARATAXIS	_	_
+5	mời	_	Vv	_	CMP	4	VMOD	_	_
+6	đến	_	Vv	_	_	5	VMOD	_	_
+7	chia	_	Vv	_	_	6	VMOD	_	_
+8	cao	_	Nn	_	CMP	7	OBJ	_	_
+9	RBRK	_	RBRK	_	_	2	PUNCT	_	_
+10	mồm	_	Nn	_	_	11	NSUBJ	_	_
+11	ngậm	_	Vv	_	_	2	PARATAXIS	_	_
+12	ngang	_	Aa	_	MNR	11	ADJP_ADVMOD	_	_
+13	lưỡi	_	Nn	_	_	11	OBJ	_	_
+14	dao	_	Nn	_	_	13	NN	_	_
+15	nhọn	_	Aa	_	_	13	AMOD	_	_
+16	mỏng_dính	_	Aa	_	_	15	CONJ	_	_
+17	bé	_	Aa	_	_	16	CONJ	_	_
+18	xíu	_	Aa	_	_	17	ADJP_ADVMOD	_	_
+19	như	_	Cs	_	_	17	PREP	15:PREP|16:PREP	_
+20	lá	_	Nn	_	_	19	POBJ	_	_
+21	lúa	_	Nn	_	_	20	NN	_	_
+22	rón_rén	_	R	_	_	23	ADJUNCT	_	_
+23	ướm	_	Vv	_	_	0	ROOT	_	_
+24	cây	_	Nc	_	_	26	NN	_	_
+25	thước	_	Nn	_	_	24	CLF	_	_
+26	gỗ	_	Nn	_	_	23	OBJ	_	_
+27	lên	_	Cs	_	_	23	PREP	_	_
+28	mặt	_	Nn	_	_	27	POBJ	_	_
+29	mâm	_	Nn	_	_	28	NN	_	_
+30	như	_	Cs	_	_	23	PREP	_	_
+31	làm_phép	_	Vv	_	_	30	PCOMP	_	_
+32	.	_	PU	_	_	23	PUNCT	_	_
+
+# ID = 7
+1	Bất_ngờ	_	Aa	_	ADV	7	ADJP_ADVMOD	_	_
+2	con	_	Nc	_	MNR	7	NP_ADVMOD	_	_
+3	mắt	_	Nn	_	_	2	CLF	_	_
+4	rực	_	Aa	_	_	2	AMOD	_	_
+5	lên	_	R	_	_	4	ADJUNCT	_	_
+6	,	_	PU	_	_	7	PUNCT	_	_
+7	giật	_	Vv	_	_	0	ROOT	_	_
+8	lưỡi	_	Nn	_	_	7	OBJ	_	_
+9	dao	_	Nn	_	_	8	NN	_	_
+10	đâm	_	Vv	_	_	7	VMOD	_	_
+11	xuống	_	D	_	_	10	VMOD	_	_
+12	mâm	_	Nn	_	_	11	OBJ	_	_
+13	,	_	PU	_	_	7	PUNCT	_	_
+14	ông	_	Pp	_	_	15	NSUBJ	7:NSUBJ	_
+15	cắt	_	Vv	_	_	7	CONJ	_	_
+16	một	_	Num	_	_	17	NUM	_	_
+17	đường	_	Nn	_	CMP	15	OBJ	_	_
+18	thẳng_băng	_	Aa	_	_	17	AMOD	_	_
+19	theo	_	Vv	_	_	17	RCMOD	_	_
+20	nét	_	Nn	_	CMP	19	OBJ	_	_
+21	thước	_	Nn	_	_	20	NN	_	_
+22	chia	_	Vv	_	_	15	VMOD	_	_
+23	đôi	_	Nq	_	MNR	22	NP_ADVMOD	_	_
+24	khối	_	Nn	_	CMP	22	OBJ	_	_
+25	cao	_	Nn	_	_	24	NN	_	_
+26	.	_	PU	_	_	7	PUNCT	_	_
+
+# ID = 8
+1	Rồi	_	R	_	_	8	ADJUNCT	_	_
+2	như	_	Cs	_	ADV	8	PREP	_	_
+3	lên_đồng	_	Vv	_	_	2	PCOMP	_	_
+4	,	_	PU	_	_	8	PUNCT	_	_
+5	Cả	_	Aa	_	_	6	AMOD	_	_
+6	Tú	_	Nr	_	_	8	NSUBJ	_	_
+7	liên_tục	_	Aa	_	_	8	ACOMP	_	_
+8	cắt	_	Vv	_	_	0	ROOT	_	_
+9	ngang_dọc	_	Nn	_	MNR	8	NP_ADVMOD	_	_
+10	khắp	_	Aa	_	_	8	ACOMP	_	_
+11	mâm	_	Nn	_	_	10	OBJ	_	_
+12	.	_	PU	_	_	8	PUNCT	_	_
+
+# ID = 9
+1	Thật	_	R	_	_	2	ADJUNCT	_	_
+2	kinh_ngạc	_	Vv	_	_	0	ROOT	_	_
+3	,	_	PU	_	_	6	PUNCT	_	_
+4	42	_	Num	_	_	5	NUM	_	_
+5	khối	_	Nu	_	_	6	NSUBJ	_	_
+6	vuông_hình_sắc_cạnh	_	ID	_	_	2	CCOMP	_	_
+7	không	_	R	_	_	8	ADJUNCT	_	_
+8	hơn	_	Aa	_	PRD	6	ADJP_ADVMOD	_	_
+9	kém	_	Aa	_	_	8	CONJ	_	_
+10	nhau	_	Nn	_	_	8	OBJ	_	_
+11	1	_	Num	_	_	12	NUM	_	_
+12	gam	_	Nu	_	_	8	OBJ	_	_
+13	.	_	PU	_	_	2	PUNCT	_	_
+
+# ID = 10
+1	Bác_sĩ	_	Nn	_	_	3	NSUBJ	_	_
+2	Dung	_	Nr	_	_	1	NN	_	_
+3	giở	_	Vv	_	_	0	ROOT	_	_
+4	sổ	_	Nn	_	_	3	OBJ	_	_
+5	đọc	_	Vv	_	_	3	VMOD	_	_
+6	to	_	Aa	_	MNR	5	ADJP_ADVMOD	_	_
+7	:	_	PU	_	_	11	PUNCT	_	_
+8	anh	_	Nn	_	_	11	NSUBJ	_	_
+9	Kiều	_	Nr	_	_	8	NN	_	_
+10	5	_	Num	_	_	11	NUM	_	_
+11	lạng	_	Nu	_	CMP	5	CCOMP	_	_
+12	,	_	PU	_	_	11	PUNCT	_	_
+13	bác	_	Nn	_	_	15	NSUBJ	_	_
+14	Vui	_	Nr	_	_	13	NN	_	_
+15	3	_	Num	_	_	11	CONJ	_	_
+16	,	_	PU	_	_	15	PUNCT	_	_
+17	chị	_	Nn	_	_	19	NSUBJ	_	_
+18	Hoa	_	Nr	_	_	17	NN	_	_
+19	4	_	Num	_	_	15	CONJ	_	_
+20	...	_	PU	_	_	3	PUNCT	_	_
